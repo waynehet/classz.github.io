@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ClassZ Agile</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Want to add some class to your Agile efforts? Wayne can help you with all your Agile needs:
+ - Team Building
+ - Scrum, Kanban, Scaling
+ - Coaching
 </description>
     <link>http://classz.ca/</link>
     <atom:link href="http://classz.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Feb 2018 14:26:06 -0500</pubDate>
-    <lastBuildDate>Sun, 11 Feb 2018 14:26:06 -0500</lastBuildDate>
+    <pubDate>Sun, 11 Feb 2018 15:05:44 -0500</pubDate>
+    <lastBuildDate>Sun, 11 Feb 2018 15:05:44 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
