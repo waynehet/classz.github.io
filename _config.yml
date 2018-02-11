@@ -21,3 +21,5 @@ github_username: waynehet
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
