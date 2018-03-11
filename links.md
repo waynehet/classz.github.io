@@ -8,11 +8,10 @@ This is a list of my favourite links
 
 1. Wayne's stuff
 
-	1.1 Agile<br>
-		1.1.1 Scrum Master [The Scrum Master Checklist](http://scrummasterchecklist.org/)<br>
-		1.1.2 Product Owner<br>
-		1.1.3 User Stories<br>
-		1.1.4 Tools<br>
-	1.2 Other<br>
-	
+..a. Agile
+..I. Scrum Master [The Scrum Master Checklist](http://scrummasterchecklist.org/)<br>
+..II Product Owner<br>
+..III User Stories<br>
+..IV Tools<br>
+..b Other<br>
 2. Lisa's Stuff
