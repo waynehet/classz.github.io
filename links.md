@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-This is a list of my favour links
+This is a list of my favourite links
 
 1. Wayne's stuff
 
