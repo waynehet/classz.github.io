@@ -19,7 +19,7 @@ This is a list of my favorite links
 		<details>
 			<summary> {{item.name}} </summary>
 			<ul>
-			{% include /link_tree.html bookmark_folder = item %}
+				{% include /link_tree.html bookmark_folder = item %}
 			</ul>
 		</details>
 	{% endif %}
