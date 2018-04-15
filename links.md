@@ -6,12 +6,26 @@ permalink: /links/
 
 This is a list of my favour links
 
-1. Wayne's stuff
+{% assign waynes_bookmarks = site.data.Bookmarks.roots.other.children[0] %}
+{{ waynes_bookmarks.id}} - {{ waynes_bookmarks.children | size }}
 
-	1.1 Agile
-		1.1.1 Scrum Master [The Scrum Master Checklist](http://scrummasterchecklist.org/)
-		1.1.2 Product Owner
-		1.1.3 User Stories
-	1.2 Other
-	
-2. Lisa's Stuff
+<ul>
+{% for bookmark in waynes_bookmarks.children %}
+	{% if bookmark.type == "folder" %}
+		<li>
+			Folder: {{ bookmark.name }}
+		</li>	
+	{% endif %}
+{% endfor %}
+</ul>
+
+<ul>
+{% for bookmark in waynes_bookmarks.children[0].children %}
+	{% if bookmark.type == "url" %}
+		<li>
+			<a href="{{ bookmark.url }}" >
+			{{ bookmark.name }} </a>
+		</li>	
+	{% endif %}
+{% endfor %}
+</ul>
