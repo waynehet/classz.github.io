@@ -4,29 +4,24 @@ title: Links
 permalink: /links/
 ---
 
-This is a list of my favour links
+This is a list of my favorite links
 
-{% assign waynes_bookmarks = (site.data.Bookmarks.roots.other.children | where: "name" , "Wayne's Stuff") %}
-{% assign waynes_bookmarks = site.data.Bookmarks.roots.other.children[0] %}
-{{ waynes_bookmarks.id}} - {{ waynes_bookmarks.children | size }}
-
-<ul>
-{% for bookmark in waynes_bookmarks.children %}
-	{% if bookmark.type == "folder" %}
-		<li>
-			Folder: {{ bookmark.name }}
-		</li>	
+<!--- "Find the right folder in the bookmarks file" -->
+{% for item in site.data.Bookmarks.roots.other.children %}
+	{% if item.name == "Wayne's Stuff" %}
+		{% assign waynes_bookmarks = item %}
 	{% endif %}
 {% endfor %}
-</ul>
 
-<ul>
-{% for bookmark in waynes_bookmarks.children[0].children %}
-	{% if bookmark.type == "url" %}
-		<li>
-			<a href="{{ bookmark.url }}" >
-			{{ bookmark.name }} </a>
-		</li>	
+<p>
+{% for item in waynes_bookmarks.children %}
+	{% if item.type == "folder" %}
+		<details>
+			<summary> {{item.name}} </summary>
+			<ul>
+			{% include /link_tree.html bookmark_folder = item %}
+			</ul>
+		</details>
 	{% endif %}
 {% endfor %}
-</ul>
+</p>

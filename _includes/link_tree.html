@@ -1,0 +1,24 @@
+<!-- Iterate all items at root level of the passed-in folder -->
+{% for item in include.bookmark_folder.children %}
+
+  {% if item.type == "folder" %}
+    <!-- Add its name to the list of folders -->
+    <details>
+      <summary> {{item.name}}  </summary> <!-- user folder icon -->
+
+      <!-- Call function again with folder content -->
+      {% if item.size > 0 %}
+        <ul>
+          {% include /link_tree.html bookmark_folder = item %}
+        </ul>
+      {% endif %}
+    </details>
+
+  <!-- If the item is an URL matching the current page, output the list of folders above it (passed in as include.folders) -->
+  {% elsif item.type == "url" %}
+    <li>
+      <a href="{{ item.url }}" > {{ item.name }} </a>
+    </li>
+  {% endif %}
+
+{% endfor %}
