@@ -6,6 +6,7 @@ permalink: /links/
 
 This is a list of my favour links
 
+{% assign waynes_bookmarks = (site.data.Bookmarks.roots.other.children | where: "name" , "Wayne's Stuff") %}
 {% assign waynes_bookmarks = site.data.Bookmarks.roots.other.children[0] %}
 {{ waynes_bookmarks.id}} - {{ waynes_bookmarks.children | size }}
 
