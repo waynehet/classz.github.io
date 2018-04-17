@@ -1,15 +1,15 @@
 {
-   "checksum": "e50c19943ef1d2faf1a5b46834bde6a9",
+   "checksum": "b2fbcdbe206cc8d20d5955bca59a13a1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13167444722015726"
+               "last_visited_desktop": "13168303582578935"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "729",
+            "sync_transaction_version": "919",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -67,11 +67,11 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13168224023013751",
-               "last_visited_desktop": "13168098470648358"
+               "last_visited": "13168308215947175",
+               "last_visited_desktop": "13168369800361035"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "808",
+            "sync_transaction_version": "920",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
@@ -132,17 +132,10 @@
                         "date_added": "13168296008288329",
                         "id": "11913",
                         "meta_info": {
-                           "last_visited_desktop": "13168296008289133",
-                           "stars.flags": "0",
-                           "stars.id": "c_hcjijg18in9e",
-                           "stars.imageData": "EnYKbmh0dHBzOi8vd2FjLWNkbi5hdGxhc3NpYW4uY29tL2RhbS9qY3I6ZDg4YzdiYTctNzkzYS00MmU5LTlmZTctMWI5NmRiZTlhY2I4L1RlYW0tUGxheWJvb2stRmFjZWJvb2stMTIwMHg2MzAucG5nELAJGPYEGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "EoYBRm9yZ2V0IHRydXN0IGZhbGxzIGFuZCByb3BlcyBjb3Vyc2VzLiBUaGVzZSBhcmUgYWN0aXZpdGllcyBmb3IgYnVpbGRpbmcgeW91ciB0ZWFtJ3MgR2V0ICQjIc+EIERvbmUgbXVzY2xlIGFuZCB3b3JraW5nIGJldHRlciB0b2dldGhlci4=",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13168296008289133"
                         },
                         "name": "\"Team building\" activities that work | Atlassian Team Playbook",
-                        "sync_transaction_version": "895",
+                        "sync_transaction_version": "948",
                         "type": "url",
                         "url": "https://www.atlassian.com/team-playbook"
                      } ],
@@ -260,7 +253,7 @@
                            "last_visited_desktop": "13168273215579141"
                         },
                         "name": "My Coaching Toolkit – 100+ Exercises, Assessments and Resources – Toby Sinclair",
-                        "sync_transaction_version": "868",
+                        "sync_transaction_version": "928",
                         "type": "url",
                         "url": "https://tobysinclairblog.wordpress.com/coaching-toolkit-100-techniques-approaches-and-materials/"
                      } ],
@@ -309,12 +302,36 @@
                         "sync_transaction_version": "3",
                         "type": "url",
                         "url": "http://www.jeremyjarrell.com/the-daily-scrum-is-a-planning-meeting-not-a-status-meeting/"
+                     }, {
+                        "date_added": "13168398461067412",
+                        "id": "11915",
+                        "meta_info": {
+                           "last_visited_desktop": "13168398461067716",
+                           "stars.flags": "0",
+                           "stars.id": "c_g98wjg2xikc2",
+                           "stars.imageData": "EqgBCp8BaHR0cHM6Ly9tZWRpYS5saWNkbi5jb20vZG1zL2ltYWdlL0M1NjEyQVFINUtlTGNENXV5d2cvYXJ0aWNsZS1pbmxpbmVfaW1hZ2Utc2hyaW5rXzE1MDBfMjIzMi8wP2U9MjEyMzEyNTIwMCZ2PWJldGEmdD1DQ2I4MWs1SU4tOUtuRU9lc09MdjJMcXc4YjRSMHcwdHA5azFKbWo5VXFBELgRGNALGgA=",
+                           "stars.note": "",
+                           "stars.pageData": "El1Ta2lwIHRvIG1haW4gY29udGVudEp1bXAgdG86U2VsZWN0IG9wdGlvbiBTa2lwIHRvIFNlYXJjaEFjY2Vzc2liaWxpdHkgZmVlZGJhY2tDbG9zZSBqdW1wIG1lbnU=",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "Missing the point: 3 features of the unproductive Daily Meetings",
+                        "sync_transaction_version": "930",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/missing-point-daily-meeting-c%C3%A9sar-bruschi/"
+                     }, {
+                        "date_added": "13143319319903781",
+                        "id": "10812",
+                        "name": "Improv brings improvements to agile team standup meetings - SD Times",
+                        "sync_transaction_version": "933",
+                        "type": "url",
+                        "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13163364262836144",
+                     "date_modified": "13168398619664335",
                      "id": "11768",
-                     "name": "Daily Standup",
-                     "sync_transaction_version": "3",
+                     "name": "Daily Scrum",
+                     "sync_transaction_version": "929",
                      "type": "folder"
                   }, {
                      "children": [ {
@@ -404,20 +421,6 @@
                         "sync_transaction_version": "3",
                         "type": "url",
                         "url": "http://agile.dzone.com/articles/sprint-reviews-practice"
-                     }, {
-                        "date_added": "13120327257253984",
-                        "id": "11855",
-                        "name": "Blog&#58; It’s a Sprint Review Not a Sprint Demo! - Innolution",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://www.innolution.com/blog/its-a-sprint-review-not-a-sprint-demo"
-                     }, {
-                        "date_added": "13120327257255476",
-                        "id": "11856",
-                        "name": "The Sprint Review&#58; Mastering the Art of Feedback - Scrum Alliance",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://www.scrumalliance.org/community/articles/2009/april/the-sprint-review-mastering-the-art-of-feedback"
                      } ],
                      "date_added": "13163364262836154",
                      "date_modified": "13163364262836154",
@@ -527,13 +530,6 @@
                         "sync_transaction_version": "819",
                         "type": "url",
                         "url": "https://www.benlinders.com/2018/retrospective-smell-passiveness/"
-                     }, {
-                        "date_added": "13143319319903781",
-                        "id": "10812",
-                        "name": "Improv brings improvements to agile team standup meetings - SD Times",
-                        "sync_transaction_version": "820",
-                        "type": "url",
-                        "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      } ],
                      "date_added": "13163364262836211",
                      "date_modified": "13168272181608277",
@@ -646,6 +642,13 @@
                         "type": "url",
                         "url": "http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html"
                      }, {
+                        "date_added": "13144354610364217",
+                        "id": "11820",
+                        "name": "Chartering, Lift-off, Setting the Stage, From the Beginning… — RGalen Consulting",
+                        "sync_transaction_version": "947",
+                        "type": "url",
+                        "url": "http://rgalen.com/agile-training-news/2016/11/9/chartering-lift-off-setting-the-stage-from-the-beginning?utm_content=buffer5a0aa&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer"
+                     }, {
                         "date_added": "13120327257306799",
                         "id": "11793",
                         "name": "Top 10 reasons why Darth Vader was an amazing project manager - GeekWire",
@@ -677,7 +680,7 @@
                         "date_added": "13125765675551904",
                         "id": "11797",
                         "name": "Agile Self-assessments - Ben Linders",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "934",
                         "type": "url",
                         "url": "https://www.benlinders.com/tools/agile-self-assessments/"
                      }, {
@@ -733,70 +736,70 @@
                         "date_added": "13122065121487386",
                         "id": "11805",
                         "name": "3 Metrics for Reporting an Agile Pilot to Top Management » Agile Trail",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "935",
                         "type": "url",
                         "url": "http://agiletrail.com/2011/09/19/3-metrics-for-reporting-an-agile-pilot-to-top-management/"
                      }, {
                         "date_added": "13122156536722751",
                         "id": "11806",
                         "name": "Agile Metrics – Velocity is not the Goal | Nicholas Muldoon",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "936",
                         "type": "url",
                         "url": "http://www.nicholasmuldoon.com/2013/08/agile-metrics-velocity-is-not-the-goal/"
                      }, {
                         "date_added": "13122156617724967",
                         "id": "11807",
                         "name": "INCURABLE DATA GEEK • How we put a number on employee happiness and did...",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "937",
                         "type": "url",
                         "url": "http://www.samiinkinen.com/post/8849816634/employee-happiness"
                      }, {
                         "date_added": "13122156570013695",
                         "id": "11808",
                         "name": "http://teammetrics.apphb.com/",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "938",
                         "type": "url",
                         "url": "http://teammetrics.apphb.com/"
                      }, {
                         "date_added": "13122156649779868",
                         "id": "11809",
                         "name": "How companies measure happiness in a creative way | Hppy",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "939",
                         "type": "url",
                         "url": "http://www.gethppy.com/employee-engagement/how-companies-measure-happiness-in-a-creative-way"
                      }, {
                         "date_added": "13122156659500758",
                         "id": "11810",
                         "name": "A Better Way To Measure Employee Happiness | Neale Lewis | Pulse | LinkedIn",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "940",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20141018181701-13167405-a-better-way-to-measure-employee-happines"
                      }, {
                         "date_added": "13120327257322819",
                         "id": "11811",
                         "name": "Squad Health Check model – visualizing what to improve | Spotify Labs",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "941",
                         "type": "url",
                         "url": "https://labs.spotify.com/2014/09/16/squad-health-check-model/"
                      }, {
                         "date_added": "13122156683155431",
                         "id": "11812",
                         "name": "Employee engagement - Bain & Company: Net Promoter System",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "942",
                         "type": "url",
                         "url": "http://www.netpromotersystem.com/about/employee-engagement.aspx"
                      }, {
                         "date_added": "13120327255298754",
                         "id": "11813",
                         "name": "Online « The McCarthy Show",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "943",
                         "type": "url",
                         "url": "http://www.mccarthyshow.com/online/"
                      }, {
                         "date_added": "13120327257324873",
                         "id": "11814",
                         "name": "How to Track the Team’s Mood with a Niko-niko Calendar » Agile Trail",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "944",
                         "type": "url",
                         "url": "http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar/"
                      }, {
@@ -835,35 +838,18 @@
                         "type": "url",
                         "url": "https://medium.com/agility-scales/how-do-i-convince-my-boss-to-do-anything-i-want-1422f7f79f6d"
                      }, {
-                        "date_added": "13144354610364217",
-                        "id": "11820",
-                        "name": "Chartering, Lift-off, Setting the Stage, From the Beginning… — RGalen Consulting",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://rgalen.com/agile-training-news/2016/11/9/chartering-lift-off-setting-the-stage-from-the-beginning?utm_content=buffer5a0aa&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer"
-                     }, {
                         "date_added": "13167585205568559",
                         "id": "11896",
                         "meta_info": {
                            "last_visited_desktop": "13167585205569313"
                         },
                         "name": "Building Alignment: Team working agreements | Mastering the Obvious",
-                        "sync_transaction_version": "758",
-                        "type": "url",
-                        "url": "https://masteringtheobvious.wordpress.com/2018/04/04/building-alignment-team-working-agreements/"
-                     }, {
-                        "date_added": "13167585205568559",
-                        "id": "11903",
-                        "meta_info": {
-                           "last_visited_desktop": "13167585205569313"
-                        },
-                        "name": "Building Alignment: Team working agreements | Mastering the Obvious",
-                        "sync_transaction_version": "781",
+                        "sync_transaction_version": "945",
                         "type": "url",
                         "url": "https://masteringtheobvious.wordpress.com/2018/04/04/building-alignment-team-working-agreements/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13167585225681040",
+                     "date_modified": "13168398660890314",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -994,9 +980,26 @@
                      "sync_transaction_version": "812",
                      "type": "url",
                      "url": "https://agilepartnership.com/en/resources/checklist/"
+                  }, {
+                     "date_added": "13168398729829351",
+                     "id": "11916",
+                     "meta_info": {
+                        "last_visited_desktop": "13168398729830067",
+                        "stars.flags": "0",
+                        "stars.id": "c_ce02jg2xobpi",
+                        "stars.imageData": "EpEBCogBaHR0cHM6Ly9jZG4uYnVzaW5lc3MyY29tbXVuaXR5LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wOC9BQUVBQVFBQUFBQUFBQXNzQUFBQUpEWXpOVEkwWldNeUxXRTJZbVl0TkRVME9TMDVaRFF5TFRZd05qY3hNbUl6TWpBd09BLnBuZxCIBBiIBBoA",
+                        "stars.note": "",
+                        "stars.pageData": "EsoBSSBoYXZlIHJlYWQgaW4gc2V2ZXJhbCBMZWFuIGFuZCBEZXZPcHMgc291cmNlcyB0aGF0IHRoZSBTcHJpbnQgZXZlbnRzIGltcGx5IGEga2luZCBvZiB3YXN0ZSwgc28gdGVhbXMgYXJlIHN1cHBvc2VkIHRvIG1vdmUgdG8gYSBDb250aW51b3VzIERlbGl2ZXJ5IG9yIEthbmJhbiBsaWZlY3ljbGUgYXMgdGhleSBiZWNvbWUgbWF0dXJlLiBUaGlzIHBvc+KApg==",
+                        "stars.type": "2",
+                        "stars.version": "crx.2.2016.128.11729"
+                     },
+                     "name": "Sprint Events Are Not a Waste (Unless Done Wrong!)",
+                     "sync_transaction_version": "956",
+                     "type": "url",
+                     "url": "https://www.business2community.com/marketing/sprint-events-not-waste-unless-done-wrong-01892940#4IAZ0MSiaVF0xPwI.97"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13168272385282695",
+                  "date_modified": "13168398754009550",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -2312,7 +2315,7 @@
                         "last_visited_desktop": "13168272615136451"
                      },
                      "name": "scrumblr",
-                     "sync_transaction_version": "848",
+                     "sync_transaction_version": "949",
                      "type": "url",
                      "url": "http://scrumblr.ca/"
                   } ],
@@ -4428,13 +4431,7 @@
                   "date_added": "13168294988116017",
                   "id": "11912",
                   "meta_info": {
-                     "last_visited_desktop": "13168294988117839",
-                     "stars.flags": "0",
-                     "stars.id": "c_6wd7jg17ws3f",
-                     "stars.note": "",
-                     "stars.pageData": "EnFUaGlzIHBvc3Qgc2hvd3MgaG93IHlvdSBjYW4gdXNlIGZpbGVzIGluIHRoZSBKZWt5bGwgKipfaW5jbHVkZXMqKiBkaXJlY3RvcnkgdG8gaW1wbGVtZW50IGZ1bmN0aW9uLWxpa2UgYmVoYXZpb3VyLg==",
-                     "stars.type": "2",
-                     "stars.version": "crx.2.2016.128.11729"
+                     "last_visited_desktop": "13168294988117839"
                   },
                   "name": "Using Jekyll _includes as custom liquid functions",
                   "sync_transaction_version": "875",
@@ -6183,10 +6180,10 @@
                "id": "10824",
                "meta_info": {
                   "last_visited": "13166199954045796",
-                  "last_visited_desktop": "13168214646852090"
+                  "last_visited_desktop": "13168381320424109"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "800",
+               "sync_transaction_version": "921",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7666,13 +7663,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13168296554758996",
+         "date_modified": "13168398729829351",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "917",
+      "sync_transaction_version": "956",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
