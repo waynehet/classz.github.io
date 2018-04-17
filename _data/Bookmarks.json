@@ -1,5 +1,5 @@
 {
-   "checksum": "d73880e830cb6284f765cdac5a943690",
+   "checksum": "b2fbcdbe206cc8d20d5955bca59a13a1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2586,17 +2586,10 @@
                   "name": "Change",
                   "sync_transaction_version": "3",
                   "type": "folder"
-               }, {
-                  "date_added": "13168402721911248",
-                  "id": "11918",
-                  "meta_info": {
-                     "last_visited_desktop": "13168405704071512",
                      "stars.version": "crx.2.2016.128.11729"
                   },
                   "name": "Links",
                   "sync_transaction_version": "972",
-                  "type": "url",
-                  "url": "http://classz.ca/links/"
                }, {
                   "date_added": "13120327255246958",
                   "id": "11547",
@@ -7666,7 +7659,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "972",
+      "sync_transaction_version": "979",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
