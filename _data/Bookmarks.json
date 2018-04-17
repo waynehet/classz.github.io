@@ -1,5 +1,5 @@
 {
-   "checksum": "8b067d3b219b605412a7bb82eb986b99",
+   "checksum": "d73880e830cb6284f765cdac5a943690",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2587,6 +2587,17 @@
                   "sync_transaction_version": "3",
                   "type": "folder"
                }, {
+                  "date_added": "13168402721911248",
+                  "id": "11918",
+                  "meta_info": {
+                     "last_visited_desktop": "13168405704071512",
+                     "stars.version": "crx.2.2016.128.11729"
+                  },
+                  "name": "Links",
+                  "sync_transaction_version": "972",
+                  "type": "url",
+                  "url": "http://classz.ca/links/"
+               }, {
                   "date_added": "13120327255246958",
                   "id": "11547",
                   "meta_info": {
@@ -2668,7 +2679,7 @@
                   "url": "http://www.lego.com/en-us/seriousplay/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13168272969514543",
+               "date_modified": "13168405739476837",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -6037,22 +6048,6 @@
                "sync_transaction_version": "3",
                "type": "url",
                "url": "https://www.allrocketengines.ca/Bulk/B6-4?cPath=17_10&"
-            }, {
-               "date_added": "13168402721911248",
-               "id": "11918",
-               "meta_info": {
-                  "last_visited_desktop": "13168403372664246",
-                  "stars.flags": "0",
-                  "stars.id": "c_cx7ojg301w0p",
-                  "stars.note": "",
-                  "stars.pageData": "EpIBV2FudCB0byBhZGQgc29tZSBjbGFzcyB0byB5b3VyIEFnaWxlIGVmZm9ydHM/IFdheW5lIGNhbiBoZWxwIHlvdSB3aXRoIGFsbCB5b3VyIEFnaWxlIG5lZWRzOgogLSBUZWFtIEJ1aWxkaW5nCiAtIFNjcnVtLCBLYW5iYW4sIFNjYWxpbmcKIC0gQ29hY2hpbmc=",
-                  "stars.type": "2",
-                  "stars.version": "crx.2.2016.128.11729"
-               },
-               "name": "Links",
-               "sync_transaction_version": "966",
-               "type": "url",
-               "url": "http://classz.ca/links/"
             } ],
             "date_added": "13163364262662530",
             "date_modified": "13168402726725934",
@@ -7665,13 +7660,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13168402721911248",
+         "date_modified": "13168405727699116",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "966",
+      "sync_transaction_version": "972",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
