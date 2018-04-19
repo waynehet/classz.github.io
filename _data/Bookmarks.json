@@ -67,11 +67,11 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13168308215947175",
-               "last_visited_desktop": "13168369800361035"
+               "last_visited": "13168574991664212",
+               "last_visited_desktop": "13168098470648358"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "920",
+            "sync_transaction_version": "984",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
@@ -178,8 +178,11 @@
                   }, {
                      "date_added": "13120327255286560",
                      "id": "11865",
+                     "meta_info": {
+                        "last_visited": "13168469519312435"
+                     },
                      "name": "Communication Coaching & Training that Promotes Shared Understanding",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "980",
                      "type": "url",
                      "url": "http://itsunderstood.com/"
                   }, {
@@ -213,13 +216,16 @@
                   }, {
                      "date_added": "13120327255308548",
                      "id": "11870",
+                     "meta_info": {
+                        "last_visited": "13168457906538162"
+                     },
                      "name": "Play4Agile North America | #Play4Agile is a community unconference focused on helping people, teams & organisations to transform through games and playful approaches. The next North American event will be the weekend of Sept 11-13/2015, just outside Toron",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "981",
                      "type": "url",
                      "url": "https://play4agilenorthamerica.wordpress.com/"
                   } ],
                   "date_added": "13163364262792440",
-                  "date_modified": "13168295059969021",
+                  "date_modified": "13168470144574177",
                   "id": "11538",
                   "name": "Blogs and Sites",
                   "sync_transaction_version": "3",
@@ -2298,10 +2304,11 @@
                      "date_added": "13168272615136266",
                      "id": "11909",
                      "meta_info": {
+                        "last_visited": "13168474861703205",
                         "last_visited_desktop": "13168272615136451"
                      },
                      "name": "scrumblr",
-                     "sync_transaction_version": "949",
+                     "sync_transaction_version": "981",
                      "type": "url",
                      "url": "http://scrumblr.ca/"
                   } ],
@@ -7513,10 +7520,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13168194958225480"
+               "last_visited_desktop": "13168571839430384"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "797",
+            "sync_transaction_version": "983",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7655,7 +7662,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "979",
+      "sync_transaction_version": "984",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
