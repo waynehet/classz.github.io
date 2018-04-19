@@ -1,5 +1,5 @@
 {
-   "checksum": "b2fbcdbe206cc8d20d5955bca59a13a1",
+   "checksum": "e65b92bb2b76554d41b18bfb2c20315b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -846,9 +846,26 @@
                         "sync_transaction_version": "945",
                         "type": "url",
                         "url": "https://masteringtheobvious.wordpress.com/2018/04/04/building-alignment-team-working-agreements/"
+                     }, {
+                        "date_added": "13168655289331557",
+                        "id": "11918",
+                        "meta_info": {
+                           "last_visited_desktop": "13168655289332313",
+                           "stars.flags": "0",
+                           "stars.id": "c_5npzjg76faal",
+                           "stars.imageData": "ElcKT2h0dHBzOi8vd3d3LmxlYWRpbmdhZ2lsZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDIvQXBwbHlpbmctQnJvb2tzLUxhdy5qcGcQhRoY0A0aAA==",
+                           "stars.note": "",
+                           "stars.pageData": "Eo8BTWFrZSB5b3VyIHRlYW1zIG1vcmUgQWdpbGUgYnkgYXBwbHlpbmcgQnJvb2tzJyBMYXcgdG8geW91ciB0ZWFtIHNpemUgYW5kIGxpbmVzIG9mIGNvbW11bmljYXRpb24uIEVmZmVjdGl2ZSBjb21tdW5pY2F0aW9uIGlzIGtleSB0byBhbnkgcHJvamVjdC4=",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
+                        "sync_transaction_version": "991",
+                        "type": "url",
+                        "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13168398660890314",
+                     "date_modified": "13168655304249185",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -986,7 +1003,7 @@
                         "last_visited_desktop": "13168398729830067"
                      },
                      "name": "Sprint Events Are Not a Waste (Unless Done Wrong!)",
-                     "sync_transaction_version": "956",
+                     "sync_transaction_version": "992",
                      "type": "url",
                      "url": "https://www.business2community.com/marketing/sprint-events-not-waste-unless-done-wrong-01892940#4IAZ0MSiaVF0xPwI.97"
                   } ],
@@ -7656,13 +7673,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13168405727699116",
+         "date_modified": "13168655289331557",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "984",
+      "sync_transaction_version": "992",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
