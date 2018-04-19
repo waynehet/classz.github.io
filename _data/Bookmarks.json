@@ -2586,10 +2586,6 @@
                   "name": "Change",
                   "sync_transaction_version": "3",
                   "type": "folder"
-                     "stars.version": "crx.2.2016.128.11729"
-                  },
-                  "name": "Links",
-                  "sync_transaction_version": "972",
                }, {
                   "date_added": "13120327255246958",
                   "id": "11547",
