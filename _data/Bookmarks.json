@@ -1,5 +1,5 @@
 {
-   "checksum": "b594bcb34ebcc3965d36549fefc9b7ec",
+   "checksum": "45417d6e09cc3d2b888f85ff253cdaff",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2406,22 +2406,6 @@
                      "sync_transaction_version": "433",
                      "type": "url",
                      "url": "http://www.gargoylesoftware.com/ex"
-                  }, {
-                     "date_added": "13168660086988324",
-                     "id": "11919",
-                     "meta_info": {
-                        "last_visited_desktop": "13168660144102039",
-                        "stars.flags": "0",
-                        "stars.id": "c_3y6jg79a470",
-                        "stars.note": "",
-                        "stars.pageData": "EpIBV2FudCB0byBhZGQgc29tZSBjbGFzcyB0byB5b3VyIEFnaWxlIGVmZm9ydHM/IFdheW5lIGNhbiBoZWxwIHlvdSB3aXRoIGFsbCB5b3VyIEFnaWxlIG5lZWRzOgogLSBUZWFtIEJ1aWxkaW5nCiAtIFNjcnVtLCBLYW5iYW4sIFNjYWxpbmcKIC0gQ29hY2hpbmc=",
-                        "stars.type": "2",
-                        "stars.version": "crx.2.2016.128.11729"
-                     },
-                     "name": "Links",
-                     "sync_transaction_version": "1017",
-                     "type": "url",
-                     "url": "http://classz.ca/links/"
                   } ],
                   "date_added": "13163364262792593",
                   "date_modified": "13168660101815418",
@@ -7696,7 +7680,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1017",
+      "sync_transaction_version": "1018",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
