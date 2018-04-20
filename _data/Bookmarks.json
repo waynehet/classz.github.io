@@ -1,5 +1,5 @@
 {
-   "checksum": "bdaf050a32337b21ff42f53ea002d360",
+   "checksum": "45417d6e09cc3d2b888f85ff253cdaff",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4167,8 +4167,11 @@
                   "children": [ {
                      "date_added": "13120327256748008",
                      "id": "11271",
+                     "meta_info": {
+                        "last_visited_desktop": "13168658524097486"
+                     },
                      "name": "VirtualBox",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1008",
                      "type": "url",
                      "url": "http://www.virtualbox.org/"
                   }, {
@@ -4349,15 +4352,21 @@
                }, {
                   "date_added": "13120327255498709",
                   "id": "11258",
+                  "meta_info": {
+                     "last_visited_desktop": "13168658465568988"
+                  },
                   "name": "David Chappell &#58;&#58; White Papers",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1003",
                   "type": "url",
                   "url": "http://www.davidchappell.com/writing/white_papers.php"
                }, {
                   "date_added": "13120327256429374",
                   "id": "11259",
+                  "meta_info": {
+                     "last_visited_desktop": "13168658477238956"
+                  },
                   "name": "Generate a Random Name - Fake Name Generator",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1004",
                   "type": "url",
                   "url": "http://www.fakenamegenerator.com/"
                }, {
@@ -4370,8 +4379,11 @@
                }, {
                   "date_added": "13120327255538081",
                   "id": "11261",
+                  "meta_info": {
+                     "last_visited_desktop": "13168658489174512"
+                  },
                   "name": "httpwww.iana.orgassignmentsport-numbers",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1006",
                   "type": "url",
                   "url": "http://www.iana.org/assignments/port-numbers"
                }, {
@@ -5799,8 +5811,11 @@
                }, {
                   "date_added": "13120327255858332",
                   "id": "11041",
+                  "meta_info": {
+                     "last_visited_desktop": "13168658431230519"
+                  },
                   "name": "5 underrated tools to improve your web design | Creative Bloq",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "998",
                   "type": "url",
                   "url": "http://www.creativebloq.com/web-design-tips/5-underrated-web-design-tools-i-cant-work-without-1232782"
                }, {
@@ -5813,17 +5828,13 @@
                }, {
                   "date_added": "13120327255862602",
                   "id": "11043",
+                  "meta_info": {
+                     "last_visited_desktop": "13168658456099855"
+                  },
                   "name": "Cross Browser Testing Tool - BrowserStack",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1000",
                   "type": "url",
                   "url": "http://www.browserstack.com/"
-               }, {
-                  "date_added": "13120327255864694",
-                  "id": "11044",
-                  "name": "Google Analytics Glossary of Terms – E-Power Marketing® - Oshkosh, Wisconsin",
-                  "sync_transaction_version": "3",
-                  "type": "url",
-                  "url": "http://www.epower.com/google-analytics-glossary.php"
                }, {
                   "date_added": "13120327255866802",
                   "id": "11045",
@@ -7669,7 +7680,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "996",
+      "sync_transaction_version": "1011",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
