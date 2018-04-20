@@ -1,5 +1,5 @@
 {
-   "checksum": "e65b92bb2b76554d41b18bfb2c20315b",
+   "checksum": "bdaf050a32337b21ff42f53ea002d360",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -850,7 +850,7 @@
                         "date_added": "13168655289331557",
                         "id": "11918",
                         "meta_info": {
-                           "last_visited_desktop": "13168655289332313",
+                           "last_visited_desktop": "13168655401384531",
                            "stars.flags": "0",
                            "stars.id": "c_5npzjg76faal",
                            "stars.imageData": "ElcKT2h0dHBzOi8vd3d3LmxlYWRpbmdhZ2lsZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDIvQXBwbHlpbmctQnJvb2tzLUxhdy5qcGcQhRoY0A0aAA==",
@@ -860,7 +860,7 @@
                            "stars.version": "crx.2.2016.128.11729"
                         },
                         "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
-                        "sync_transaction_version": "991",
+                        "sync_transaction_version": "993",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
                      } ],
@@ -5797,16 +5797,6 @@
                   "sync_transaction_version": "3",
                   "type": "folder"
                }, {
-                  "date_added": "13120327255856709",
-                  "id": "11040",
-                  "meta_info": {
-                     "last_visited_desktop": "13165782596546737"
-                  },
-                  "name": "4GuysFromRolla.com",
-                  "sync_transaction_version": "617",
-                  "type": "url",
-                  "url": "http://www.4guysfromrolla.com/"
-               }, {
                   "date_added": "13120327255858332",
                   "id": "11041",
                   "name": "5 underrated tools to improve your web design | Creative Bloq",
@@ -7679,7 +7669,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "992",
+      "sync_transaction_version": "996",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
