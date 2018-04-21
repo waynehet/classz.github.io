@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13168303582578935"
+               "last_visited_desktop": "13168747512720510"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "919",
+            "sync_transaction_version": "1039",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -68,10 +68,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13168574991664212",
-               "last_visited_desktop": "13168098470648358"
+               "last_visited_desktop": "13168712646241524"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "984",
+            "sync_transaction_version": "1037",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
@@ -6177,10 +6177,10 @@
                "id": "10824",
                "meta_info": {
                   "last_visited": "13166199954045796",
-                  "last_visited_desktop": "13168381320424109"
+                  "last_visited_desktop": "13168699166838529"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "921",
+               "sync_transaction_version": "1036",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7669,7 +7669,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1034",
+      "sync_transaction_version": "1039",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
