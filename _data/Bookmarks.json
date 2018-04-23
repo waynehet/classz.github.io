@@ -195,8 +195,11 @@
                   }, {
                      "date_added": "13120327255261128",
                      "id": "11867",
+                     "meta_info": {
+                        "last_visited": "13168867703630839"
+                     },
                      "name": "Ken Schwaber's Blog: Telling It Like It Is",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1040",
                      "type": "url",
                      "url": "http://kenschwaber.wordpress.com/"
                   }, {
@@ -225,7 +228,7 @@
                      "url": "https://play4agilenorthamerica.wordpress.com/"
                   } ],
                   "date_added": "13163364262792440",
-                  "date_modified": "13168470144574177",
+                  "date_modified": "13168868477664974",
                   "id": "11538",
                   "name": "Blogs and Sites",
                   "sync_transaction_version": "3",
@@ -7669,7 +7672,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1039",
+      "sync_transaction_version": "1040",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
