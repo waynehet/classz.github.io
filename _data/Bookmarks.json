@@ -101,10 +101,11 @@
                         "date_added": "13165782641220632",
                         "id": "11880",
                         "meta_info": {
+                           "last_visited": "13169006898375646",
                            "last_visited_desktop": "13165782641221219"
                         },
                         "name": "Get Certified | Atlassian",
-                        "sync_transaction_version": "877",
+                        "sync_transaction_version": "1041",
                         "type": "url",
                         "url": "https://www.atlassian.com/university/certification"
                      }, {
@@ -140,7 +141,7 @@
                         "url": "https://www.atlassian.com/team-playbook"
                      } ],
                      "date_added": "13165782523183989",
-                     "date_modified": "13168296578596541",
+                     "date_modified": "13169006903894335",
                      "id": "11879",
                      "name": "Atlassian",
                      "sync_transaction_version": "879",
@@ -7672,7 +7673,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1040",
+      "sync_transaction_version": "1041",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
