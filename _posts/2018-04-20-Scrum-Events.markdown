@@ -21,7 +21,7 @@ Sample Sprint Schedule
 	
 ---
 
-![brain]({{site.baseurl}}/assets/brain.png)
+![brain](/assets/brain.png)
 
 List of Sprint Events
 ---------------------
