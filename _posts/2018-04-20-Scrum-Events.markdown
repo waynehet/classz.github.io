@@ -13,15 +13,13 @@ Sample Sprint Schedule
 ----------------------
 
 |M|T|W|T|F|M|T|W|T|F|
-|:-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |Sprint Planning|Daily Scrum|Daily Scrum|Daily Scrum|Daily Scrum|Daily Scrum|Daily Scrum|Daily Scrum|Daily Scrum|Daily Scrum|
 | | | | | | | | | |
 | | | | | | |Backlog Refinement| | |Sprint Review|
 | | | | | | | | | |Retrospective|
 	
 ---
-
-![brain](/assets/brain.png)
 
 List of Sprint Events
 ---------------------
