@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
+  color: #a0a0a0;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -71,7 +71,7 @@ a {
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: #111;
+    color: #a0a0a0;
     text-decoration: underline; }
 
 /**
@@ -149,6 +149,7 @@ pre {
  */
 .site-header {
   background-color: #e8e8e8;
+  background: url("/neuron_pattern.png");
   border-top: 5px solid #424242;
   border-bottom: 1px solid #424242;
   min-height: 56px;
@@ -170,7 +171,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #a0a0a0;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }

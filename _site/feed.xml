@@ -9,9 +9,197 @@
 </description>
     <link>http://classz.ca/</link>
     <atom:link href="http://classz.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Apr 2018 22:49:56 -0400</pubDate>
-    <lastBuildDate>Sat, 21 Apr 2018 22:49:56 -0400</lastBuildDate>
+    <pubDate>Mon, 23 Apr 2018 21:14:45 -0400</pubDate>
+    <lastBuildDate>Mon, 23 Apr 2018 21:14:45 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Summary of Scrum Events</title>
+        <description>&lt;p&gt;If you find these useful, please feel free to pattern your Sprint Events after them, or customize for your own use.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;sample-sprint-schedule&quot;&gt;Sample Sprint Schedule&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;M&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;T&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;W&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;T&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;F&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;M&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;T&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;W&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;T&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;F&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sprint Planning&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Daily Scrum&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Backlog Refinement&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sprint Review&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Retrospective&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/brain.png&quot; alt=&quot;brain&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-sprint-events&quot;&gt;List of Sprint Events&lt;/h2&gt;
+
+&lt;p&gt;Here is a list of the sprint events with time, purpose, agenda, and outputs - suitable for using as meeting invites:
+with details as noted in the &lt;a href=&quot;http://scrumguides.org/scrum-guide.html&quot;&gt;Scrum Guide&lt;/a&gt; and based on a typical 2 week sprint.&lt;/p&gt;
+
+&lt;h1 id=&quot;name-of-team-sprint-planning-meeting&quot;&gt;&lt;em&gt;name of team&lt;/em&gt; Sprint Planning Meeting&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date/Time: the start of your sprint&lt;/li&gt;
+  &lt;li&gt;Length: 2-4 hours&lt;/li&gt;
+  &lt;li&gt;Invitees: The Scrum team and the Product Owner&lt;/li&gt;
+  &lt;li&gt;Purpose: To determine the work the team will accomplish in the next two weeks&lt;/li&gt;
+  &lt;li&gt;Agenda:
+    &lt;ol&gt;
+      &lt;li&gt;What work will the team do?  Negotiate with the Product Owner about the high priority items at the top of the Product Backlog.&lt;/li&gt;
+      &lt;li&gt;How will the team do the work?  Break the accepted User Stories down into executable tasks.&lt;/li&gt;
+      &lt;li&gt;Determine sprint goal and any team improvements to be worked on.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Output: A Sprint Backlog complete with tasks and a Sprint Goal&lt;/li&gt;
+  &lt;li&gt;Further details for &lt;a href=&quot;http://scrumguides.org/scrum-guide.html#events-planning&quot;&gt;The Sprint Planning Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;name-of-team-daily-scrum&quot;&gt;&lt;em&gt;name of team&lt;/em&gt; Daily Scrum&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date/Time: each day of the sprint&lt;/li&gt;
+  &lt;li&gt;Length: 15 minutes&lt;/li&gt;
+  &lt;li&gt;Invitees: The Scrum Team (and anyone else who wishes to observe)&lt;/li&gt;
+  &lt;li&gt;Purpose: To determine the plan for the day - how will the team accomplish today’s work?&lt;/li&gt;
+  &lt;li&gt;Agenda: Each team member may use the 3 questions to organize themselves for the next 24 hours,
+    &lt;ol&gt;
+      &lt;li&gt;What did I do yesterday?&lt;/li&gt;
+      &lt;li&gt;What do I plan to do today?&lt;/li&gt;
+      &lt;li&gt;What obstacles prevent me from completing my work?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Output: An updated Sprint Burndown chart showing work remaining to achieve the Sprint Goal&lt;/li&gt;
+  &lt;li&gt;Further details for the &lt;a href=&quot;http://scrumguides.org/scrum-guide.html#events-daily&quot;&gt;Daily Scrum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;name-of-team-backlog-refinement-meeting&quot;&gt;&lt;em&gt;name of team&lt;/em&gt; Backlog Refinement Meeting&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date/Time: mid-sprint - suggestion of 2nd Wednesday of Sprint&lt;/li&gt;
+  &lt;li&gt;Length: 1 hour&lt;/li&gt;
+  &lt;li&gt;Invitees: The Scrum team and Product Owner&lt;/li&gt;
+  &lt;li&gt;Purpose: To introduce the team to the next several iterations of User Stories&lt;/li&gt;
+  &lt;li&gt;Agenda:
+    &lt;ol&gt;
+      &lt;li&gt;Product Owner to present new or updated User Stories&lt;/li&gt;
+      &lt;li&gt;Collaboration of team to get sufficient detail to bring Stories into Ready state&lt;/li&gt;
+      &lt;li&gt;Team to provide an estimate of effort for the Story - may use Planning Poker&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Output: A prioritized backlog of User Stories with estimates for the next 2-3 Sprints&lt;/li&gt;
+  &lt;li&gt;Further details for the &lt;a href=&quot;https://www.mountaingoatsoftware.com/blog/product-backlog-refinement-grooming&quot;&gt;Backlog Refinement Meeting&lt;/a&gt; which is informally mentioned in the Product Backlog description&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;name-of-team-sprint-review-meeting&quot;&gt;&lt;em&gt;name of team&lt;/em&gt; Sprint Review Meeting&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date/Time: end of sprint (but before the Retrospective)&lt;/li&gt;
+  &lt;li&gt;Length: 2 hours&lt;/li&gt;
+  &lt;li&gt;Invitees: The Scrum team, Product Owner, any Stakeholders interested in the Product&lt;/li&gt;
+  &lt;li&gt;Purpose: To inspect the Product Increment and adjust the remaining Backlog&lt;/li&gt;
+  &lt;li&gt;Agenda:
+    &lt;ol&gt;
+      &lt;li&gt;Business context - team and stakeholders collaborate regarding the current state of the market and the product being developed&lt;/li&gt;
+      &lt;li&gt;Sprint activity - team reviews the activity of the last two weeks, Sprint Backlog, progress, burndown, velocity, and quality&lt;/li&gt;
+      &lt;li&gt;Demonstration - the team demonstrates the increment of working software they have developed for the stakeholders&lt;/li&gt;
+      &lt;li&gt;Review - team and stakeholders make any needed adjustments to product, direction, process to meet the business needs&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Output: A Potentially Shippable Increment (PSI) of software and an adjusted Product Backlog - or roadmap&lt;/li&gt;
+  &lt;li&gt;Further details for the &lt;a href=&quot;http://scrumguides.org/scrum-guide.html#events-review&quot;&gt;Sprint Review Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;name-of-team-retrospective-meeting&quot;&gt;&lt;em&gt;name of team&lt;/em&gt; Retrospective Meeting&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date/Time: end of sprint (after the Sprint Review)&lt;/li&gt;
+  &lt;li&gt;Length: 1.5 hours&lt;/li&gt;
+  &lt;li&gt;Invitees: The Scrum Team (possibly the PO, but not managers or other “authority figures”)&lt;/li&gt;
+  &lt;li&gt;Purpose: To review the past sprint and self-reflect, identifying successes to celebrate and issues to improve.  Inspect and adapt!&lt;/li&gt;
+  &lt;li&gt;Agenda:
+    &lt;ol&gt;
+      &lt;li&gt;Introduction&lt;/li&gt;
+      &lt;li&gt;Gather data&lt;/li&gt;
+      &lt;li&gt;Generate insight&lt;/li&gt;
+      &lt;li&gt;Decide what to do&lt;/li&gt;
+      &lt;li&gt;Wrap up&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Output: One or two kaizens or action items that will be applied in the next sprint&lt;/li&gt;
+  &lt;li&gt;Further details for the &lt;a href=&quot;http://scrumguides.org/scrum-guide.html#events-retro&quot;&gt;Retrospective Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 21 Apr 2018 09:00:00 -0400</pubDate>
+        <link>http://classz.ca/agile/scrum/2018/04/21/Scrum-Events.html</link>
+        <guid isPermaLink="true">http://classz.ca/agile/scrum/2018/04/21/Scrum-Events.html</guid>
+        
+        
+        <category>agile</category>
+        
+        <category>scrum</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
