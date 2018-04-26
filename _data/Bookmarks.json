@@ -67,11 +67,11 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13169009910843308",
-               "last_visited_desktop": "13169052875952206"
+               "last_visited": "13169088908911339",
+               "last_visited_desktop": "13169155609198894"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1045",
+            "sync_transaction_version": "1049",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
@@ -612,8 +612,11 @@
                      "children": [ {
                         "date_added": "13120327257299749",
                         "id": "11821",
+                        "meta_info": {
+                           "last_visited": "13169087824051357"
+                        },
                         "name": "Advice on Conducting the Scrum of Scrums Meeting - Scrum Alliance",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1048",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2007/may/advice-on-conducting-the-scrum-of-scrums-meeting"
                      } ],
@@ -6064,8 +6067,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited": "13169128590533386"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "3",
+               "sync_transaction_version": "1048",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6094,7 +6100,7 @@
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13163364262662865",
+            "date_modified": "13169140829355648",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7674,7 +7680,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1047",
+      "sync_transaction_version": "1049",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
