@@ -79,6 +79,7 @@ a {
  */
 blockquote {
   color: #828282;
+  background-color: #A6FFB9;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
@@ -302,6 +303,11 @@ pre {
 
 .post-content {
   margin-bottom: 30px; }
+  .post-content h1 {
+    font-size: 38px; }
+    @media screen and (max-width: 800px) {
+      .post-content h1 {
+        font-size: 32px; } }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {

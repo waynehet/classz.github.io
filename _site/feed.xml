@@ -9,9 +9,100 @@
 </description>
     <link>http://classz.ca/</link>
     <atom:link href="http://classz.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Apr 2018 19:44:17 -0400</pubDate>
-    <lastBuildDate>Tue, 24 Apr 2018 19:44:17 -0400</lastBuildDate>
+    <pubDate>Sun, 29 Apr 2018 14:56:25 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Apr 2018 14:56:25 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Scrum Events - A Waste of Time?</title>
+        <description>&lt;div class=&quot;pull-right&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/time_waste.jpg&quot; alt=&quot;Waste of time&quot; width=&quot;200px&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Some people say that We Spend Too Much Time in Meetings.  Scrum recommends that we spend no more than about 15% of our time in meetings and the rest should be spent building working software.  That’s a pretty good ratio.  Still we may get the feeling that sprint events are a waste of time, and indeed this may be the case - &lt;strong&gt;IF WE’RE DOING THEM WRONG&lt;/strong&gt;.  Here’s why.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-waste&quot;&gt;What is waste?&lt;/h1&gt;
+
+&lt;p&gt;That is an interesting question.  We all know what if feels like when our time is being wasted but it is a bit more difficult to quantify that feeling into a number that we can measure and then improve on.  Many people have studied efficiency in systems and have done that work for us.  Take for instance, the discipline of &lt;a href=&quot;https://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;Lean Manufacturing&lt;/a&gt;.  Closely related to Six Sigma, Lean defines 7 (sometime 8) &lt;a href=&quot;https://en.wikipedia.org/wiki/Muda_(Japanese_term)&quot;&gt;Muda&lt;/a&gt; or wastes that a system may have.  What are they?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Muda.png&quot; alt=&quot;Muda&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Muda, Mura, Muri”&lt;/p&gt;
+
+&lt;h2 id=&quot;wastes-of-lean&quot;&gt;7 wastes of Lean&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Transport&lt;/li&gt;
+  &lt;li&gt;Inventory&lt;/li&gt;
+  &lt;li&gt;Motion&lt;/li&gt;
+  &lt;li&gt;Waiting&lt;/li&gt;
+  &lt;li&gt;Over-Processing&lt;/li&gt;
+  &lt;li&gt;Overproduction&lt;/li&gt;
+  &lt;li&gt;Defects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These were originally envisioned in the context of manufacturing, but we also see parallels in software production.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Transportation&lt;/strong&gt;: Shipping the goods from one place to the other, or handoffs from one person/team to another&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Inventory&lt;/strong&gt;: Unfinished goods - also called as “work in progress,” or WIP&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Motion&lt;/strong&gt;: Moving around within the process - context switching on multiple projects, non-co-location, non-integrated toolsets&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Waiting&lt;/strong&gt;: Lag between process steps - QA is waiting for development, developers are waiting for information from a vendor&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extra processing&lt;/strong&gt;: Additional steps in the process that aren’t really needed - overly complex branching structures&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Overproduction&lt;/strong&gt;: Producing more than the demand requires or building features that go far beyond customer need&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Defects&lt;/strong&gt;: Flaws in the deliverables that impact their features/functionality&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;the-wrong-way&quot;&gt;The Wrong Way&lt;/h3&gt;
+  &lt;p&gt;Scrum Events done wrong will result in waste and will feel like a waste of time&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;waste-in-scrum-events&quot;&gt;Waste in Scrum Events&lt;/h2&gt;
+
+&lt;p&gt;Let’s narrow this down a bit.  Do we see the possibilities of waste within the Events described in Scrum?  This is certainly possible and almost guaranteed if the Scrum Events are not conducted properly.  Note some of these examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Transportation: May happen when the product being developed cannot completed by the single team.  Code may have to be “moved” to other teams or may have dependencies on outside vendors or process partners.  Processes may even require that documents/code/deliverables be “handed off” within a team or between teams.  The Scrum Event where these inefficiencies should be identified and addressed is the Retrospective.  A poor Retrospective will fail to capture transport wastes, or fail to deal with them appropriately.  “The same old things always come up in our Retrospective and nothing ever changes.  Why should I bother going?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inventory:  The Scrum Event where we track work in progress (WIP) is the Daily Scrum.  A bad Daily Scrum will not show the team their progress through the Sprint Backlog, they may not be aware of the Sprint Goal or know how much work is remaining.  Without a Big Visible Board and a Burndown Chart, the Daily Scrum often degenerates into a status update.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Motion: Work moving through the system will be made visible in the Daily Scrum.  Kanban boards with huge numbers of columns are a clear sign of too much motion.  There is too much motion when the team has to move to a different room for the Daily Scrum, when tools are not available, when rooms change.  The Retrospective should be used to identify and reduce the motion waste. (see #1)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Waiting: In a poor Daily Scrum, the team will not be able to coordinate their work.  There may be hidden and unresolved impediments.  Team members will likely spend a fair amount of time waiting for each other and/or for external dependencies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Extra Processing: The Retrospective is the time to examine the process and look for improvements.  If this is not done, there will be waste!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Overproduction:  If the Sprint Planning meeting is not well executed then the Product Owner and team will not synchronize their understanding.  They may fail to agree on a Sprint Goal and the team will likely not build the “right thing at the right time”.  A bad Backlog Refinement meeting will fail to prepare the team for up coming work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Defects: Bugs in the software will inevitably surface if the team has not met their Definition of Done.  A Sprint Review where the Potentially Shippable Increment (PSI) of software is not adequately reviewed will let those bugs pass resulting in all kinds of waste later on.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ultimately, Scrum Events done wrong will result in waste and will feel like a waste of time.  Events done right, in the right order, at the right time all work together to support great Agile.  Don’t miss your team’s well executed Scrum Events!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;the-right-way&quot;&gt;The Right Way&lt;/h3&gt;
+  &lt;p&gt;Scrum Events done right will not only reduce waste but will be fun and enjoyable!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 27 Apr 2018 09:00:00 -0400</pubDate>
+        <link>http://classz.ca/agile/scrum/2018/04/27/Waste-In_Scrum.html</link>
+        <guid isPermaLink="true">http://classz.ca/agile/scrum/2018/04/27/Waste-In_Scrum.html</guid>
+        
+        
+        <category>agile</category>
+        
+        <category>scrum</category>
+        
+      </item>
     
       <item>
         <title>Summary of Scrum Events</title>
