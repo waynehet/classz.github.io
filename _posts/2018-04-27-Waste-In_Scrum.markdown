@@ -11,7 +11,7 @@ categories: agile scrum
 
 Some people say that We Spend Too Much Time in Meetings.  Scrum recommends that we spend no more than about 15% of our time in meetings and the rest should be spent building working software.  That's a pretty good ratio.  Still we may get the feeling that sprint events are a waste of time, and indeed this may be the case - **IF WE'RE DOING THEM WRONG**.  Here's why.
 
-#What is waste?
+# What is waste?
 
 That is an interesting question.  We all know what if feels like when our time is being wasted but it is a bit more difficult to quantify that feeling into a number that we can measure and then improve on.  Many people have studied efficiency in systems and have done that work for us.  Take for instance, the discipline of [Lean Manufacturing](https://en.wikipedia.org/wiki/Lean_manufacturing).  Closely related to Six Sigma, Lean defines 7 (sometime 8) [Muda](https://en.wikipedia.org/wiki/Muda_(Japanese_term)) or wastes that a system may have.  What are they?
 
@@ -19,7 +19,7 @@ That is an interesting question.  We all know what if feels like when our time i
 
 "Muda, Mura, Muri"
 
-##7 wastes of Lean
+## 7 wastes of Lean
 
 * Transport
 * Inventory
@@ -39,10 +39,10 @@ These were originally envisioned in the context of manufacturing, but we also se
 * **Overproduction**: Producing more than the demand requires or building features that go far beyond customer need
 * **Defects**: Flaws in the deliverables that impact their features/functionality
 
->###The Wrong Way
+>### The Wrong Way
 >Scrum Events done wrong will result in waste and will feel like a waste of time 
 
-##Waste in Scrum Events
+## Waste in Scrum Events
 
 Let's narrow this down a bit.  Do we see the possibilities of waste within the Events described in Scrum?  This is certainly possible and almost guaranteed if the Scrum Events are not conducted properly.  Note some of these examples:
 
@@ -63,5 +63,5 @@ Let's narrow this down a bit.  Do we see the possibilities of waste within the E
 Ultimately, Scrum Events done wrong will result in waste and will feel like a waste of time.  Events done right, in the right order, at the right time all work together to support great Agile.  Don't miss your team's well executed Scrum Events!
  
  
->###The Right Way
+>### The Right Way
 >Scrum Events done right will not only reduce waste but will be fun and enjoyable!
