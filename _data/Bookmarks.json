@@ -1,15 +1,15 @@
 {
-   "checksum": "dbb2320b8e24e18b0bcc2f18d0d19336",
+   "checksum": "df54fafa92c76931bbcb212773f2b9ba",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13169261855784700"
+               "last_visited_desktop": "13169521960313064"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1050",
+            "sync_transaction_version": "1188",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -68,7 +68,7 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13169436291103632",
-               "last_visited_desktop": "13169155609198894"
+               "last_visited_desktop": "13169520905413233"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
             "sync_transaction_version": "1053",
@@ -174,7 +174,7 @@
                         "last_visited": "13168029772645383"
                      },
                      "name": "Lean Agile Training | Certified ScrumMaster training | Agile Training",
-                     "sync_transaction_version": "787",
+                     "sync_transaction_version": "1258",
                      "type": "url",
                      "url": "http://leanagiletraining.com/index.html"
                   }, {
@@ -534,9 +534,43 @@
                         "sync_transaction_version": "819",
                         "type": "url",
                         "url": "https://www.benlinders.com/2018/retrospective-smell-passiveness/"
+                     }, {
+                        "date_added": "13169521267409120",
+                        "id": "11926",
+                        "meta_info": {
+                           "last_visited_desktop": "13169521267409355",
+                           "stars.flags": "0",
+                           "stars.id": "c_a8wwjgli0798",
+                           "stars.imageData": "EjkKMWh0dHBzOi8vd3d3LmdvcmVmbGVjdC5jb20vQ29udGVudC9pbWFnZXMvZWdneS5wbmcQgAIYgAIaAA==",
+                           "stars.note": "",
+                           "stars.pageData": "ErYBQnVpbGQgYSB0ZWFtIG9mIGV2ZXJ5ZGF5IGlubm92YXRvcnMuIGdvUmVmbGVjdCBpcyBhIGZyZWUgb25saW5lIHJldHJvc3BlY3RpdmUgdG9vbCB0aGF0IHByb21vdGVzIGNvbnRpbnVvdXMgaW1wcm92ZW1lbnQuIGdvUmVmbGVjdCBlbmFibGVzIHlvdXIgdGVhbSB0byBzaGFyZSBpZGVhcyBhbnl0aW1lLCBhbnl3aGVyZS4=",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "goReflect | Free Online Retrospectives",
+                        "sync_transaction_version": "1170",
+                        "type": "url",
+                        "url": "https://www.goreflect.com/"
+                     }, {
+                        "date_added": "13169523590336164",
+                        "id": "11933",
+                        "meta_info": {
+                           "last_visited_desktop": "13169523590337052",
+                           "stars.flags": "0",
+                           "stars.id": "c_8fa6jgljdzn0",
+                           "stars.imageData": "ErEBCqgBaHR0cHM6Ly9tZWRpYS5saWNkbi5jb20vbWVkaWEvZ2NyYy9kbXMvaW1hZ2UvQzU2MTJBUUZTdXh1NVJpQnhPZy9hcnRpY2xlLWNvdmVyX2ltYWdlLXNocmlua183MjBfMTI4MC8wP2U9MjEyNDI1MjAwMCZ2PWJldGEmdD1pZ19GVVI2Q2o5R29ONnZDbjNRT3V1TzZZb1Ayanl6Q1RYNmtWZGxlRTBjEIMIGNAFGgA=",
+                           "stars.note": "",
+                           "stars.pageData": "El1Ta2lwIHRvIG1haW4gY29udGVudEp1bXAgdG86U2VsZWN0IG9wdGlvbiBTa2lwIHRvIFNlYXJjaEFjY2Vzc2liaWxpdHkgZmVlZGJhY2tDbG9zZSBqdW1wIG1lbnU=",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "21 Sprint Retrospective Anti-Patterns Impeding Scrum Teams | LinkedIn",
+                        "sync_transaction_version": "1233",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/21-sprint-retrospective-anti-patterns-impeding-scrum-teams-wolpers/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13168272181608277",
+                     "date_modified": "13169523601828796",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -658,8 +692,11 @@
                      }, {
                         "date_added": "13120327257306799",
                         "id": "11793",
+                        "meta_info": {
+                           "last_visited_desktop": "13169521793128718"
+                        },
                         "name": "Top 10 reasons why Darth Vader was an amazing project manager - GeekWire",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1186",
                         "type": "url",
                         "url": "http://www.geekwire.com/2011/top-10-reasons-darth-vader-amazing-project-manager"
                      }, {
@@ -698,17 +735,13 @@
                         "type": "url",
                         "url": "http://leadingwithtrust.com/2014/02/02/the-enemy-of-trust-and-6-ways-to-defeat-it/"
                      }, {
-                        "date_added": "13120327257317843",
-                        "id": "11799",
-                        "name": "a better team",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://www.abetterteam.org/"
-                     }, {
                         "date_added": "13120327257320332",
                         "id": "11800",
+                        "meta_info": {
+                           "last_visited_desktop": "13169521737726043"
+                        },
                         "name": "Forget Myers-Briggs: To Build a Great Team, Focus on 'Factor C' | Cass Sunstein | LinkedIn",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1183",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/forget-myers-briggs-build-great-team-focus-factor-c-cass-sunstein"
                      }, {
@@ -742,8 +775,11 @@
                      }, {
                         "date_added": "13122065121487386",
                         "id": "11805",
+                        "meta_info": {
+                           "last_visited_desktop": "13169521759840577"
+                        },
                         "name": "3 Metrics for Reporting an Agile Pilot to Top Management » Agile Trail",
-                        "sync_transaction_version": "935",
+                        "sync_transaction_version": "1184",
                         "type": "url",
                         "url": "http://agiletrail.com/2011/09/19/3-metrics-for-reporting-an-agile-pilot-to-top-management/"
                      }, {
@@ -805,8 +841,11 @@
                      }, {
                         "date_added": "13120327257324873",
                         "id": "11814",
+                        "meta_info": {
+                           "last_visited_desktop": "13169521857619255"
+                        },
                         "name": "How to Track the Team’s Mood with a Niko-niko Calendar » Agile Trail",
-                        "sync_transaction_version": "944",
+                        "sync_transaction_version": "1187",
                         "type": "url",
                         "url": "http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar/"
                      }, {
@@ -861,12 +900,29 @@
                            "last_visited_desktop": "13168655401384531"
                         },
                         "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
-                        "sync_transaction_version": "993",
+                        "sync_transaction_version": "1161",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
+                     }, {
+                        "date_added": "13169521677921683",
+                        "id": "11927",
+                        "meta_info": {
+                           "last_visited_desktop": "13169521677922484",
+                           "stars.flags": "0",
+                           "stars.id": "c_43fbjgli900h",
+                           "stars.imageData": "EnsKc2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9tYXJxdWVlLXRlc3QtYWtpYWlzdXIycmdpY2JtcGVoZWEvNGdVV1g3QVRxR0lpUUhRaXdVMU9fQ3ludGhpYS1NYXh3ZWxsXzE0M1JUJTIwJTI4MSUyOS5qcGcQgAUYqwMaAA==",
+                           "stars.note": "",
+                           "stars.pageData": "ErEBQ3ludGhpYSBNYXh3ZWxsIGhhcyBsZWQgZW5naW5lZXJpbmcgdGVhbXMgYXQgU2xhY2ssIEFwcGxlLCBZYWhvbyEgYW5kIFBpbnRlcmVzdC4gSGVyZSdzIHRoZSBtYW5hZ2VtZW50IGZyYW1ld29yayB0aGF0J3MgYmVjb21lIG9uZSBvZiB0aGUgbW9zdCBwb3dlcmZ1bCByZXNvdXJjZXMgaW4gaGVyIHRvb2xraXQu",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "Track and Facilitate Your Engineers’ Flow States In This Simple Way | First Round Review",
+                        "sync_transaction_version": "1177",
+                        "type": "url",
+                        "url": "http://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-this-simple-way/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13168655304249185",
+                     "date_modified": "13169521692089803",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -991,10 +1047,10 @@
                      "date_added": "13168215087013004",
                      "id": "11905",
                      "meta_info": {
-                        "last_visited_desktop": "13168215087013242"
+                        "last_visited_desktop": "13169522888729014"
                      },
                      "name": "Checklist - Agile Partnership",
-                     "sync_transaction_version": "812",
+                     "sync_transaction_version": "1189",
                      "type": "url",
                      "url": "https://agilepartnership.com/en/resources/checklist/"
                   }, {
@@ -1089,13 +1145,6 @@
                         "sync_transaction_version": "3",
                         "type": "url",
                         "url": "http://www.sporcle.com/games/needapausebutton/and-then-the-mother-ship-from-close-encounters"
-                     }, {
-                        "date_added": "13120327257349225",
-                        "id": "11759",
-                        "name": "Magnifying the Universe",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://www.numbersleuth.org/universe/"
                      }, {
                         "date_added": "13120327257350762",
                         "id": "11760",
@@ -1456,9 +1505,31 @@
                         "sync_transaction_version": "3",
                         "type": "url",
                         "url": "https://hackernoon.com/the-myth-of-software-time-estimations-576a7466d91a"
+                     }, {
+                        "date_added": "13120327257349225",
+                        "id": "11759",
+                        "meta_info": {
+                           "last_visited_desktop": "13169524435306179",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "Magnifying the Universe",
+                        "sync_transaction_version": "1269",
+                        "type": "url",
+                        "url": "http://www.numbersleuth.org/universe/"
+                     }, {
+                        "date_added": "13131115513668781",
+                        "id": "10786",
+                        "meta_info": {
+                           "last_visited_desktop": "13169524258407396",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
+                        "sync_transaction_version": "1263",
+                        "type": "url",
+                        "url": "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
                      } ],
                      "date_added": "13163364262819506",
-                     "date_modified": "13164165816403955",
+                     "date_modified": "13169524465068240",
                      "id": "11686",
                      "name": "Estimation",
                      "sync_transaction_version": "3",
@@ -1660,15 +1731,18 @@
                      }, {
                         "date_added": "13120327257422236",
                         "id": "11669",
-                        "name": "Agile & Business&#58; Release Planning&#58; Business Value",
-                        "sync_transaction_version": "3",
+                        "meta_info": {
+                           "last_visited_desktop": "13169523779722049"
+                        },
+                        "name": "Agile & Business Release Planning Business Value",
+                        "sync_transaction_version": "1248",
                         "type": "url",
                         "url": "http://agileconsortium.blogspot.ca/2012/04/release-planning-business-value.html"
                      }, {
                         "date_added": "13120327257424308",
                         "id": "11670",
-                        "name": "The Agile Vision Board&#58; Vision and Product Strategy",
-                        "sync_transaction_version": "3",
+                        "name": "The Agile Vision Board -Vision and Product Strategy",
+                        "sync_transaction_version": "1249",
                         "type": "url",
                         "url": "http://www.romanpichler.com/blog/agile-product-innovation/the-product-vision-board/"
                      }, {
@@ -1688,8 +1762,11 @@
                      }, {
                         "date_added": "13120327257430761",
                         "id": "11673",
+                        "meta_info": {
+                           "last_visited_desktop": "13169523829781664"
+                        },
                         "name": "Predictive *AND* Adaptive Planning | Pragilematic",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1250",
                         "type": "url",
                         "url": "http://anagilestory.com/2011/11/17/predictive-and-adaptive-planning-2/"
                      }, {
@@ -1702,8 +1779,8 @@
                      }, {
                         "date_added": "13120327257433914",
                         "id": "11675",
-                        "name": "Winnipeg Agilist&#58; How to create a User Story Map",
-                        "sync_transaction_version": "3",
+                        "name": "Winnipeg Agilist - How to create a User Story Map",
+                        "sync_transaction_version": "1251",
                         "type": "url",
                         "url": "http://winnipegagilist.blogspot.ca/2012/03/how-to-create-user-story-map.html"
                      }, {
@@ -1728,29 +1805,29 @@
                         "type": "url",
                         "url": "http://cmforagile.blogspot.ca/2015/07/story-telling-with-story-mapping.html"
                      }, {
-                        "date_added": "13120327257440442",
-                        "id": "11679",
-                        "name": "Atlassian Blogs",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://blogs.atlassian.com/2015/06/webinar-recap-combine-long-term-planning-agile-jira-portfolio/?utm_source=event-email&utm_medium=email&utm_campaign=see-how-jp-does-it-webinar&utm_content=follow-up"
-                     }, {
                         "date_added": "13120327257442081",
                         "id": "11680",
+                        "meta_info": {
+                           "last_visited_desktop": "13169523970625802"
+                        },
                         "name": "Understanding the Pareto Principle (The 80/20 Rule) | BetterExplained",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1257",
                         "type": "url",
                         "url": "http://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/"
                      }, {
-                        "date_added": "13144357198603242",
-                        "id": "11681",
-                        "name": "Scrum Community - Scrum Alliance",
-                        "sync_transaction_version": "3",
+                        "date_added": "13139412328945807",
+                        "id": "11585",
+                        "meta_info": {
+                           "last_visited_desktop": "13169523675239430",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "28 Product Backlog Anti-Patterns – Agile Transition",
+                        "sync_transaction_version": "1246",
                         "type": "url",
-                        "url": "https://www.scrumalliance.org/community/articles/2017/july/managing-risks-through-scrum-inspect-and-adapt-pra"
+                        "url": "https://age-of-product.com/28-product-backlog-anti-patterns/"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13163364262809693",
+                     "date_modified": "13169523732312694",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -1766,8 +1843,8 @@
                      }, {
                         "date_added": "13120327257443663",
                         "id": "11656",
-                        "name": "Cultivating Creativity&#58; Keeping Agile Metrics Simple",
-                        "sync_transaction_version": "3",
+                        "name": "Keeping Agile Metrics Simple",
+                        "sync_transaction_version": "1205",
                         "type": "url",
                         "url": "http://www.cultivatingcreativity.net/2014/09/simple-agile-metrics.html"
                      }, {
@@ -1854,12 +1931,29 @@
                            "last_visited_desktop": "13165856537971196"
                         },
                         "name": "Doing Team Metrics Right - Focused Objective",
-                        "sync_transaction_version": "650",
+                        "sync_transaction_version": "1204",
                         "type": "url",
                         "url": "http://focusedobjective.com/team-metrics-right/"
+                     }, {
+                        "date_added": "13169523081306802",
+                        "id": "11929",
+                        "meta_info": {
+                           "last_visited_desktop": "13169523081307496",
+                           "stars.flags": "0",
+                           "stars.id": "c_choijglj32vd",
+                           "stars.imageData": "ElsKU2h0dHBzOi8vd3d3LmxlYWRpbmdhZ2lsZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDUvSW1hZ2UtdXBsb2FkZWQtZnJvbS1pT1MuanBnEMAfGNAXGgA=",
+                           "stars.note": "",
+                           "stars.pageData": "EvUCV2hlbiB1bmRlcnRha2luZyBhbiBBZ2lsZSB0cmFuc2Zvcm1hdGlvbiwgdGhlcmUgaXMgYSBuZWVkIHRvIGNvbGxlY3QgZGF0YSB0byBkZW1vbnN0cmF0ZSBwcm9ncmVzcyBhbmQgc2hvdyBpbXByb3ZlbWVudCwgYnV0IHdoZXJlIGRvZXMgb25lIGV2ZW4gc3RhcnQ/IENvbW1vbiBBZ2lsZSBtZXRyaWNzIGFwcHJvYWNoZXMgZG8gd2VsbCBhdCBtZWFzdXJpbmcgdGVhbSB2ZWxvY2l0eSBhbmQgdGhyb3VnaHB1dCBidXQgY2FuIHNvbWV0aW1lcyBvdmVybG9vayB0aGUgcmVxdWlyZW1lbnRzIG9mIGV4ZWN1dGl2ZSBzcG9uc29ycywgcHJvZHVjdCBtYW5hZ2VtZW50LCBhbmQgb3RoZXIga2V5IHN0YWtlaG9sZGVycy4gVGhpcyBwcm9ibGVtIGlzIG9mdGVuIOKApg==",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "Agile Metrics: A GQM Approach -LeadingAgile",
+                        "sync_transaction_version": "1203",
+                        "type": "url",
+                        "url": "https://www.leadingagile.com/2017/05/agile-metrics-gqm-approach/"
                      } ],
                      "date_added": "13163364262809704",
-                     "date_modified": "13165856562562168",
+                     "date_modified": "13169523123264596",
                      "id": "11630",
                      "name": "Metrics",
                      "sync_transaction_version": "3",
@@ -2044,7 +2138,7 @@
                      "url": "https://www.ebgconsulting.com/blog/product-manager-product-owner-part-2/"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13166413520648012",
+                  "date_modified": "13169523709798091",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -2214,6 +2308,16 @@
                      "sync_transaction_version": "838",
                      "type": "folder"
                   }, {
+                     "date_added": "13169506652200977",
+                     "id": "11924",
+                     "meta_info": {
+                        "last_visited_desktop": "13169506794891003"
+                     },
+                     "name": "Wayne's Comparative Agility Dashboard",
+                     "sync_transaction_version": "1164",
+                     "type": "url",
+                     "url": "https://www.comparativeagility.com/admin/account/profile"
+                  }, {
                      "date_added": "13120327256374450",
                      "id": "11607",
                      "name": "Tyranny of the Tools",
@@ -2331,7 +2435,7 @@
                      "url": "http://scrumblr.ca/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13168272668014470",
+                  "date_modified": "13169506691952587",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -2450,13 +2554,6 @@
                      "sync_transaction_version": "3",
                      "type": "url",
                      "url": "https://productcoalition.com/scrum-19-sprint-planning-anti-patterns-caabc44429b3"
-                  }, {
-                     "date_added": "13139412328945807",
-                     "id": "11585",
-                     "name": "28 Product Backlog Anti-Patterns – Agile Transition",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "https://age-of-product.com/28-product-backlog-anti-patterns/"
                   }, {
                      "date_added": "13144181598150276",
                      "id": "11586",
@@ -2597,9 +2694,43 @@
                      "sync_transaction_version": "855",
                      "type": "url",
                      "url": "http://www.hansoft.com/expertblog/exploring-the-landscape-of-large-scale-agile-models/"
+                  }, {
+                     "date_added": "13169522985109127",
+                     "id": "11928",
+                     "meta_info": {
+                        "last_visited_desktop": "13169522985109866",
+                        "stars.flags": "0",
+                        "stars.id": "c_b3zbjglj10mz",
+                        "stars.imageData": "Ek4KRmh0dHBzOi8vY2RuLWltYWdlcy0xLm1lZGl1bS5jb20vbWF4LzEyMDAvMSpobENteWRIdDlvVjhCWmJaYnNQQ2VBLmpwZWcQsAkYhAcaAA==",
+                        "stars.note": "",
+                        "stars.pageData": "EjdNeXRocywgTGVnZW5kcywgYW5kIEZvbGtsb3JlIG9mIFRlYW1zIGFuZCBPcmdhbml6YXRpb25z",
+                        "stars.type": "2",
+                        "stars.version": "crx.2.2016.128.11729"
+                     },
+                     "name": "What Does an Agile Culture Look Like? – everydayAgile // Engineering Agile Culture",
+                     "sync_transaction_version": "1196",
+                     "type": "url",
+                     "url": "https://everydayagile.com/what-does-an-agile-culture-look-like-ab14c5724e91"
+                  }, {
+                     "date_added": "13169523654996884",
+                     "id": "11934",
+                     "meta_info": {
+                        "last_visited_desktop": "13169523654997573",
+                        "stars.flags": "0",
+                        "stars.id": "c_8si8jgljfdj6",
+                        "stars.imageData": "ElUKTWh0dHA6Ly9sZWFuY2hhbmdlLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wNS9CYW5rZXJzLUpvdXJuZXktMTA4MHg2NzUuanBnELgIGKMFGgA=",
+                        "stars.note": "",
+                        "stars.pageData": "ElhieSBWaWNraSBZb3VuZyB8IE1heSAyMSwgMjAxNyB8IENhbnZhc2VzLCBDaGFuZ2UgV2FsbCwgRXhwZXJpbWVudHMsIFN0b3JpZXMgfCA2IENvbW1lbnRz",
+                        "stars.type": "2",
+                        "stars.version": "crx.2.2016.128.11729"
+                     },
+                     "name": "Lean Change Management in Action | Lean Change Management",
+                     "sync_transaction_version": "1239",
+                     "type": "url",
+                     "url": "http://leanchange.org/2017/05/lean-change-management-in-action/"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13168273056464723",
+                  "date_modified": "13169523663328532",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -2684,9 +2815,60 @@
                   "sync_transaction_version": "3",
                   "type": "url",
                   "url": "http://www.lego.com/en-us/seriousplay/"
+               }, {
+                  "date_added": "13169523219492308",
+                  "id": "11930",
+                  "meta_info": {
+                     "last_visited_desktop": "13169523219493074",
+                     "stars.flags": "0",
+                     "stars.id": "c_53rejglj61hs",
+                     "stars.imageData": "EmkKYWh0dHBzOi8vdWdjLmZ1dHVyZWxlYXJuLmNvbS91cGxvYWRzL2ltYWdlcy9hMS8zMS9yZWd1bGFyX2ExMzEzNmU5LTUwZjMtNDQ0MS05YTE3LTI3ZmFjOTY0YmE1OS5qcGcQugMYpwIaAA==",
+                     "stars.note": "",
+                     "stars.pageData": "EnBMZWFybiBob3cgdG8gdXNlIHN5c3RlbXMgYW5kIGNvbXBsZXhpdHkgdGhpbmtpbmcgdG8gYWRkcmVzcyBhIHZhcmlldHkgb2Ygc29jaWFsLCBtYW5hZ2VyaWFsIGFuZCBwb2xpY3kgcHJvYmxlbXMu",
+                     "stars.type": "2",
+                     "stars.version": "crx.2.2016.128.11729"
+                  },
+                  "name": "Systems Thinking and Complexity - Online Course",
+                  "sync_transaction_version": "1213",
+                  "type": "url",
+                  "url": "https://www.futurelearn.com/courses/systems-thinking-complexity"
+               }, {
+                  "date_added": "13169523376398390",
+                  "id": "11931",
+                  "meta_info": {
+                     "last_visited_desktop": "13169523376399280",
+                     "stars.flags": "0",
+                     "stars.id": "c_e6mojglj9ekk",
+                     "stars.imageData": "Em8KZ2h0dHA6Ly93d3cub3Blbi5lZHUvb3BlbmxlYXJuL29jdy9wbHVnaW5maWxlLnBocC83ODA2OTYvbW9kX3Jlc291cmNlL2NvbnRlbnQvMC90NTUxXzFfY292ZXJfaW1hZ2VfMS5qcGcQkgYYkAMaAA==",
+                     "stars.note": "",
+                     "stars.pageData": "Er4BV2hhdCBpcyBzeXN0ZW1zIHRoaW5raW5nIGFuZCBwcmFjdGljZT8gVGhlIGVzc2VuY2Ugb2Ygc3lzdGVtcyB0aGlua2luZyBhbmQgcHJhY3RpY2UgaXMgaW4gJ3NlZWluZycgdGhlIHdvcmxkIGluIGEgcGFydGljdWxhciB3YXksIGJlY2F1c2UgaG93IHlvdSAnc2VlJyB0aGluZ3MgYWZmZWN0cyB0aGUgd2F5IHlvdSBhcHByb2FjaC4uLg==",
+                     "stars.type": "2",
+                     "stars.version": "crx.2.2016.128.11729"
+                  },
+                  "name": "Systems thinking and practice - OpenLearn - Open University - T551_1",
+                  "sync_transaction_version": "1219",
+                  "type": "url",
+                  "url": "http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/systems-computer/systems-thinking-and-practice/content-section-0?active-tab=description-tab"
+               }, {
+                  "date_added": "13169523488527270",
+                  "id": "11932",
+                  "meta_info": {
+                     "last_visited_desktop": "13169523488527896",
+                     "stars.flags": "0",
+                     "stars.id": "c_58mujgljbt39",
+                     "stars.imageData": "Em0KZWh0dHBzOi8vMjA2aHdmM2ZqNHc1MnUzYnIwM2ZpMjQyLXdwZW5naW5lLm5ldGRuYS1zc2wuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzAyL3NwYW5PZkNvbnRyb2wucG5nENILGLYHGgA=",
+                     "stars.note": "",
+                     "stars.pageData": "EsUBT3JnYW5pemF0aW9uYWwgVGhlb3J5IGlzbuKAmXQgYSBzY2llbmNlLCB0aG91Z2ggaXQgd291bGQgbGlrZSB0byBiZS4gVW5mb3J0dW5hdGVseSwgYnVpbGRpbmcgYSBzY2llbnRpZmljIGFwcHJvYWNowqByZXF1aXJlcyB1bmRlcnN0YW5kaW5nIGZyb20gYSBudW1iZXIgb2YgZmllbGRzIHRoYXQgdGhlbXNlbHZlcyBhcmUgc3RpbGwgb25seSDigKY=",
+                     "stars.type": "2",
+                     "stars.version": "crx.2.2016.128.11729"
+                  },
+                  "name": "Prescientific Organizational Theory",
+                  "sync_transaction_version": "1226",
+                  "type": "url",
+                  "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13168405739476837",
+               "date_modified": "13169523497087955",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -6056,9 +6238,19 @@
                "sync_transaction_version": "3",
                "type": "url",
                "url": "https://www.allrocketengines.ca/Bulk/B6-4?cPath=17_10&"
+            }, {
+               "date_added": "13169502287107543",
+               "id": "11922",
+               "meta_info": {
+                  "last_visited_desktop": "13169502373646160"
+               },
+               "name": "1&1 Control Panel",
+               "sync_transaction_version": "1159",
+               "type": "url",
+               "url": "https://admin.1and1.ca/domains-dashboard"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13168402726725934",
+            "date_modified": "13169523288908014",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7410,10 +7602,10 @@
                "date_added": "13019147935119275",
                "id": "10846",
                "meta_info": {
-                  "last_visited_desktop": "13169051942929127"
+                  "last_visited_desktop": "13169483341021978"
                },
                "name": "Kijiji Barrie Classifieds Free Local Classified Ads for Barrie, Ontari (...)",
-               "sync_transaction_version": "1044",
+               "sync_transaction_version": "1055",
                "type": "url",
                "url": "http://barrie.kijiji.ca/"
             }, {
@@ -7535,10 +7727,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13168571839430384"
+               "last_visited_desktop": "13169505689096413"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "983",
+            "sync_transaction_version": "1178",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7674,13 +7866,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13168661892155346",
+         "date_modified": "13169524452315470",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1053",
+      "sync_transaction_version": "1269",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7689,13 +7881,6 @@
             "sync_transaction_version": "3",
             "type": "url",
             "url": "http://www.blogilates.com/blog/video/body-slimming-workout-pop-pilates-for-beginners-2/"
-         }, {
-            "date_added": "13131115513668781",
-            "id": "10786",
-            "name": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-            "sync_transaction_version": "3",
-            "type": "url",
-            "url": "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
          }, {
             "date_added": "13166064583315382",
             "id": "11886",
@@ -7711,10 +7896,11 @@
             "date_added": "13167077155206655",
             "id": "11892",
             "meta_info": {
-               "last_visited": "13167091781386809"
+               "last_visited": "13167091781386809",
+               "last_visited_desktop": "13169499838783724"
             },
             "name": "KH Caller Report",
-            "sync_transaction_version": "716",
+            "sync_transaction_version": "1142",
             "type": "url",
             "url": "http://metroconf.com/kh.cgi?48608"
          }, {
