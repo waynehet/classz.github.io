@@ -68,10 +68,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13169436291103632",
-               "last_visited_desktop": "13169520905413233"
+               "last_visited_desktop": "13169564215131074"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1053",
+            "sync_transaction_version": "1270",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
@@ -538,14 +538,7 @@
                         "date_added": "13169521267409120",
                         "id": "11926",
                         "meta_info": {
-                           "last_visited_desktop": "13169521267409355",
-                           "stars.flags": "0",
-                           "stars.id": "c_a8wwjgli0798",
-                           "stars.imageData": "EjkKMWh0dHBzOi8vd3d3LmdvcmVmbGVjdC5jb20vQ29udGVudC9pbWFnZXMvZWdneS5wbmcQgAIYgAIaAA==",
-                           "stars.note": "",
-                           "stars.pageData": "ErYBQnVpbGQgYSB0ZWFtIG9mIGV2ZXJ5ZGF5IGlubm92YXRvcnMuIGdvUmVmbGVjdCBpcyBhIGZyZWUgb25saW5lIHJldHJvc3BlY3RpdmUgdG9vbCB0aGF0IHByb21vdGVzIGNvbnRpbnVvdXMgaW1wcm92ZW1lbnQuIGdvUmVmbGVjdCBlbmFibGVzIHlvdXIgdGVhbSB0byBzaGFyZSBpZGVhcyBhbnl0aW1lLCBhbnl3aGVyZS4=",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169521267409355"
                         },
                         "name": "goReflect | Free Online Retrospectives",
                         "sync_transaction_version": "1170",
@@ -555,14 +548,7 @@
                         "date_added": "13169523590336164",
                         "id": "11933",
                         "meta_info": {
-                           "last_visited_desktop": "13169523590337052",
-                           "stars.flags": "0",
-                           "stars.id": "c_8fa6jgljdzn0",
-                           "stars.imageData": "ErEBCqgBaHR0cHM6Ly9tZWRpYS5saWNkbi5jb20vbWVkaWEvZ2NyYy9kbXMvaW1hZ2UvQzU2MTJBUUZTdXh1NVJpQnhPZy9hcnRpY2xlLWNvdmVyX2ltYWdlLXNocmlua183MjBfMTI4MC8wP2U9MjEyNDI1MjAwMCZ2PWJldGEmdD1pZ19GVVI2Q2o5R29ONnZDbjNRT3V1TzZZb1Ayanl6Q1RYNmtWZGxlRTBjEIMIGNAFGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "El1Ta2lwIHRvIG1haW4gY29udGVudEp1bXAgdG86U2VsZWN0IG9wdGlvbiBTa2lwIHRvIFNlYXJjaEFjY2Vzc2liaWxpdHkgZmVlZGJhY2tDbG9zZSBqdW1wIG1lbnU=",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169523590337052"
                         },
                         "name": "21 Sprint Retrospective Anti-Patterns Impeding Scrum Teams | LinkedIn",
                         "sync_transaction_version": "1233",
@@ -907,14 +893,7 @@
                         "date_added": "13169521677921683",
                         "id": "11927",
                         "meta_info": {
-                           "last_visited_desktop": "13169521677922484",
-                           "stars.flags": "0",
-                           "stars.id": "c_43fbjgli900h",
-                           "stars.imageData": "EnsKc2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9tYXJxdWVlLXRlc3QtYWtpYWlzdXIycmdpY2JtcGVoZWEvNGdVV1g3QVRxR0lpUUhRaXdVMU9fQ3ludGhpYS1NYXh3ZWxsXzE0M1JUJTIwJTI4MSUyOS5qcGcQgAUYqwMaAA==",
-                           "stars.note": "",
-                           "stars.pageData": "ErEBQ3ludGhpYSBNYXh3ZWxsIGhhcyBsZWQgZW5naW5lZXJpbmcgdGVhbXMgYXQgU2xhY2ssIEFwcGxlLCBZYWhvbyEgYW5kIFBpbnRlcmVzdC4gSGVyZSdzIHRoZSBtYW5hZ2VtZW50IGZyYW1ld29yayB0aGF0J3MgYmVjb21lIG9uZSBvZiB0aGUgbW9zdCBwb3dlcmZ1bCByZXNvdXJjZXMgaW4gaGVyIHRvb2xraXQu",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169521677922484"
                         },
                         "name": "Track and Facilitate Your Engineers’ Flow States In This Simple Way | First Round Review",
                         "sync_transaction_version": "1177",
@@ -1014,15 +993,21 @@
                   }, {
                      "date_added": "13120327256244318",
                      "id": "11786",
+                     "meta_info": {
+                        "last_visited": "13169565539556459"
+                     },
                      "name": "32 Scrum master interview questions!",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1271",
                      "type": "url",
                      "url": "http://lmsgoncalves.com/2014/09/08/40-scrum-master-interview-questions/"
                   }, {
                      "date_added": "13120327256245846",
                      "id": "11787",
+                     "meta_info": {
+                        "last_visited": "13169565322959271"
+                     },
                      "name": "Agile and Scrum Master Interview Questions | Agile Questions Asked in 2015",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1271",
                      "type": "url",
                      "url": "https://intellipaat.com/interview-question/agile-scrum-master-interview-questions/?utm_source=link%2FscrumIQ_NK&utm_medium=posting&utm_campaign=link%2FscrumIQ_NK%20posting"
                   }, {
@@ -1036,11 +1021,11 @@
                      "date_added": "13143066372857308",
                      "id": "11789",
                      "meta_info": {
-                        "last_visited": "13167248859285839",
+                        "last_visited": "13169565307937641",
                         "last_visited_desktop": "13166069918311927"
                      },
                      "name": "ScrumMaster Checklist",
-                     "sync_transaction_version": "725",
+                     "sync_transaction_version": "1271",
                      "type": "url",
                      "url": "http://scrummasterchecklist.org/"
                   }, {
@@ -1065,7 +1050,7 @@
                      "url": "https://www.business2community.com/marketing/sprint-events-not-waste-unless-done-wrong-01892940#4IAZ0MSiaVF0xPwI.97"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13168398754009550",
+                  "date_modified": "13169578061600813",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -1509,8 +1494,7 @@
                         "date_added": "13120327257349225",
                         "id": "11759",
                         "meta_info": {
-                           "last_visited_desktop": "13169524435306179",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169524435306179"
                         },
                         "name": "Magnifying the Universe",
                         "sync_transaction_version": "1269",
@@ -1520,8 +1504,7 @@
                         "date_added": "13131115513668781",
                         "id": "10786",
                         "meta_info": {
-                           "last_visited_desktop": "13169524258407396",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169524258407396"
                         },
                         "name": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
                         "sync_transaction_version": "1263",
@@ -1818,8 +1801,7 @@
                         "date_added": "13139412328945807",
                         "id": "11585",
                         "meta_info": {
-                           "last_visited_desktop": "13169523675239430",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169523675239430"
                         },
                         "name": "28 Product Backlog Anti-Patterns – Agile Transition",
                         "sync_transaction_version": "1246",
@@ -1938,14 +1920,7 @@
                         "date_added": "13169523081306802",
                         "id": "11929",
                         "meta_info": {
-                           "last_visited_desktop": "13169523081307496",
-                           "stars.flags": "0",
-                           "stars.id": "c_choijglj32vd",
-                           "stars.imageData": "ElsKU2h0dHBzOi8vd3d3LmxlYWRpbmdhZ2lsZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDUvSW1hZ2UtdXBsb2FkZWQtZnJvbS1pT1MuanBnEMAfGNAXGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "EvUCV2hlbiB1bmRlcnRha2luZyBhbiBBZ2lsZSB0cmFuc2Zvcm1hdGlvbiwgdGhlcmUgaXMgYSBuZWVkIHRvIGNvbGxlY3QgZGF0YSB0byBkZW1vbnN0cmF0ZSBwcm9ncmVzcyBhbmQgc2hvdyBpbXByb3ZlbWVudCwgYnV0IHdoZXJlIGRvZXMgb25lIGV2ZW4gc3RhcnQ/IENvbW1vbiBBZ2lsZSBtZXRyaWNzIGFwcHJvYWNoZXMgZG8gd2VsbCBhdCBtZWFzdXJpbmcgdGVhbSB2ZWxvY2l0eSBhbmQgdGhyb3VnaHB1dCBidXQgY2FuIHNvbWV0aW1lcyBvdmVybG9vayB0aGUgcmVxdWlyZW1lbnRzIG9mIGV4ZWN1dGl2ZSBzcG9uc29ycywgcHJvZHVjdCBtYW5hZ2VtZW50LCBhbmQgb3RoZXIga2V5IHN0YWtlaG9sZGVycy4gVGhpcyBwcm9ibGVtIGlzIG9mdGVuIOKApg==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13169523081307496"
                         },
                         "name": "Agile Metrics: A GQM Approach -LeadingAgile",
                         "sync_transaction_version": "1203",
@@ -2698,14 +2673,7 @@
                      "date_added": "13169522985109127",
                      "id": "11928",
                      "meta_info": {
-                        "last_visited_desktop": "13169522985109866",
-                        "stars.flags": "0",
-                        "stars.id": "c_b3zbjglj10mz",
-                        "stars.imageData": "Ek4KRmh0dHBzOi8vY2RuLWltYWdlcy0xLm1lZGl1bS5jb20vbWF4LzEyMDAvMSpobENteWRIdDlvVjhCWmJaYnNQQ2VBLmpwZWcQsAkYhAcaAA==",
-                        "stars.note": "",
-                        "stars.pageData": "EjdNeXRocywgTGVnZW5kcywgYW5kIEZvbGtsb3JlIG9mIFRlYW1zIGFuZCBPcmdhbml6YXRpb25z",
-                        "stars.type": "2",
-                        "stars.version": "crx.2.2016.128.11729"
+                        "last_visited_desktop": "13169522985109866"
                      },
                      "name": "What Does an Agile Culture Look Like? – everydayAgile // Engineering Agile Culture",
                      "sync_transaction_version": "1196",
@@ -2715,14 +2683,7 @@
                      "date_added": "13169523654996884",
                      "id": "11934",
                      "meta_info": {
-                        "last_visited_desktop": "13169523654997573",
-                        "stars.flags": "0",
-                        "stars.id": "c_8si8jgljfdj6",
-                        "stars.imageData": "ElUKTWh0dHA6Ly9sZWFuY2hhbmdlLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wNS9CYW5rZXJzLUpvdXJuZXktMTA4MHg2NzUuanBnELgIGKMFGgA=",
-                        "stars.note": "",
-                        "stars.pageData": "ElhieSBWaWNraSBZb3VuZyB8IE1heSAyMSwgMjAxNyB8IENhbnZhc2VzLCBDaGFuZ2UgV2FsbCwgRXhwZXJpbWVudHMsIFN0b3JpZXMgfCA2IENvbW1lbnRz",
-                        "stars.type": "2",
-                        "stars.version": "crx.2.2016.128.11729"
+                        "last_visited_desktop": "13169523654997573"
                      },
                      "name": "Lean Change Management in Action | Lean Change Management",
                      "sync_transaction_version": "1239",
@@ -2819,14 +2780,7 @@
                   "date_added": "13169523219492308",
                   "id": "11930",
                   "meta_info": {
-                     "last_visited_desktop": "13169523219493074",
-                     "stars.flags": "0",
-                     "stars.id": "c_53rejglj61hs",
-                     "stars.imageData": "EmkKYWh0dHBzOi8vdWdjLmZ1dHVyZWxlYXJuLmNvbS91cGxvYWRzL2ltYWdlcy9hMS8zMS9yZWd1bGFyX2ExMzEzNmU5LTUwZjMtNDQ0MS05YTE3LTI3ZmFjOTY0YmE1OS5qcGcQugMYpwIaAA==",
-                     "stars.note": "",
-                     "stars.pageData": "EnBMZWFybiBob3cgdG8gdXNlIHN5c3RlbXMgYW5kIGNvbXBsZXhpdHkgdGhpbmtpbmcgdG8gYWRkcmVzcyBhIHZhcmlldHkgb2Ygc29jaWFsLCBtYW5hZ2VyaWFsIGFuZCBwb2xpY3kgcHJvYmxlbXMu",
-                     "stars.type": "2",
-                     "stars.version": "crx.2.2016.128.11729"
+                     "last_visited_desktop": "13169523219493074"
                   },
                   "name": "Systems Thinking and Complexity - Online Course",
                   "sync_transaction_version": "1213",
@@ -2836,14 +2790,7 @@
                   "date_added": "13169523376398390",
                   "id": "11931",
                   "meta_info": {
-                     "last_visited_desktop": "13169523376399280",
-                     "stars.flags": "0",
-                     "stars.id": "c_e6mojglj9ekk",
-                     "stars.imageData": "Em8KZ2h0dHA6Ly93d3cub3Blbi5lZHUvb3BlbmxlYXJuL29jdy9wbHVnaW5maWxlLnBocC83ODA2OTYvbW9kX3Jlc291cmNlL2NvbnRlbnQvMC90NTUxXzFfY292ZXJfaW1hZ2VfMS5qcGcQkgYYkAMaAA==",
-                     "stars.note": "",
-                     "stars.pageData": "Er4BV2hhdCBpcyBzeXN0ZW1zIHRoaW5raW5nIGFuZCBwcmFjdGljZT8gVGhlIGVzc2VuY2Ugb2Ygc3lzdGVtcyB0aGlua2luZyBhbmQgcHJhY3RpY2UgaXMgaW4gJ3NlZWluZycgdGhlIHdvcmxkIGluIGEgcGFydGljdWxhciB3YXksIGJlY2F1c2UgaG93IHlvdSAnc2VlJyB0aGluZ3MgYWZmZWN0cyB0aGUgd2F5IHlvdSBhcHByb2FjaC4uLg==",
-                     "stars.type": "2",
-                     "stars.version": "crx.2.2016.128.11729"
+                     "last_visited_desktop": "13169523376399280"
                   },
                   "name": "Systems thinking and practice - OpenLearn - Open University - T551_1",
                   "sync_transaction_version": "1219",
@@ -2853,14 +2800,7 @@
                   "date_added": "13169523488527270",
                   "id": "11932",
                   "meta_info": {
-                     "last_visited_desktop": "13169523488527896",
-                     "stars.flags": "0",
-                     "stars.id": "c_58mujgljbt39",
-                     "stars.imageData": "Em0KZWh0dHBzOi8vMjA2aHdmM2ZqNHc1MnUzYnIwM2ZpMjQyLXdwZW5naW5lLm5ldGRuYS1zc2wuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzAyL3NwYW5PZkNvbnRyb2wucG5nENILGLYHGgA=",
-                     "stars.note": "",
-                     "stars.pageData": "EsUBT3JnYW5pemF0aW9uYWwgVGhlb3J5IGlzbuKAmXQgYSBzY2llbmNlLCB0aG91Z2ggaXQgd291bGQgbGlrZSB0byBiZS4gVW5mb3J0dW5hdGVseSwgYnVpbGRpbmcgYSBzY2llbnRpZmljIGFwcHJvYWNowqByZXF1aXJlcyB1bmRlcnN0YW5kaW5nIGZyb20gYSBudW1iZXIgb2YgZmllbGRzIHRoYXQgdGhlbXNlbHZlcyBhcmUgc3RpbGwgb25seSDigKY=",
-                     "stars.type": "2",
-                     "stars.version": "crx.2.2016.128.11729"
+                     "last_visited_desktop": "13169523488527896"
                   },
                   "name": "Prescientific Organizational Theory",
                   "sync_transaction_version": "1226",
@@ -7872,7 +7812,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1269",
+      "sync_transaction_version": "1271",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
