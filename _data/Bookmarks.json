@@ -2215,8 +2215,11 @@
                      }, {
                         "date_added": "13120327255248441",
                         "id": "11565",
+                        "meta_info": {
+                           "last_visited": "13169854888702554"
+                        },
                         "name": "Manifesto for Software Craftsmanship",
-                        "sync_transaction_version": "851",
+                        "sync_transaction_version": "1274",
                         "type": "url",
                         "url": "http://manifesto.softwarecraftsmanship.org/"
                      }, {
@@ -2277,7 +2280,7 @@
                         "url": "http://devopsdigest.com/why-agile-operations-is-essential-for-devops"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13168273074103852",
+                     "date_modified": "13169854897930092",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -6200,10 +6203,11 @@
                "date_added": "13019147935143000",
                "id": "11011",
                "meta_info": {
-                  "last_visited": "13169128590533386"
+                  "last_visited": "13169128590533386",
+                  "last_visited_desktop": "13169755160280033"
                },
                "name": "CRA login services",
-               "sync_transaction_version": "1048",
+               "sync_transaction_version": "1272",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6224,15 +6228,15 @@
                "date_added": "13039909004176784",
                "id": "11014",
                "meta_info": {
-                  "last_visited_desktop": "13168195480844917"
+                  "last_visited_desktop": "13169754694541341"
                },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "799",
+               "sync_transaction_version": "1272",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13169140829355648",
+            "date_modified": "13169812788876893",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7667,10 +7671,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13169505689096413"
+               "last_visited_desktop": "13169755484986308"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1178",
+            "sync_transaction_version": "1272",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7806,13 +7810,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13169524452315470",
+         "date_modified": "13169812788876903",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1271",
+      "sync_transaction_version": "1275",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7829,7 +7833,7 @@
                "last_visited_desktop": "13167494492283307"
             },
             "name": "Viva Las VegaStamps!",
-            "sync_transaction_version": "740",
+            "sync_transaction_version": "1275",
             "type": "url",
             "url": "http://vivalas.blogspot.ca/"
          }, {
@@ -7865,7 +7869,7 @@
             "url": "https://www1.movieonline.tv/movies/hinterland-season-3/hinterland-season-3-episode-05.html"
          } ],
          "date_added": "13072067208261710",
-         "date_modified": "13169010044629376",
+         "date_modified": "13169867720978288",
          "id": "3",
          "name": "Mobile bookmarks",
          "sync_transaction_version": "3",
