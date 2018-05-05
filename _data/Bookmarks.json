@@ -1,15 +1,15 @@
 {
-   "checksum": "df54fafa92c76931bbcb212773f2b9ba",
+   "checksum": "39094dca79bb08842d170b931dde60c8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13169521960313064"
+               "last_visited_desktop": "13169945539920245"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1188",
+            "sync_transaction_version": "1294",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2570,9 +2570,26 @@
                      "sync_transaction_version": "861",
                      "type": "url",
                      "url": "http://www.infoq.com/articles/agile-in-waterfall-world"
+                  }, {
+                     "date_added": "13169939583540842",
+                     "id": "11936",
+                     "meta_info": {
+                        "last_visited_desktop": "13169939583542587",
+                        "stars.flags": "0",
+                        "stars.id": "c_g5vhjgsf261r",
+                        "stars.imageData": "ElcKT2h0dHBzOi8vbHVpcy1nb25jYWx2ZXMuY29tL2NvbnRlbnQvdXBsb2Fkcy8yMDE0LzA4L09yZ2FuaXNhdGlvbmFsLVN0cnVjdHVyZS5wbmcQlwoYiQcaAA==",
+                        "stars.note": "",
+                        "stars.pageData": "EpwBT3JnYW5pc2F0aW9uYWwgc3RydWN0dXJlIGlzIHNvbWV0aGluZyBleHRyZW1lbHkgaW1wb3J0YW50IGZvciB0aGUgc3VjY2VzcyBvZiBhIGNvbXBhbnkuIEluIHRoaXMgcG9zdCBJIHdpbGwgZXhwbGFpbiBob3cgTWF0cml4IG9yZ2FuaXNhdGlvbnMgaHVydCBjb21wYW5pZXMu",
+                        "stars.type": "2",
+                        "stars.version": "crx.2.2016.128.11729"
+                     },
+                     "name": "Organisational structure: Matrix Organisation harms your company",
+                     "sync_transaction_version": "1295",
+                     "type": "url",
+                     "url": "https://luis-goncalves.com/organisational-structure-matrix-organisation/"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13168273139986555",
+                  "date_modified": "13169939597032192",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -6218,20 +6235,13 @@
                "type": "url",
                "url": "https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=8537704&V_TOKEN=1371843094866&crpNm=&crpNmbr=8537704&bsNmbr="
             }, {
-               "date_added": "13019147935146275",
-               "id": "11013",
-               "name": "QuickBooks Online",
-               "sync_transaction_version": "427",
-               "type": "url",
-               "url": "https://qbo.intuit.com/qbo35/login?locale=en_CA"
-            }, {
                "date_added": "13039909004176784",
                "id": "11014",
                "meta_info": {
-                  "last_visited_desktop": "13169754694541341"
+                  "last_visited_desktop": "13169916131768910"
                },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1272",
+               "sync_transaction_version": "1276",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7671,10 +7681,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13169755484986308"
+               "last_visited_desktop": "13169936722774390"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1272",
+            "sync_transaction_version": "1278",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7810,13 +7820,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13169812788876903",
+         "date_modified": "13169939583540842",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1275",
+      "sync_transaction_version": "1295",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7829,11 +7839,11 @@
             "date_added": "13166064583315382",
             "id": "11886",
             "meta_info": {
-               "last_visited": "13166064583317656",
+               "last_visited": "13169939251582177",
                "last_visited_desktop": "13167494492283307"
             },
             "name": "Viva Las VegaStamps!",
-            "sync_transaction_version": "1275",
+            "sync_transaction_version": "1284",
             "type": "url",
             "url": "http://vivalas.blogspot.ca/"
          }, {
@@ -7869,7 +7879,7 @@
             "url": "https://www1.movieonline.tv/movies/hinterland-season-3/hinterland-season-3-episode-05.html"
          } ],
          "date_added": "13072067208261710",
-         "date_modified": "13169867720978288",
+         "date_modified": "13169939254784329",
          "id": "3",
          "name": "Mobile bookmarks",
          "sync_transaction_version": "3",
