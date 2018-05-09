@@ -6139,8 +6139,11 @@
             }, {
                "date_added": "13120327255094009",
                "id": "11024",
+               "meta_info": {
+                  "last_visited_desktop": "13170278972950910"
+               },
                "name": "iCloud - Find My iPhone",
-               "sync_transaction_version": "3",
+               "sync_transaction_version": "1304",
                "type": "url",
                "url": "https://www.icloud.com/#find"
             }, {
@@ -6211,7 +6214,7 @@
                "url": "https://admin.1and1.ca/domains-dashboard"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13169523288908014",
+            "date_modified": "13170278988368211",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7827,7 +7830,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1302",
+      "sync_transaction_version": "1304",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
