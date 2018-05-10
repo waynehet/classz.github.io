@@ -67,11 +67,11 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13169436291103632",
-               "last_visited_desktop": "13170206190424093"
+               "last_visited": "13170332434306051",
+               "last_visited_desktop": "13170355862198201"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1302",
+            "sync_transaction_version": "1306",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
@@ -2021,8 +2021,11 @@
                   }, {
                      "date_added": "13120327256327654",
                      "id": "11643",
+                     "meta_info": {
+                        "last_visited": "13170365374032233"
+                     },
                      "name": "10 Persona Tips for Agile Product Management | Roman Pichler",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1307",
                      "type": "url",
                      "url": "http://www.romanpichler.com/blog/agile-product-innovation/10-persona-tips-agile-product-management/"
                   }, {
@@ -2114,7 +2117,7 @@
                      "url": "https://www.ebgconsulting.com/blog/product-manager-product-owner-part-2/"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13169523709798091",
+                  "date_modified": "13170365815484727",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -2575,14 +2578,7 @@
                      "date_added": "13169939583540842",
                      "id": "11936",
                      "meta_info": {
-                        "last_visited_desktop": "13169939583542587",
-                        "stars.flags": "0",
-                        "stars.id": "c_g5vhjgsf261r",
-                        "stars.imageData": "ElcKT2h0dHBzOi8vbHVpcy1nb25jYWx2ZXMuY29tL2NvbnRlbnQvdXBsb2Fkcy8yMDE0LzA4L09yZ2FuaXNhdGlvbmFsLVN0cnVjdHVyZS5wbmcQlwoYiQcaAA==",
-                        "stars.note": "",
-                        "stars.pageData": "EpwBT3JnYW5pc2F0aW9uYWwgc3RydWN0dXJlIGlzIHNvbWV0aGluZyBleHRyZW1lbHkgaW1wb3J0YW50IGZvciB0aGUgc3VjY2VzcyBvZiBhIGNvbXBhbnkuIEluIHRoaXMgcG9zdCBJIHdpbGwgZXhwbGFpbiBob3cgTWF0cml4IG9yZ2FuaXNhdGlvbnMgaHVydCBjb21wYW5pZXMu",
-                        "stars.type": "2",
-                        "stars.version": "crx.2.2016.128.11729"
+                        "last_visited_desktop": "13169939583542587"
                      },
                      "name": "Organisational structure: Matrix Organisation harms your company",
                      "sync_transaction_version": "1295",
@@ -7830,7 +7826,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1304",
+      "sync_transaction_version": "1307",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
