@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13170041724365880"
+               "last_visited_desktop": "13170529152977453"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1300",
+            "sync_transaction_version": "1317",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -68,15 +68,15 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13170477391762556",
-               "last_visited_desktop": "13170465635883187"
+               "last_visited_desktop": "13170551436828686"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1315",
+            "sync_transaction_version": "1319",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13169078095660930",
+         "date_modified": "13170529167294085",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7826,7 +7826,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1315",
+      "sync_transaction_version": "1319",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
