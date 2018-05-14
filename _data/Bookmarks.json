@@ -1,5 +1,5 @@
 {
-   "checksum": "39094dca79bb08842d170b931dde60c8",
+   "checksum": "df57fbdad4545d880ba8062d2c8f83ec",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -267,9 +267,26 @@
                         "sync_transaction_version": "928",
                         "type": "url",
                         "url": "https://tobysinclairblog.wordpress.com/coaching-toolkit-100-techniques-approaches-and-materials/"
+                     }, {
+                        "date_added": "13170691517063337",
+                        "id": "11938",
+                        "meta_info": {
+                           "last_visited_desktop": "13170691517063627",
+                           "stars.flags": "0",
+                           "stars.id": "c_3ndujh4uqpo5",
+                           "stars.imageData": "EkkKQWh0dHA6Ly93d3cuYWdpbGVjb2FjaC5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAxMi8wMy9Zb3VySGlyZWQuanBnEJADGKwCGgA=",
+                           "stars.note": "",
+                           "stars.pageData": "EssCU2FsbHksIHRoZSByZWNydWl0ZXIsIGNhbGxlZCBtZSB1cCB0aGUgb3RoZXIgZGF5LCDigJxIZXkgSmFja3NvbiwgSeKAmXZlIGdvdCBhIGdyZWF0IG9wcG9ydHVuaXR5IGZvciBhbiBBZ2lsZSBDb2FjaCEgwqBJIHNhdyB5b3VyIHJlc3VtZSBzYWlkIFNjcnVtLCBzb21ldGhpbmctb3Itb3RoZXIsIGFuZCB5b3XigJlkIGJlIHBlcmZlY3QhISBIb3cgbXVjaCBkbyB5b3UgY2hhcmdlIHBlciBob3VyP+KAnC4gwqBKYWNrc29uIGhhZCBiZWVuIGNvYWNoaW5nIGZvciBhIGZldyB5ZWFycyBhbmQgd2FzIGludGVyZXN0ZWQgdG8gbGVhcm4gYSBiaXQgbW9yZS4gwqDigJxXZeKAmWxsIOKApg==",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "How to Hire an Agile Coach - Jason Little",
+                        "sync_transaction_version": "1322",
+                        "type": "url",
+                        "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13168273234226876",
+                     "date_modified": "13170691550581751",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -2800,7 +2817,7 @@
                      "last_visited_desktop": "13169523219493074"
                   },
                   "name": "Systems Thinking and Complexity - Online Course",
-                  "sync_transaction_version": "1213",
+                  "sync_transaction_version": "1323",
                   "type": "url",
                   "url": "https://www.futurelearn.com/courses/systems-thinking-complexity"
                }, {
@@ -2810,7 +2827,7 @@
                      "last_visited_desktop": "13169523376399280"
                   },
                   "name": "Systems thinking and practice - OpenLearn - Open University - T551_1",
-                  "sync_transaction_version": "1219",
+                  "sync_transaction_version": "1324",
                   "type": "url",
                   "url": "http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/systems-computer/systems-thinking-and-practice/content-section-0?active-tab=description-tab"
                }, {
@@ -2820,7 +2837,7 @@
                      "last_visited_desktop": "13169523488527896"
                   },
                   "name": "Prescientific Organizational Theory",
-                  "sync_transaction_version": "1226",
+                  "sync_transaction_version": "1325",
                   "type": "url",
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
@@ -7820,13 +7837,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13169939583540842",
+         "date_modified": "13170691517063337",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1319",
+      "sync_transaction_version": "1325",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
