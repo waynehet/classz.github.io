@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13170529152977453"
+               "last_visited_desktop": "13170819366342308"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1317",
+            "sync_transaction_version": "1330",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -68,15 +68,15 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13170477391762556",
-               "last_visited_desktop": "13170551436828686"
+               "last_visited_desktop": "13170795918175887"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1319",
+            "sync_transaction_version": "1328",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13170529167294085",
+         "date_modified": "13170786270130577",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -271,14 +271,7 @@
                         "date_added": "13170691517063337",
                         "id": "11938",
                         "meta_info": {
-                           "last_visited_desktop": "13170691517063627",
-                           "stars.flags": "0",
-                           "stars.id": "c_3ndujh4uqpo5",
-                           "stars.imageData": "EkkKQWh0dHA6Ly93d3cuYWdpbGVjb2FjaC5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAxMi8wMy9Zb3VySGlyZWQuanBnEJADGKwCGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "EssCU2FsbHksIHRoZSByZWNydWl0ZXIsIGNhbGxlZCBtZSB1cCB0aGUgb3RoZXIgZGF5LCDigJxIZXkgSmFja3NvbiwgSeKAmXZlIGdvdCBhIGdyZWF0IG9wcG9ydHVuaXR5IGZvciBhbiBBZ2lsZSBDb2FjaCEgwqBJIHNhdyB5b3VyIHJlc3VtZSBzYWlkIFNjcnVtLCBzb21ldGhpbmctb3Itb3RoZXIsIGFuZCB5b3XigJlkIGJlIHBlcmZlY3QhISBIb3cgbXVjaCBkbyB5b3UgY2hhcmdlIHBlciBob3VyP+KAnC4gwqBKYWNrc29uIGhhZCBiZWVuIGNvYWNoaW5nIGZvciBhIGZldyB5ZWFycyBhbmQgd2FzIGludGVyZXN0ZWQgdG8gbGVhcm4gYSBiaXQgbW9yZS4gwqDigJxXZeKAmWxsIOKApg==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13170691517063627"
                         },
                         "name": "How to Hire an Agile Coach - Jason Little",
                         "sync_transaction_version": "1322",
@@ -7843,7 +7836,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1325",
+      "sync_transaction_version": "1330",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
