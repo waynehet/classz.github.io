@@ -5,78 +5,55 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13170819366342308"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1330",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
-            "meta_info": {
-               "last_visited": "13169077385110932",
-               "last_visited_desktop": "13168295245136839"
-            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "1046",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
-            "meta_info": {
-               "last_visited_desktop": "13167837917778481"
-            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "782",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
             "date_added": "13120327255091846",
             "id": "9637",
-            "meta_info": {
-               "last_visited_desktop": "13167877686277411"
-            },
             "name": "Trello",
-            "sync_transaction_version": "818",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "https://trello.com/"
          }, {
             "date_added": "13120327255011893",
             "id": "9633",
-            "meta_info": {
-               "last_visited_desktop": "13168130716359940"
-            },
             "name": "The Code Project",
-            "sync_transaction_version": "794",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://www.codeproject.com/"
          }, {
             "date_added": "13120327255007648",
             "id": "9634",
-            "meta_info": {
-               "last_visited_desktop": "13167837970380005"
-            },
             "name": "MSDN Canada",
-            "sync_transaction_version": "782",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://msdn2.microsoft.com/en-ca/default.aspx"
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited": "13170477391762556",
-               "last_visited_desktop": "13170893596379972"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1331",
+            "sync_transaction_version": "1338",
             "type": "url",
             "url": "http://solarmovie.net/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13170786270130577",
+         "date_modified": "13170951422842032",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -90,58 +67,41 @@
                      "children": [ {
                         "date_added": "13165782499614959",
                         "id": "11878",
-                        "meta_info": {
-                           "last_visited_desktop": "13165782619535807"
-                        },
                         "name": "Atlassian - Home - CertMetrics",
-                        "sync_transaction_version": "876",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.certmetrics.com/atlassian/"
                      }, {
                         "date_added": "13165782641220632",
                         "id": "11880",
-                        "meta_info": {
-                           "last_visited": "13169006898375646",
-                           "last_visited_desktop": "13165782641221219"
-                        },
                         "name": "Get Certified | Atlassian",
-                        "sync_transaction_version": "1041",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.atlassian.com/university/certification"
                      }, {
                         "date_added": "13165782686652467",
                         "id": "11881",
-                        "meta_info": {
-                           "last_visited_desktop": "13165782926796678"
-                        },
                         "name": "Training - Atlassian Training",
-                        "sync_transaction_version": "878",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://training.atlassian.com/"
                      }, {
                         "date_added": "13165783576745718",
                         "id": "11882",
-                        "meta_info": {
-                           "last_visited": "13167453131752771",
-                           "last_visited_desktop": "13165783576746437"
-                        },
                         "name": "Here Be Dragons - Atlassian Documentation",
-                        "sync_transaction_version": "735",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://confluence.atlassian.com/atlas/guide-to-installing-an-atlassian-integrated-suite/here-be-dragons"
                      }, {
                         "date_added": "13168296008288329",
                         "id": "11913",
-                        "meta_info": {
-                           "last_visited_desktop": "13168296008289133"
-                        },
                         "name": "\"Team building\" activities that work | Atlassian Team Playbook",
-                        "sync_transaction_version": "948",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.atlassian.com/team-playbook"
                      } ],
                      "date_added": "13165782523183989",
-                     "date_modified": "13169006903894335",
+                     "date_modified": "13170951422840413",
                      "id": "11879",
                      "name": "Atlassian",
                      "sync_transaction_version": "879",
@@ -149,42 +109,32 @@
                   }, {
                      "date_added": "13120327255243828",
                      "id": "11862",
-                     "meta_info": {
-                        "last_visited": "13169077385062860",
-                        "last_visited_desktop": "13168295244969830"
-                     },
                      "name": "Scrum Alliance - Transforming the World of Work",
-                     "sync_transaction_version": "1046",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.scrumalliance.org/"
                   }, {
                      "date_added": "13120327255245383",
                      "id": "11863",
-                     "meta_info": {
-                        "last_visited_desktop": "13168295249553546"
-                     },
                      "name": "Scrum.org | Training, Assessments, Certifications - Scrum.org",
-                     "sync_transaction_version": "883",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.scrum.org/"
                   }, {
                      "date_added": "13120327255251465",
                      "id": "11864",
-                     "meta_info": {
-                        "last_visited": "13168029772645383"
-                     },
                      "name": "Lean Agile Training | Certified ScrumMaster training | Agile Training",
-                     "sync_transaction_version": "1258",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://leanagiletraining.com/index.html"
                   }, {
                      "date_added": "13120327255286560",
                      "id": "11865",
                      "meta_info": {
-                        "last_visited": "13168469519312435"
+                        "last_visited": "13170954081463890"
                      },
                      "name": "Communication Coaching & Training that Promotes Shared Understanding",
-                     "sync_transaction_version": "980",
+                     "sync_transaction_version": "1335",
                      "type": "url",
                      "url": "http://itsunderstood.com/"
                   }, {
@@ -197,11 +147,8 @@
                   }, {
                      "date_added": "13120327255261128",
                      "id": "11867",
-                     "meta_info": {
-                        "last_visited": "13168867703630839"
-                     },
                      "name": "Ken Schwaber's Blog: Telling It Like It Is",
-                     "sync_transaction_version": "1040",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://kenschwaber.wordpress.com/"
                   }, {
@@ -221,16 +168,13 @@
                   }, {
                      "date_added": "13120327255308548",
                      "id": "11870",
-                     "meta_info": {
-                        "last_visited": "13168457906538162"
-                     },
                      "name": "Play4Agile North America | #Play4Agile is a community unconference focused on helping people, teams & organisations to transform through games and playful approaches. The next North American event will be the weekend of Sept 11-13/2015, just outside Toron",
-                     "sync_transaction_version": "981",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://play4agilenorthamerica.wordpress.com/"
                   } ],
                   "date_added": "13163364262792440",
-                  "date_modified": "13169078095661517",
+                  "date_modified": "13170954112079255",
                   "id": "11538",
                   "name": "Blogs and Sites",
                   "sync_transaction_version": "3",
@@ -240,46 +184,34 @@
                      "children": [ {
                         "date_added": "13140811709376047",
                         "id": "11567",
-                        "meta_info": {
-                           "last_visited_desktop": "13168295953043059"
-                        },
                         "name": "Agile - best practices and tutorials The Agile Coach",
-                        "sync_transaction_version": "888",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.atlassian.com/agile"
                      }, {
                         "date_added": "13167603802557462",
                         "id": "11899",
-                        "meta_info": {
-                           "last_visited_desktop": "13167603802557761"
-                        },
                         "name": "Wheel of Life | Free Online Assessment",
-                        "sync_transaction_version": "834",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://wheeloflife.noomii.com/"
                      }, {
                         "date_added": "13168273215578422",
                         "id": "11910",
-                        "meta_info": {
-                           "last_visited_desktop": "13168273215579141"
-                        },
                         "name": "My Coaching Toolkit – 100+ Exercises, Assessments and Resources – Toby Sinclair",
-                        "sync_transaction_version": "928",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://tobysinclairblog.wordpress.com/coaching-toolkit-100-techniques-approaches-and-materials/"
                      }, {
                         "date_added": "13170691517063337",
                         "id": "11938",
-                        "meta_info": {
-                           "last_visited_desktop": "13170691517063627"
-                        },
                         "name": "How to Hire an Agile Coach - Jason Little",
-                        "sync_transaction_version": "1322",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13170691550581751",
+                     "date_modified": "13170951422841689",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -288,11 +220,8 @@
                      "children": [ {
                         "date_added": "13120327257233880",
                         "id": "11857",
-                        "meta_info": {
-                           "last_visited_desktop": "13168295257873527"
-                        },
                         "name": "It's Not Just Standing Up: Patterns for Daily Standup Meetings",
-                        "sync_transaction_version": "885",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://martinfowler.com/articles/itsNotJustStandingUp.html"
                      }, {
@@ -326,11 +255,8 @@
                      }, {
                         "date_added": "13168398461067412",
                         "id": "11915",
-                        "meta_info": {
-                           "last_visited_desktop": "13168398461067716"
-                        },
                         "name": "Missing the point: 3 features of the unproductive Daily Meetings",
-                        "sync_transaction_version": "930",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/missing-point-daily-meeting-c%C3%A9sar-bruschi/"
                      }, {
@@ -342,7 +268,7 @@
                         "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13168398619664335",
+                     "date_modified": "13170951422842162",
                      "id": "11768",
                      "name": "Daily Scrum",
                      "sync_transaction_version": "929",
@@ -379,11 +305,8 @@
                      }, {
                         "date_added": "13120327257241509",
                         "id": "11847",
-                        "meta_info": {
-                           "last_visited_desktop": "13168300304162609"
-                        },
                         "name": "ScrumCrazy - Worst Practice - The Sprint Review as a Signoff Meeting",
-                        "sync_transaction_version": "903",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.scrumcrazy.com/Worst+Practice+-+The+Sprint+Review+as+a+Signoff+Meeting"
                      }, {
@@ -437,7 +360,7 @@
                         "url": "http://agile.dzone.com/articles/sprint-reviews-practice"
                      } ],
                      "date_added": "13163364262836154",
-                     "date_modified": "13163364262836154",
+                     "date_modified": "13170951422842141",
                      "id": "11769",
                      "name": "Sprint Review",
                      "sync_transaction_version": "3",
@@ -537,36 +460,27 @@
                      }, {
                         "date_added": "13167585272033948",
                         "id": "11897",
-                        "meta_info": {
-                           "last_visited_desktop": "13167585272034592"
-                        },
                         "name": "Retrospective Smells: Passiveness - Ben Linders",
-                        "sync_transaction_version": "819",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.benlinders.com/2018/retrospective-smell-passiveness/"
                      }, {
                         "date_added": "13169521267409120",
                         "id": "11926",
-                        "meta_info": {
-                           "last_visited_desktop": "13169521267409355"
-                        },
                         "name": "goReflect | Free Online Retrospectives",
-                        "sync_transaction_version": "1170",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.goreflect.com/"
                      }, {
                         "date_added": "13169523590336164",
                         "id": "11933",
-                        "meta_info": {
-                           "last_visited_desktop": "13169523590337052"
-                        },
                         "name": "21 Sprint Retrospective Anti-Patterns Impeding Scrum Teams | LinkedIn",
-                        "sync_transaction_version": "1233",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/21-sprint-retrospective-anti-patterns-impeding-scrum-teams-wolpers/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13169523601828796",
+                     "date_modified": "13170951422841077",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -589,11 +503,8 @@
                      }, {
                         "date_added": "13120327257281136",
                         "id": "11824",
-                        "meta_info": {
-                           "last_visited_desktop": "13163394556561237"
-                        },
                         "name": "Cultivate Communities of Practice",
-                        "sync_transaction_version": "412",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
                      }, {
@@ -633,7 +544,7 @@
                         "url": "http://lmsgoncalves.com/2013/12/22/study-groups-communities-of-practices/?goback=%2Egde_731527_member_5820669079253454849#%21"
                      } ],
                      "date_added": "13163364262836235",
-                     "date_modified": "13163364262836235",
+                     "date_modified": "13170951422842045",
                      "id": "11771",
                      "name": "CoP",
                      "sync_transaction_version": "3",
@@ -642,11 +553,8 @@
                      "children": [ {
                         "date_added": "13120327257299749",
                         "id": "11821",
-                        "meta_info": {
-                           "last_visited": "13169087824051357"
-                        },
                         "name": "Advice on Conducting the Scrum of Scrums Meeting - Scrum Alliance",
-                        "sync_transaction_version": "1048",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2007/may/advice-on-conducting-the-scrum-of-scrums-meeting"
                      } ],
@@ -688,11 +596,8 @@
                      }, {
                         "date_added": "13120327257306799",
                         "id": "11793",
-                        "meta_info": {
-                           "last_visited_desktop": "13169521793128718"
-                        },
                         "name": "Top 10 reasons why Darth Vader was an amazing project manager - GeekWire",
-                        "sync_transaction_version": "1186",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.geekwire.com/2011/top-10-reasons-darth-vader-amazing-project-manager"
                      }, {
@@ -733,11 +638,8 @@
                      }, {
                         "date_added": "13120327257320332",
                         "id": "11800",
-                        "meta_info": {
-                           "last_visited_desktop": "13169521737726043"
-                        },
                         "name": "Forget Myers-Briggs: To Build a Great Team, Focus on 'Factor C' | Cass Sunstein | LinkedIn",
-                        "sync_transaction_version": "1183",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/forget-myers-briggs-build-great-team-focus-factor-c-cass-sunstein"
                      }, {
@@ -771,11 +673,8 @@
                      }, {
                         "date_added": "13122065121487386",
                         "id": "11805",
-                        "meta_info": {
-                           "last_visited_desktop": "13169521759840577"
-                        },
                         "name": "3 Metrics for Reporting an Agile Pilot to Top Management » Agile Trail",
-                        "sync_transaction_version": "1184",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://agiletrail.com/2011/09/19/3-metrics-for-reporting-an-agile-pilot-to-top-management/"
                      }, {
@@ -837,11 +736,8 @@
                      }, {
                         "date_added": "13120327257324873",
                         "id": "11814",
-                        "meta_info": {
-                           "last_visited_desktop": "13169521857619255"
-                        },
                         "name": "How to Track the Team’s Mood with a Niko-niko Calendar » Agile Trail",
-                        "sync_transaction_version": "1187",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar/"
                      }, {
@@ -882,36 +778,27 @@
                      }, {
                         "date_added": "13167585205568559",
                         "id": "11896",
-                        "meta_info": {
-                           "last_visited_desktop": "13167585205569313"
-                        },
                         "name": "Building Alignment: Team working agreements | Mastering the Obvious",
-                        "sync_transaction_version": "945",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://masteringtheobvious.wordpress.com/2018/04/04/building-alignment-team-working-agreements/"
                      }, {
                         "date_added": "13168655289331557",
                         "id": "11918",
-                        "meta_info": {
-                           "last_visited_desktop": "13168655401384531"
-                        },
                         "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
-                        "sync_transaction_version": "1161",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
                      }, {
                         "date_added": "13169521677921683",
                         "id": "11927",
-                        "meta_info": {
-                           "last_visited_desktop": "13169521677922484"
-                        },
                         "name": "Track and Facilitate Your Engineers’ Flow States In This Simple Way | First Round Review",
-                        "sync_transaction_version": "1177",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-this-simple-way/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13169521692089803",
+                     "date_modified": "13170951422842399",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1003,21 +890,15 @@
                   }, {
                      "date_added": "13120327256244318",
                      "id": "11786",
-                     "meta_info": {
-                        "last_visited": "13169565539556459"
-                     },
                      "name": "32 Scrum master interview questions!",
-                     "sync_transaction_version": "1271",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://lmsgoncalves.com/2014/09/08/40-scrum-master-interview-questions/"
                   }, {
                      "date_added": "13120327256245846",
                      "id": "11787",
-                     "meta_info": {
-                        "last_visited": "13169565322959271"
-                     },
                      "name": "Agile and Scrum Master Interview Questions | Agile Questions Asked in 2015",
-                     "sync_transaction_version": "1271",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://intellipaat.com/interview-question/agile-scrum-master-interview-questions/?utm_source=link%2FscrumIQ_NK&utm_medium=posting&utm_campaign=link%2FscrumIQ_NK%20posting"
                   }, {
@@ -1030,37 +911,27 @@
                   }, {
                      "date_added": "13143066372857308",
                      "id": "11789",
-                     "meta_info": {
-                        "last_visited": "13169565307937641",
-                        "last_visited_desktop": "13166069918311927"
-                     },
                      "name": "ScrumMaster Checklist",
-                     "sync_transaction_version": "1271",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://scrummasterchecklist.org/"
                   }, {
                      "date_added": "13168215087013004",
                      "id": "11905",
-                     "meta_info": {
-                        "last_visited_desktop": "13169522888729014"
-                     },
                      "name": "Checklist - Agile Partnership",
-                     "sync_transaction_version": "1189",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://agilepartnership.com/en/resources/checklist/"
                   }, {
                      "date_added": "13168398729829351",
                      "id": "11916",
-                     "meta_info": {
-                        "last_visited_desktop": "13168398729830067"
-                     },
                      "name": "Sprint Events Are Not a Waste (Unless Done Wrong!)",
-                     "sync_transaction_version": "992",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://www.business2community.com/marketing/sprint-events-not-waste-unless-done-wrong-01892940#4IAZ0MSiaVF0xPwI.97"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13169578061600813",
+                  "date_modified": "13170951422842384",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -1084,11 +955,8 @@
                      }, {
                         "date_added": "13120327257335562",
                         "id": "11751",
-                        "meta_info": {
-                           "last_visited": "13168104833785557"
-                        },
                         "name": "Understanding the Vertical Slice | Simple Programmer",
-                        "sync_transaction_version": "793",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://simpleprogrammer.com/2011/11/21/understanding-the-vertical-slice/"
                      }, {
@@ -1184,7 +1052,7 @@
                         "url": "http://www.jeremyjarrell.com/vertically-slicing-user-stories/"
                      } ],
                      "date_added": "13163364262819467",
-                     "date_modified": "13168115578150739",
+                     "date_modified": "13170951422842040",
                      "id": "11682",
                      "name": "Story Size and Splitting",
                      "sync_transaction_version": "3",
@@ -1235,56 +1103,41 @@
                      }, {
                         "date_added": "13120327257372770",
                         "id": "11745",
-                        "meta_info": {
-                           "last_visited": "13164921895635188"
-                        },
                         "name": "What is the Definition of Done (DoD) in Agile",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.solutionsiq.com/resources/agileiq-blog/bid/64395/What-is-the-Definition-of-Done-DoD-in-Agile#!"
                      }, {
                         "date_added": "13120327257374319",
                         "id": "11746",
-                        "meta_info": {
-                           "last_visited": "13164921733785599"
-                        },
                         "name": "Agile Adoption Roadmap Agile Definition of Done Starter Kit",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      }, {
                         "date_added": "13120327257375931",
                         "id": "11747",
-                        "meta_info": {
-                           "last_visited": "13164921815588051"
-                        },
                         "name": "What is Definition of Done (DoD) - Scrum Alliance",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
                      }, {
                         "date_added": "13120327257377646",
                         "id": "11748",
-                        "meta_info": {
-                           "last_visited": "13164921854361224"
-                        },
                         "name": "Definition of Done  Rally Help",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://prod.help.rallydev.com/definition-done"
                      }, {
                         "date_added": "13165781535665650",
                         "id": "11876",
-                        "meta_info": {
-                           "last_visited_desktop": "13165781535666376"
-                        },
                         "name": "Definition of Ready Exercise Description.pdf - Google Drive",
-                        "sync_transaction_version": "601",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://docs.google.com/file/d/0B2tjUfS_gfL3bXJqZDVaWkVEX3M/edit"
                      } ],
                      "date_added": "13163364262819479",
-                     "date_modified": "13165781548956083",
+                     "date_modified": "13170951422842270",
                      "id": "11683",
                      "name": "Definition of Ready/Done",
                      "sync_transaction_version": "3",
@@ -1293,56 +1146,41 @@
                      "children": [ {
                         "date_added": "13120327257379220",
                         "id": "11735",
-                        "meta_info": {
-                           "last_visited": "13164921733785599"
-                        },
                         "name": "Agile Adoption Roadmap: Agile Definition of Done Starter Kit",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      }, {
                         "date_added": "13120327257380777",
                         "id": "11736",
-                        "meta_info": {
-                           "last_visited": "13164921815588051"
-                        },
                         "name": "What is Definition of Done (DoD)? - Scrum Alliance",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
                      }, {
                         "date_added": "13120327257382431",
                         "id": "11737",
-                        "meta_info": {
-                           "last_visited": "13164921854361224"
-                        },
                         "name": "Definition of Done | Rally Help",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://prod.help.rallydev.com/definition-done"
                      }, {
                         "date_added": "13120327257383961",
                         "id": "11738",
-                        "meta_info": {
-                           "last_visited": "13164921895635188"
-                        },
                         "name": "What is the Definition of Done (DoD) in Agile?",
-                        "sync_transaction_version": "566",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.solutionsiq.com/resources/agileiq-blog/bid/64395/What-is-the-Definition-of-Done-DoD-in-Agile#!"
                      }, {
                         "date_added": "13165781305309660",
                         "id": "11875",
-                        "meta_info": {
-                           "last_visited_desktop": "13165781305309937"
-                        },
                         "name": "Exercise:: Definition of Ready & Done",
-                        "sync_transaction_version": "595",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://agilecomplexificationinverter.blogspot.ca/2011/09/exercise-definition-of-done.html"
                      } ],
                      "date_added": "13163364262819487",
-                     "date_modified": "13165781323546240",
+                     "date_modified": "13170951422841996",
                      "id": "11684",
                      "name": "Definition of Done",
                      "sync_transaction_version": "3",
@@ -1408,12 +1246,8 @@
                      "children": [ {
                         "date_added": "13120327257399962",
                         "id": "11712",
-                        "meta_info": {
-                           "last_visited": "13164125696543429",
-                           "last_visited_desktop": "13164130609172584"
-                        },
                         "name": "Scrum Log Jeff Sutherland: Story Points: Why are they better than hours?",
-                        "sync_transaction_version": "436",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://scrum.jeffsutherland.com/2010/04/story-points-why-are-they-better-than.html"
                      }, {
@@ -1503,26 +1337,20 @@
                      }, {
                         "date_added": "13120327257349225",
                         "id": "11759",
-                        "meta_info": {
-                           "last_visited_desktop": "13169524435306179"
-                        },
                         "name": "Magnifying the Universe",
-                        "sync_transaction_version": "1269",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://www.numbersleuth.org/universe/"
                      }, {
                         "date_added": "13131115513668781",
                         "id": "10786",
-                        "meta_info": {
-                           "last_visited_desktop": "13169524258407396"
-                        },
                         "name": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-                        "sync_transaction_version": "1263",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
                      } ],
                      "date_added": "13163364262819506",
-                     "date_modified": "13169524465068240",
+                     "date_modified": "13170951422842333",
                      "id": "11686",
                      "name": "Estimation",
                      "sync_transaction_version": "3",
@@ -1635,11 +1463,8 @@
                   }, {
                      "date_added": "13120327256281141",
                      "id": "11702",
-                     "meta_info": {
-                        "last_visited_desktop": "13164130755200158"
-                     },
                      "name": "There Should be Tracer Bullets in Each Sprint | c0nnexx10n : C0nnect1ng L1fe w1th Techn010gy",
-                     "sync_transaction_version": "436",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://vikashazrati.wordpress.com/2010/03/10/there-should-be-tracer-bullets-in-each-sprint/"
                   }, {
@@ -1707,7 +1532,7 @@
                      "url": "https://www.linkedin.com/pulse/putting-story-back-user-paul-goddard?trk=v-feed"
                   } ],
                   "date_added": "13163364262792485",
-                  "date_modified": "13164165816404708",
+                  "date_modified": "13170951422842379",
                   "id": "11540",
                   "name": "User Stories",
                   "sync_transaction_version": "3",
@@ -1724,11 +1549,8 @@
                      }, {
                         "date_added": "13120327257422236",
                         "id": "11669",
-                        "meta_info": {
-                           "last_visited_desktop": "13169523779722049"
-                        },
                         "name": "Agile & Business Release Planning Business Value",
-                        "sync_transaction_version": "1248",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://agileconsortium.blogspot.ca/2012/04/release-planning-business-value.html"
                      }, {
@@ -1755,11 +1577,8 @@
                      }, {
                         "date_added": "13120327257430761",
                         "id": "11673",
-                        "meta_info": {
-                           "last_visited_desktop": "13169523829781664"
-                        },
                         "name": "Predictive *AND* Adaptive Planning | Pragilematic",
-                        "sync_transaction_version": "1250",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://anagilestory.com/2011/11/17/predictive-and-adaptive-planning-2/"
                      }, {
@@ -1800,26 +1619,20 @@
                      }, {
                         "date_added": "13120327257442081",
                         "id": "11680",
-                        "meta_info": {
-                           "last_visited_desktop": "13169523970625802"
-                        },
                         "name": "Understanding the Pareto Principle (The 80/20 Rule) | BetterExplained",
-                        "sync_transaction_version": "1257",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/"
                      }, {
                         "date_added": "13139412328945807",
                         "id": "11585",
-                        "meta_info": {
-                           "last_visited_desktop": "13169523675239430"
-                        },
                         "name": "28 Product Backlog Anti-Patterns – Agile Transition",
-                        "sync_transaction_version": "1246",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://age-of-product.com/28-product-backlog-anti-patterns/"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13169523732312694",
+                     "date_modified": "13170951422842166",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -1919,27 +1732,20 @@
                      }, {
                         "date_added": "13165856537970447",
                         "id": "11884",
-                        "meta_info": {
-                           "last_visited_desktop": "13165856537971196"
-                        },
                         "name": "Doing Team Metrics Right - Focused Objective",
-                        "sync_transaction_version": "1204",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://focusedobjective.com/team-metrics-right/"
                      }, {
                         "date_added": "13169523081306802",
                         "id": "11929",
-                        "meta_info": {
-                           "last_visited": "13170033895783069",
-                           "last_visited_desktop": "13169523081307496"
-                        },
                         "name": "Agile Metrics: A GQM Approach -LeadingAgile",
-                        "sync_transaction_version": "1297",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2017/05/agile-metrics-gqm-approach/"
                      } ],
                      "date_added": "13163364262809704",
-                     "date_modified": "13169523123264596",
+                     "date_modified": "13170951422841743",
                      "id": "11630",
                      "name": "Metrics",
                      "sync_transaction_version": "3",
@@ -2031,11 +1837,8 @@
                   }, {
                      "date_added": "13120327256327654",
                      "id": "11643",
-                     "meta_info": {
-                        "last_visited": "13170365374032233"
-                     },
                      "name": "10 Persona Tips for Agile Product Management | Roman Pichler",
-                     "sync_transaction_version": "1307",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.romanpichler.com/blog/agile-product-innovation/10-persona-tips-agile-product-management/"
                   }, {
@@ -2118,16 +1921,13 @@
                   }, {
                      "date_added": "13166413500031094",
                      "id": "11890",
-                     "meta_info": {
-                        "last_visited_desktop": "13166413500031374"
-                     },
                      "name": "Am I a Product Manager or a Product Owner? Part 2 - EBG Consulting",
-                     "sync_transaction_version": "832",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://www.ebgconsulting.com/blog/product-manager-product-owner-part-2/"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13170365815484727",
+                  "date_modified": "13170951422842343",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -2229,11 +2029,8 @@
                      }, {
                         "date_added": "13120327255248441",
                         "id": "11565",
-                        "meta_info": {
-                           "last_visited": "13169854888702554"
-                        },
                         "name": "Manifesto for Software Craftsmanship",
-                        "sync_transaction_version": "1274",
+                        "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "http://manifesto.softwarecraftsmanship.org/"
                      }, {
@@ -2294,7 +2091,7 @@
                         "url": "http://devopsdigest.com/why-agile-operations-is-essential-for-devops"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13169854897930092",
+                     "date_modified": "13170951422842023",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -2302,11 +2099,8 @@
                   }, {
                      "date_added": "13169506652200977",
                      "id": "11924",
-                     "meta_info": {
-                        "last_visited_desktop": "13169506794891003"
-                     },
                      "name": "Wayne's Comparative Agility Dashboard",
-                     "sync_transaction_version": "1164",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://www.comparativeagility.com/admin/account/profile"
                   }, {
@@ -2417,17 +2211,13 @@
                   }, {
                      "date_added": "13168272615136266",
                      "id": "11909",
-                     "meta_info": {
-                        "last_visited": "13168474861703205",
-                        "last_visited_desktop": "13168272615136451"
-                     },
                      "name": "scrumblr",
-                     "sync_transaction_version": "981",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://scrumblr.ca/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13169506691952587",
+                  "date_modified": "13170951422842018",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -2436,11 +2226,8 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
-                     "meta_info": {
-                        "last_visited": "13164839325987992"
-                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "1031",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2488,17 +2275,13 @@
                   }, {
                      "date_added": "13120327256400773",
                      "id": "11598",
-                     "meta_info": {
-                        "last_visited": "13163813219494903",
-                        "last_visited_desktop": "13163439818433398"
-                     },
                      "name": "Gargoyle Software",
-                     "sync_transaction_version": "433",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.gargoylesoftware.com/ex"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13168662002613776",
+                  "date_modified": "13170951422841992",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -2556,11 +2339,8 @@
                   }, {
                      "date_added": "13144359005485029",
                      "id": "11587",
-                     "meta_info": {
-                        "last_visited_desktop": "13168300596873488"
-                     },
                      "name": "Choosing the Right Agile Pilot Project",
-                     "sync_transaction_version": "917",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.romanpichler.com/blog/choosing-the-right-agile-pilot-project/"
                   }, {
@@ -2587,16 +2367,13 @@
                   }, {
                      "date_added": "13169939583540842",
                      "id": "11936",
-                     "meta_info": {
-                        "last_visited_desktop": "13169939583542587"
-                     },
                      "name": "Organisational structure: Matrix Organisation harms your company",
-                     "sync_transaction_version": "1295",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://luis-goncalves.com/organisational-structure-matrix-organisation/"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13169939597032192",
+                  "date_modified": "13170951422842256",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -2640,11 +2417,8 @@
                   }, {
                      "date_added": "13120327256236510",
                      "id": "11572",
-                     "meta_info": {
-                        "last_visited_desktop": "13168300489849521"
-                     },
                      "name": "How to assess your organization culture in one question | #hypertextual",
-                     "sync_transaction_version": "914",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://thehypertextual.com/2014/04/09/how-to-assess-your-organization-culture-in-one-question/"
                   }, {
@@ -2699,26 +2473,20 @@
                   }, {
                      "date_added": "13169522985109127",
                      "id": "11928",
-                     "meta_info": {
-                        "last_visited_desktop": "13169522985109866"
-                     },
                      "name": "What Does an Agile Culture Look Like? – everydayAgile // Engineering Agile Culture",
-                     "sync_transaction_version": "1196",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://everydayagile.com/what-does-an-agile-culture-look-like-ab14c5724e91"
                   }, {
                      "date_added": "13169523654996884",
                      "id": "11934",
-                     "meta_info": {
-                        "last_visited_desktop": "13169523654997573"
-                     },
                      "name": "Lean Change Management in Action | Lean Change Management",
-                     "sync_transaction_version": "1239",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://leanchange.org/2017/05/lean-change-management-in-action/"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13169523663328532",
+                  "date_modified": "13170951422842158",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -2726,11 +2494,8 @@
                }, {
                   "date_added": "13120327255246958",
                   "id": "11547",
-                  "meta_info": {
-                     "last_visited_desktop": "13168224319362281"
-                  },
                   "name": "Home | Scrum Guides",
-                  "sync_transaction_version": "810",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.scrumguides.org/?mkt_tok=3RkMMJWWfF9wsRonuqzAZKXonjHpfsX56u4kX6Sg38431UFwdcjKPmjr1YIBRMR0aPyQAgobGp5I5FENS7DYT7Rot6ANXA%3D%3D"
                }, {
@@ -2806,36 +2571,27 @@
                }, {
                   "date_added": "13169523219492308",
                   "id": "11930",
-                  "meta_info": {
-                     "last_visited_desktop": "13169523219493074"
-                  },
                   "name": "Systems Thinking and Complexity - Online Course",
-                  "sync_transaction_version": "1323",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "https://www.futurelearn.com/courses/systems-thinking-complexity"
                }, {
                   "date_added": "13169523376398390",
                   "id": "11931",
-                  "meta_info": {
-                     "last_visited_desktop": "13169523376399280"
-                  },
                   "name": "Systems thinking and practice - OpenLearn - Open University - T551_1",
-                  "sync_transaction_version": "1324",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/systems-computer/systems-thinking-and-practice/content-section-0?active-tab=description-tab"
                }, {
                   "date_added": "13169523488527270",
                   "id": "11932",
-                  "meta_info": {
-                     "last_visited_desktop": "13169523488527896"
-                  },
                   "name": "Prescientific Organizational Theory",
-                  "sync_transaction_version": "1325",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13169523497087955",
+               "date_modified": "13170951422842280",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -2936,11 +2692,8 @@
                   }, {
                      "date_added": "13120327256464674",
                      "id": "11487",
-                     "meta_info": {
-                        "last_visited_desktop": "13168300350638512"
-                     },
                      "name": "SOLID Code for SOLID Reasons the pluralsight blog",
-                     "sync_transaction_version": "904",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://blog.pluralsight.com/2012/05/22/solid-code-for-solid-reasons/"
                   }, {
@@ -2980,7 +2733,7 @@
                      "url": "http://www.codeproject.com/KB/cs/LinFu_IOC.aspx"
                   } ],
                   "date_added": "13163364262741019",
-                  "date_modified": "13163364262741019",
+                  "date_modified": "13170951422842328",
                   "id": "11248",
                   "name": "Architecture & Patterns",
                   "sync_transaction_version": "3",
@@ -2989,11 +2742,8 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
-                     "meta_info": {
-                        "last_visited_desktop": "13167837917778481"
-                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "782",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -3040,7 +2790,7 @@
                      "url": "http://queue.acm.org/index.cfm"
                   } ],
                   "date_added": "13163364262741030",
-                  "date_modified": "13167874780140402",
+                  "date_modified": "13170951422841987",
                   "id": "11249",
                   "name": "ACM",
                   "sync_transaction_version": "3",
@@ -3387,11 +3137,8 @@
                   }, {
                      "date_added": "13120327256500876",
                      "id": "11418",
-                     "meta_info": {
-                        "last_visited_desktop": "13168300370753506"
-                     },
                      "name": "A List Apart: Articles: Get Started with Git",
-                     "sync_transaction_version": "907",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.alistapart.com/articles/get-started-with-git/"
                   }, {
@@ -3460,11 +3207,8 @@
                   }, {
                      "date_added": "13120327256517386",
                      "id": "11428",
-                     "meta_info": {
-                        "last_visited_desktop": "13168300370753506"
-                     },
                      "name": "A List Apart&#58; Articles&#58; Get Started with Git",
-                     "sync_transaction_version": "908",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.alistapart.com/articles/get-started-with-git/"
                   }, {
@@ -3476,7 +3220,7 @@
                      "url": "http://martinfowler.com/articles/continuousIntegration.html"
                   } ],
                   "date_added": "13163364262741039",
-                  "date_modified": "13163364262741039",
+                  "date_modified": "13170951422842389",
                   "id": "11250",
                   "name": "SCM",
                   "sync_transaction_version": "3",
@@ -4310,11 +4054,8 @@
                   "children": [ {
                      "date_added": "13120327256748008",
                      "id": "11271",
-                     "meta_info": {
-                        "last_visited_desktop": "13168658524097486"
-                     },
                      "name": "VirtualBox",
-                     "sync_transaction_version": "1008",
+                     "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.virtualbox.org/"
                   }, {
@@ -4487,7 +4228,7 @@
                      "url": "http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/WSV314"
                   } ],
                   "date_added": "13163364262741094",
-                  "date_modified": "13163364262741094",
+                  "date_modified": "13170951422841983",
                   "id": "11257",
                   "name": "Virtualization",
                   "sync_transaction_version": "3",
@@ -4495,21 +4236,15 @@
                }, {
                   "date_added": "13120327255498709",
                   "id": "11258",
-                  "meta_info": {
-                     "last_visited_desktop": "13168658465568988"
-                  },
                   "name": "David Chappell &#58;&#58; White Papers",
-                  "sync_transaction_version": "1003",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.davidchappell.com/writing/white_papers.php"
                }, {
                   "date_added": "13120327256429374",
                   "id": "11259",
-                  "meta_info": {
-                     "last_visited_desktop": "13168658477238956"
-                  },
                   "name": "Generate a Random Name - Fake Name Generator",
-                  "sync_transaction_version": "1042",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.fakenamegenerator.com/"
                }, {
@@ -4522,11 +4257,8 @@
                }, {
                   "date_added": "13120327255538081",
                   "id": "11261",
-                  "meta_info": {
-                     "last_visited_desktop": "13168658489174512"
-                  },
                   "name": "httpwww.iana.orgassignmentsport-numbers",
-                  "sync_transaction_version": "1006",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.iana.org/assignments/port-numbers"
                }, {
@@ -4595,16 +4327,13 @@
                }, {
                   "date_added": "13168294988116017",
                   "id": "11912",
-                  "meta_info": {
-                     "last_visited_desktop": "13168294988117839"
-                  },
                   "name": "Using Jekyll _includes as custom liquid functions",
-                  "sync_transaction_version": "1016",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://hamishwillee.github.io/2014/11/13/jekyll-includes-are-functions/"
                } ],
                "date_added": "13163364262698694",
-               "date_modified": "13169041864199608",
+               "date_modified": "13170951422842324",
                "id": "11018",
                "name": "Programming",
                "sync_transaction_version": "3",
@@ -4676,11 +4405,8 @@
                }, {
                   "date_added": "13120327255837706",
                   "id": "11227",
-                  "meta_info": {
-                     "last_visited_desktop": "13168300398591978"
-                  },
                   "name": "Scott Hanselman's Computer Zen - Scott Hanselman's 2009 Ultimate Devel (...)",
-                  "sync_transaction_version": "910",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.hanselman.com/blog/ScottHanselmans2009UltimateDeveloperAndPowerUsersToolListForWindows.aspx"
                }, {
@@ -4834,7 +4560,7 @@
                   "type": "folder"
                } ],
                "date_added": "13163364262698722",
-               "date_modified": "13165782570652590",
+               "date_modified": "13170951422842285",
                "id": "11020",
                "name": "Blogs and Groups",
                "sync_transaction_version": "3",
@@ -5954,11 +5680,8 @@
                }, {
                   "date_added": "13120327255858332",
                   "id": "11041",
-                  "meta_info": {
-                     "last_visited_desktop": "13168658431230519"
-                  },
                   "name": "5 underrated tools to improve your web design | Creative Bloq",
-                  "sync_transaction_version": "998",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.creativebloq.com/web-design-tips/5-underrated-web-design-tools-i-cant-work-without-1232782"
                }, {
@@ -5971,11 +5694,8 @@
                }, {
                   "date_added": "13120327255862602",
                   "id": "11043",
-                  "meta_info": {
-                     "last_visited_desktop": "13168658456099855"
-                  },
                   "name": "Cross Browser Testing Tool - BrowserStack",
-                  "sync_transaction_version": "1000",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.browserstack.com/"
                }, {
@@ -6023,12 +5743,8 @@
                }, {
                   "date_added": "13120327255878980",
                   "id": "11051",
-                  "meta_info": {
-                     "last_visited": "13170459444286335",
-                     "last_visited_desktop": "13168300420470002"
-                  },
                   "name": "favicon.ico Generator",
-                  "sync_transaction_version": "1313",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.favicon.cc/"
                }, {
@@ -6124,7 +5840,7 @@
                   "url": "http://www.openmymind.net/index.aspx?documentId=3"
                } ],
                "date_added": "13163364262698737",
-               "date_modified": "13170460072457209",
+               "date_modified": "13170951422842338",
                "id": "11021",
                "name": "Web and UI",
                "sync_transaction_version": "3",
@@ -6146,11 +5862,8 @@
             }, {
                "date_added": "13120327255094009",
                "id": "11024",
-               "meta_info": {
-                  "last_visited_desktop": "13170278972950910"
-               },
                "name": "iCloud - Find My iPhone",
-               "sync_transaction_version": "1304",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "https://www.icloud.com/#find"
             }, {
@@ -6212,16 +5925,13 @@
             }, {
                "date_added": "13169502287107543",
                "id": "11922",
-               "meta_info": {
-                  "last_visited_desktop": "13169502373646160"
-               },
                "name": "1&1 Control Panel",
-               "sync_transaction_version": "1159",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "https://admin.1and1.ca/domains-dashboard"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13170278988368211",
+            "date_modified": "13170951422842212",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -6230,12 +5940,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited": "13169128590533386",
-                  "last_visited_desktop": "13169755160280033"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "1272",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6248,16 +5954,13 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13169916131768910"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1276",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13169812788876893",
+            "date_modified": "13170951422841978",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -6315,22 +6018,15 @@
             }, {
                "date_added": "13019147935071000",
                "id": "10821",
-               "meta_info": {
-                  "last_visited_desktop": "13166108663151112"
-               },
                "name": "Jennifer McGuire Ink",
-               "sync_transaction_version": "673",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "http://www.jennifermcguireink.com/"
             }, {
                "date_added": "13019019969402851",
                "id": "10822",
-               "meta_info": {
-                  "last_visited": "13165020271741440",
-                  "last_visited_desktop": "13166109897908851"
-               },
                "name": "Simon Says Stamp Blog",
-               "sync_transaction_version": "678",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "http://www.simonsaysstampblog.com/"
             }, {
@@ -6343,11 +6039,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited": "13166199954045796"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1311",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -6585,11 +6278,8 @@
                }, {
                   "date_added": "13016562823556565",
                   "id": "11005",
-                  "meta_info": {
-                     "last_visited_desktop": "13167496387752103"
-                  },
                   "name": "Simon Says Stamp World's Largest Selection of Paper Art Supplies!",
-                  "sync_transaction_version": "747",
+                  "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://www.simonsaysstamp.com/servlet/StoreFront"
                }, {
@@ -6629,7 +6319,7 @@
                   "url": "http://www.iostamps.com/mm5/merchant.mvc"
                } ],
                "date_added": "13163364262670192",
-               "date_modified": "13163364262670192",
+               "date_modified": "13170951422842394",
                "id": "10834",
                "name": "Online Stores",
                "sync_transaction_version": "3",
@@ -7565,11 +7255,8 @@
             }, {
                "date_added": "13019147935119275",
                "id": "10846",
-               "meta_info": {
-                  "last_visited_desktop": "13169483341021978"
-               },
                "name": "Kijiji Barrie Classifieds Free Local Classified Ads for Barrie, Ontari (...)",
-               "sync_transaction_version": "1055",
+               "sync_transaction_version": "1333",
                "type": "url",
                "url": "http://barrie.kijiji.ca/"
             }, {
@@ -7672,7 +7359,7 @@
                "url": "http://tv.jw.org/#video/VODMonthlyProgramming/pub-jwb_E_201411_1_VIDEO"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13166240080715125",
+            "date_modified": "13170951422842404",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7680,21 +7367,18 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
-            "meta_info": {
-               "last_visited_desktop": "13164678548147612"
-            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "566",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13169936722774390"
+               "last_visited_desktop": "13170951450062837"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1278",
+            "sync_transaction_version": "1334",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7728,11 +7412,8 @@
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
-            "meta_info": {
-               "last_visited_desktop": "13164168593004428"
-            },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "442",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -7745,11 +7426,8 @@
          }, {
             "date_added": "13120327254982815",
             "id": "10800",
-            "meta_info": {
-               "last_visited_desktop": "13167587729290899"
-            },
             "name": "netTALK.com || Customer Account Manager",
-            "sync_transaction_version": "822",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "https://webvm.nettalktelecom.com/customer/"
          }, {
@@ -7762,11 +7440,8 @@
          }, {
             "date_added": "13120327254987036",
             "id": "10802",
-            "meta_info": {
-               "last_visited_desktop": "13168662762350883"
-            },
             "name": "Amazon.ca: Manage Your Kindle",
-            "sync_transaction_version": "1034",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "https://www.amazon.ca/gp/digital/fiona/manage/177-9577700-7860725?ie=UTF8&*Version*=1&*entries*=0&signInRedirect=1&#All"
          }, {
@@ -7786,11 +7461,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13163688213421303"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "432",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7830,13 +7502,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13170691517063337",
+         "date_modified": "13170951422842368",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1331",
+      "sync_transaction_version": "1338",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7848,48 +7520,34 @@
          }, {
             "date_added": "13166064583315382",
             "id": "11886",
-            "meta_info": {
-               "last_visited": "13169939251582177",
-               "last_visited_desktop": "13167494492283307"
-            },
             "name": "Viva Las VegaStamps!",
-            "sync_transaction_version": "1284",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://vivalas.blogspot.ca/"
          }, {
             "date_added": "13167077155206655",
             "id": "11892",
-            "meta_info": {
-               "last_visited": "13167091781386809",
-               "last_visited_desktop": "13169499838783724"
-            },
             "name": "KH Caller Report",
-            "sync_transaction_version": "1142",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://metroconf.com/kh.cgi?48608"
          }, {
             "date_added": "13167361371585471",
             "id": "11894",
-            "meta_info": {
-               "last_visited": "13167361371587972"
-            },
             "name": "The Gifted Movies | Watch Movies Online Free",
-            "sync_transaction_version": "727",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "http://solarmovie.net/search-movies/The+gifted.html"
          }, {
             "date_added": "13169010044629376",
             "id": "11920",
-            "meta_info": {
-               "last_visited": "13169010136742353"
-            },
             "name": "Watch Hinterland - Season 3 online for free on Movie Online",
-            "sync_transaction_version": "1042",
+            "sync_transaction_version": "1333",
             "type": "url",
             "url": "https://www1.movieonline.tv/movies/hinterland-season-3/hinterland-season-3-episode-05.html"
          } ],
          "date_added": "13072067208261710",
-         "date_modified": "13169939254784329",
+         "date_modified": "13170951422837411",
          "id": "3",
          "name": "Mobile bookmarks",
          "sync_transaction_version": "3",
