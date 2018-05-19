@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13171117719609026"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1333",
+            "sync_transaction_version": "1343",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -56,7 +59,7 @@
             "url": "http://solarmovie.net/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13170951422842032",
+         "date_modified": "13171118997466377",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7511,7 +7514,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1342",
+      "sync_transaction_version": "1343",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
