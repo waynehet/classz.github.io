@@ -5,23 +5,15 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited_desktop": "13171392752898346"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited_desktop": "13171392790808068"
-            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -55,29 +47,20 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited_desktop": "13171255599766883"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
             "date_added": "13171303135781284",
             "id": "11940",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited": "13171310192815982",
-               "last_visited_desktop": "13171303135782147"
-            },
             "name": "Meeting Audio",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13171581074181970",
+         "date_modified": "13171834660156045",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -154,11 +137,8 @@
                   }, {
                      "date_added": "13120327255286560",
                      "id": "11865",
-                     "meta_info": {
-                        "last_visited": "13171722293314324"
-                     },
                      "name": "Communication Coaching & Training that Promotes Shared Understanding",
-                     "sync_transaction_version": "1370",
+                     "sync_transaction_version": "1372",
                      "type": "url",
                      "url": "http://itsunderstood.com/"
                   }, {
@@ -198,7 +178,7 @@
                      "url": "https://play4agilenorthamerica.wordpress.com/"
                   } ],
                   "date_added": "13163364262792440",
-                  "date_modified": "13171750564302520",
+                  "date_modified": "13171834660157027",
                   "id": "11538",
                   "name": "Blogs and Sites",
                   "sync_transaction_version": "3",
@@ -7391,23 +7371,15 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited": "13171210847272505"
-            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited_desktop": "13171081600255121"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7531,13 +7503,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13171581074185435",
+         "date_modified": "13171834660157016",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1370",
+      "sync_transaction_version": "1372",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7556,12 +7528,8 @@
          }, {
             "date_added": "13167077155206655",
             "id": "11892",
-            "meta_info": {
-               "dismissed_from_ntp": "1",
-               "last_visited": "13171310355456735"
-            },
             "name": "KH Caller Report",
-            "sync_transaction_version": "1369",
+            "sync_transaction_version": "1372",
             "type": "url",
             "url": "http://metroconf.com/kh.cgi?48608"
          }, {
@@ -7580,7 +7548,7 @@
             "url": "https://www1.movieonline.tv/movies/hinterland-season-3/hinterland-season-3-episode-05.html"
          } ],
          "date_added": "13072067208261710",
-         "date_modified": "13171581074185404",
+         "date_modified": "13171834660156986",
          "id": "3",
          "name": "Mobile bookmarks",
          "sync_transaction_version": "3",
