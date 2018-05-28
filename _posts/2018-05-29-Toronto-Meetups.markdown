@@ -5,8 +5,8 @@ date:   2018-05-29 8:00:00 -0500
 categories: agile scrum
 ---
 
-Here are some Meetups and other Agile community links.
-------------------------------------------------------
+# Here are some Meetups and other Agile community links.
+
 
 * [Agile TO Meetup](https://www.meetup.com/AgileTO/)
 * [Agile Mississauga Meetup](https://www.meetup.com/AgileMississauga/)
