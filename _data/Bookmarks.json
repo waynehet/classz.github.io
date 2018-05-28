@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13171903587104492"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1372",
+            "sync_transaction_version": "1373",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -60,7 +63,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13171834660156045",
+         "date_modified": "13171907975226968",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7509,7 +7512,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1372",
+      "sync_transaction_version": "1373",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
