@@ -5,7 +5,8 @@ date:   2018-05-29 8:00:00 -0500
 categories: agile scrum
 ---
 
-## Here are some Meetups and other Agile community links.
+Here are some Meetups and other Agile community links.
+======================================================
 
 [Agile TO Meetup](https://www.meetup.com/AgileTO/)
 
@@ -18,14 +19,16 @@ categories: agile scrum
 [Agile North Meetup](https://www.meetup.com/Agile-North/)
 
  
-## Some more social Meetups
+Some more social Meetups
+========================
 
 [Agile Lunch Meetup](https://www.meetup.com/AgileLunch/)
 
 [Agile Drinks Meetup](https://www.meetup.com/Agile-Drinks/)
 
- 
-## Focused Meetups
+
+Focused Meetups
+===============
 
 [Toronto Atlassian User Group](https://www.meetup.com/Toronto-AUG-Meetup/)
 
@@ -37,4 +40,5 @@ categories: agile scrum
 
  
 And connected to several of these is the organizing group that also runs many of the conferences, Open Spaces, virtual conferences and webinars:
+
 [Toronto Agile Community](http://www.torontoagilecommunity.org/display/PUBLIC/Home)
