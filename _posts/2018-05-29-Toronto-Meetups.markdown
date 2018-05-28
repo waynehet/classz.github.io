@@ -9,13 +9,9 @@ Here are some Meetups and other Agile community links.
 ======================================================
 
 [Agile TO Meetup](https://www.meetup.com/AgileTO/)
-
 [Agile Mississauga Meetup](https://www.meetup.com/AgileMississauga/)
-
 [Agile Ontario Meetup](https://www.meetup.com/Agile-Ontario/)
-
 [Agile Halton Meetup](https://www.meetup.com/Halton-Agile-Lean-Network/)
-
 [Agile North Meetup](https://www.meetup.com/Agile-North/)
 
  
