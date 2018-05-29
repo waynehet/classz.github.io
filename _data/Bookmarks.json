@@ -50,8 +50,11 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited_desktop": "13171989823408112"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1372",
+            "sync_transaction_version": "1374",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -1351,8 +1354,11 @@
                      }, {
                         "date_added": "13131115513668781",
                         "id": "10786",
+                        "meta_info": {
+                           "last_visited": "13172000343379516"
+                        },
                         "name": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1375",
                         "type": "url",
                         "url": "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
                      } ],
@@ -6046,8 +6052,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13172031575973923"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1333",
+               "sync_transaction_version": "1377",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7445,7 +7454,7 @@
             "date_added": "13120327254987036",
             "id": "10802",
             "name": "Amazon.ca: Manage Your Kindle",
-            "sync_transaction_version": "1333",
+            "sync_transaction_version": "1376",
             "type": "url",
             "url": "https://www.amazon.ca/gp/digital/fiona/manage/177-9577700-7860725?ie=UTF8&*Version*=1&*entries*=0&signInRedirect=1&#All"
          }, {
@@ -7512,7 +7521,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1373",
+      "sync_transaction_version": "1377",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
