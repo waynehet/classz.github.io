@@ -1,5 +1,5 @@
 {
-   "checksum": "1a8403edd7982e326910ca60a0b7fe5b",
+   "checksum": "c0e69f0b00b4aaf463a447253990d902",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -50,11 +50,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13172094571384263"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1374",
+            "sync_transaction_version": "1378",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -66,7 +63,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13171907975226968",
+         "date_modified": "13172157617607730",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -215,13 +212,26 @@
                      }, {
                         "date_added": "13170691517063337",
                         "id": "11938",
+                        "meta_info": {
+                           "last_visited": "13172185372196076"
+                        },
                         "name": "How to Hire an Agile Coach - Jason Little",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1381",
                         "type": "url",
                         "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
+                     }, {
+                        "date_added": "13172181426681628",
+                        "id": "11942",
+                        "meta_info": {
+                           "last_visited_desktop": "13172181426694731"
+                        },
+                        "name": "Boss vs Leader: 10 Crucial Differences | Alvernia University",
+                        "sync_transaction_version": "1380",
+                        "type": "url",
+                        "url": "https://online.alvernia.edu/boss-vs-leader/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13170951422841689",
+                     "date_modified": "13172185889059715",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -965,8 +975,11 @@
                      }, {
                         "date_added": "13120327257335562",
                         "id": "11751",
+                        "meta_info": {
+                           "last_visited": "13172185344154606"
+                        },
                         "name": "Understanding the Vertical Slice | Simple Programmer",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1381",
                         "type": "url",
                         "url": "http://simpleprogrammer.com/2011/11/21/understanding-the-vertical-slice/"
                      }, {
@@ -1062,7 +1075,7 @@
                         "url": "http://www.jeremyjarrell.com/vertically-slicing-user-stories/"
                      } ],
                      "date_added": "13163364262819467",
-                     "date_modified": "13170951422842040",
+                     "date_modified": "13172185889059692",
                      "id": "11682",
                      "name": "Story Size and Splitting",
                      "sync_transaction_version": "3",
@@ -7515,13 +7528,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13171834660157016",
+         "date_modified": "13172181426681628",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1377",
+      "sync_transaction_version": "1381",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
