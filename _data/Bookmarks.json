@@ -1,5 +1,5 @@
 {
-   "checksum": "c0e69f0b00b4aaf463a447253990d902",
+   "checksum": "fb5c9fd1609fffed97f9ea9af5832ece",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2520,8 +2520,11 @@
                }, {
                   "date_added": "13120327255246958",
                   "id": "11547",
+                  "meta_info": {
+                     "last_visited": "13172335871454811"
+                  },
                   "name": "Home | Scrum Guides",
-                  "sync_transaction_version": "1333",
+                  "sync_transaction_version": "1382",
                   "type": "url",
                   "url": "http://www.scrumguides.org/?mkt_tok=3RkMMJWWfF9wsRonuqzAZKXonjHpfsX56u4kX6Sg38431UFwdcjKPmjr1YIBRMR0aPyQAgobGp5I5FENS7DYT7Rot6ANXA%3D%3D"
                }, {
@@ -2617,7 +2620,7 @@
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13170951422842280",
+               "date_modified": "13172338022652226",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -4357,9 +4360,25 @@
                   "sync_transaction_version": "1333",
                   "type": "url",
                   "url": "http://hamishwillee.github.io/2014/11/13/jekyll-includes-are-functions/"
+               }, {
+                  "date_added": "13172375377992781",
+                  "id": "11944",
+                  "meta_info": {
+                     "last_visited_desktop": "13172375377993052",
+                     "stars.flags": "0",
+                     "stars.id": "c_950fjhwp9p2w",
+                     "stars.note": "",
+                     "stars.pageData": "EkszQ2hlY2tpbmcgaW4gbmV3IFRlYW0gRm91bmRhdGlvbiBCdWlsZCBBdXRvbWF0aW9uIGZpbGVzLiBXYXluZSBIZXRoZXJpbmd0b24=",
+                     "stars.type": "2",
+                     "stars.version": "crx.2.2016.128.11729"
+                  },
+                  "name": "(Latest) - Visual Studio Team Services",
+                  "sync_transaction_version": "1388",
+                  "type": "url",
+                  "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
                "date_added": "13163364262698694",
-               "date_modified": "13170951422842324",
+               "date_modified": "13172375396519056",
                "id": "11018",
                "name": "Programming",
                "sync_transaction_version": "3",
@@ -6066,10 +6085,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13172031575973923"
+                  "last_visited_desktop": "13172356070151638"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1377",
+               "sync_transaction_version": "1383",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7528,13 +7547,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13172181426681628",
+         "date_modified": "13172375377992781",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1381",
+      "sync_transaction_version": "1388",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
