@@ -30,3 +30,4 @@ categories: agile scrum
 And connected to several of these is the organizing group that also runs many of the conferences, Open Spaces, virtual conferences and webinars:
 
 * [Toronto Agile Community](http://www.torontoagilecommunity.org/display/PUBLIC/Home)
+* [Coach Camp](http://agilecoachcampcanada.ca/)
