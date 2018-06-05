@@ -9,7 +9,7 @@ categories: agile scrum
 
 * [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 * [List of Eponymous Laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
-* [The Gordian Knot] (https://en.wikipedia.org/wiki/Gordian_Knot) - an intractable problem
+* [The Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot) - an intractable problem
 
  
 ### Special Laws and Effects
