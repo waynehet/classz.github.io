@@ -1,15 +1,15 @@
 {
-   "checksum": "29b83557b7326aebec6c3ad82e8fb344",
+   "checksum": "79ae27f22bbe940cd4fb2efab8b9db94",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13171903587104492"
+               "last_visited_desktop": "13172636416803495"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1373",
+            "sync_transaction_version": "1394",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -50,6 +50,9 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited_desktop": "13172602858776936"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
             "sync_transaction_version": "1378",
             "type": "url",
@@ -823,15 +826,31 @@
                         "date_added": "13172505229208266",
                         "id": "11946",
                         "meta_info": {
-                           "last_visited": "13172540960373993"
+                           "last_visited": "13172615949482029"
                         },
                         "name": "Measuring and evaluating Scrum in complex environments – Innova1st",
-                        "sync_transaction_version": "1389",
+                        "sync_transaction_version": "1392",
                         "type": "url",
                         "url": "https://en.innova1st.com/2017/05/05/midiendo-y-evaluando-scrum-en-entornos-complejos-incluye-archivos-de-ejemplo-y-para-que-utilices/"
+                     }, {
+                        "date_added": "13172638991092893",
+                        "id": "11948",
+                        "meta_info": {
+                           "last_visited_desktop": "13172638991095003",
+                           "stars.flags": "0",
+                           "stars.id": "c_7gsgji127u8d",
+                           "stars.note": "",
+                           "stars.pageData": "EqMBQWZ0ZXIgZGVjYWRlcyBvZiBvYnNlcnZhdGlvbiBhbmQgb3JnYW5pemF0aW9uYWwgY29uc3VsdGluZywgaGVyZSBhcmUgTGFybWFuJ3MgTGF3cyBvZiBPcmdhbml6YXRpb25hbCBCZWhhdmlvci4gVGhlc2UgYXJlIG9ic2VydmF0aW9ucyByYXRoZXIgdGhhbiBsYXdzIHRvIGZvbGxvdyA7KQ==",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "Larman's Laws of Organizational Behavior - Craig Larman",
+                        "sync_transaction_version": "1400",
+                        "type": "url",
+                        "url": "http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13172547694515608",
+                     "date_modified": "13172639009534789",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -7429,8 +7448,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13172591463316363"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1372",
+            "sync_transaction_version": "1391",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7554,13 +7576,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13172375377992781",
+         "date_modified": "13172638991092893",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1389",
+      "sync_transaction_version": "1400",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
