@@ -14,6 +14,7 @@ categories: agile scrum
  
 ### Special Laws and Effects
 
+* [Cobb's Paradox](https://mosaicprojects.wordpress.com/2011/11/26/cobbs-paradox-is-alive-and-well/): We know why projects fail, we know how to prevent that, so why do they still fail?
 * [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): Systems produced are copies of communication structures
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
