@@ -1,15 +1,12 @@
 {
-   "checksum": "79ae27f22bbe940cd4fb2efab8b9db94",
+   "checksum": "feabc100408d8671e31b3720c489dfe5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13172636416803495"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1394",
+            "sync_transaction_version": "1403",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -66,7 +63,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13172157617607730",
+         "date_modified": "13172705928928627",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -215,26 +212,20 @@
                      }, {
                         "date_added": "13170691517063337",
                         "id": "11938",
-                        "meta_info": {
-                           "last_visited": "13172185372196076"
-                        },
                         "name": "How to Hire an Agile Coach - Jason Little",
-                        "sync_transaction_version": "1381",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
                      }, {
                         "date_added": "13172181426681628",
                         "id": "11942",
-                        "meta_info": {
-                           "last_visited_desktop": "13172181426694731"
-                        },
                         "name": "Boss vs Leader: 10 Crucial Differences | Alvernia University",
-                        "sync_transaction_version": "1380",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "https://online.alvernia.edu/boss-vs-leader/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13172185889059715",
+                     "date_modified": "13172705928928612",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -647,11 +638,8 @@
                      }, {
                         "date_added": "13125765675551904",
                         "id": "11797",
-                        "meta_info": {
-                           "last_visited": "13172505287975524"
-                        },
                         "name": "Agile Self-assessments - Ben Linders",
-                        "sync_transaction_version": "1389",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "https://www.benlinders.com/tools/agile-self-assessments/"
                      }, {
@@ -784,7 +772,7 @@
                         "date_added": "13140189875732104",
                         "id": "11817",
                         "name": "Confreaks TV | A Clear-Eyed Look at Distributed Teams - RailsConf 2017",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "http://confreaks.tv/videos/railsconf2017-a-clear-eyed-look-at-distributed-teams"
                      }, {
@@ -825,32 +813,20 @@
                      }, {
                         "date_added": "13172505229208266",
                         "id": "11946",
-                        "meta_info": {
-                           "last_visited": "13172615949482029"
-                        },
                         "name": "Measuring and evaluating Scrum in complex environments – Innova1st",
-                        "sync_transaction_version": "1392",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "https://en.innova1st.com/2017/05/05/midiendo-y-evaluando-scrum-en-entornos-complejos-incluye-archivos-de-ejemplo-y-para-que-utilices/"
                      }, {
                         "date_added": "13172638991092893",
                         "id": "11948",
-                        "meta_info": {
-                           "last_visited_desktop": "13172638991095003",
-                           "stars.flags": "0",
-                           "stars.id": "c_7gsgji127u8d",
-                           "stars.note": "",
-                           "stars.pageData": "EqMBQWZ0ZXIgZGVjYWRlcyBvZiBvYnNlcnZhdGlvbiBhbmQgb3JnYW5pemF0aW9uYWwgY29uc3VsdGluZywgaGVyZSBhcmUgTGFybWFuJ3MgTGF3cyBvZiBPcmdhbml6YXRpb25hbCBCZWhhdmlvci4gVGhlc2UgYXJlIG9ic2VydmF0aW9ucyByYXRoZXIgdGhhbiBsYXdzIHRvIGZvbGxvdyA7KQ==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
-                        },
                         "name": "Larman's Laws of Organizational Behavior - Craig Larman",
-                        "sync_transaction_version": "1400",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13172639009534789",
+                     "date_modified": "13172705928929617",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1007,11 +983,8 @@
                      }, {
                         "date_added": "13120327257335562",
                         "id": "11751",
-                        "meta_info": {
-                           "last_visited": "13172185344154606"
-                        },
                         "name": "Understanding the Vertical Slice | Simple Programmer",
-                        "sync_transaction_version": "1381",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "http://simpleprogrammer.com/2011/11/21/understanding-the-vertical-slice/"
                      }, {
@@ -1107,7 +1080,7 @@
                         "url": "http://www.jeremyjarrell.com/vertically-slicing-user-stories/"
                      } ],
                      "date_added": "13163364262819467",
-                     "date_modified": "13172185889059692",
+                     "date_modified": "13172705928929566",
                      "id": "11682",
                      "name": "Story Size and Splitting",
                      "sync_transaction_version": "3",
@@ -1399,11 +1372,8 @@
                      }, {
                         "date_added": "13131115513668781",
                         "id": "10786",
-                        "meta_info": {
-                           "last_visited": "13172000343379516"
-                        },
                         "name": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-                        "sync_transaction_version": "1375",
+                        "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
                      } ],
@@ -2158,7 +2128,7 @@
                      "date_added": "13169506652200977",
                      "id": "11924",
                      "name": "Wayne's Comparative Agility Dashboard",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "1403",
                      "type": "url",
                      "url": "https://www.comparativeagility.com/admin/account/profile"
                   }, {
@@ -2275,7 +2245,7 @@
                      "url": "http://scrumblr.ca/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13170951422842018",
+                  "date_modified": "13172705928929547",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -2337,9 +2307,16 @@
                      "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://www.gargoylesoftware.com/ex"
+                  }, {
+                     "date_added": "13172667806869214",
+                     "id": "11950",
+                     "name": "“Wake up in the morning” Game - A quick fun way to understand the basic concept of Iterative Incremental Development - AgileSparks",
+                     "sync_transaction_version": "1403",
+                     "type": "url",
+                     "url": "https://www.agilesparks.com/blog/wake-up-in-the-morning-game/"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13170951422841992",
+                  "date_modified": "13172667806869214",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -2542,9 +2519,16 @@
                      "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "http://leanchange.org/2017/05/lean-change-management-in-action/"
+                  }, {
+                     "date_added": "13172693247980134",
+                     "id": "11952",
+                     "name": "8 ways to “go agile” without an “Agile Transformation”",
+                     "sync_transaction_version": "1403",
+                     "type": "url",
+                     "url": "https://medium.com/@neil2killick/7-ways-to-go-agile-without-an-agile-transformation-25be8421a3ec"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13170951422842158",
+                  "date_modified": "13172693247980134",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -2552,11 +2536,8 @@
                }, {
                   "date_added": "13120327255246958",
                   "id": "11547",
-                  "meta_info": {
-                     "last_visited": "13172335871454811"
-                  },
                   "name": "Home | Scrum Guides",
-                  "sync_transaction_version": "1382",
+                  "sync_transaction_version": "1403",
                   "type": "url",
                   "url": "http://www.scrumguides.org/?mkt_tok=3RkMMJWWfF9wsRonuqzAZKXonjHpfsX56u4kX6Sg38431UFwdcjKPmjr1YIBRMR0aPyQAgobGp5I5FENS7DYT7Rot6ANXA%3D%3D"
                }, {
@@ -2652,7 +2633,7 @@
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13172338022652226",
+               "date_modified": "13172705928929595",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -4395,11 +4376,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited_desktop": "13172375377993052"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1388",
+                  "sync_transaction_version": "1403",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6110,11 +6088,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13172356070151638"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1383",
+               "sync_transaction_version": "1403",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7433,7 +7408,7 @@
                "url": "http://tv.jw.org/#video/VODMonthlyProgramming/pub-jwb_E_201411_1_VIDEO"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13170951422842404",
+            "date_modified": "13172705928929605",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7448,11 +7423,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13172591463316363"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1391",
+            "sync_transaction_version": "1403",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7576,13 +7548,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13172638991092893",
+         "date_modified": "13172705928929576",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1400",
+      "sync_transaction_version": "1403",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
