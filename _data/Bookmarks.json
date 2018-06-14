@@ -1,15 +1,15 @@
 {
-   "checksum": "37dc9545890e0b2a59dfdf24a99e61da",
+   "checksum": "dfc63428c1eee4ad07c4ff666c7c9973",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13173322119035528"
+               "last_visited_desktop": "13173415232710150"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1410",
+            "sync_transaction_version": "1426",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -51,10 +51,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13172602858776936"
+               "last_visited_desktop": "13173376978443955"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1378",
+            "sync_transaction_version": "1415",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -226,9 +226,29 @@
                         "sync_transaction_version": "1403",
                         "type": "url",
                         "url": "https://online.alvernia.edu/boss-vs-leader/"
+                     }, {
+                        "date_added": "13173359966002569",
+                        "id": "11959",
+                        "meta_info": {
+                           "last_visited": "13173359966014009"
+                        },
+                        "name": "Agile Leaders as Coaches - The Key to Successful Agile Transformations - CC Pace",
+                        "sync_transaction_version": "1414",
+                        "type": "url",
+                        "url": "http://www.ccpace.com/agile-leaders-as-coaches-the-key-to-successful-agile-transformations/"
+                     }, {
+                        "date_added": "13173408739330708",
+                        "id": "11961",
+                        "meta_info": {
+                           "last_visited_desktop": "13173408739330943"
+                        },
+                        "name": "Authentic Happiness | Authentic Happiness",
+                        "sync_transaction_version": "1423",
+                        "type": "url",
+                        "url": "https://www.authentichappiness.sas.upenn.edu/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13172705928928612",
+                     "date_modified": "13173408757083584",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -831,14 +851,7 @@
                         "date_added": "13173323170301598",
                         "id": "11957",
                         "meta_info": {
-                           "last_visited_desktop": "13173323170302107",
-                           "stars.flags": "0",
-                           "stars.id": "c_5ooijicdk5ts",
-                           "stars.imageData": "ErEBCqgBaHR0cHM6Ly9tZWRpYS5saWNkbi5jb20vbWVkaWEvZ2NyYy9kbXMvaW1hZ2UvQzU2MTJBUUVRNllFZVBFM2xzQS9hcnRpY2xlLWNvdmVyX2ltYWdlLXNocmlua182MDBfMjAwMC8wP2U9MjEyODI5MTIwMCZ2PWJldGEmdD1RUXg0SVMyWTg3RDhKWFlGaFh6YU9mT0JxMDYwb0tkaUxoLV9ZcWtidTFREMIDGPIBGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
+                           "last_visited_desktop": "13173323170302107"
                         },
                         "name": "Don't call me a resource | LinkedIn",
                         "sync_transaction_version": "1413",
@@ -2345,10 +2358,10 @@
                      "date_added": "13173288501272470",
                      "id": "11955",
                      "meta_info": {
-                        "last_visited": "13173307988942662"
+                        "last_visited": "13173360087974257"
                      },
                      "name": "Moving Motivators - Management 3.0",
-                     "sync_transaction_version": "1409",
+                     "sync_transaction_version": "1414",
                      "type": "url",
                      "url": "https://management30.com/practice/moving-motivators/?mc_cid=f54b6fefbf&mc_eid=78baf9f530"
                   } ],
@@ -7460,8 +7473,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13173392098168467"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1403",
+            "sync_transaction_version": "1416",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7495,8 +7511,11 @@
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
+            "meta_info": {
+               "last_visited": "13173394372532404"
+            },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "1333",
+            "sync_transaction_version": "1417",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -7585,13 +7604,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13173323210623267",
+         "date_modified": "13173408739330708",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1413",
+      "sync_transaction_version": "1426",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
