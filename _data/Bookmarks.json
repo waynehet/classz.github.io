@@ -1,15 +1,12 @@
 {
-   "checksum": "dfc63428c1eee4ad07c4ff666c7c9973",
+   "checksum": "1f62da447e4e45479f7a3c13c0c60941",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13173415232710150"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1426",
+            "sync_transaction_version": "1427",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -51,10 +48,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13173376978443955"
+               "last_visited_desktop": "13173801019624390"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1415",
+            "sync_transaction_version": "1427",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -66,7 +63,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13173303824773307",
+         "date_modified": "13173797740291569",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -229,26 +226,20 @@
                      }, {
                         "date_added": "13173359966002569",
                         "id": "11959",
-                        "meta_info": {
-                           "last_visited": "13173359966014009"
-                        },
                         "name": "Agile Leaders as Coaches - The Key to Successful Agile Transformations - CC Pace",
-                        "sync_transaction_version": "1414",
+                        "sync_transaction_version": "1427",
                         "type": "url",
                         "url": "http://www.ccpace.com/agile-leaders-as-coaches-the-key-to-successful-agile-transformations/"
                      }, {
                         "date_added": "13173408739330708",
                         "id": "11961",
-                        "meta_info": {
-                           "last_visited_desktop": "13173408739330943"
-                        },
                         "name": "Authentic Happiness | Authentic Happiness",
-                        "sync_transaction_version": "1423",
+                        "sync_transaction_version": "1427",
                         "type": "url",
                         "url": "https://www.authentichappiness.sas.upenn.edu/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13173408757083584",
+                     "date_modified": "13173797740290313",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -850,11 +841,8 @@
                      }, {
                         "date_added": "13173323170301598",
                         "id": "11957",
-                        "meta_info": {
-                           "last_visited_desktop": "13173323170302107"
-                        },
                         "name": "Don't call me a resource | LinkedIn",
-                        "sync_transaction_version": "1413",
+                        "sync_transaction_version": "1427",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
@@ -2357,11 +2345,8 @@
                   }, {
                      "date_added": "13173288501272470",
                      "id": "11955",
-                     "meta_info": {
-                        "last_visited": "13173360087974257"
-                     },
                      "name": "Moving Motivators - Management 3.0",
-                     "sync_transaction_version": "1414",
+                     "sync_transaction_version": "1427",
                      "type": "url",
                      "url": "https://management30.com/practice/moving-motivators/?mc_cid=f54b6fefbf&mc_eid=78baf9f530"
                   } ],
@@ -6150,13 +6135,6 @@
                "type": "url",
                "url": "http://instagram.com/#"
             }, {
-               "date_added": "13019147935097000",
-               "id": "10826",
-               "name": "Just Me - Karla Duell",
-               "sync_transaction_version": "456",
-               "type": "url",
-               "url": "http://karladuell.blogspot.com/"
-            }, {
                "date_added": "13032555119179860",
                "id": "10827",
                "name": "d-dzyn inc",
@@ -6173,8 +6151,11 @@
             }, {
                "date_added": "13031351932020101",
                "id": "10829",
+               "meta_info": {
+                  "last_visited_desktop": "13173803145716961"
+               },
                "name": "Musings of My Mind",
-               "sync_transaction_version": "459",
+               "sync_transaction_version": "1452",
                "type": "url",
                "url": "http://timaxxan.blogspot.ca/?zx=86fe7914f78de281"
             }, {
@@ -6377,8 +6358,11 @@
                }, {
                   "date_added": "13016562823556565",
                   "id": "11005",
+                  "meta_info": {
+                     "last_visited_desktop": "13173802452309901"
+                  },
                   "name": "Simon Says Stamp World's Largest Selection of Paper Art Supplies!",
-                  "sync_transaction_version": "1333",
+                  "sync_transaction_version": "1428",
                   "type": "url",
                   "url": "http://www.simonsaysstamp.com/servlet/StoreFront"
                }, {
@@ -7056,21 +7040,21 @@
                   "date_added": "13032555122350860",
                   "id": "10894",
                   "name": "Brainy quotes",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1433",
                   "type": "url",
                   "url": "http://www.brainyquote.com/"
                }, {
                   "date_added": "13032555122353000",
                   "id": "10895",
                   "name": "The Quote Garden",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1434",
                   "type": "url",
                   "url": "http://www.quotegarden.com/index.html"
                }, {
                   "date_added": "13032555119280860",
                   "id": "10896",
                   "name": "Blog Quick Quotes",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1435",
                   "type": "url",
                   "url": "http://www.blogquickquotes.com/"
                } ],
@@ -7197,8 +7181,11 @@
                "children": [ {
                   "date_added": "13032555122339000",
                   "id": "10878",
+                  "meta_info": {
+                     "last_visited_desktop": "13173803045177928"
+                  },
                   "name": "Soultree Photography- Contemporary wedding and portrait photographer s (...)",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1449",
                   "type": "url",
                   "url": "http://soultreephotography.com/?load=flash"
                } ],
@@ -7213,56 +7200,56 @@
                   "date_added": "13016206814101000",
                   "id": "10870",
                   "name": "Free Vintage Images, Postcards, Photographs and Other Ephemera Stuff from E-vint.com, Everything Vintage in Copyright-free Images",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1441",
                   "type": "url",
                   "url": "http://e-vint.com/free.html"
                }, {
                   "date_added": "13016206814103568",
                   "id": "10871",
                   "name": "Art Freebies",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1442",
                   "type": "url",
                   "url": "http://artfreebies.blogspot.ca/"
                }, {
                   "date_added": "13016206814102568",
                   "id": "10872",
                   "name": "Imágenes vintage gratis / Free vintage images",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1443",
                   "type": "url",
                   "url": "http://fotosvintagegratis.blogspot.ca/"
                }, {
                   "date_added": "13016206814097568",
                   "id": "10873",
                   "name": "*Cute n Cool* Freebies",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1444",
                   "type": "url",
                   "url": "http://blo64rt.blogspot.ca/"
                }, {
                   "date_added": "13016206814100568",
                   "id": "10874",
                   "name": "Magic Moonlight Free Images",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1445",
                   "type": "url",
                   "url": "http://magicmoonlightfreeimages.blogspot.ca/"
                }, {
                   "date_added": "13016206814101568",
                   "id": "10875",
                   "name": "Collages vintage",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1446",
                   "type": "url",
                   "url": "http://collagesvintage.blogspot.com.es/"
                }, {
                   "date_added": "13034868177201823",
                   "id": "10876",
                   "name": "bumble button",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1447",
                   "type": "url",
                   "url": "http://bumblebutton.blogspot.ca/"
                }, {
                   "date_added": "13034868177204000",
                   "id": "10877",
                   "name": "The Graphics Fairy",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "1448",
                   "type": "url",
                   "url": "http://www.graphicsfairy.blogspot.com/"
                } ],
@@ -7359,13 +7346,6 @@
                "type": "url",
                "url": "http://barrie.kijiji.ca/"
             }, {
-               "date_added": "13019147935126275",
-               "id": "10847",
-               "name": "EZTV - TV Torrents Online",
-               "sync_transaction_version": "465",
-               "type": "url",
-               "url": "http://eztv.it/"
-            }, {
                "date_added": "13019147935127275",
                "id": "10848",
                "name": "KickassTorrents",
@@ -7375,8 +7355,11 @@
             }, {
                "date_added": "13019147935125275",
                "id": "10849",
+               "meta_info": {
+                  "last_visited_desktop": "13173803045177928"
+               },
                "name": "Soultree Photography- Contemporary wedding and portrait photographer s (...)",
-               "sync_transaction_version": "467",
+               "sync_transaction_version": "1450",
                "type": "url",
                "url": "http://soultreephotography.com/?load=flash"
             }, {
@@ -7393,13 +7376,6 @@
                "sync_transaction_version": "469",
                "type": "url",
                "url": "http://bumblebutton.blogspot.ca/"
-            }, {
-               "date_added": "13039909004343784",
-               "id": "10852",
-               "name": "PC Plus",
-               "sync_transaction_version": "470",
-               "type": "url",
-               "url": "https://www.pcplus.ca/"
             }, {
                "date_added": "13043254269399000",
                "id": "10853",
@@ -7421,27 +7397,6 @@
                "sync_transaction_version": "473",
                "type": "url",
                "url": "http://thefrugalcrafter.wordpress.com/"
-            }, {
-               "date_added": "13043970683419040",
-               "id": "10856",
-               "name": "(part2) singing canary cd\" canari \"chant du canariتغريد الكناري \" - YouTube",
-               "sync_transaction_version": "474",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=M1EQZHVVqYU"
-            }, {
-               "date_added": "13043970683422040",
-               "id": "10857",
-               "name": "Canaries - Feeding | VCA Animal Hospitals",
-               "sync_transaction_version": "475",
-               "type": "url",
-               "url": "http://www.vcahospitals.com/main/pet-health-information/article/animal-health/canaries-feeding/808"
-            }, {
-               "date_added": "13044159030705600",
-               "id": "10858",
-               "name": "Basic Canary Care",
-               "sync_transaction_version": "476",
-               "type": "url",
-               "url": "http://www.aaawebmaster.com/canary/basiccare.htm"
             }, {
                "date_added": "13044372145042287",
                "id": "10859",
@@ -7467,17 +7422,14 @@
             "date_added": "13120327254955414",
             "id": "10790",
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1372",
+            "sync_transaction_version": "1427",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13173392098168467"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1416",
+            "sync_transaction_version": "1427",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7512,10 +7464,10 @@
             "date_added": "13120327254972422",
             "id": "10798",
             "meta_info": {
-               "last_visited": "13173394372532404"
+               "last_visited": "13173811981743315"
             },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "1417",
+            "sync_transaction_version": "1453",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -7604,13 +7556,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13173408739330708",
+         "date_modified": "13173822186024092",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1426",
+      "sync_transaction_version": "1453",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
