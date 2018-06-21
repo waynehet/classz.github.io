@@ -1,5 +1,5 @@
 {
-   "checksum": "1f62da447e4e45479f7a3c13c0c60941",
+   "checksum": "2a7d022ddf528da23b94f93c0a222499",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -12,8 +12,11 @@
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
+            "meta_info": {
+               "last_visited_desktop": "13173979518414379"
+            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "1372",
+            "sync_transaction_version": "1455",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -48,10 +51,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13173801019624390"
+               "last_visited_desktop": "13173978842888003"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1427",
+            "sync_transaction_version": "1454",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -63,7 +66,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13173797740291569",
+         "date_modified": "13173979529636826",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -237,9 +240,19 @@
                         "sync_transaction_version": "1427",
                         "type": "url",
                         "url": "https://www.authentichappiness.sas.upenn.edu/"
+                     }, {
+                        "date_added": "13173999766045469",
+                        "id": "11963",
+                        "meta_info": {
+                           "last_visited": "13173999766048587"
+                        },
+                        "name": "Misinformation and biases infect social media, both intentionally and accidentally",
+                        "sync_transaction_version": "1456",
+                        "type": "url",
+                        "url": "http://theconversation.com/misinformation-and-biases-infect-social-media-both-intentionally-and-accidentally-97148"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13173797740290313",
+                     "date_modified": "13173999766045469",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -596,8 +609,11 @@
                      "children": [ {
                         "date_added": "13120327257301614",
                         "id": "11790",
+                        "meta_info": {
+                           "last_visited": "13173999848643789"
+                        },
                         "name": "How to kick off your new Scrum team | Marc Löffler",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1457",
                         "type": "url",
                         "url": "http://marcloeffler.eu/2010/04/13/how-to-kick-off-your-new-scrum-team/"
                      }, {
@@ -610,8 +626,11 @@
                      }, {
                         "date_added": "13120327257305185",
                         "id": "11792",
+                        "meta_info": {
+                           "last_visited": "13173999879401673"
+                        },
                         "name": "esther derby associates, inc. » Building Effective Teams: Miss the Start, Miss the End",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "1458",
                         "type": "url",
                         "url": "http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html"
                      }, {
@@ -847,7 +866,7 @@
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13173323210634315",
+                     "date_modified": "13173999893354924",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2275,8 +2294,11 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
+                     "meta_info": {
+                        "last_visited": "13174000075507695"
+                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "1462",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2303,8 +2325,11 @@
                   }, {
                      "date_added": "13120327256392181",
                      "id": "11592",
+                     "meta_info": {
+                        "last_visited": "13174000009732322"
+                     },
                      "name": "Agile Games – ball point game | All About Agile",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1460",
                      "type": "url",
                      "url": "http://www.allaboutagile.com/agile-games-ball-point-game/"
                   }, {
@@ -2331,8 +2356,11 @@
                   }, {
                      "date_added": "13172667806869214",
                      "id": "11950",
+                     "meta_info": {
+                        "last_visited": "13173999976370537"
+                     },
                      "name": "“Wake up in the morning” Game - A quick fun way to understand the basic concept of Iterative Incremental Development - AgileSparks",
-                     "sync_transaction_version": "1403",
+                     "sync_transaction_version": "1459",
                      "type": "url",
                      "url": "https://www.agilesparks.com/blog/wake-up-in-the-morning-game/"
                   }, {
@@ -2351,7 +2379,7 @@
                      "url": "https://management30.com/practice/moving-motivators/?mc_cid=f54b6fefbf&mc_eid=78baf9f530"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13173288501272470",
+                  "date_modified": "13174000086143730",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -7562,7 +7590,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1453",
+      "sync_transaction_version": "1462",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
