@@ -13,15 +13,18 @@ categories: agile scrum
 * [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 * [The Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot) - an intractable problem
 
+* [Thou Shalt Not Commit Logical Fallacies](https://yourlogicalfallacyis.com/)
  
 ### Special Laws and Effects
 
 * [90-90 Rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule): 90% of the work will take 90% of the time.  The remaining 10% of the work will take 90% of the time
 * [Akrasia Effect](https://jamesclear.com/akrasia): Procrastination and Time Inconsistency
+* [Apophenia](https://en.wikipedia.org/wiki/Apophenia): Generalization of Confirmation Bias
 * [Cobb's Paradox](https://mosaicprojects.wordpress.com/2011/11/26/cobbs-paradox-is-alive-and-well/): We know why projects fail, we know how to prevent that, so why do they still fail?
 * [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): Systems produced are copies of communication structures
 * [Enkrateia Effect](https://en.wikipedia.org/wiki/Enkrateia): Opposite of Akrasia, or self control
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
+* [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
 + [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
 * [Larman's Laws of Organizational Behavior](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Orgs are optimized for status quo
@@ -33,4 +36,5 @@ categories: agile scrum
 * [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor): Pick the solution with the fewest assumptions
 * [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle): 80/20 rule
 * [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law): Work expands to fill the time available
+* [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): Causation fallacy
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
