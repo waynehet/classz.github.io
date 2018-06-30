@@ -1,12 +1,15 @@
 {
-   "checksum": "14f064caf0b372a142ca6a2c2574eeca",
+   "checksum": "458e833ca3b30ac8ef8a013a343bb379",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13174753034744024"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1427",
+            "sync_transaction_version": "1509",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -63,7 +66,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13174276391711407",
+         "date_modified": "13174773639315610",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -251,9 +254,26 @@
                         "sync_transaction_version": "1505",
                         "type": "url",
                         "url": "http://illustratedagile.com/2016/04/25/8-ways-measure-impact-agile-coach/"
+                     }, {
+                        "date_added": "13174753647503873",
+                        "id": "11978",
+                        "meta_info": {
+                           "last_visited_desktop": "13174753647512160",
+                           "stars.flags": "0",
+                           "stars.id": "c_a8vsjj0189ke",
+                           "stars.imageData": "EnAKaGh0dHBzOi8vcXouY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzAzL2dpdmUtZmVlZGJhY2stZWZmZWN0aXZlbHktanBlZy5qcGc/cXVhbGl0eT03NSZzdHJpcD1hbGwmdz0xNDAwEPgKGJQGGgA=",
+                           "stars.note": "",
+                           "stars.pageData": "ElBDcml0aXF1aW5nIGEgY29sbGVhZ3VlIGlzIG5ldmVyIGVhc3ksIGJ1dCBhbnlvbmUgY2FuIG1hc3RlciB0aGUgYXJ0IG9mIGZlZWRiYWNrLg==",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2016.128.11729"
+                        },
+                        "name": "How to give feedback effectively: A guide for managers — Quartz at Work",
+                        "sync_transaction_version": "1509",
+                        "type": "url",
+                        "url": "https://work.qz.com/1238966/how-to-give-feedback-more-effectively/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13174276391710010",
+                     "date_modified": "13174753647503873",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -7606,7 +7626,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1508",
+      "sync_transaction_version": "1509",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
