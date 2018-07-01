@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13174753034744024"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1509",
+            "sync_transaction_version": "1510",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -50,11 +47,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13174686900236637"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1506",
+            "sync_transaction_version": "1510",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -66,7 +60,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13174773639315610",
+         "date_modified": "13174852103235414",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -257,18 +251,8 @@
                      }, {
                         "date_added": "13174753647503873",
                         "id": "11978",
-                        "meta_info": {
-                           "last_visited_desktop": "13174753647512160",
-                           "stars.flags": "0",
-                           "stars.id": "c_a8vsjj0189ke",
-                           "stars.imageData": "EnAKaGh0dHBzOi8vcXouY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzAzL2dpdmUtZmVlZGJhY2stZWZmZWN0aXZlbHktanBlZy5qcGc/cXVhbGl0eT03NSZzdHJpcD1hbGwmdz0xNDAwEPgKGJQGGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "ElBDcml0aXF1aW5nIGEgY29sbGVhZ3VlIGlzIG5ldmVyIGVhc3ksIGJ1dCBhbnlvbmUgY2FuIG1hc3RlciB0aGUgYXJ0IG9mIGZlZWRiYWNrLg==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
-                        },
                         "name": "How to give feedback effectively: A guide for managers — Quartz at Work",
-                        "sync_transaction_version": "1509",
+                        "sync_transaction_version": "1510",
                         "type": "url",
                         "url": "https://work.qz.com/1238966/how-to-give-feedback-more-effectively/"
                      } ],
@@ -2682,8 +2666,11 @@
                }, {
                   "date_added": "13120327255322073",
                   "id": "11563",
+                  "meta_info": {
+                     "last_visited_desktop": "13174882130844096"
+                  },
                   "name": "Privacy is UX · An A List Apart Article",
-                  "sync_transaction_version": "856",
+                  "sync_transaction_version": "1513",
                   "type": "url",
                   "url": "http://alistapart.com/article/privacy-is-ux"
                }, {
@@ -2731,8 +2718,11 @@
                }, {
                   "date_added": "13169523488527270",
                   "id": "11932",
+                  "meta_info": {
+                     "last_visited_desktop": "13174882147168077"
+                  },
                   "name": "Prescientific Organizational Theory",
-                  "sync_transaction_version": "1333",
+                  "sync_transaction_version": "1515",
                   "type": "url",
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
@@ -4714,11 +4704,8 @@
                }, {
                   "date_added": "13174418963944654",
                   "id": "11976",
-                  "meta_info": {
-                     "last_visited": "13174431104572220"
-                  },
                   "name": "Toronto - Atlassian Community",
-                  "sync_transaction_version": "1508",
+                  "sync_transaction_version": "1510",
                   "type": "url",
                   "url": "https://community.atlassian.com/t5/Toronto/gp-p/Toronto"
                } ],
@@ -7488,15 +7475,21 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
+            "meta_info": {
+               "last_visited": "13174839419281959"
+            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1427",
+            "sync_transaction_version": "1510",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13174852864208912"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1427",
+            "sync_transaction_version": "1511",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7620,13 +7613,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13174276391713566",
+         "date_modified": "13174852103235389",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1509",
+      "sync_transaction_version": "1515",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
