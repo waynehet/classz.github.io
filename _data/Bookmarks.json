@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13175022945375170"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1510",
+            "sync_transaction_version": "1519",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -7476,10 +7479,11 @@
             "date_added": "13120327254955414",
             "id": "10790",
             "meta_info": {
-               "last_visited": "13174839419281959"
+               "last_visited": "13174839419281959",
+               "last_visited_desktop": "13175046826552010"
             },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1510",
+            "sync_transaction_version": "1521",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
@@ -7619,7 +7623,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1515",
+      "sync_transaction_version": "1521",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
