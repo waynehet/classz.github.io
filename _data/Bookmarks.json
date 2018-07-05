@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13175022945375170"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1519",
+            "sync_transaction_version": "1522",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -63,7 +60,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13174852103235414",
+         "date_modified": "13175201662984920",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2669,11 +2666,8 @@
                }, {
                   "date_added": "13120327255322073",
                   "id": "11563",
-                  "meta_info": {
-                     "last_visited_desktop": "13174882130844096"
-                  },
                   "name": "Privacy is UX · An A List Apart Article",
-                  "sync_transaction_version": "1513",
+                  "sync_transaction_version": "1522",
                   "type": "url",
                   "url": "http://alistapart.com/article/privacy-is-ux"
                }, {
@@ -2721,16 +2715,13 @@
                }, {
                   "date_added": "13169523488527270",
                   "id": "11932",
-                  "meta_info": {
-                     "last_visited_desktop": "13174882147168077"
-                  },
                   "name": "Prescientific Organizational Theory",
-                  "sync_transaction_version": "1515",
+                  "sync_transaction_version": "1522",
                   "type": "url",
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13172705928929595",
+               "date_modified": "13175201662985703",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -7478,22 +7469,15 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
-            "meta_info": {
-               "last_visited": "13174839419281959",
-               "last_visited_desktop": "13175046826552010"
-            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1521",
+            "sync_transaction_version": "1522",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13174852864208912"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1511",
+            "sync_transaction_version": "1522",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7617,13 +7601,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13174852103235389",
+         "date_modified": "13175201662985697",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1521",
+      "sync_transaction_version": "1522",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
