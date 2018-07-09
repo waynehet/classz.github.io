@@ -6084,11 +6084,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13175309806993651"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "1525",
+               "sync_transaction_version": "1526",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6107,7 +6104,7 @@
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13170951422841978",
+            "date_modified": "13175529681867821",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7479,11 +7476,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13175309180854627"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1524",
+            "sync_transaction_version": "1526",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7607,13 +7601,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13175201662985697",
+         "date_modified": "13175529681867828",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1525",
+      "sync_transaction_version": "1526",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
