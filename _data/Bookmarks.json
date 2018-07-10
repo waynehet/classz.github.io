@@ -209,8 +209,11 @@
                      }, {
                         "date_added": "13170691517063337",
                         "id": "11938",
+                        "meta_info": {
+                           "last_visited": "13175615015701978"
+                        },
                         "name": "How to Hire an Agile Coach - Jason Little",
-                        "sync_transaction_version": "1403",
+                        "sync_transaction_version": "1527",
                         "type": "url",
                         "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
                      }, {
@@ -257,7 +260,7 @@
                         "url": "https://work.qz.com/1238966/how-to-give-feedback-more-effectively/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13174753647503873",
+                     "date_modified": "13175617201597099",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -677,8 +680,11 @@
                      }, {
                         "date_added": "13125765675551904",
                         "id": "11797",
+                        "meta_info": {
+                           "last_visited": "13175615021088256"
+                        },
                         "name": "Agile Self-assessments - Ben Linders",
-                        "sync_transaction_version": "1403",
+                        "sync_transaction_version": "1527",
                         "type": "url",
                         "url": "https://www.benlinders.com/tools/agile-self-assessments/"
                      }, {
@@ -872,7 +878,7 @@
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13174276391713616",
+                     "date_modified": "13175617201597126",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1911,8 +1917,11 @@
                   }, {
                      "date_added": "13120327256327654",
                      "id": "11643",
+                     "meta_info": {
+                        "last_visited": "13175615023747190"
+                     },
                      "name": "10 Persona Tips for Agile Product Management | Roman Pichler",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "1527",
                      "type": "url",
                      "url": "http://www.romanpichler.com/blog/agile-product-innovation/10-persona-tips-agile-product-management/"
                   }, {
@@ -2008,7 +2017,7 @@
                      "url": "https://hackernoon.com/cost-per-reasonable-decision-cprd-ed1ca8c6147"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13174246297189719",
+                  "date_modified": "13175617201597139",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -7607,7 +7616,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1526",
+      "sync_transaction_version": "1527",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
