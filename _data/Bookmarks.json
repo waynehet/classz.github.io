@@ -6113,8 +6113,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13176056065916837"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1505",
+               "sync_transaction_version": "1530",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7622,7 +7625,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1529",
+      "sync_transaction_version": "1530",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
