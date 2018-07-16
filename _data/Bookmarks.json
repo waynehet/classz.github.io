@@ -1,12 +1,15 @@
 {
-   "checksum": "458e833ca3b30ac8ef8a013a343bb379",
+   "checksum": "aa1fcd9edcf0033557e3fbd5d795d492",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13176142608343557"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1522",
+            "sync_transaction_version": "1532",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -63,7 +66,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13175201662984920",
+         "date_modified": "13176142611368640",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -261,9 +264,19 @@
                         "sync_transaction_version": "1510",
                         "type": "url",
                         "url": "https://work.qz.com/1238966/how-to-give-feedback-more-effectively/"
+                     }, {
+                        "date_added": "13176160687205934",
+                        "id": "11981",
+                        "meta_info": {
+                           "last_visited": "13176160687208123"
+                        },
+                        "name": "7 Habits of Highly Empathetic Coaches - DZone Agile",
+                        "sync_transaction_version": "1537",
+                        "type": "url",
+                        "url": "https://dzone.com/articles/agile-transformation-for-non-it-teams"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13175617201597099",
+                     "date_modified": "13176184174144257",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -1012,9 +1025,19 @@
                      "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://www.business2community.com/marketing/sprint-events-not-waste-unless-done-wrong-01892940#4IAZ0MSiaVF0xPwI.97"
+                  }, {
+                     "date_added": "13176184174144257",
+                     "id": "11982",
+                     "meta_info": {
+                        "last_visited": "13176184174147666"
+                     },
+                     "name": "The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings",
+                     "sync_transaction_version": "1539",
+                     "type": "url",
+                     "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13170951422842384",
+                  "date_modified": "13176184212429261",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -2202,8 +2225,11 @@
                   }, {
                      "date_added": "13120327256374450",
                      "id": "11607",
+                     "meta_info": {
+                        "last_visited": "13176096712375148"
+                     },
                      "name": "Tyranny of the Tools",
-                     "sync_transaction_version": "849",
+                     "sync_transaction_version": "1531",
                      "type": "url",
                      "url": "http://www.whattofix.com/blog/archives/2011/12/tyranny-of-the-1.php"
                   }, {
@@ -2272,15 +2298,21 @@
                   }, {
                      "date_added": "13120327256377299",
                      "id": "11609",
+                     "meta_info": {
+                        "last_visited": "13176096828739924"
+                     },
                      "name": "unSAFe",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1531",
                      "type": "url",
                      "url": "http://kenschwaber.wordpress.com/2013/08/06/unsafe-at-any-speed/"
                   }, {
                      "date_added": "13120327256378702",
                      "id": "11610",
+                     "meta_info": {
+                        "last_visited": "13176096814428084"
+                     },
                      "name": "The Horror Of The Scaled Agile Framework | neilkillick.com",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1531",
                      "type": "url",
                      "url": "http://neilkillick.com/2012/03/21/the-horror-of-the-scaled-agile-framework/"
                   }, {
@@ -2327,7 +2359,7 @@
                      "url": "https://www.linkedin.com/pulse/measuring-evaluating-scrum-complex-environments-erich-buhler/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13174276391708968",
+                  "date_modified": "13176133323033112",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -2509,9 +2541,19 @@
                      "sync_transaction_version": "1333",
                      "type": "url",
                      "url": "https://luis-goncalves.com/organisational-structure-matrix-organisation/"
+                  }, {
+                     "date_added": "13176160642708552",
+                     "id": "11980",
+                     "meta_info": {
+                        "last_visited": "13176160642710511"
+                     },
+                     "name": "Why your execs don't get agile and what you can do about it | TechBeacon",
+                     "sync_transaction_version": "1535",
+                     "type": "url",
+                     "url": "https://techbeacon.com/why-your-execs-dont-get-agile-what-you-can-do-about-it#%2EWz9d8Rd8e5c%2Elinkedin"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13170951422842256",
+                  "date_modified": "13176160687205934",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -4719,7 +4761,7 @@
                   "url": "https://community.atlassian.com/t5/Toronto/gp-p/Toronto"
                } ],
                "date_added": "13163364262698722",
-               "date_modified": "13174418963944654",
+               "date_modified": "13176160642708552",
                "id": "11020",
                "name": "Blogs and Groups",
                "sync_transaction_version": "3",
@@ -7494,8 +7536,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13176159091605322"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1526",
+            "sync_transaction_version": "1533",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7625,7 +7670,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1530",
+      "sync_transaction_version": "1539",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
