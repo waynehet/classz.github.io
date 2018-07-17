@@ -14,6 +14,7 @@ categories: agile scrum
 * [The Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot) - an intractable problem
 
 * [Thou Shalt Not Commit Logical Fallacies](https://yourlogicalfallacyis.com/)
+* [Your Bias](https://yourbias.is)
  
 ### Special Laws and Effects
 
