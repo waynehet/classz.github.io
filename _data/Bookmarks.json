@@ -1029,10 +1029,10 @@
                      "date_added": "13176184174144257",
                      "id": "11982",
                      "meta_info": {
-                        "last_visited": "13176184174147666"
+                        "last_visited": "13176264254919208"
                      },
                      "name": "The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings",
-                     "sync_transaction_version": "1539",
+                     "sync_transaction_version": "1541",
                      "type": "url",
                      "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
                   } ],
@@ -7452,8 +7452,11 @@
             }, {
                "date_added": "13019147935119275",
                "id": "10846",
+               "meta_info": {
+                  "last_visited": "13176259405494597"
+               },
                "name": "Kijiji Barrie Classifieds Free Local Classified Ads for Barrie, Ontari (...)",
-               "sync_transaction_version": "1333",
+               "sync_transaction_version": "1540",
                "type": "url",
                "url": "http://barrie.kijiji.ca/"
             }, {
@@ -7521,7 +7524,7 @@
                "url": "http://tv.jw.org/#video/VODMonthlyProgramming/pub-jwb_E_201411_1_VIDEO"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13174276391713605",
+            "date_modified": "13176261937842910",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7670,7 +7673,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1539",
+      "sync_transaction_version": "1541",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
