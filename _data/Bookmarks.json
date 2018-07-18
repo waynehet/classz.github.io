@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13176142608343557"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1532",
+            "sync_transaction_version": "1542",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -50,11 +47,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13175958133253099"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1529",
+            "sync_transaction_version": "1542",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -66,7 +60,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13176142611368640",
+         "date_modified": "13176327125936986",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -215,11 +209,8 @@
                      }, {
                         "date_added": "13170691517063337",
                         "id": "11938",
-                        "meta_info": {
-                           "last_visited": "13175615015701978"
-                        },
                         "name": "How to Hire an Agile Coach - Jason Little",
-                        "sync_transaction_version": "1527",
+                        "sync_transaction_version": "1542",
                         "type": "url",
                         "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
                      }, {
@@ -267,16 +258,13 @@
                      }, {
                         "date_added": "13176160687205934",
                         "id": "11981",
-                        "meta_info": {
-                           "last_visited": "13176160687208123"
-                        },
                         "name": "7 Habits of Highly Empathetic Coaches - DZone Agile",
-                        "sync_transaction_version": "1537",
+                        "sync_transaction_version": "1542",
                         "type": "url",
                         "url": "https://dzone.com/articles/agile-transformation-for-non-it-teams"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13176184174144257",
+                     "date_modified": "13176327125936968",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -696,11 +684,8 @@
                      }, {
                         "date_added": "13125765675551904",
                         "id": "11797",
-                        "meta_info": {
-                           "last_visited": "13175615021088256"
-                        },
                         "name": "Agile Self-assessments - Ben Linders",
-                        "sync_transaction_version": "1527",
+                        "sync_transaction_version": "1542",
                         "type": "url",
                         "url": "https://www.benlinders.com/tools/agile-self-assessments/"
                      }, {
@@ -894,7 +879,7 @@
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13175617201597126",
+                     "date_modified": "13176327125939442",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1028,11 +1013,8 @@
                   }, {
                      "date_added": "13176184174144257",
                      "id": "11982",
-                     "meta_info": {
-                        "last_visited": "13176264254919208"
-                     },
                      "name": "The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings",
-                     "sync_transaction_version": "1541",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
                   } ],
@@ -1887,11 +1869,8 @@
                   }, {
                      "date_added": "13120327256310164",
                      "id": "11635",
-                     "meta_info": {
-                        "last_visited": "13175820536302991"
-                     },
                      "name": "Four Principles of Low-Risk Software Releases | Principle 1: Low-Risk Releases Are Incremental | InformIT",
-                     "sync_transaction_version": "1528",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "http://www.informit.com/articles/article.aspx?p=1833567"
                   }, {
@@ -1946,11 +1925,8 @@
                   }, {
                      "date_added": "13120327256327654",
                      "id": "11643",
-                     "meta_info": {
-                        "last_visited": "13175615023747190"
-                     },
                      "name": "10 Persona Tips for Agile Product Management | Roman Pichler",
-                     "sync_transaction_version": "1527",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "http://www.romanpichler.com/blog/agile-product-innovation/10-persona-tips-agile-product-management/"
                   }, {
@@ -2046,7 +2022,7 @@
                      "url": "https://hackernoon.com/cost-per-reasonable-decision-cprd-ed1ca8c6147"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13175958138225211",
+                  "date_modified": "13176327125939473",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -2225,11 +2201,8 @@
                   }, {
                      "date_added": "13120327256374450",
                      "id": "11607",
-                     "meta_info": {
-                        "last_visited": "13176096712375148"
-                     },
                      "name": "Tyranny of the Tools",
-                     "sync_transaction_version": "1531",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "http://www.whattofix.com/blog/archives/2011/12/tyranny-of-the-1.php"
                   }, {
@@ -2298,21 +2271,15 @@
                   }, {
                      "date_added": "13120327256377299",
                      "id": "11609",
-                     "meta_info": {
-                        "last_visited": "13176096828739924"
-                     },
                      "name": "unSAFe",
-                     "sync_transaction_version": "1531",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "http://kenschwaber.wordpress.com/2013/08/06/unsafe-at-any-speed/"
                   }, {
                      "date_added": "13120327256378702",
                      "id": "11610",
-                     "meta_info": {
-                        "last_visited": "13176096814428084"
-                     },
                      "name": "The Horror Of The Scaled Agile Framework | neilkillick.com",
-                     "sync_transaction_version": "1531",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "http://neilkillick.com/2012/03/21/the-horror-of-the-scaled-agile-framework/"
                   }, {
@@ -2359,7 +2326,7 @@
                      "url": "https://www.linkedin.com/pulse/measuring-evaluating-scrum-complex-environments-erich-buhler/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13176133323033112",
+                  "date_modified": "13176327125939465",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -2544,11 +2511,8 @@
                   }, {
                      "date_added": "13176160642708552",
                      "id": "11980",
-                     "meta_info": {
-                        "last_visited": "13176160642710511"
-                     },
                      "name": "Why your execs don't get agile and what you can do about it | TechBeacon",
-                     "sync_transaction_version": "1535",
+                     "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "https://techbeacon.com/why-your-execs-dont-get-agile-what-you-can-do-about-it#%2EWz9d8Rd8e5c%2Elinkedin"
                   } ],
@@ -6155,11 +6119,8 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13176056065916837"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1530",
+               "sync_transaction_version": "1542",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7452,11 +7413,8 @@
             }, {
                "date_added": "13019147935119275",
                "id": "10846",
-               "meta_info": {
-                  "last_visited": "13176259405494597"
-               },
                "name": "Kijiji Barrie Classifieds Free Local Classified Ads for Barrie, Ontari (...)",
-               "sync_transaction_version": "1540",
+               "sync_transaction_version": "1542",
                "type": "url",
                "url": "http://barrie.kijiji.ca/"
             }, {
@@ -7524,7 +7482,7 @@
                "url": "http://tv.jw.org/#video/VODMonthlyProgramming/pub-jwb_E_201411_1_VIDEO"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13176261937842910",
+            "date_modified": "13176327125939483",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7539,11 +7497,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13176159091605322"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1533",
+            "sync_transaction_version": "1542",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7667,13 +7622,13 @@
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13175529681867828",
+         "date_modified": "13176327125936977",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1541",
+      "sync_transaction_version": "1542",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
