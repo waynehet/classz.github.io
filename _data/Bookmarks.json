@@ -1,5 +1,5 @@
 {
-   "checksum": "aa1fcd9edcf0033557e3fbd5d795d492",
+   "checksum": "0fb26bf83012c089806c9955a3bd2c8f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -54,8 +54,11 @@
          }, {
             "date_added": "13171303135781284",
             "id": "11940",
+            "meta_info": {
+               "last_visited": "13176433212598347"
+            },
             "name": "Meeting Audio",
-            "sync_transaction_version": "1372",
+            "sync_transaction_version": "1543",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
@@ -2020,9 +2023,29 @@
                      "sync_transaction_version": "1505",
                      "type": "url",
                      "url": "https://hackernoon.com/cost-per-reasonable-decision-cprd-ed1ca8c6147"
+                  }, {
+                     "date_added": "13176401761009798",
+                     "id": "11984",
+                     "meta_info": {
+                        "last_visited": "13176401761013355"
+                     },
+                     "name": "Let’s Eradicate Bad Product Ownership, part-1 — RGalen Consulting",
+                     "sync_transaction_version": "1543",
+                     "type": "url",
+                     "url": "http://rgalen.com/agile-training-news/2018/6/3/lets-eradicate-bad-product-ownership-part-1"
+                  }, {
+                     "date_added": "13176401767635274",
+                     "id": "11985",
+                     "meta_info": {
+                        "last_visited": "13176401767636926"
+                     },
+                     "name": "Let’s Eradicate Bad Product Ownership, part-2 — RGalen Consulting",
+                     "sync_transaction_version": "1543",
+                     "type": "url",
+                     "url": "http://rgalen.com/agile-training-news/2018/6/5/lets-eradicate-bad-product-ownership-part-2"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13176327125939473",
+                  "date_modified": "13176401767635274",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -7497,8 +7520,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13176438633754752"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1542",
+            "sync_transaction_version": "1545",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7628,7 +7654,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1542",
+      "sync_transaction_version": "1545",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
