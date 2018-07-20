@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13176515648576588"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1542",
+            "sync_transaction_version": "1547",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -47,6 +50,9 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited_desktop": "13176480833966789"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
             "sync_transaction_version": "1542",
             "type": "url",
@@ -771,8 +777,11 @@
                      }, {
                         "date_added": "13122156659500758",
                         "id": "11810",
+                        "meta_info": {
+                           "last_visited": "13176493630055971"
+                        },
                         "name": "A Better Way To Measure Employee Happiness | Neale Lewis | Pulse | LinkedIn",
-                        "sync_transaction_version": "940",
+                        "sync_transaction_version": "1546",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20141018181701-13167405-a-better-way-to-measure-employee-happines"
                      }, {
@@ -855,8 +864,11 @@
                      }, {
                         "date_added": "13169521677921683",
                         "id": "11927",
+                        "meta_info": {
+                           "last_visited": "13176503132506008"
+                        },
                         "name": "Track and Facilitate Your Engineers’ Flow States In This Simple Way | First Round Review",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1546",
                         "type": "url",
                         "url": "http://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-this-simple-way/"
                      }, {
@@ -882,7 +894,7 @@
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13176327125939442",
+                     "date_modified": "13176512161487851",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -7654,7 +7666,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1545",
+      "sync_transaction_version": "1547",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
