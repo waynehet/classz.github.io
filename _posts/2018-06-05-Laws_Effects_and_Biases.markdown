@@ -40,4 +40,5 @@ categories: agile scrum
 * [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle): 80/20 rule
 * [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law): Work expands to fill the time available
 * [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): Causation fallacy
+* [Ringelmann Effect](https://en.wikipedia.org/wiki/Ringelmann_effect): Social loafing and Bystander effect, the tendancy to do less individually when part of a team
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
