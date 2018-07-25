@@ -1028,8 +1028,11 @@
                   }, {
                      "date_added": "13176184174144257",
                      "id": "11982",
+                     "meta_info": {
+                        "last_visited": "13176937366765557"
+                     },
                      "name": "The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings",
-                     "sync_transaction_version": "1542",
+                     "sync_transaction_version": "1549",
                      "type": "url",
                      "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
                   } ],
@@ -7669,7 +7672,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1548",
+      "sync_transaction_version": "1549",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
