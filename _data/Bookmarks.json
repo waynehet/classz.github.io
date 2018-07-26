@@ -51,10 +51,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13176856845978230"
+               "last_visited_desktop": "13177010295057005"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1542",
+            "sync_transaction_version": "1552",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -756,8 +756,11 @@
                      }, {
                         "date_added": "13122156617724967",
                         "id": "11807",
+                        "meta_info": {
+                           "last_visited": "13177024541233338"
+                        },
                         "name": "INCURABLE DATA GEEK • How we put a number on employee happiness and did...",
-                        "sync_transaction_version": "937",
+                        "sync_transaction_version": "1553",
                         "type": "url",
                         "url": "http://www.samiinkinen.com/post/8849816634/employee-happiness"
                      }, {
@@ -857,8 +860,11 @@
                      }, {
                         "date_added": "13168655289331557",
                         "id": "11918",
+                        "meta_info": {
+                           "last_visited": "13177024433986864"
+                        },
                         "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1553",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
                      }, {
@@ -894,7 +900,7 @@
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13176512161487851",
+                     "date_modified": "13177028593605412",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -902,8 +908,11 @@
                   }, {
                      "date_added": "13120327256217953",
                      "id": "11774",
+                     "meta_info": {
+                        "last_visited": "13177024527430051"
+                     },
                      "name": "Agile Leadership Network - Accelerate Agility: Connect and Engage to Transform Your Enterprise",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1553",
                      "type": "url",
                      "url": "http://agileleadershipnetwork.org/"
                   }, {
@@ -1029,15 +1038,15 @@
                      "date_added": "13176184174144257",
                      "id": "11982",
                      "meta_info": {
-                        "last_visited": "13176937366765557"
+                        "last_visited": "13177002855076230"
                      },
                      "name": "The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings",
-                     "sync_transaction_version": "1549",
+                     "sync_transaction_version": "1550",
                      "type": "url",
                      "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13176184212429261",
+                  "date_modified": "13177028593605394",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -2602,8 +2611,11 @@
                   }, {
                      "date_added": "13120327256236510",
                      "id": "11572",
+                     "meta_info": {
+                        "last_visited": "13177024558450669"
+                     },
                      "name": "How to assess your organization culture in one question | #hypertextual",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "1553",
                      "type": "url",
                      "url": "http://thehypertextual.com/2014/04/09/how-to-assess-your-organization-culture-in-one-question/"
                   }, {
@@ -2678,7 +2690,7 @@
                      "url": "https://medium.com/@neil2killick/7-ways-to-go-agile-without-an-agile-transformation-25be8421a3ec"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13172693247980134",
+                  "date_modified": "13177028593605384",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -7672,7 +7684,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1549",
+      "sync_transaction_version": "1553",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
