@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13177446328638539"
+               "last_visited_desktop": "13177562079813357"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1555",
+            "sync_transaction_version": "1562",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -54,7 +54,7 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13177096579310840"
+               "last_visited_desktop": "13177520879864731"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
             "sync_transaction_version": "1552",
@@ -72,7 +72,7 @@
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13177473958183101",
+         "date_modified": "13177560770130485",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -1758,14 +1758,7 @@
                         "date_added": "13177444802566416",
                         "id": "11989",
                         "meta_info": {
-                           "last_visited_desktop": "13177444873568579",
-                           "stars.flags": "0",
-                           "stars.id": "c_25d1jk8jh23e",
-                           "stars.imageData": "Eo8BCoYBaHR0cHM6Ly90aHVtYm9yLmZvcmJlcy5jb20vdGh1bWJvci82MDB4MzE1L2h0dHBzJTNBJTJGJTJGYmxvZ3MtaW1hZ2VzLmZvcmJlcy5jb20lMkZhbm5sYXRoYW0lMkZmaWxlcyUyRjIwMTUlMkYxMCUyRnRyb3VibGUtdy1wbGFucy5qcGcQ2AQYuwIaAA==",
-                           "stars.note": "",
-                           "stars.pageData": "ElxEZXRhaWxlZCBjb21wbGV0ZSBwbGFucyBhcmUgc28gY29tZm9ydGluZy4gVG9vIGJhZCB0aGV5IG9ubHkgY3JlYXRlIHRoZSBpbGx1c2lvbiBvZiBjb250cm9sIQ==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2018.719.1322"
+                           "last_visited_desktop": "13177444873568579"
                         },
                         "name": "Why Your Planning And Tracking Are Generating Nothing More Than The Illusion Of Control",
                         "sync_transaction_version": "1555",
@@ -1775,17 +1768,11 @@
                         "date_added": "13177446509768082",
                         "id": "11990",
                         "meta_info": {
-                           "last_visited_desktop": "13177446509770655",
-                           "stars.flags": "0",
-                           "stars.id": "c_7yb6jk8khndp",
-                           "stars.imageData": "EkkKQWh0dHBzOi8vZHoyY2RuMi5kem9uZS5jb20vc3RvcmFnZS9hcnRpY2xlLXRodW1iLzk2MjQzNjUtdGh1bWIuanBnEJsDGIECGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "EqMBQ2hlY2sgb3V0IHRoaXMgZGV2ZWxvcGVyJ3Mgb2JzZXJ2YXRpb25zIG9uIHRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiByaXNrIGFuZCBrbm93bGVkZ2Ugb24gc29mdHdhcmUgZGV2ZWxvcG1lbnQgcHJvamVjdHMgYW5kIGhvdyB0aGUgY29ycmVsYXRlIGFzIHByb2plY3RzIHByb2dyZXNzLg==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2018.719.1322"
+                           "last_visited": "13177507080478497",
+                           "last_visited_desktop": "13177446509770655"
                         },
                         "name": "Uncertainty, Knowledge, and Scrum Sprints - DZone Agile",
-                        "sync_transaction_version": "1555",
+                        "sync_transaction_version": "1556",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      } ],
@@ -7727,7 +7714,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1555",
+      "sync_transaction_version": "1562",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
