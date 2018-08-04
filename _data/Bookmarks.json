@@ -1,5 +1,5 @@
 {
-   "checksum": "dd7592f119d4956562ec4e7d58c10885",
+   "checksum": "ce0579c399c2efacc4a1409aa99d1213",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -54,10 +54,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13177687665981898"
+               "last_visited_desktop": "13177773276072940"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1563",
+            "sync_transaction_version": "1565",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -274,9 +274,19 @@
                         "sync_transaction_version": "1542",
                         "type": "url",
                         "url": "https://dzone.com/articles/agile-transformation-for-non-it-teams"
+                     }, {
+                        "date_added": "13177804153039402",
+                        "id": "11992",
+                        "meta_info": {
+                           "last_visited": "13177804153041632"
+                        },
+                        "name": "How to Develop Empathy for Someone Who Annoys You",
+                        "sync_transaction_version": "1566",
+                        "type": "url",
+                        "url": "https://hbr.org/2018/04/how-to-develop-empathy-for-someone-who-annoys-you"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13176327125936968",
+                     "date_modified": "13177804153039402",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -1689,10 +1699,10 @@
                         "date_added": "13120327257429204",
                         "id": "11672",
                         "meta_info": {
-                           "last_visited_desktop": "13177442624069014"
+                           "last_visited_desktop": "13177799448230464"
                         },
                         "name": "The Many Levels of Planning on an Agile Project",
-                        "sync_transaction_version": "1555",
+                        "sync_transaction_version": "1566",
                         "type": "url",
                         "url": "http://www.infoq.com/articles/many-levels-planning-agile-project"
                      }, {
@@ -1758,26 +1768,33 @@
                         "date_added": "13177444802566416",
                         "id": "11989",
                         "meta_info": {
-                           "last_visited_desktop": "13177444873568579"
+                           "last_visited_desktop": "13177799155576122",
+                           "stars.flags": "0",
+                           "stars.id": "c_25d1jk8jh23e",
+                           "stars.imageData": "Eo8BCoYBaHR0cHM6Ly90aHVtYm9yLmZvcmJlcy5jb20vdGh1bWJvci82MDB4MzE1L2h0dHBzJTNBJTJGJTJGYmxvZ3MtaW1hZ2VzLmZvcmJlcy5jb20lMkZhbm5sYXRoYW0lMkZmaWxlcyUyRjIwMTUlMkYxMCUyRnRyb3VibGUtdy1wbGFucy5qcGcQ2AQYuwIaAA==",
+                           "stars.note": "",
+                           "stars.pageData": "ElxEZXRhaWxlZCBjb21wbGV0ZSBwbGFucyBhcmUgc28gY29tZm9ydGluZy4gVG9vIGJhZCB0aGV5IG9ubHkgY3JlYXRlIHRoZSBpbGx1c2lvbiBvZiBjb250cm9sIQ==",
+                           "stars.type": "2",
+                           "stars.version": "crx.2.2018.719.1322"
                         },
                         "name": "Why Your Planning And Tracking Are Generating Nothing More Than The Illusion Of Control",
-                        "sync_transaction_version": "1555",
+                        "sync_transaction_version": "1566",
                         "type": "url",
                         "url": "https://www.forbes.com/sites/annlatham/2015/10/06/why-your-planning-and-tracking-are-generating-nothing-more-than-the-illusion-of-control/#5880b1891826"
                      }, {
                         "date_added": "13177446509768082",
                         "id": "11990",
                         "meta_info": {
-                           "last_visited": "13177507080478497",
-                           "last_visited_desktop": "13177446509770655"
+                           "last_visited": "13177803688599752",
+                           "last_visited_desktop": "13177798115605300"
                         },
                         "name": "Uncertainty, Knowledge, and Scrum Sprints - DZone Agile",
-                        "sync_transaction_version": "1556",
+                        "sync_transaction_version": "1566",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13177473958184393",
+                     "date_modified": "13177807448399090",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -7714,7 +7731,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1563",
+      "sync_transaction_version": "1566",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
