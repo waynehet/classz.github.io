@@ -1,15 +1,15 @@
 {
-   "checksum": "ce0579c399c2efacc4a1409aa99d1213",
+   "checksum": "c57885d56c5eec70c07eef97c66394ff",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13177562079813357"
+               "last_visited_desktop": "13178059679350447"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1562",
+            "sync_transaction_version": "1611",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -46,15 +46,18 @@
          }, {
             "date_added": "13120327255007648",
             "id": "9634",
+            "meta_info": {
+               "last_visited_desktop": "13177980149029635"
+            },
             "name": "MSDN Canada",
-            "sync_transaction_version": "1333",
+            "sync_transaction_version": "1569",
             "type": "url",
             "url": "http://msdn2.microsoft.com/en-ca/default.aspx"
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13177773276072940"
+               "last_visited_desktop": "13178119289374452"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
             "sync_transaction_version": "1565",
@@ -64,15 +67,26 @@
             "date_added": "13171303135781284",
             "id": "11940",
             "meta_info": {
-               "last_visited": "13176433212598347"
+               "last_visited": "13177902001305808",
+               "last_visited_desktop": "13177980259300730"
             },
             "name": "Meeting Audio",
-            "sync_transaction_version": "1543",
+            "sync_transaction_version": "1577",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
+         }, {
+            "date_added": "13177980343320056",
+            "id": "11995",
+            "meta_info": {
+               "last_visited_desktop": "13178057331742244"
+            },
+            "name": "Visual Studio Team Services",
+            "sync_transaction_version": "1589",
+            "type": "url",
+            "url": "https://waynehetherington.visualstudio.com/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13177560770130485",
+         "date_modified": "13177980343320056",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -1768,14 +1782,7 @@
                         "date_added": "13177444802566416",
                         "id": "11989",
                         "meta_info": {
-                           "last_visited_desktop": "13177799155576122",
-                           "stars.flags": "0",
-                           "stars.id": "c_25d1jk8jh23e",
-                           "stars.imageData": "Eo8BCoYBaHR0cHM6Ly90aHVtYm9yLmZvcmJlcy5jb20vdGh1bWJvci82MDB4MzE1L2h0dHBzJTNBJTJGJTJGYmxvZ3MtaW1hZ2VzLmZvcmJlcy5jb20lMkZhbm5sYXRoYW0lMkZmaWxlcyUyRjIwMTUlMkYxMCUyRnRyb3VibGUtdy1wbGFucy5qcGcQ2AQYuwIaAA==",
-                           "stars.note": "",
-                           "stars.pageData": "ElxEZXRhaWxlZCBjb21wbGV0ZSBwbGFucyBhcmUgc28gY29tZm9ydGluZy4gVG9vIGJhZCB0aGV5IG9ubHkgY3JlYXRlIHRoZSBpbGx1c2lvbiBvZiBjb250cm9sIQ==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2018.719.1322"
+                           "last_visited_desktop": "13177799155576122"
                         },
                         "name": "Why Your Planning And Tracking Are Generating Nothing More Than The Illusion Of Control",
                         "sync_transaction_version": "1566",
@@ -4585,8 +4592,11 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
+                  "meta_info": {
+                     "last_visited_desktop": "13178057347442159"
+                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1403",
+                  "sync_transaction_version": "1607",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6219,8 +6229,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13178056614782810"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1542",
+               "sync_transaction_version": "1598",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7598,10 +7611,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13176438633754752"
+               "last_visited_desktop": "13177956857548105"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1545",
+            "sync_transaction_version": "1568",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7723,15 +7736,25 @@
             "sync_transaction_version": "3",
             "type": "url",
             "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
+         }, {
+            "date_added": "13177980203362629",
+            "id": "11994",
+            "meta_info": {
+               "last_visited_desktop": "13178057337142088"
+            },
+            "name": "Projects - Visual Studio Team Services",
+            "sync_transaction_version": "1602",
+            "type": "url",
+            "url": "https://waynehetherington.visualstudio.com/_projects"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13176327125936977",
+         "date_modified": "13177980253539629",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1566",
+      "sync_transaction_version": "1611",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
