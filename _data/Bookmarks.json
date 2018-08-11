@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13178059679350447"
+               "last_visited_desktop": "13178433405346078"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1611",
+            "sync_transaction_version": "1614",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -86,7 +86,7 @@
             "url": "https://waynehetherington.visualstudio.com/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13177980343320056",
+         "date_modified": "13178417336450243",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7610,6 +7610,9 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13178391309368004"
+            },
             "name": "CIBC Online Banking",
             "sync_transaction_version": "1612",
             "type": "url",
@@ -7751,7 +7754,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1612",
+      "sync_transaction_version": "1614",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
