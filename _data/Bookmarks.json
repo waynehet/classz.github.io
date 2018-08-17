@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13178640036864320"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1616",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -46,47 +43,34 @@
          }, {
             "date_added": "13120327255007648",
             "id": "9634",
-            "meta_info": {
-               "last_visited_desktop": "13177980149029635"
-            },
             "name": "MSDN Canada",
-            "sync_transaction_version": "1569",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "http://msdn2.microsoft.com/en-ca/default.aspx"
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13178649800608795"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1565",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
             "date_added": "13171303135781284",
             "id": "11940",
-            "meta_info": {
-               "last_visited": "13177902001305808",
-               "last_visited_desktop": "13177980259300730"
-            },
             "name": "Meeting Audio",
-            "sync_transaction_version": "1577",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          }, {
             "date_added": "13177980343320056",
             "id": "11995",
-            "meta_info": {
-               "last_visited_desktop": "13178057331742244"
-            },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "1589",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13178640041022111",
+         "date_modified": "13178940036867689",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -221,11 +205,8 @@
                      }, {
                         "date_added": "13167603802557462",
                         "id": "11899",
-                        "meta_info": {
-                           "last_visited_desktop": "13178727739144818"
-                        },
                         "name": "Wheel of Life | Free Online Assessment",
-                        "sync_transaction_version": "1617",
+                        "sync_transaction_version": "1621",
                         "type": "url",
                         "url": "https://wheeloflife.noomii.com/"
                      }, {
@@ -294,16 +275,13 @@
                      }, {
                         "date_added": "13177804153039402",
                         "id": "11992",
-                        "meta_info": {
-                           "last_visited": "13177804153041632"
-                        },
                         "name": "How to Develop Empathy for Someone Who Annoys You",
-                        "sync_transaction_version": "1566",
+                        "sync_transaction_version": "1621",
                         "type": "url",
                         "url": "https://hbr.org/2018/04/how-to-develop-empathy-for-someone-who-annoys-you"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13178765402388086",
+                     "date_modified": "13178940036869049",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -1715,11 +1693,8 @@
                      }, {
                         "date_added": "13120327257429204",
                         "id": "11672",
-                        "meta_info": {
-                           "last_visited_desktop": "13177799448230464"
-                        },
                         "name": "The Many Levels of Planning on an Agile Project",
-                        "sync_transaction_version": "1566",
+                        "sync_transaction_version": "1621",
                         "type": "url",
                         "url": "http://www.infoq.com/articles/many-levels-planning-agile-project"
                      }, {
@@ -1784,27 +1759,20 @@
                      }, {
                         "date_added": "13177444802566416",
                         "id": "11989",
-                        "meta_info": {
-                           "last_visited_desktop": "13177799155576122"
-                        },
                         "name": "Why Your Planning And Tracking Are Generating Nothing More Than The Illusion Of Control",
-                        "sync_transaction_version": "1566",
+                        "sync_transaction_version": "1621",
                         "type": "url",
                         "url": "https://www.forbes.com/sites/annlatham/2015/10/06/why-your-planning-and-tracking-are-generating-nothing-more-than-the-illusion-of-control/#5880b1891826"
                      }, {
                         "date_added": "13177446509768082",
                         "id": "11990",
-                        "meta_info": {
-                           "last_visited": "13177803688599752",
-                           "last_visited_desktop": "13177798115605300"
-                        },
                         "name": "Uncertainty, Knowledge, and Scrum Sprints - DZone Agile",
-                        "sync_transaction_version": "1566",
+                        "sync_transaction_version": "1621",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13177807448399090",
+                     "date_modified": "13178940036869080",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -4595,11 +4563,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited_desktop": "13178057347442159"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1607",
+                  "sync_transaction_version": "1621",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6232,11 +6197,8 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13178056614782810"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1598",
+               "sync_transaction_version": "1621",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -6321,7 +6283,7 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "name": "Pinterest Home",
-               "sync_transaction_version": "1403",
+               "sync_transaction_version": "1621",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7598,7 +7560,7 @@
                "url": "http://tv.jw.org/#video/VODMonthlyProgramming/pub-jwb_E_201411_1_VIDEO"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13176327125939483",
+            "date_modified": "13178940036869094",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7613,11 +7575,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13178391309368004"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1612",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7742,22 +7701,19 @@
          }, {
             "date_added": "13177980203362629",
             "id": "11994",
-            "meta_info": {
-               "last_visited_desktop": "13178057337142088"
-            },
             "name": "Projects - Visual Studio Team Services",
-            "sync_transaction_version": "1602",
+            "sync_transaction_version": "1621",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/_projects"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13178299576482625",
+         "date_modified": "13178940036869068",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1617",
+      "sync_transaction_version": "1621",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
