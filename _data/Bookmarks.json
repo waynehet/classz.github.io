@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13179029698452759"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1621",
+            "sync_transaction_version": "1623",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -4563,8 +4566,11 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
+                  "meta_info": {
+                     "last_visited_desktop": "13179007026806468"
+                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1621",
+                  "sync_transaction_version": "1622",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -7713,7 +7719,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1621",
+      "sync_transaction_version": "1623",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
