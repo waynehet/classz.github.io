@@ -6189,8 +6189,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited_desktop": "13179120464352956"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "1526",
+               "sync_transaction_version": "1624",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -7581,8 +7584,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13179121122165684"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1621",
+            "sync_transaction_version": "1625",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7719,7 +7725,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1623",
+      "sync_transaction_version": "1625",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
