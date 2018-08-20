@@ -1,5 +1,5 @@
 {
-   "checksum": "c57885d56c5eec70c07eef97c66394ff",
+   "checksum": "56f5fbd1d19d034cee8c07fe3e67e050",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1055,9 +1055,19 @@
                      "sync_transaction_version": "1550",
                      "type": "url",
                      "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
+                  }, {
+                     "date_added": "13179183348490549",
+                     "id": "11997",
+                     "meta_info": {
+                        "last_visited": "13179183461732205"
+                     },
+                     "name": "Scrum Master: The Master of the Art of Facilitation | Scrum.org",
+                     "sync_transaction_version": "1626",
+                     "type": "url",
+                     "url": "https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13177028593605394",
+                  "date_modified": "13179183348490549",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -2716,9 +2726,19 @@
                      "sync_transaction_version": "1403",
                      "type": "url",
                      "url": "https://medium.com/@neil2killick/7-ways-to-go-agile-without-an-agile-transformation-25be8421a3ec"
+                  }, {
+                     "date_added": "13179183968227232",
+                     "id": "11998",
+                     "meta_info": {
+                        "last_visited": "13179193374315303"
+                     },
+                     "name": "Want to scale agile? Don’t. Descale the work first. Achieve big through small.",
+                     "sync_transaction_version": "1626",
+                     "type": "url",
+                     "url": "https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13177028593605384",
+                  "date_modified": "13179183968227232",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -7725,7 +7745,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1625",
+      "sync_transaction_version": "1626",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
