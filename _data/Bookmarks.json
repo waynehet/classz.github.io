@@ -2394,8 +2394,11 @@
                   }, {
                      "date_added": "13168272615136266",
                      "id": "11909",
+                     "meta_info": {
+                        "last_visited": "13179348433792103"
+                     },
                      "name": "scrumblr",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "1630",
                      "type": "url",
                      "url": "http://scrumblr.ca/"
                   }, {
@@ -2414,7 +2417,7 @@
                      "url": "https://www.linkedin.com/pulse/measuring-evaluating-scrum-complex-environments-erich-buhler/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13176327125939465",
+                  "date_modified": "13179348437798337",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -7748,7 +7751,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1629",
+      "sync_transaction_version": "1630",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
