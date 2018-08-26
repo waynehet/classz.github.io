@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13179029698452759"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1623",
+            "sync_transaction_version": "1635",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -54,10 +51,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13179414082742329"
+               "last_visited_desktop": "13179702214286871"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1631",
+            "sync_transaction_version": "1636",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -76,7 +73,7 @@
             "url": "https://waynehetherington.visualstudio.com/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13178940036867689",
+         "date_modified": "13179694542104844",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -1061,11 +1058,8 @@
                   }, {
                      "date_added": "13179183348490549",
                      "id": "11997",
-                     "meta_info": {
-                        "last_visited": "13179183461732205"
-                     },
                      "name": "Scrum Master: The Master of the Art of Facilitation | Scrum.org",
-                     "sync_transaction_version": "1626",
+                     "sync_transaction_version": "1635",
                      "type": "url",
                      "url": "https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation"
                   } ],
@@ -2394,11 +2388,8 @@
                   }, {
                      "date_added": "13168272615136266",
                      "id": "11909",
-                     "meta_info": {
-                        "last_visited": "13179348433792103"
-                     },
                      "name": "scrumblr",
-                     "sync_transaction_version": "1630",
+                     "sync_transaction_version": "1635",
                      "type": "url",
                      "url": "http://scrumblr.ca/"
                   }, {
@@ -2417,7 +2408,7 @@
                      "url": "https://www.linkedin.com/pulse/measuring-evaluating-scrum-complex-environments-erich-buhler/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13179348437798337",
+                  "date_modified": "13179694542106978",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -2735,11 +2726,8 @@
                   }, {
                      "date_added": "13179183968227232",
                      "id": "11998",
-                     "meta_info": {
-                        "last_visited": "13179193374315303"
-                     },
                      "name": "Want to scale agile? Don’t. Descale the work first. Achieve big through small.",
-                     "sync_transaction_version": "1626",
+                     "sync_transaction_version": "1635",
                      "type": "url",
                      "url": "https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540"
                   } ],
@@ -4592,11 +4580,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited_desktop": "13179007026806468"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1622",
+                  "sync_transaction_version": "1635",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6215,11 +6200,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13179120464352956"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "1624",
+               "sync_transaction_version": "1635",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6232,16 +6214,13 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13179601197500191"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1634",
+               "sync_transaction_version": "1635",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13175529681867821",
+            "date_modified": "13179694542104810",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7613,11 +7592,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13179463725968970"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1632",
+            "sync_transaction_version": "1635",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7748,13 +7724,13 @@
             "url": "https://waynehetherington.visualstudio.com/_projects"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13178940036869068",
+         "date_modified": "13179694542104834",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1634",
+      "sync_transaction_version": "1636",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
