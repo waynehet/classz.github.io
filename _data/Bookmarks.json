@@ -1,8 +1,15 @@
 {
-   "checksum": "56f5fbd1d19d034cee8c07fe3e67e050",
+   "checksum": "ca21d292fe321989ee44942c032d0a62",
    "roots": {
       "bookmark_bar": {
          "children": [ {
+            "date_added": "13179793607053122",
+            "id": "12000",
+            "name": "Bookmarks",
+            "sync_transaction_version": "1639",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
             "date_added": "13120327255021917",
             "id": "9630",
             "name": "LinkedIn",
@@ -73,7 +80,7 @@
             "url": "https://waynehetherington.visualstudio.com/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13179694542104844",
+         "date_modified": "13179793622028874",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -795,7 +802,7 @@
                            "last_visited": "13176493630055971"
                         },
                         "name": "A Better Way To Measure Employee Happiness | Neale Lewis | Pulse | LinkedIn",
-                        "sync_transaction_version": "1546",
+                        "sync_transaction_version": "1638",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20141018181701-13167405-a-better-way-to-measure-employee-happines"
                      }, {
@@ -865,7 +872,7 @@
                         "date_added": "13167585205568559",
                         "id": "11896",
                         "name": "Building Alignment: Team working agreements | Mastering the Obvious",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1638",
                         "type": "url",
                         "url": "https://masteringtheobvious.wordpress.com/2018/04/04/building-alignment-team-working-agreements/"
                      }, {
@@ -911,7 +918,7 @@
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13177028593605412",
+                     "date_modified": "13179793590819302",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1714,7 +1721,7 @@
                            "last_visited_desktop": "13177442384352749"
                         },
                         "name": "Predictive *AND* Adaptive Planning | Pragilematic",
-                        "sync_transaction_version": "1555",
+                        "sync_transaction_version": "1638",
                         "type": "url",
                         "url": "http://anagilestory.com/2011/11/17/predictive-and-adaptive-planning-2/"
                      }, {
@@ -1782,7 +1789,7 @@
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13178940036869080",
+                     "date_modified": "13179793590819267",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -2079,7 +2086,7 @@
                      "date_added": "13174246280542654",
                      "id": "11972",
                      "name": "Cost Per Reasonable Decision (CPRD) – Hacker Noon",
-                     "sync_transaction_version": "1505",
+                     "sync_transaction_version": "1638",
                      "type": "url",
                      "url": "https://hackernoon.com/cost-per-reasonable-decision-cprd-ed1ca8c6147"
                   }, {
@@ -2104,7 +2111,7 @@
                      "url": "https://jpattonassociates.com/dont_know_what_i_want/?__hstc=202214990.0e6011c3a13aba5678ff06e2d1abd71d.1528194203783.1529526381223.1532343550649.3&__hssc=202214990.5.1532343550649&__hsfp=2394243210"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13176818381176013",
+                  "date_modified": "13179793590819295",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -2692,7 +2699,7 @@
                      "date_added": "13145030900483367",
                      "id": "11578",
                      "name": "How to Make Agile Work for the C-Suite",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1638",
                      "type": "url",
                      "url": "https://hbr.org/2017/07/how-to-make-agile-work-for-the-c-suite?utm_campaign=hbr&utm_source=facebook&utm_medium=social"
                   }, {
@@ -2732,7 +2739,7 @@
                      "url": "https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13179183968227232",
+                  "date_modified": "13179793590819283",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -6200,8 +6207,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited_desktop": "13179794746134057"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "1635",
+               "sync_transaction_version": "1640",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -7592,8 +7602,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13179767306438611"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1635",
+            "sync_transaction_version": "1637",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7730,7 +7743,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1636",
+      "sync_transaction_version": "1640",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
