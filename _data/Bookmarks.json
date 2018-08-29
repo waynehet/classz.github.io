@@ -1,5 +1,5 @@
 {
-   "checksum": "ca21d292fe321989ee44942c032d0a62",
+   "checksum": "18132b6ba22252c62d7bc3c6466a2166",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -13,7 +13,7 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "name": "LinkedIn",
-            "sync_transaction_version": "1635",
+            "sync_transaction_version": "1642",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -29,8 +29,11 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
+            "meta_info": {
+               "last_visited_desktop": "13179847021144095"
+            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "1333",
+            "sync_transaction_version": "1647",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -55,13 +58,20 @@
             "type": "url",
             "url": "http://msdn2.microsoft.com/en-ca/default.aspx"
          }, {
+            "date_added": "13177980343320056",
+            "id": "11995",
+            "name": "Visual Studio Team Services",
+            "sync_transaction_version": "1666",
+            "type": "url",
+            "url": "https://waynehetherington.visualstudio.com/"
+         }, {
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13179702214286871"
+               "last_visited_desktop": "13179940845462345"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1636",
+            "sync_transaction_version": "1665",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -71,16 +81,9 @@
             "sync_transaction_version": "1621",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
-         }, {
-            "date_added": "13177980343320056",
-            "id": "11995",
-            "name": "Visual Studio Team Services",
-            "sync_transaction_version": "1621",
-            "type": "url",
-            "url": "https://waynehetherington.visualstudio.com/"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13179793622028874",
+         "date_modified": "13179941507237020",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -289,9 +292,19 @@
                         "sync_transaction_version": "1621",
                         "type": "url",
                         "url": "https://hbr.org/2018/04/how-to-develop-empathy-for-someone-who-annoys-you"
+                     }, {
+                        "date_added": "13179839993132669",
+                        "id": "12001",
+                        "meta_info": {
+                           "last_visited": "13179839993135504"
+                        },
+                        "name": "Why Business Leaders Hire Coaches | LinkedIn",
+                        "sync_transaction_version": "1643",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/why-business-leaders-hire-coaches-conor-neill/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13178940036869049",
+                     "date_modified": "13179840028680628",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -2739,7 +2752,7 @@
                      "url": "https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540"
                   } ],
                   "date_added": "13163364262792633",
-                  "date_modified": "13179793590819283",
+                  "date_modified": "13179839993132669",
                   "id": "11546",
                   "name": "Change",
                   "sync_transaction_version": "3",
@@ -2995,8 +3008,11 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
+                     "meta_info": {
+                        "last_visited_desktop": "13179847021144095"
+                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "1649",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -7743,7 +7759,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1640",
+      "sync_transaction_version": "1666",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
