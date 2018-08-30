@@ -12,8 +12,11 @@
          }, {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13180057319431204"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1642",
+            "sync_transaction_version": "1669",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -68,10 +71,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13179940845462345"
+               "last_visited_desktop": "13180027601505736"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1665",
+            "sync_transaction_version": "1667",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -7759,7 +7762,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1666",
+      "sync_transaction_version": "1669",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
