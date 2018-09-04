@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13180057319431204"
+               "last_visited_desktop": "13180456013807547"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1669",
+            "sync_transaction_version": "1679",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -25,11 +25,8 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
-            "meta_info": {
-               "last_visited_desktop": "13179847021144095"
-            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "1647",
+            "sync_transaction_version": "1681",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -64,10 +61,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13180110586287803"
+               "last_visited": "13180320938903873"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1667",
+            "sync_transaction_version": "1681",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -89,7 +86,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13180316491230234",
+         "date_modified": "13180495634087905",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -301,11 +298,8 @@
                      }, {
                         "date_added": "13179839993132669",
                         "id": "12001",
-                        "meta_info": {
-                           "last_visited": "13179839993135504"
-                        },
                         "name": "Why Business Leaders Hire Coaches | LinkedIn",
-                        "sync_transaction_version": "1643",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/why-business-leaders-hire-coaches-conor-neill/"
                      } ],
@@ -574,7 +568,7 @@
                         "date_added": "13169523590336164",
                         "id": "11933",
                         "name": "21 Sprint Retrospective Anti-Patterns Impeding Scrum Teams | LinkedIn",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/21-sprint-retrospective-anti-patterns-impeding-scrum-teams-wolpers/"
                      }, {
@@ -586,7 +580,7 @@
                         "url": "https://www.extremeuncertainty.com/main-reason-agile-retrospectives-dont-work/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13174245014359157",
+                     "date_modified": "13180495634089739",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -745,7 +739,7 @@
                         "date_added": "13120327257320332",
                         "id": "11800",
                         "name": "Forget Myers-Briggs: To Build a Great Team, Focus on 'Factor C' | Cass Sunstein | LinkedIn",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/forget-myers-briggs-build-great-team-focus-factor-c-cass-sunstein"
                      }, {
@@ -817,11 +811,8 @@
                      }, {
                         "date_added": "13122156659500758",
                         "id": "11810",
-                        "meta_info": {
-                           "last_visited": "13176493630055971"
-                        },
                         "name": "A Better Way To Measure Employee Happiness | Neale Lewis | Pulse | LinkedIn",
-                        "sync_transaction_version": "1638",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20141018181701-13167405-a-better-way-to-measure-employee-happines"
                      }, {
@@ -897,11 +888,8 @@
                      }, {
                         "date_added": "13168655289331557",
                         "id": "11918",
-                        "meta_info": {
-                           "last_visited": "13177024433986864"
-                        },
                         "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
-                        "sync_transaction_version": "1553",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
                      }, {
@@ -932,12 +920,12 @@
                         "date_added": "13173323170301598",
                         "id": "11957",
                         "name": "Don't call me a resource | LinkedIn",
-                        "sync_transaction_version": "1427",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13179793590819302",
+                     "date_modified": "13180495634089746",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1637,7 +1625,7 @@
                      "date_added": "13120327256284329",
                      "id": "11704",
                      "name": "How to Hang a Picture: Agile User Stories",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "1681",
                      "type": "url",
                      "url": "http://simpleprogrammer.com/2010/03/02/how-to-hang-a-picture-agile-user-stories/"
                   }, {
@@ -1691,7 +1679,7 @@
                      "url": "https://www.linkedin.com/pulse/putting-story-back-user-paul-goddard?trk=v-feed"
                   } ],
                   "date_added": "13163364262792485",
-                  "date_modified": "13170951422842379",
+                  "date_modified": "13180495634089744",
                   "id": "11540",
                   "name": "User Stories",
                   "sync_transaction_version": "3",
@@ -1736,11 +1724,8 @@
                      }, {
                         "date_added": "13120327257430761",
                         "id": "11673",
-                        "meta_info": {
-                           "last_visited_desktop": "13177442384352749"
-                        },
                         "name": "Predictive *AND* Adaptive Planning | Pragilematic",
-                        "sync_transaction_version": "1638",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "http://anagilestory.com/2011/11/17/predictive-and-adaptive-planning-2/"
                      }, {
@@ -1789,7 +1774,7 @@
                         "date_added": "13139412328945807",
                         "id": "11585",
                         "name": "28 Product Backlog Anti-Patterns – Agile Transition",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "1681",
                         "type": "url",
                         "url": "https://age-of-product.com/28-product-backlog-anti-patterns/"
                      }, {
@@ -1808,7 +1793,7 @@
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13179793590819267",
+                     "date_modified": "13180495634089736",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -3014,11 +2999,8 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
-                     "meta_info": {
-                        "last_visited_desktop": "13179847021144095"
-                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "1649",
+                     "sync_transaction_version": "1681",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -3065,7 +3047,7 @@
                      "url": "http://queue.acm.org/index.cfm"
                   } ],
                   "date_added": "13163364262741030",
-                  "date_modified": "13170951422841987",
+                  "date_modified": "13180495634086227",
                   "id": "11249",
                   "name": "ACM",
                   "sync_transaction_version": "3",
@@ -6229,11 +6211,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13179794746134057"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "1640",
+               "sync_transaction_version": "1681",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6252,7 +6231,7 @@
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13179694542104810",
+            "date_modified": "13180495634086224",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7617,18 +7596,18 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
+            "meta_info": {
+               "last_visited": "13180473911103182"
+            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1522",
+            "sync_transaction_version": "1681",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13179767306438611"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1637",
+            "sync_transaction_version": "1681",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7759,13 +7738,13 @@
             "url": "https://waynehetherington.visualstudio.com/_projects"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13179694542104834",
+         "date_modified": "13180495634087899",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1678",
+      "sync_transaction_version": "1681",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
