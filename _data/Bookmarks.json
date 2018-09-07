@@ -1,15 +1,12 @@
 {
-   "checksum": "fdae0302f4b7d7f401220fd7c2c4acbb",
+   "checksum": "64211611afc33ff5b2c8404cde8779b0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13180456013807547"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1679",
+            "sync_transaction_version": "1692",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -60,12 +57,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited": "13180320938903873",
-               "last_visited_desktop": "13180638679255455"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1691",
+            "sync_transaction_version": "1692",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -78,16 +71,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13180391462135572"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "1678",
+            "sync_transaction_version": "1692",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13180495634087905",
+         "date_modified": "13180737023664260",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -360,9 +350,19 @@
                         "sync_transaction_version": "933",
                         "type": "url",
                         "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
+                     }, {
+                        "date_added": "13180712355531522",
+                        "id": "12009",
+                        "meta_info": {
+                           "last_visited": "13180748146457538"
+                        },
+                        "name": "The 3-5-3 Structure of Scrum",
+                        "sync_transaction_version": "1694",
+                        "type": "url",
+                        "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13170951422842162",
+                     "date_modified": "13180712355531522",
                      "id": "11768",
                      "name": "Daily Scrum",
                      "sync_transaction_version": "929",
@@ -2117,11 +2117,8 @@
                   }, {
                      "date_added": "13180559255471609",
                      "id": "12005",
-                     "meta_info": {
-                        "last_visited": "13180559277996770"
-                     },
                      "name": "Understanding the MVP (Minimum Viable Product) | Agile Velocity",
-                     "sync_transaction_version": "1686",
+                     "sync_transaction_version": "1692",
                      "type": "url",
                      "url": "https://agilevelocity.com/product-owner/mvp-mmf-psi-wtf-part-one-understanding-the-mvp/"
                   } ],
@@ -7607,11 +7604,8 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
-            "meta_info": {
-               "last_visited": "13180473911103182"
-            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1681",
+            "sync_transaction_version": "1692",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
@@ -7750,22 +7744,19 @@
          }, {
             "date_added": "13180622967191955",
             "id": "12007",
-            "meta_info": {
-               "last_visited_desktop": "13180622967192177"
-            },
             "name": "Welcome to our new website",
-            "sync_transaction_version": "1690",
+            "sync_transaction_version": "1692",
             "type": "url",
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13180623000234572",
+         "date_modified": "13180737023664248",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1691",
+      "sync_transaction_version": "1694",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
