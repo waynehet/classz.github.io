@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13180900571553512"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1692",
+            "sync_transaction_version": "1701",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -57,11 +60,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13180816087504848"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1697",
+            "sync_transaction_version": "1698",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -80,7 +80,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13180737023664260",
+         "date_modified": "13180898978320833",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -356,11 +356,8 @@
                      }, {
                         "date_added": "13180712355531522",
                         "id": "12009",
-                        "meta_info": {
-                           "last_visited": "13180792569893126"
-                        },
                         "name": "The 3-5-3 Structure of Scrum",
-                        "sync_transaction_version": "1695",
+                        "sync_transaction_version": "1698",
                         "type": "url",
                         "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
@@ -6222,8 +6219,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited_desktop": "13180919429749626"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "1681",
+               "sync_transaction_version": "1704",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6236,8 +6236,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13180920305432493"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1635",
+               "sync_transaction_version": "1705",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7607,15 +7610,21 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
+            "meta_info": {
+               "last_visited_desktop": "13180899028258598"
+            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1692",
+            "sync_transaction_version": "1700",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13180917637458527"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1681",
+            "sync_transaction_version": "1702",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7759,7 +7768,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1697",
+      "sync_transaction_version": "1705",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
