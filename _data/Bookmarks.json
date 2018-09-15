@@ -359,8 +359,11 @@
                      }, {
                         "date_added": "13180712355531522",
                         "id": "12009",
+                        "meta_info": {
+                           "last_visited": "13181422548698819"
+                        },
                         "name": "The 3-5-3 Structure of Scrum",
-                        "sync_transaction_version": "1698",
+                        "sync_transaction_version": "1713",
                         "type": "url",
                         "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
@@ -7773,7 +7776,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1712",
+      "sync_transaction_version": "1713",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
