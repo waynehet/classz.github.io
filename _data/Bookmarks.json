@@ -6,20 +6,21 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13182307429758366"
+               "last_visited_desktop": "13182726562613502"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1719",
+            "sync_transaction_version": "1766",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
             "meta_info": {
-               "last_visited": "13177163279326658"
+               "last_visited": "13177163279326658",
+               "last_visited_desktop": "13182727133815528"
             },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "1554",
+            "sync_transaction_version": "1767",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -54,10 +55,10 @@
             "date_added": "13177980343320056",
             "id": "11995",
             "meta_info": {
-               "last_visited_desktop": "13182568619063979"
+               "last_visited_desktop": "13182723777950941"
             },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "1739",
+            "sync_transaction_version": "1751",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
@@ -4613,10 +4614,10 @@
                   "date_added": "13172375377992781",
                   "id": "11944",
                   "meta_info": {
-                     "last_visited_desktop": "13182568632829434"
+                     "last_visited_desktop": "13182723793292870"
                   },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1748",
+                  "sync_transaction_version": "1760",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -7771,10 +7772,10 @@
             "date_added": "13177980203362629",
             "id": "11994",
             "meta_info": {
-               "last_visited_desktop": "13182568623517932"
+               "last_visited_desktop": "13182723782686615"
             },
             "name": "Projects - Visual Studio Team Services",
-            "sync_transaction_version": "1743",
+            "sync_transaction_version": "1755",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/_projects"
          }, {
@@ -7792,7 +7793,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1750",
+      "sync_transaction_version": "1767",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
