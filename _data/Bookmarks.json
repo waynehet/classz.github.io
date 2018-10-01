@@ -6350,10 +6350,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13182379007436355"
+                  "last_visited_desktop": "13182810493010047"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1723",
+               "sync_transaction_version": "1768",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7793,7 +7793,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1767",
+      "sync_transaction_version": "1768",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
