@@ -6353,10 +6353,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13182897731929042"
+                  "last_visited_desktop": "13182988437175977"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1772",
+               "sync_transaction_version": "1773",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7799,7 +7799,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1772",
+      "sync_transaction_version": "1773",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
