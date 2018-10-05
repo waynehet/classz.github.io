@@ -66,10 +66,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13182311341927954",
-               "last_visited_desktop": "13183049079686223"
+               "last_visited_desktop": "13183132053184308"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1775",
+            "sync_transaction_version": "1777",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -91,7 +91,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13182546923560427",
+         "date_modified": "13183132050074432",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -6352,11 +6352,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13182988437175977"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1773",
+               "sync_transaction_version": "1776",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7633,7 +7630,7 @@
                "url": "http://tv.jw.org/#video/VODMonthlyProgramming/pub-jwb_E_201411_1_VIDEO"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13178940036869094",
+            "date_modified": "13183132050076411",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7799,7 +7796,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1775",
+      "sync_transaction_version": "1777",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
