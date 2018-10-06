@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13182726562613502"
+               "last_visited_desktop": "13183241469281671"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1766",
+            "sync_transaction_version": "1781",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -66,10 +66,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13182311341927954",
-               "last_visited_desktop": "13183132053184308"
+               "last_visited_desktop": "13183218149810305"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1777",
+            "sync_transaction_version": "1779",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -83,15 +83,15 @@
             "date_added": "13180316491230234",
             "id": "12003",
             "meta_info": {
-               "last_visited_desktop": "13181241736192960"
+               "last_visited_desktop": "13183263471211517"
             },
             "name": "Anyplace TV",
-            "sync_transaction_version": "1712",
+            "sync_transaction_version": "1785",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13183132050074432",
+         "date_modified": "13183256291917237",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -360,8 +360,11 @@
                      }, {
                         "date_added": "13143319319903781",
                         "id": "10812",
+                        "meta_info": {
+                           "last_visited": "13183158403386071"
+                        },
                         "name": "Improv brings improvements to agile team standup meetings - SD Times",
-                        "sync_transaction_version": "933",
+                        "sync_transaction_version": "1778",
                         "type": "url",
                         "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      }, {
@@ -376,7 +379,7 @@
                         "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13180712355531522",
+                     "date_modified": "13183218144399781",
                      "id": "11768",
                      "name": "Daily Scrum",
                      "sync_transaction_version": "929",
@@ -7646,10 +7649,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13182894469930186"
+               "last_visited_desktop": "13183241771518431"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1770",
+            "sync_transaction_version": "1781",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7775,10 +7778,10 @@
             "date_added": "13177980203362629",
             "id": "11994",
             "meta_info": {
-               "last_visited_desktop": "13182723782686615"
+               "last_visited_desktop": "13183217920000464"
             },
             "name": "Projects - Visual Studio Team Services",
-            "sync_transaction_version": "1755",
+            "sync_transaction_version": "1778",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/_projects"
          }, {
@@ -7790,13 +7793,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13182897015009457",
+         "date_modified": "13183256291918736",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1777",
+      "sync_transaction_version": "1785",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
