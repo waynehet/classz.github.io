@@ -5,22 +5,15 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13183241469281671"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1781",
+            "sync_transaction_version": "1786",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
-            "meta_info": {
-               "last_visited": "13177163279326658",
-               "last_visited_desktop": "13182727133815528"
-            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "1767",
+            "sync_transaction_version": "1786",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -54,22 +47,15 @@
          }, {
             "date_added": "13177980343320056",
             "id": "11995",
-            "meta_info": {
-               "last_visited_desktop": "13182723777950941"
-            },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "1751",
+            "sync_transaction_version": "1786",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited": "13182311341927954",
-               "last_visited_desktop": "13183218149810305"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1779",
+            "sync_transaction_version": "1786",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -83,15 +69,15 @@
             "date_added": "13180316491230234",
             "id": "12003",
             "meta_info": {
-               "last_visited_desktop": "13183263471211517"
+               "last_visited_desktop": "13183351845847765"
             },
             "name": "Anyplace TV",
-            "sync_transaction_version": "1785",
+            "sync_transaction_version": "1788",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13183256291917237",
+         "date_modified": "13183346605749581",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -360,26 +346,20 @@
                      }, {
                         "date_added": "13143319319903781",
                         "id": "10812",
-                        "meta_info": {
-                           "last_visited": "13183158403386071"
-                        },
                         "name": "Improv brings improvements to agile team standup meetings - SD Times",
-                        "sync_transaction_version": "1778",
+                        "sync_transaction_version": "1786",
                         "type": "url",
                         "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      }, {
                         "date_added": "13180712355531522",
                         "id": "12009",
-                        "meta_info": {
-                           "last_visited": "13181479982292902"
-                        },
                         "name": "The 3-5-3 Structure of Scrum",
-                        "sync_transaction_version": "1714",
+                        "sync_transaction_version": "1786",
                         "type": "url",
                         "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13183218144399781",
+                     "date_modified": "13183346605746225",
                      "id": "11768",
                      "name": "Daily Scrum",
                      "sync_transaction_version": "929",
@@ -2453,11 +2433,8 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
-                     "meta_info": {
-                        "last_visited_desktop": "13182891906972827"
-                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "1770",
+                     "sync_transaction_version": "1786",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2542,7 +2519,7 @@
                      "url": "http://coevolving.com/blogs/index.php/archive/systems-thinking-and-the-learning-aesthetic/"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13182897015009454",
+                  "date_modified": "13183346605747427",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -4619,11 +4596,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited_desktop": "13182723793292870"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1760",
+                  "sync_transaction_version": "1786",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6249,11 +6223,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13181080900939691"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "1708",
+               "sync_transaction_version": "1786",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6266,17 +6237,13 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited": "13181170580052648",
-                  "last_visited_desktop": "13181158540699153"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "1711",
+               "sync_transaction_version": "1786",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13181082092964362",
+            "date_modified": "13183346605747413",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7649,10 +7616,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13183241771518431"
+               "last_visited_desktop": "13183346940832146"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1781",
+            "sync_transaction_version": "1787",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7777,11 +7744,8 @@
          }, {
             "date_added": "13177980203362629",
             "id": "11994",
-            "meta_info": {
-               "last_visited_desktop": "13183217920000464"
-            },
             "name": "Projects - Visual Studio Team Services",
-            "sync_transaction_version": "1778",
+            "sync_transaction_version": "1786",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/_projects"
          }, {
@@ -7793,13 +7757,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13183256291918736",
+         "date_modified": "13183346605750763",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1785",
+      "sync_transaction_version": "1788",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
