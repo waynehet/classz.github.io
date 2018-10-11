@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13183657614720391"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "1786",
+            "sync_transaction_version": "1802",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -19,8 +22,11 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
+            "meta_info": {
+               "last_visited_desktop": "13183657412478468"
+            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "1681",
+            "sync_transaction_version": "1801",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -55,11 +61,11 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13183522595065461",
-               "last_visited_desktop": "13183566687198309"
+               "last_visited": "13183636672553446",
+               "last_visited_desktop": "13183669824954681"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1794",
+            "sync_transaction_version": "1803",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -72,16 +78,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13183583751276091"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "1795",
+            "sync_transaction_version": "1796",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13183566684921578",
+         "date_modified": "13183669824433208",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2437,8 +2440,11 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
+                     "meta_info": {
+                        "last_visited": "13183667830117966"
+                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "1786",
+                     "sync_transaction_version": "1802",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2523,7 +2529,7 @@
                      "url": "http://coevolving.com/blogs/index.php/archive/systems-thinking-and-the-learning-aesthetic/"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13183346605747427",
+                  "date_modified": "13183669824434155",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -3008,8 +3014,11 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
+                     "meta_info": {
+                        "last_visited_desktop": "13183657412478468"
+                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "1681",
+                     "sync_transaction_version": "1801",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -3056,7 +3065,7 @@
                      "url": "http://queue.acm.org/index.cfm"
                   } ],
                   "date_added": "13163364262741030",
-                  "date_modified": "13180495634086227",
+                  "date_modified": "13183657423717649",
                   "id": "11249",
                   "name": "ACM",
                   "sync_transaction_version": "3",
@@ -6327,10 +6336,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13183494386452527"
+                  "last_visited_desktop": "13183647129029043"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1792",
+               "sync_transaction_version": "1799",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7770,7 +7779,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1795",
+      "sync_transaction_version": "1803",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
