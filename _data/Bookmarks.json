@@ -58,10 +58,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited_desktop": "13184188997469600"
+               "last_visited_desktop": "13184361515766027"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1898",
+            "sync_transaction_version": "1912",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -75,10 +75,10 @@
             "date_added": "13180316491230234",
             "id": "12003",
             "meta_info": {
-               "last_visited_desktop": "13184109162652116"
+               "last_visited_desktop": "13184361463909356"
             },
             "name": "Anyplace TV",
-            "sync_transaction_version": "1892",
+            "sync_transaction_version": "1911",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
@@ -6176,8 +6176,11 @@
             }, {
                "date_added": "13120327255094009",
                "id": "11024",
+               "meta_info": {
+                  "last_visited_desktop": "13184381306644307"
+               },
                "name": "iCloud - Find My iPhone",
-               "sync_transaction_version": "1333",
+               "sync_transaction_version": "1916",
                "type": "url",
                "url": "https://www.icloud.com/#find"
             }, {
@@ -6360,11 +6363,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13184278984230270"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1900",
+               "sync_transaction_version": "1908",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7667,10 +7667,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13183760165965973"
+               "last_visited_desktop": "13184380872881611"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1811",
+            "sync_transaction_version": "1913",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7814,7 +7814,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1900",
+      "sync_transaction_version": "1916",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
