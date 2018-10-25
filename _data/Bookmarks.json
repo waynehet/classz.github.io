@@ -1,5 +1,5 @@
 {
-   "checksum": "db16988d4556e33ed32b4dad774a5318",
+   "checksum": "c4e67d6afc51b06d16d18cfe125f1b17",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -64,11 +64,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13184643440203495",
-               "last_visited_desktop": "13184789438674489"
+               "last_visited": "13184643440203495"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1932",
+            "sync_transaction_version": "1944",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -90,7 +89,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13184686005025059",
+         "date_modified": "13184909317890168",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2658,9 +2657,16 @@
                      "sync_transaction_version": "1542",
                      "type": "url",
                      "url": "https://techbeacon.com/why-your-execs-dont-get-agile-what-you-can-do-about-it#%2EWz9d8Rd8e5c%2Elinkedin"
+                  }, {
+                     "date_added": "13184852509924619",
+                     "id": "12019",
+                     "name": "Why Isn’t Agile Working? – Hacker Noon",
+                     "sync_transaction_version": "1940",
+                     "type": "url",
+                     "url": "https://hackernoon.com/why-isnt-agile-working-d7127af1c552?_branch_match_id=471721090043720542"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13176160687205934",
+                  "date_modified": "13184852509924619",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -6177,13 +6183,6 @@
                "type": "url",
                "url": "https://login.jw.org/adfs/ls/?login_hint=WayneH25%40field.jw.org&client-request-id=a03bad06-9bdb-4c78-811d-a0c85a36e9bc&username=WayneH25%40field.jw.org&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQIIAeNisNLJKCkpKLbS1y_ILypJzNHLzUwuyi_OTyvJz8vJzEvVS87P1csvSs9MAbGKhLgE2NZaL7g9u8KnUXbBiSizl3tWMSoTNkL_AiPjC0bGSUyi4YmVeakeRqYOaZmpOSl6WeUg028xCfoXpXumhBe7paakFiWWZObnPWLiDS1OLfLPy6kMyc9OzdvFrGKUamKSbJKWomuUamiha5KYmKxraWxkqGtpkppqam6UlmxsmPiIGbsVF1gEXrHwGDBbcXBwCTBIMCgw_GBhXMQK9NDj6V_vb3N-67y1aY7ntUfO7adY9ZNMnM1SHM1NDQIqndwKwr3Nspz19bVDXJ28TctT0rJziiNL89JcCspDypNtzawMJ7AJTWBjOsDJCAA1"
             }, {
-               "date_added": "13120327255088114",
-               "id": "11023",
-               "name": "Personal Identity Portal (PIP) - Welcome",
-               "sync_transaction_version": "3",
-               "type": "url",
-               "url": "https://pip.verisignlabs.com/"
-            }, {
                "date_added": "13120327255094009",
                "id": "11024",
                "meta_info": {
@@ -6193,20 +6192,6 @@
                "sync_transaction_version": "1916",
                "type": "url",
                "url": "https://www.icloud.com/#find"
-            }, {
-               "date_added": "13120327255096141",
-               "id": "11025",
-               "name": "Projects for NXT 2.0",
-               "sync_transaction_version": "3",
-               "type": "url",
-               "url": "http://nxtprograms.com/index2.html"
-            }, {
-               "date_added": "13120327255098007",
-               "id": "11026",
-               "name": "DomainDiscover - Account Services - Account Control Panel",
-               "sync_transaction_version": "3",
-               "type": "url",
-               "url": "https://www.tierra.net/account/index?_sid=QbYP1j1oj82SGpaV9IlNto3OY9"
             }, {
                "date_added": "13120327255099725",
                "id": "11027",
@@ -6229,13 +6214,6 @@
                "type": "url",
                "url": "http://humanworkplace.com/pre-interview-research-questions-answers/"
             }, {
-               "date_added": "13120327255108340",
-               "id": "11031",
-               "name": "Logical Increments - PC Buying Guide",
-               "sync_transaction_version": "3",
-               "type": "url",
-               "url": "http://www.logicalincrements.com/"
-            }, {
                "date_added": "13120327255110633",
                "id": "11032",
                "name": "Trebuchet",
@@ -6243,17 +6221,10 @@
                "type": "url",
                "url": "http://web.archive.org/web/20041204073720/http&#58;//www.fryerskits.com/trebindex.htm"
             }, {
-               "date_added": "13120327255114330",
-               "id": "11034",
-               "name": "24 Estes B6-4 rocket engines. Bulk Pack [1783]. Estes : Canadian retailer of Estes, Aerotech, Quest, Rocketarium, Madcow, Public Missiles, Aeropack, LOC Precision, PerfectFlite, Jolly Logic, rocket engines/motors, launch supplies and electronics",
-               "sync_transaction_version": "3",
-               "type": "url",
-               "url": "https://www.allrocketengines.ca/Bulk/B6-4?cPath=17_10&"
-            }, {
                "date_added": "13169502287107543",
                "id": "11922",
                "name": "1&1 Control Panel",
-               "sync_transaction_version": "1333",
+               "sync_transaction_version": "1944",
                "type": "url",
                "url": "https://admin.1and1.ca/domains-dashboard"
             }, {
@@ -6265,7 +6236,7 @@
                "url": "https://dillinger.io/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13180988945831022",
+            "date_modified": "13184909317890943",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7827,7 +7798,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1932",
+      "sync_transaction_version": "1944",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
