@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13184625439277940"
+               "last_visited_desktop": "13184991698783915"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1929",
+            "sync_transaction_version": "1970",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -22,11 +22,8 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
-            "meta_info": {
-               "last_visited_desktop": "13183657412478468"
-            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "1801",
+            "sync_transaction_version": "1968",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -53,21 +50,15 @@
          }, {
             "date_added": "13177980343320056",
             "id": "11995",
-            "meta_info": {
-               "last_visited_desktop": "13184561571976131"
-            },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "1918",
+            "sync_transaction_version": "1968",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited": "13184643440203495"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1944",
+            "sync_transaction_version": "1968",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -80,16 +71,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13184361463909356"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "1911",
+            "sync_transaction_version": "1968",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13184909317890168",
+         "date_modified": "13184991248501384",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -936,11 +924,8 @@
                      }, {
                         "date_added": "13183997438539869",
                         "id": "12015",
-                        "meta_info": {
-                           "last_visited": "13184209898855805"
-                        },
                         "name": "The Quest for High Performance: A team start up exercise | Beliminal",
-                        "sync_transaction_version": "1899",
+                        "sync_transaction_version": "1968",
                         "type": "url",
                         "url": "https://www.beliminal.com/quest-high-performance-team-start-exercise/"
                      } ],
@@ -1054,11 +1039,8 @@
                   }, {
                      "date_added": "13120327256247675",
                      "id": "11788",
-                     "meta_info": {
-                        "last_visited_desktop": "13184117512993086"
-                     },
                      "name": "Hitler at a sprint review - YouTube",
-                     "sync_transaction_version": "1895",
+                     "sync_transaction_version": "1968",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=Q6jMgmPIxmk&feature=youtu.be"
                   }, {
@@ -1101,7 +1083,7 @@
                      "url": "https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13179183348490549",
+                  "date_modified": "13184991248503168",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -2450,11 +2432,8 @@
                   }, {
                      "date_added": "13184209071081925",
                      "id": "12017",
-                     "meta_info": {
-                        "last_visited": "13184209071085256"
-                     },
                      "name": "A Comprehensive Comparison of Renowned Agile Scaling Models - Simplifying agile scaling for distributed teams and programs (Agile Scaling Platform for SAFe/LeSS/Spotify/PI Planning)",
-                     "sync_transaction_version": "1899",
+                     "sync_transaction_version": "1968",
                      "type": "url",
                      "url": "https://kendis.io/scaling-agile/comparison-agile-scaling-models/"
                   } ],
@@ -2468,11 +2447,8 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
-                     "meta_info": {
-                        "last_visited": "13183667830117966"
-                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "1802",
+                     "sync_transaction_version": "1968",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2506,11 +2482,8 @@
                   }, {
                      "date_added": "13120327256393627",
                      "id": "11593",
-                     "meta_info": {
-                        "last_visited": "13183670892136326"
-                     },
                      "name": "Agile – Penny Game rules | LeanAgileTraining",
-                     "sync_transaction_version": "1804",
+                     "sync_transaction_version": "1968",
                      "type": "url",
                      "url": "http://www.leanagiletraining.com/better-agile/agile-penny-game-rules/"
                   }, {
@@ -2560,7 +2533,7 @@
                      "url": "http://coevolving.com/blogs/index.php/archive/systems-thinking-and-the-learning-aesthetic/"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13183736966044885",
+                  "date_modified": "13184991248500240",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -3052,11 +3025,8 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
-                     "meta_info": {
-                        "last_visited_desktop": "13183657412478468"
-                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "1801",
+                     "sync_transaction_version": "1968",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -3103,7 +3073,7 @@
                      "url": "http://queue.acm.org/index.cfm"
                   } ],
                   "date_added": "13163364262741030",
-                  "date_modified": "13183657423717649",
+                  "date_modified": "13184991248498973",
                   "id": "11249",
                   "name": "ACM",
                   "sync_transaction_version": "3",
@@ -4647,11 +4617,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited_desktop": "13184561593313820"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "1927",
+                  "sync_transaction_version": "1968",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6185,11 +6152,8 @@
             }, {
                "date_added": "13120327255094009",
                "id": "11024",
-               "meta_info": {
-                  "last_visited_desktop": "13184381306644307"
-               },
                "name": "iCloud - Find My iPhone",
-               "sync_transaction_version": "1916",
+               "sync_transaction_version": "1968",
                "type": "url",
                "url": "https://www.icloud.com/#find"
             }, {
@@ -6224,7 +6188,7 @@
                "date_added": "13169502287107543",
                "id": "11922",
                "name": "1&1 Control Panel",
-               "sync_transaction_version": "1944",
+               "sync_transaction_version": "1968",
                "type": "url",
                "url": "https://admin.1and1.ca/domains-dashboard"
             }, {
@@ -6236,7 +6200,7 @@
                "url": "https://dillinger.io/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13184909317890943",
+            "date_modified": "13184991248503154",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7623,11 +7587,8 @@
             }, {
                "date_added": "13183737974087021",
                "id": "12013",
-               "meta_info": {
-                  "last_visited_desktop": "13184177694915157"
-               },
                "name": "The Doctor Blake Mysteries: Family Portrait",
-               "sync_transaction_version": "1897",
+               "sync_transaction_version": "1968",
                "type": "url",
                "url": "https://putlockerhd9.com/watch-the-doctor-blake-mysteries-family-portrait-film10910.html"
             } ],
@@ -7647,11 +7608,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13184380872881611"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1913",
+            "sync_transaction_version": "1968",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7776,11 +7734,8 @@
          }, {
             "date_added": "13177980203362629",
             "id": "11994",
-            "meta_info": {
-               "last_visited_desktop": "13184561575851297"
-            },
             "name": "Projects - Visual Studio Team Services",
-            "sync_transaction_version": "1922",
+            "sync_transaction_version": "1968",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/_projects"
          }, {
@@ -7792,13 +7747,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13183773958856772",
+         "date_modified": "13184991248503171",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1944",
+      "sync_transaction_version": "1970",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
