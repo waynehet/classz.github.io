@@ -57,8 +57,11 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited": "13185052962452649"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "1968",
+            "sync_transaction_version": "1972",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -77,7 +80,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13184991248501384",
+         "date_modified": "13185052965016602",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2447,8 +2450,11 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
+                     "meta_info": {
+                        "last_visited_desktop": "13185046305731961"
+                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "1968",
+                     "sync_transaction_version": "1971",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -7753,7 +7759,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1970",
+      "sync_transaction_version": "1972",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
