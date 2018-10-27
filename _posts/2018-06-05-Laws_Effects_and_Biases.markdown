@@ -29,7 +29,7 @@ categories: agile scrum
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
-+ [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
+* [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
 * [Larman's Laws of Organizational Behavior](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Orgs are optimized for status quo
 * [Law of Requisite Variety](https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_Requisite_Variety) To achieve stability in a complex system the number of control states must be greater than the number of system states
 * [Little's Law](https://en.wikipedia.org/wiki/Little%27s_law): Lead Time = WIP / Throughput
@@ -42,3 +42,4 @@ categories: agile scrum
 * [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): Causation fallacy
 * [Ringelmann Effect](https://en.wikipedia.org/wiki/Ringelmann_effect): Social loafing and Bystander effect, the tendancy to do less individually when part of a team
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
+*
