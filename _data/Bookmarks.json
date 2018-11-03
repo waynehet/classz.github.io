@@ -1,15 +1,15 @@
 {
-   "checksum": "b6615e84efc99eaad21342526540aff0",
+   "checksum": "d9fe1f47b65b59e59408f151cf52bd8e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13185547906913966"
+               "last_visited_desktop": "13185634431366323"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2008",
+            "sync_transaction_version": "2011",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -62,10 +62,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13185467342256390",
-               "last_visited_desktop": "13185561711599155"
+               "last_visited_desktop": "13185665688106082"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2010",
+            "sync_transaction_version": "2013",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -84,7 +84,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13185547909537119",
+         "date_modified": "13185640643051372",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2299,9 +2299,19 @@
                         "sync_transaction_version": "844",
                         "type": "url",
                         "url": "http://devopsdigest.com/why-agile-operations-is-essential-for-devops"
+                     }, {
+                        "date_added": "13185632041758499",
+                        "id": "12023",
+                        "meta_info": {
+                           "last_visited": "13185632605746993"
+                        },
+                        "name": "Visualizing Work – Fernando Cuenca – Medium",
+                        "sync_transaction_version": "2011",
+                        "type": "url",
+                        "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13170951422842023",
+                     "date_modified": "13185632041758499",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -7778,7 +7788,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2010",
+      "sync_transaction_version": "2013",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
