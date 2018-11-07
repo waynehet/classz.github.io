@@ -2306,10 +2306,10 @@
                         "date_added": "13185632041758499",
                         "id": "12023",
                         "meta_info": {
-                           "last_visited": "13185944941690293"
+                           "last_visited": "13185982932061615"
                         },
                         "name": "Visualizing Work – Fernando Cuenca – Medium",
-                        "sync_transaction_version": "2028",
+                        "sync_transaction_version": "2032",
                         "type": "url",
                         "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                      } ],
@@ -6337,8 +6337,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13186005038444087"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "1908",
+               "sync_transaction_version": "2033",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7651,10 +7654,11 @@
             "date_added": "13120327254963097",
             "id": "10793",
             "meta_info": {
+               "last_visited": "13185977550520438",
                "last_visited_desktop": "13185939181005295"
             },
             "name": "Sign in to Scotiabank Digital Banking Services",
-            "sync_transaction_version": "2026",
+            "sync_transaction_version": "2030",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
          }, {
@@ -7788,13 +7792,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13185894114295155",
+         "date_modified": "13185977565997982",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2028",
+      "sync_transaction_version": "2033",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
