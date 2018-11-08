@@ -7644,10 +7644,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13185328911175754"
+               "last_visited_desktop": "13186103643293308"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "1997",
+            "sync_transaction_version": "2035",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7798,7 +7798,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2033",
+      "sync_transaction_version": "2035",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
