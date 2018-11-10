@@ -61,11 +61,10 @@
             "date_added": "13165343496460990",
             "id": "11873",
             "meta_info": {
-               "last_visited": "13186111798240575",
-               "last_visited_desktop": "13186195638666555"
+               "last_visited": "13186263195824856"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2039",
+            "sync_transaction_version": "2040",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -78,16 +77,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13186195576453015"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2038",
+            "sync_transaction_version": "2040",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13186195553631629",
+         "date_modified": "13186291515268524",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7798,7 +7794,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2039",
+      "sync_transaction_version": "2040",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
