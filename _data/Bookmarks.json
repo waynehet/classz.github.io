@@ -1,15 +1,15 @@
 {
-   "checksum": "d9fe1f47b65b59e59408f151cf52bd8e",
+   "checksum": "584e1fa8b6df5b5575e0617ca7238df4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13185634431366323"
+               "last_visited_desktop": "13186422298773090"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2011",
+            "sync_transaction_version": "2044",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -86,7 +86,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13186291515268524",
+         "date_modified": "13186444746885211",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -299,7 +299,7 @@
                         "date_added": "13179839993132669",
                         "id": "12001",
                         "name": "Why Business Leaders Hire Coaches | LinkedIn",
-                        "sync_transaction_version": "1681",
+                        "sync_transaction_version": "2044",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/why-business-leaders-hire-coaches-conor-neill/"
                      } ],
@@ -575,7 +575,7 @@
                         "date_added": "13169523590336164",
                         "id": "11933",
                         "name": "21 Sprint Retrospective Anti-Patterns Impeding Scrum Teams | LinkedIn",
-                        "sync_transaction_version": "1681",
+                        "sync_transaction_version": "2044",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/21-sprint-retrospective-anti-patterns-impeding-scrum-teams-wolpers/"
                      }, {
@@ -587,7 +587,7 @@
                         "url": "https://www.extremeuncertainty.com/main-reason-agile-retrospectives-dont-work/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13180495634089739",
+                     "date_modified": "13186444746886521",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -746,7 +746,7 @@
                         "date_added": "13120327257320332",
                         "id": "11800",
                         "name": "Forget Myers-Briggs: To Build a Great Team, Focus on 'Factor C' | Cass Sunstein | LinkedIn",
-                        "sync_transaction_version": "1681",
+                        "sync_transaction_version": "2044",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/forget-myers-briggs-build-great-team-focus-factor-c-cass-sunstein"
                      }, {
@@ -819,7 +819,7 @@
                         "date_added": "13122156659500758",
                         "id": "11810",
                         "name": "A Better Way To Measure Employee Happiness | Neale Lewis | Pulse | LinkedIn",
-                        "sync_transaction_version": "1681",
+                        "sync_transaction_version": "2044",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20141018181701-13167405-a-better-way-to-measure-employee-happines"
                      }, {
@@ -927,7 +927,7 @@
                         "date_added": "13173323170301598",
                         "id": "11957",
                         "name": "Don't call me a resource | LinkedIn",
-                        "sync_transaction_version": "1681",
+                        "sync_transaction_version": "2044",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
                      }, {
@@ -939,7 +939,7 @@
                         "url": "https://www.beliminal.com/quest-high-performance-team-start-exercise/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13183997438539869",
+                     "date_modified": "13186444746886526",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2134,9 +2134,19 @@
                      "sync_transaction_version": "1692",
                      "type": "url",
                      "url": "https://agilevelocity.com/product-owner/mvp-mmf-psi-wtf-part-one-understanding-the-mvp/"
+                  }, {
+                     "date_added": "13186416775643907",
+                     "id": "12025",
+                     "meta_info": {
+                        "last_visited": "13186444887588973"
+                     },
+                     "name": "Business Analysis Still Has a Place in Scrum",
+                     "sync_transaction_version": "2045",
+                     "type": "url",
+                     "url": "https://www.cmswire.com/digital-workplace/business-analysis-still-has-a-place-in-scrum/"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13180622967191955",
+                  "date_modified": "13186416775643907",
                   "id": "11541",
                   "name": "PO and Prioritization",
                   "sync_transaction_version": "3",
@@ -2311,9 +2321,19 @@
                         "sync_transaction_version": "2032",
                         "type": "url",
                         "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
+                     }, {
+                        "date_added": "13186444880295150",
+                        "id": "12027",
+                        "meta_info": {
+                           "last_visited": "13186444880297530"
+                        },
+                        "name": "The Seven Wastes of Software Development",
+                        "sync_transaction_version": "2045",
+                        "type": "url",
+                        "url": "https://codepunk.io/the-seven-wastes-of-software-development/"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13185632041758499",
+                     "date_modified": "13186444880295150",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -7800,7 +7820,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2043",
+      "sync_transaction_version": "2045",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
