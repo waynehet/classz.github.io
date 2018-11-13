@@ -1,15 +1,15 @@
 {
-   "checksum": "584e1fa8b6df5b5575e0617ca7238df4",
+   "checksum": "d47eb3ba3bf3de0dd1c90471bd2c9cf1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13186422298773090"
+               "last_visited_desktop": "13186532707918400"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2044",
+            "sync_transaction_version": "2054",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -86,7 +86,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13186444746885211",
+         "date_modified": "13186504376523340",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2137,11 +2137,8 @@
                   }, {
                      "date_added": "13186416775643907",
                      "id": "12025",
-                     "meta_info": {
-                        "last_visited": "13186444887588973"
-                     },
                      "name": "Business Analysis Still Has a Place in Scrum",
-                     "sync_transaction_version": "2045",
+                     "sync_transaction_version": "2046",
                      "type": "url",
                      "url": "https://www.cmswire.com/digital-workplace/business-analysis-still-has-a-place-in-scrum/"
                   } ],
@@ -2324,16 +2321,23 @@
                      }, {
                         "date_added": "13186444880295150",
                         "id": "12027",
-                        "meta_info": {
-                           "last_visited": "13186444880297530"
-                        },
                         "name": "The Seven Wastes of Software Development",
-                        "sync_transaction_version": "2045",
+                        "sync_transaction_version": "2046",
                         "type": "url",
                         "url": "https://codepunk.io/the-seven-wastes-of-software-development/"
+                     }, {
+                        "date_added": "13186513876864754",
+                        "id": "12029",
+                        "meta_info": {
+                           "last_visited": "13186533976330026"
+                        },
+                        "name": "Cumulative Flow Diagram",
+                        "sync_transaction_version": "2055",
+                        "type": "url",
+                        "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13186444880295150",
+                     "date_modified": "13186513876864754",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -7820,7 +7824,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2045",
+      "sync_transaction_version": "2055",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
