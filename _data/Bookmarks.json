@@ -2482,26 +2482,20 @@
                   }, {
                      "date_added": "13184209071081925",
                      "id": "12017",
-                     "meta_info": {
-                        "last_visited": "13187071375438209"
-                     },
                      "name": "A Comprehensive Comparison of Renowned Agile Scaling Models - Simplifying agile scaling for distributed teams and programs (Agile Scaling Platform for SAFe/LeSS/Spotify/PI Planning)",
-                     "sync_transaction_version": "2079",
+                     "sync_transaction_version": "2080",
                      "type": "url",
                      "url": "https://kendis.io/scaling-agile/comparison-agile-scaling-models/"
                   }, {
                      "date_added": "13187071317048734",
                      "id": "12031",
-                     "meta_info": {
-                        "last_visited": "13187071382883447"
-                     },
                      "name": "Features",
-                     "sync_transaction_version": "2079",
+                     "sync_transaction_version": "2080",
                      "type": "url",
                      "url": "https://realtimeboard.com/features/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13187071391087458",
+                  "date_modified": "13187112160218299",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -6380,11 +6374,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13187048682788267"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2075",
+               "sync_transaction_version": "2080",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7671,7 +7662,7 @@
                "url": "https://putlockerhd9.com/watch-the-doctor-blake-mysteries-family-portrait-film10910.html"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13184101298125043",
+            "date_modified": "13187112160218314",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7687,10 +7678,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13186103643293308"
+               "last_visited_desktop": "13187152039796149"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2035",
+            "sync_transaction_version": "2082",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7698,10 +7689,10 @@
             "id": "10793",
             "meta_info": {
                "last_visited": "13185977550520438",
-               "last_visited_desktop": "13185939181005295"
+               "last_visited_desktop": "13187152190593075"
             },
             "name": "Sign in to Scotiabank Digital Banking Services",
-            "sync_transaction_version": "2030",
+            "sync_transaction_version": "2083",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
          }, {
@@ -7722,10 +7713,10 @@
             "date_added": "13120327254967695",
             "id": "10796",
             "meta_info": {
-               "last_visited_desktop": "13187053199025475"
+               "last_visited_desktop": "13187156675041246"
             },
             "name": "MBNA Mastercard",
-            "sync_transaction_version": "2076",
+            "sync_transaction_version": "2090",
             "type": "url",
             "url": "http://www.mbna.ca/index.html"
          }, {
@@ -7841,13 +7832,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13186879456248951",
+         "date_modified": "13187115280733848",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2079",
+      "sync_transaction_version": "2090",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
