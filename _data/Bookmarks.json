@@ -15,8 +15,11 @@
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
+            "meta_info": {
+               "last_visited_desktop": "13187274872217839"
+            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "1786",
+            "sync_transaction_version": "2096",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -90,7 +93,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13186879456247694",
+         "date_modified": "13187296840193180",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2315,11 +2318,8 @@
                      }, {
                         "date_added": "13185632041758499",
                         "id": "12023",
-                        "meta_info": {
-                           "last_visited": "13185982932061615"
-                        },
                         "name": "Visualizing Work – Fernando Cuenca – Medium",
-                        "sync_transaction_version": "2032",
+                        "sync_transaction_version": "2095",
                         "type": "url",
                         "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                      }, {
@@ -2341,7 +2341,7 @@
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13187071317048734",
+                     "date_modified": "13187293868404054",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -2490,10 +2490,10 @@
                      "date_added": "13187071317048734",
                      "id": "12031",
                      "meta_info": {
-                        "last_visited": "13187225767762907"
+                        "last_visited": "13187326524623408"
                      },
                      "name": "Features",
-                     "sync_transaction_version": "2092",
+                     "sync_transaction_version": "2099",
                      "type": "url",
                      "url": "https://realtimeboard.com/features/"
                   } ],
@@ -7774,11 +7774,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13186841938850838"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2068",
+            "sync_transaction_version": "2095",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7835,13 +7832,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13187202974433203",
+         "date_modified": "13187293868404057",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2092",
+      "sync_transaction_version": "2099",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
