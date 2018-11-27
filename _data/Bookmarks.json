@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13187635172924105"
+               "last_visited_desktop": "13187753288917887"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2108",
+            "sync_transaction_version": "2114",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2489,11 +2489,8 @@
                   }, {
                      "date_added": "13187071317048734",
                      "id": "12031",
-                     "meta_info": {
-                        "last_visited": "13187590323812346"
-                     },
                      "name": "Features",
-                     "sync_transaction_version": "2107",
+                     "sync_transaction_version": "2110",
                      "type": "url",
                      "url": "https://realtimeboard.com/features/"
                   } ],
@@ -6377,8 +6374,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13187745489538298"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2080",
+               "sync_transaction_version": "2113",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -6609,8 +6609,11 @@
                }, {
                   "date_added": "13016562823556565",
                   "id": "11005",
+                  "meta_info": {
+                     "last_visited_desktop": "13187743929366959"
+                  },
                   "name": "Simon Says Stamp World's Largest Selection of Paper Art Supplies!",
-                  "sync_transaction_version": "1890",
+                  "sync_transaction_version": "2112",
                   "type": "url",
                   "url": "http://www.simonsaysstamp.com/servlet/StoreFront"
                }, {
@@ -7838,7 +7841,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2108",
+      "sync_transaction_version": "2114",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
