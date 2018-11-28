@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13187753288917887"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2114",
+            "sync_transaction_version": "2115",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -93,7 +90,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13187572785688699",
+         "date_modified": "13187794651457195",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2332,11 +2329,8 @@
                      }, {
                         "date_added": "13186513876864754",
                         "id": "12029",
-                        "meta_info": {
-                           "last_visited": "13186638513544296"
-                        },
                         "name": "Cumulative Flow Diagram",
-                        "sync_transaction_version": "2061",
+                        "sync_transaction_version": "2115",
                         "type": "url",
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      } ],
@@ -6375,10 +6369,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13187745489538298"
+                  "last_visited_desktop": "13187843813081027"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2113",
+               "sync_transaction_version": "2117",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -6609,11 +6603,8 @@
                }, {
                   "date_added": "13016562823556565",
                   "id": "11005",
-                  "meta_info": {
-                     "last_visited_desktop": "13187743929366959"
-                  },
                   "name": "Simon Says Stamp World's Largest Selection of Paper Art Supplies!",
-                  "sync_transaction_version": "2112",
+                  "sync_transaction_version": "2115",
                   "type": "url",
                   "url": "http://www.simonsaysstamp.com/servlet/StoreFront"
                }, {
@@ -6653,7 +6644,7 @@
                   "url": "http://www.iostamps.com/mm5/merchant.mvc"
                } ],
                "date_added": "13163364262670192",
-               "date_modified": "13184101298126812",
+               "date_modified": "13187794651458162",
                "id": "10834",
                "name": "Online Stores",
                "sync_transaction_version": "3",
@@ -7668,7 +7659,7 @@
                "url": "https://putlockerhd9.com/watch-the-doctor-blake-mysteries-family-portrait-film10910.html"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13187112160218314",
+            "date_modified": "13187794651458149",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7777,8 +7768,11 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
+            "meta_info": {
+               "last_visited": "13187795701729981"
+            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2095",
+            "sync_transaction_version": "2116",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7835,13 +7829,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13187293868404057",
+         "date_modified": "13187798390477414",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2114",
+      "sync_transaction_version": "2117",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
