@@ -1,5 +1,5 @@
 {
-   "checksum": "e1a218d0f996444e859c9df1fbcd857f",
+   "checksum": "0c42b3703b646c63f98beae154634692",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -941,9 +941,19 @@
                         "sync_transaction_version": "1968",
                         "type": "url",
                         "url": "https://www.beliminal.com/quest-high-performance-team-start-exercise/"
+                     }, {
+                        "date_added": "13188575262037720",
+                        "id": "12035",
+                        "meta_info": {
+                           "last_visited": "13188575409243691"
+                        },
+                        "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
+                        "sync_transaction_version": "2140",
+                        "type": "url",
+                        "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13186444746886526",
+                     "date_modified": "13188575262037720",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -7667,10 +7677,10 @@
                "date_added": "13188500669169638",
                "id": "12033",
                "meta_info": {
-                  "last_visited_desktop": "13188518102190800"
+                  "last_visited_desktop": "13188611972704984"
                },
                "name": "Watch Cesur ve Guzel - Season 1 Full Movie Free | English Subtitle | 123Movies",
-               "sync_transaction_version": "2139",
+               "sync_transaction_version": "2143",
                "type": "url",
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
@@ -7851,7 +7861,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2139",
+      "sync_transaction_version": "2143",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
