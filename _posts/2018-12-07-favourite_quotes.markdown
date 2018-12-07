@@ -7,4 +7,5 @@ published: true
 <div class='pull-left' markdown="1">
 ![george_santayana.jpg]({{site.baseurl}}/assets/george_santayana.jpg)
 </div>
+2. "Another quote"
 
