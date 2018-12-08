@@ -7,7 +7,8 @@ published: true
 ---
 ## Some Really Great Quotes
 
-“Those who fail to learn from history are doomed to repeat it.” ― George Santayana
+>Those who fail to learn from history are doomed to repeat it. 
+― George Santayana
 <div class='pull-right' markdown="1">
 ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"}
 </div>
