@@ -8,7 +8,6 @@ published: true
 ## Some Really Great Quotes
 
 “Those who fail to learn from history are doomed to repeat it.” ― George Santayana
-
 <div class='pull-right' markdown="1">
 ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"}
 </div>
@@ -16,7 +15,6 @@ published: true
 <div class='pull-left' markdown="1">
 ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"}
 </div>
-
 "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction." - E. F. Schumacher
 
 3. "They may forget what you said, but they will never forget how you made them feel." - Carl W. Buehner
