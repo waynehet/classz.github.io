@@ -1,15 +1,15 @@
 {
-   "checksum": "0c42b3703b646c63f98beae154634692",
+   "checksum": "242d8d72b8976fede326918c8b16e40e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13188710585248542"
+               "last_visited_desktop": "13188838292647073"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2146",
+            "sync_transaction_version": "2147",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -57,10 +57,10 @@
             "date_added": "13177980343320056",
             "id": "11995",
             "meta_info": {
-               "last_visited_desktop": "13185763138976293"
+               "last_visited_desktop": "13188861514613167"
             },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "2014",
+            "sync_transaction_version": "2209",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
@@ -1104,7 +1104,7 @@
                      "date_added": "13179183348490549",
                      "id": "11997",
                      "name": "Scrum Master: The Master of the Art of Facilitation | Scrum.org",
-                     "sync_transaction_version": "1635",
+                     "sync_transaction_version": "2157",
                      "type": "url",
                      "url": "https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation"
                   } ],
@@ -1210,8 +1210,11 @@
                      }, {
                         "date_added": "13120327257355519",
                         "id": "11763",
+                        "meta_info": {
+                           "last_visited_desktop": "13188840004429659"
+                        },
                         "name": "Splitting stories into small, vertical slices.",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "2171",
                         "type": "url",
                         "url": "http://blogs.adobe.com/agile/2013/09/27/splitting-stories-into-small-vertical-slices/"
                      }, {
@@ -1607,7 +1610,7 @@
                      "date_added": "13120327256273106",
                      "id": "11697",
                      "name": "Does every item in the product backlog require a User Story?",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "2172",
                      "type": "url",
                      "url": "http://blogs.adobe.com/agile/2012/06/20/does-every-item-in-the-product-backlog-require-a-user-story/"
                   }, {
@@ -1708,16 +1711,51 @@
                      "sync_transaction_version": "3",
                      "type": "url",
                      "url": "https://www.linkedin.com/pulse/putting-story-back-user-paul-goddard?trk=v-feed"
+                  }, {
+                     "date_added": "13188839444004223",
+                     "id": "12039",
+                     "meta_info": {
+                        "last_visited_desktop": "13188839444004595"
+                     },
+                     "name": "Try Design Thinking + Scrum: A Powerful Hybrid Agile Approach | LinkedIn",
+                     "sync_transaction_version": "2163",
+                     "type": "url",
+                     "url": "https://www.linkedin.com/pulse/try-design-thinking-scrum-powerful-hybrid-agile-approach-yoshida/"
+                  }, {
+                     "date_added": "13180559255471609",
+                     "id": "12005",
+                     "meta_info": {
+                        "last_visited": "13188485850139820",
+                        "last_visited_desktop": "13188839754996907"
+                     },
+                     "name": "Understanding the MVP (Minimum Viable Product) | Agile Velocity",
+                     "sync_transaction_version": "2162",
+                     "type": "url",
+                     "url": "https://agilevelocity.com/product-owner/mvp-mmf-psi-wtf-part-one-understanding-the-mvp/"
                   } ],
                   "date_added": "13163364262792485",
-                  "date_modified": "13180495634089744",
+                  "date_modified": "13188839974273841",
                   "id": "11540",
-                  "name": "User Stories",
-                  "sync_transaction_version": "3",
+                  "name": "User Stories and Product Definition",
+                  "sync_transaction_version": "2158",
                   "type": "folder"
                }, {
                   "children": [ {
                      "children": [ {
+                        "date_added": "13120327257429204",
+                        "id": "11672",
+                        "name": "The Many Levels of Planning on an Agile Project",
+                        "sync_transaction_version": "2205",
+                        "type": "url",
+                        "url": "http://www.infoq.com/articles/many-levels-planning-agile-project"
+                     }, {
+                        "date_added": "13120327257430761",
+                        "id": "11673",
+                        "name": "Predictive *AND* Adaptive Planning | Pragilematic",
+                        "sync_transaction_version": "2206",
+                        "type": "url",
+                        "url": "http://anagilestory.com/2011/11/17/predictive-and-adaptive-planning-2/"
+                     }, {
                         "date_added": "13120327257420659",
                         "id": "11668",
                         "name": "Kickstart your next project with a Walking Skeleton - Code Climate Blog",
@@ -1745,20 +1783,6 @@
                         "sync_transaction_version": "3",
                         "type": "url",
                         "url": "http://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/"
-                     }, {
-                        "date_added": "13120327257429204",
-                        "id": "11672",
-                        "name": "The Many Levels of Planning on an Agile Project",
-                        "sync_transaction_version": "1621",
-                        "type": "url",
-                        "url": "http://www.infoq.com/articles/many-levels-planning-agile-project"
-                     }, {
-                        "date_added": "13120327257430761",
-                        "id": "11673",
-                        "name": "Predictive *AND* Adaptive Planning | Pragilematic",
-                        "sync_transaction_version": "1681",
-                        "type": "url",
-                        "url": "http://anagilestory.com/2011/11/17/predictive-and-adaptive-planning-2/"
                      }, {
                         "date_added": "13120327257432342",
                         "id": "11674",
@@ -1795,13 +1819,6 @@
                         "type": "url",
                         "url": "http://cmforagile.blogspot.ca/2015/07/story-telling-with-story-mapping.html"
                      }, {
-                        "date_added": "13120327257442081",
-                        "id": "11680",
-                        "name": "Understanding the Pareto Principle (The 80/20 Rule) | BetterExplained",
-                        "sync_transaction_version": "1333",
-                        "type": "url",
-                        "url": "http://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/"
-                     }, {
                         "date_added": "13139412328945807",
                         "id": "11585",
                         "name": "28 Product Backlog Anti-Patterns – Agile Transition",
@@ -1825,9 +1842,16 @@
                         "sync_transaction_version": "2121",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
+                     }, {
+                        "date_added": "13120327256348497",
+                        "id": "11651",
+                        "name": "http://gojko.net/papers/effect_maps.pdf",
+                        "sync_transaction_version": "2204",
+                        "type": "url",
+                        "url": "http://gojko.net/papers/effect_maps.pdf"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13180495634089736",
+                     "date_modified": "13188840519850395",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -1872,7 +1896,7 @@
                         "date_added": "13120327257449777",
                         "id": "11660",
                         "name": "Burn-up versus Burn-down Chart",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "2159",
                         "type": "url",
                         "url": "http://brodzinski.com/2012/10/burn-up-better-burn-down.html"
                      }, {
@@ -1938,12 +1962,120 @@
                         "sync_transaction_version": "1333",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2017/05/agile-metrics-gqm-approach/"
+                     }, {
+                        "date_added": "13188839369968607",
+                        "id": "12037",
+                        "meta_info": {
+                           "last_visited_desktop": "13188839369969339"
+                        },
+                        "name": "The definition of vanity metrics (and how to identify them)",
+                        "sync_transaction_version": "2152",
+                        "type": "url",
+                        "url": "https://www.tableau.com/learn/articles/vanity-metrics"
                      } ],
                      "date_added": "13163364262809704",
-                     "date_modified": "13170951422841743",
+                     "date_modified": "13188839444004223",
                      "id": "11630",
                      "name": "Metrics",
                      "sync_transaction_version": "3",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327256241235",
+                        "id": "11652",
+                        "name": "9 Tips for Creating a Good Sprint Backlog - Scrum Alliance",
+                        "sync_transaction_version": "2193",
+                        "type": "url",
+                        "url": "https://www.scrumalliance.org/community/articles/2009/march/9-tips-for-creating-a-good-sprint-backlog"
+                     }, {
+                        "date_added": "13120327256345552",
+                        "id": "11649",
+                        "meta_info": {
+                           "last_visited": "13188485948752680"
+                        },
+                        "name": "Backlog Grooming: Part 1 - Scrum Alliance",
+                        "sync_transaction_version": "2194",
+                        "type": "url",
+                        "url": "https://www.scrumalliance.org/community/articles/2014/july/backlog-grooming-part-1?es_p=448247"
+                     }, {
+                        "date_added": "13120327256312329",
+                        "id": "11636",
+                        "name": "ScrumCrazy - Tips for Effective Backlog Grooming",
+                        "sync_transaction_version": "2190",
+                        "type": "url",
+                        "url": "http://www.scrumcrazy.com/Tips+for+Effective+Backlog+Grooming"
+                     }, {
+                        "date_added": "13120327256329535",
+                        "id": "11644",
+                        "name": "Requirements Management in Agile Projects – a pragmatic approach | Helios Objects",
+                        "sync_transaction_version": "2192",
+                        "type": "url",
+                        "url": "http://heliosobjects.com/2014/02/20/requirements-management-in-agile-projects/"
+                     }, {
+                        "date_added": "13120327256319356",
+                        "id": "11639",
+                        "name": "First Things First: Prioritizing Requirements",
+                        "sync_transaction_version": "2197",
+                        "type": "url",
+                        "url": "http://www.processimpact.com/articles/prioritizing.html"
+                     }, {
+                        "date_added": "13188840108956877",
+                        "id": "12041",
+                        "meta_info": {
+                           "last_visited_desktop": "13188840108957332"
+                        },
+                        "name": "6 agile methods for backlog prioritization | Learn",
+                        "sync_transaction_version": "2178",
+                        "type": "url",
+                        "url": "https://learn.techbeacon.com/units/6-agile-methods-backlog-prioritization#.WzyQeCXCsxQ.linkedin"
+                     }, {
+                        "date_added": "13120327257442081",
+                        "id": "11680",
+                        "name": "Understanding the Pareto Principle (The 80/20 Rule) | BetterExplained",
+                        "sync_transaction_version": "2196",
+                        "type": "url",
+                        "url": "http://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/"
+                     }, {
+                        "date_added": "13174246280542654",
+                        "id": "11972",
+                        "name": "Cost Per Reasonable Decision (CPRD) – Hacker Noon",
+                        "sync_transaction_version": "2198",
+                        "type": "url",
+                        "url": "https://hackernoon.com/cost-per-reasonable-decision-cprd-ed1ca8c6147"
+                     }, {
+                        "date_added": "13120327256325799",
+                        "id": "11642",
+                        "name": "Prioritizing Software Requirements with Kano Analysis",
+                        "sync_transaction_version": "2199",
+                        "type": "url",
+                        "url": "http://www.pragmaticmarketing.com/resources/prioritizing-software-requirements-with-kano-analysis"
+                     }, {
+                        "date_added": "13120327256317218",
+                        "id": "11638",
+                        "name": "agile42 | Business Value Game",
+                        "sync_transaction_version": "2181",
+                        "type": "url",
+                        "url": "http://www.agile42.com/en/agile-coaching-company/agile-scrum-tools/business-value-game/"
+                     }, {
+                        "date_added": "13120327256321492",
+                        "id": "11640",
+                        "name": "The Problems with Estimating Business Value | Mountain Goat Software",
+                        "sync_transaction_version": "2191",
+                        "type": "url",
+                        "url": "http://www.mountaingoatsoftware.com/blog/the-problems-with-estimating-business-value"
+                     }, {
+                        "date_added": "13120327256315023",
+                        "id": "11637",
+                        "name": "Scrum's Product Backlog - Agile Requirements Management",
+                        "sync_transaction_version": "2200",
+                        "type": "url",
+                        "url": "http://agilebench.com/blog/the-product-backlog-for-agile-teams"
+                     } ],
+                     "date_added": "13188840135203644",
+                     "date_modified": "13188840428631227",
+                     "id": "12042",
+                     "name": "Backlog and Prioritization",
+                     "sync_transaction_version": "2201",
                      "type": "folder"
                   }, {
                      "date_added": "13120327256301070",
@@ -1981,54 +2113,12 @@
                      "type": "url",
                      "url": "http://www.informit.com/articles/article.aspx?p=1833567"
                   }, {
-                     "date_added": "13120327256312329",
-                     "id": "11636",
-                     "name": "ScrumCrazy - Tips for Effective Backlog Grooming",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://www.scrumcrazy.com/Tips+for+Effective+Backlog+Grooming"
-                  }, {
-                     "date_added": "13120327256315023",
-                     "id": "11637",
-                     "name": "Scrum's Product Backlog - Agile Requirements Management",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://agilebench.com/blog/the-product-backlog-for-agile-teams"
-                  }, {
-                     "date_added": "13120327256317218",
-                     "id": "11638",
-                     "name": "agile42 | Business Value Game",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://www.agile42.com/en/agile-coaching-company/agile-scrum-tools/business-value-game/"
-                  }, {
-                     "date_added": "13120327256319356",
-                     "id": "11639",
-                     "name": "First Things First: Prioritizing Requirements",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://www.processimpact.com/articles/prioritizing.html"
-                  }, {
-                     "date_added": "13120327256321492",
-                     "id": "11640",
-                     "name": "The Problems with Estimating Business Value | Mountain Goat Software",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://www.mountaingoatsoftware.com/blog/the-problems-with-estimating-business-value"
-                  }, {
                      "date_added": "13120327256323685",
                      "id": "11641",
                      "name": "The Fallacy of the Rejected Backlog Item | Javalobby",
                      "sync_transaction_version": "3",
                      "type": "url",
                      "url": "http://java.dzone.com/articles/fallacy-rejected-backlog-item?goback=%2Egde_2908737_member_269445685#%21"
-                  }, {
-                     "date_added": "13120327256325799",
-                     "id": "11642",
-                     "name": "Prioritizing Software Requirements with Kano Analysis",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://www.pragmaticmarketing.com/resources/prioritizing-software-requirements-with-kano-analysis"
                   }, {
                      "date_added": "13120327256327654",
                      "id": "11643",
@@ -2037,12 +2127,12 @@
                      "type": "url",
                      "url": "http://www.romanpichler.com/blog/agile-product-innovation/10-persona-tips-agile-product-management/"
                   }, {
-                     "date_added": "13120327256329535",
-                     "id": "11644",
-                     "name": "Requirements Management in Agile Projects – a pragmatic approach | Helios Objects",
-                     "sync_transaction_version": "3",
+                     "date_added": "13186416775643907",
+                     "id": "12025",
+                     "name": "Business Analysis Still Has a Place in Scrum",
+                     "sync_transaction_version": "2203",
                      "type": "url",
-                     "url": "http://heliosobjects.com/2014/02/20/requirements-management-in-agile-projects/"
+                     "url": "https://www.cmswire.com/digital-workplace/business-analysis-still-has-a-place-in-scrum/"
                   }, {
                      "date_added": "13120327256331160",
                      "id": "11645",
@@ -2072,36 +2162,12 @@
                      "type": "url",
                      "url": "http://www.mironov.com/pohire/"
                   }, {
-                     "date_added": "13120327256345552",
-                     "id": "11649",
-                     "meta_info": {
-                        "last_visited": "13188485948752680"
-                     },
-                     "name": "Backlog Grooming: Part 1 - Scrum Alliance",
-                     "sync_transaction_version": "2121",
-                     "type": "url",
-                     "url": "https://www.scrumalliance.org/community/articles/2014/july/backlog-grooming-part-1?es_p=448247"
-                  }, {
                      "date_added": "13120327256347085",
                      "id": "11650",
                      "name": "Communicate Business Value to Your Stakeholders",
                      "sync_transaction_version": "3",
                      "type": "url",
                      "url": "http://www.infoq.com/articles/communicate-business-value-stakeholders"
-                  }, {
-                     "date_added": "13120327256348497",
-                     "id": "11651",
-                     "name": "http://gojko.net/papers/effect_maps.pdf",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "http://gojko.net/papers/effect_maps.pdf"
-                  }, {
-                     "date_added": "13120327256241235",
-                     "id": "11652",
-                     "name": "9 Tips for Creating a Good Sprint Backlog - Scrum Alliance",
-                     "sync_transaction_version": "3",
-                     "type": "url",
-                     "url": "https://www.scrumalliance.org/community/articles/2009/march/9-tips-for-creating-a-good-sprint-backlog"
                   }, {
                      "date_added": "13123343494084202",
                      "id": "11653",
@@ -2127,13 +2193,6 @@
                      "type": "url",
                      "url": "https://www.ebgconsulting.com/blog/product-manager-product-owner-part-2/"
                   }, {
-                     "date_added": "13174246280542654",
-                     "id": "11972",
-                     "name": "Cost Per Reasonable Decision (CPRD) – Hacker Noon",
-                     "sync_transaction_version": "1638",
-                     "type": "url",
-                     "url": "https://hackernoon.com/cost-per-reasonable-decision-cprd-ed1ca8c6147"
-                  }, {
                      "date_added": "13176401761009798",
                      "id": "11984",
                      "meta_info": {
@@ -2153,29 +2212,12 @@
                      "sync_transaction_version": "1548",
                      "type": "url",
                      "url": "https://jpattonassociates.com/dont_know_what_i_want/?__hstc=202214990.0e6011c3a13aba5678ff06e2d1abd71d.1528194203783.1529526381223.1532343550649.3&__hssc=202214990.5.1532343550649&__hsfp=2394243210"
-                  }, {
-                     "date_added": "13180559255471609",
-                     "id": "12005",
-                     "meta_info": {
-                        "last_visited": "13188485850139820"
-                     },
-                     "name": "Understanding the MVP (Minimum Viable Product) | Agile Velocity",
-                     "sync_transaction_version": "2121",
-                     "type": "url",
-                     "url": "https://agilevelocity.com/product-owner/mvp-mmf-psi-wtf-part-one-understanding-the-mvp/"
-                  }, {
-                     "date_added": "13186416775643907",
-                     "id": "12025",
-                     "name": "Business Analysis Still Has a Place in Scrum",
-                     "sync_transaction_version": "2046",
-                     "type": "url",
-                     "url": "https://www.cmswire.com/digital-workplace/business-analysis-still-has-a-place-in-scrum/"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13188691462223288",
+                  "date_modified": "13188840481965200",
                   "id": "11541",
-                  "name": "PO and Prioritization",
-                  "sync_transaction_version": "3",
+                  "name": "PO and Backlog",
+                  "sync_transaction_version": "2202",
                   "type": "folder"
                }, {
                   "children": [ {
@@ -2562,7 +2604,7 @@
                      "date_added": "13120327256393627",
                      "id": "11593",
                      "name": "Agile – Penny Game rules | LeanAgileTraining",
-                     "sync_transaction_version": "1968",
+                     "sync_transaction_version": "2164",
                      "type": "url",
                      "url": "http://www.leanagiletraining.com/better-agile/agile-penny-game-rules/"
                   }, {
@@ -2610,9 +2652,19 @@
                      "sync_transaction_version": "1505",
                      "type": "url",
                      "url": "http://coevolving.com/blogs/index.php/archive/systems-thinking-and-the-learning-aesthetic/"
+                  }, {
+                     "date_added": "13188839974273841",
+                     "id": "12040",
+                     "meta_info": {
+                        "last_visited_desktop": "13188839974274329"
+                     },
+                     "name": "theballpointgame.pdf",
+                     "sync_transaction_version": "2169",
+                     "type": "url",
+                     "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13184991248500240",
+                  "date_modified": "13188840108956877",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -4700,10 +4752,10 @@
                   "date_added": "13172375377992781",
                   "id": "11944",
                   "meta_info": {
-                     "last_visited_desktop": "13185763173874367"
+                     "last_visited_desktop": "13188861524029724"
                   },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "2014",
+                  "sync_transaction_version": "2215",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -7868,7 +7920,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2146",
+      "sync_transaction_version": "2215",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
