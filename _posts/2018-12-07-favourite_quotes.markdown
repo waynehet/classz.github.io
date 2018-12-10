@@ -19,8 +19,8 @@ published: true
 | | |
 | “Depend upon it, sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.” - Samuel Johnson | ![Samuel Johnson]({{site.baseurl}}/assets/samuel_johnson.jpg){:width="100px"} |
 | | |
-| "Winners are not those who never fail, but those who never quit." - Banksy | |
-| | |
+| "Winners are not those who never fail, but those who never quit." - Banksy | x |
+
 “Nothing in life is as important as you think it is while you are thinking about it.” - Daniel Kahneman
 
 “Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy
