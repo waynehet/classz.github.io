@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13188946206135833"
+               "last_visited_desktop": "13189052718615641"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2217",
+            "sync_transaction_version": "2225",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -6361,10 +6361,10 @@
                "date_added": "13039909004176784",
                "id": "11014",
                "meta_info": {
-                  "last_visited_desktop": "13188969076869065"
+                  "last_visited_desktop": "13189016268398717"
                },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2219",
+               "sync_transaction_version": "2220",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7739,10 +7739,10 @@
                "id": "12033",
                "meta_info": {
                   "last_visited": "13188619408563422",
-                  "last_visited_desktop": "13188611972704984"
+                  "last_visited_desktop": "13189031495584815"
                },
                "name": "Watch Cesur ve Guzel - Season 1 Full Movie Free | English Subtitle | 123Movies",
-               "sync_transaction_version": "2144",
+               "sync_transaction_version": "2221",
                "type": "url",
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
@@ -7763,10 +7763,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13187152039796149"
+               "last_visited_desktop": "13189047735551511"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2082",
+            "sync_transaction_version": "2223",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7774,10 +7774,10 @@
             "id": "10793",
             "meta_info": {
                "last_visited": "13185977550520438",
-               "last_visited_desktop": "13187202887917289"
+               "last_visited_desktop": "13189047726768640"
             },
             "name": "Sign in to Scotiabank Digital Banking Services",
-            "sync_transaction_version": "2091",
+            "sync_transaction_version": "2222",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
          }, {
@@ -7923,7 +7923,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2219",
+      "sync_transaction_version": "2225",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
