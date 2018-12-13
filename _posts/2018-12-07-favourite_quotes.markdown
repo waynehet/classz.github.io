@@ -42,3 +42,5 @@ published: true
 "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over." - Edwards Deming
 
 "In theory there is no difference between theory and practice. But, in practice, there is." - Yogi Berra
+
+"The Cave You Fear to Enter Holds the Treasure You Seek" - Joseph Campbell
