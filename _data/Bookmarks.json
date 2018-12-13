@@ -948,10 +948,10 @@
                         "date_added": "13188575262037720",
                         "id": "12035",
                         "meta_info": {
-                           "last_visited": "13188575409243691"
+                           "last_visited": "13189113283495457"
                         },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2140",
+                        "sync_transaction_version": "2227",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      } ],
@@ -2129,8 +2129,11 @@
                   }, {
                      "date_added": "13186416775643907",
                      "id": "12025",
+                     "meta_info": {
+                        "last_visited": "13189092121617209"
+                     },
                      "name": "Business Analysis Still Has a Place in Scrum",
-                     "sync_transaction_version": "2203",
+                     "sync_transaction_version": "2226",
                      "type": "url",
                      "url": "https://www.cmswire.com/digital-workplace/business-analysis-still-has-a-place-in-scrum/"
                   }, {
@@ -2214,7 +2217,7 @@
                      "url": "https://jpattonassociates.com/dont_know_what_i_want/?__hstc=202214990.0e6011c3a13aba5678ff06e2d1abd71d.1528194203783.1529526381223.1532343550649.3&__hssc=202214990.5.1532343550649&__hsfp=2394243210"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13188840481965200",
+                  "date_modified": "13189099650434145",
                   "id": "11541",
                   "name": "PO and Backlog",
                   "sync_transaction_version": "2202",
@@ -7923,7 +7926,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2225",
+      "sync_transaction_version": "2227",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
