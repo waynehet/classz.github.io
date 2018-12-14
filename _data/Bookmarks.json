@@ -1,15 +1,15 @@
 {
-   "checksum": "242d8d72b8976fede326918c8b16e40e",
+   "checksum": "6e285f05019bec702a682c9177e0a077",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13189052718615641"
+               "last_visited_desktop": "13189225414862426"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2225",
+            "sync_transaction_version": "2232",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -309,9 +309,19 @@
                         "sync_transaction_version": "2044",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/why-business-leaders-hire-coaches-conor-neill/"
+                     }, {
+                        "date_added": "13189174632245851",
+                        "id": "12044",
+                        "meta_info": {
+                           "last_visited": "13189174632248055"
+                        },
+                        "name": "5 Steps to avoid Imposter syndrome for Agile Coaches",
+                        "sync_transaction_version": "2228",
+                        "type": "url",
+                        "url": "https://medium.com/@asad.safari/5-steps-to-avoid-imposter-syndrome-for-agile-coaches-b10327c62038"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13180559255471609",
+                     "date_modified": "13189174632245851",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -948,10 +958,10 @@
                         "date_added": "13188575262037720",
                         "id": "12035",
                         "meta_info": {
-                           "last_visited": "13189113283495457"
+                           "last_visited": "13189124705433649"
                         },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2227",
+                        "sync_transaction_version": "2228",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      } ],
@@ -6364,10 +6374,10 @@
                "date_added": "13039909004176784",
                "id": "11014",
                "meta_info": {
-                  "last_visited_desktop": "13189016268398717"
+                  "last_visited_desktop": "13189225319242201"
                },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2220",
+               "sync_transaction_version": "2230",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7926,7 +7936,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2227",
+      "sync_transaction_version": "2232",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
