@@ -1,5 +1,5 @@
 {
-   "checksum": "6e285f05019bec702a682c9177e0a077",
+   "checksum": "c0276296f6167ed5e4ab047561c26af1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1280,98 +1280,114 @@
                      }, {
                         "date_added": "13120327257369670",
                         "id": "11743",
+                        "meta_info": {
+                           "last_visited": "13189283547057968"
+                        },
                         "name": "Sashimi – an excursion in the “Definition of Done” - lundqvist",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "2234",
                         "type": "url",
                         "url": "http://www.lundqvist.de/?p=41"
                      }, {
-                        "date_added": "13120327257371216",
-                        "id": "11744",
-                        "name": "Getting Agile Blog » Building a Definition of Done",
-                        "sync_transaction_version": "3",
-                        "type": "url",
-                        "url": "http://www.gettingagile.com/2007/10/05/building-a-definition-of-done/"
-                     }, {
-                        "date_added": "13120327257372770",
-                        "id": "11745",
-                        "name": "What is the Definition of Done (DoD) in Agile",
-                        "sync_transaction_version": "1333",
-                        "type": "url",
-                        "url": "http://www.solutionsiq.com/resources/agileiq-blog/bid/64395/What-is-the-Definition-of-Done-DoD-in-Agile#!"
-                     }, {
-                        "date_added": "13120327257374319",
-                        "id": "11746",
-                        "name": "Agile Adoption Roadmap Agile Definition of Done Starter Kit",
-                        "sync_transaction_version": "1333",
-                        "type": "url",
-                        "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
-                     }, {
-                        "date_added": "13120327257375931",
-                        "id": "11747",
-                        "name": "What is Definition of Done (DoD) - Scrum Alliance",
-                        "sync_transaction_version": "1333",
-                        "type": "url",
-                        "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
-                     }, {
-                        "date_added": "13120327257377646",
-                        "id": "11748",
-                        "name": "Definition of Done  Rally Help",
-                        "sync_transaction_version": "1333",
-                        "type": "url",
-                        "url": "https://prod.help.rallydev.com/definition-done"
-                     }, {
                         "date_added": "13165781535665650",
                         "id": "11876",
+                        "meta_info": {
+                           "last_visited": "13189283325167868"
+                        },
                         "name": "Definition of Ready Exercise Description.pdf - Google Drive",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "2234",
                         "type": "url",
                         "url": "https://docs.google.com/file/d/0B2tjUfS_gfL3bXJqZDVaWkVEX3M/edit"
                      } ],
-                     "date_added": "13163364262819479",
-                     "date_modified": "13170951422842270",
+                     "date_added": "13120327256250940",
+                     "date_modified": "13189287465549229",
                      "id": "11683",
-                     "name": "Definition of Ready/Done",
-                     "sync_transaction_version": "3",
+                     "name": "Definition of Ready",
+                     "sync_transaction_version": "2234",
                      "type": "folder"
                   }, {
                      "children": [ {
                         "date_added": "13120327257379220",
                         "id": "11735",
+                        "meta_info": {
+                           "last_visited": "13189283645573695"
+                        },
                         "name": "Agile Adoption Roadmap: Agile Definition of Done Starter Kit",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "2234",
                         "type": "url",
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      }, {
                         "date_added": "13120327257380777",
                         "id": "11736",
+                        "meta_info": {
+                           "last_visited": "13189283797276676"
+                        },
                         "name": "What is Definition of Done (DoD)? - Scrum Alliance",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "2234",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
                      }, {
                         "date_added": "13120327257382431",
                         "id": "11737",
+                        "meta_info": {
+                           "last_visited": "13189283804042857"
+                        },
                         "name": "Definition of Done | Rally Help",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "2234",
                         "type": "url",
                         "url": "https://prod.help.rallydev.com/definition-done"
                      }, {
-                        "date_added": "13120327257383961",
-                        "id": "11738",
-                        "name": "What is the Definition of Done (DoD) in Agile?",
-                        "sync_transaction_version": "1333",
-                        "type": "url",
-                        "url": "http://www.solutionsiq.com/resources/agileiq-blog/bid/64395/What-is-the-Definition-of-Done-DoD-in-Agile#!"
-                     }, {
                         "date_added": "13165781305309660",
                         "id": "11875",
+                        "meta_info": {
+                           "last_visited": "13189283197799980"
+                        },
                         "name": "Exercise:: Definition of Ready & Done",
-                        "sync_transaction_version": "1333",
+                        "sync_transaction_version": "2234",
                         "type": "url",
                         "url": "http://agilecomplexificationinverter.blogspot.ca/2011/09/exercise-definition-of-done.html"
+                     }, {
+                        "date_added": "13189283121407165",
+                        "id": "12049",
+                        "meta_info": {
+                           "last_visited": "13189283530261234"
+                        },
+                        "name": "Scrum - Definition of Done Creation - Mitch Lacey & Associates - Scrum and Agile Training",
+                        "sync_transaction_version": "2234",
+                        "type": "url",
+                        "url": "https://www.mitchlacey.com/intro-to-agile/scrum/definition-of-done"
+                     }, {
+                        "date_added": "13120327257377646",
+                        "id": "11748",
+                        "meta_info": {
+                           "last_visited": "13189283804042857"
+                        },
+                        "name": "Definition of Done  Rally Help",
+                        "sync_transaction_version": "2234",
+                        "type": "url",
+                        "url": "https://prod.help.rallydev.com/definition-done"
+                     }, {
+                        "date_added": "13120327257371216",
+                        "id": "11744",
+                        "meta_info": {
+                           "last_visited": "13189283558006852"
+                        },
+                        "name": "Getting Agile Blog » Building a Definition of Done",
+                        "sync_transaction_version": "2234",
+                        "type": "url",
+                        "url": "http://www.gettingagile.com/2007/10/05/building-a-definition-of-done/"
+                     }, {
+                        "date_added": "13120327257374319",
+                        "id": "11746",
+                        "meta_info": {
+                           "last_visited": "13189283645573695"
+                        },
+                        "name": "Agile Adoption Roadmap Agile Definition of Done Starter Kit",
+                        "sync_transaction_version": "2234",
+                        "type": "url",
+                        "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      } ],
                      "date_added": "13163364262819487",
-                     "date_modified": "13170951422841996",
+                     "date_modified": "13189287465549242",
                      "id": "11684",
                      "name": "Definition of Done",
                      "sync_transaction_version": "3",
@@ -1744,7 +1760,7 @@
                      "url": "https://agilevelocity.com/product-owner/mvp-mmf-psi-wtf-part-one-understanding-the-mvp/"
                   } ],
                   "date_added": "13163364262792485",
-                  "date_modified": "13188839974273841",
+                  "date_modified": "13189287465549236",
                   "id": "11540",
                   "name": "User Stories and Product Definition",
                   "sync_transaction_version": "2158",
@@ -2395,8 +2411,11 @@
                      }, {
                         "date_added": "13185632041758499",
                         "id": "12023",
+                        "meta_info": {
+                           "last_visited": "13189230920050128"
+                        },
                         "name": "Visualizing Work – Fernando Cuenca – Medium",
-                        "sync_transaction_version": "2095",
+                        "sync_transaction_version": "2233",
                         "type": "url",
                         "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                      }, {
@@ -2415,7 +2434,7 @@
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13187293868404054",
+                     "date_modified": "13189270610454030",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -6285,9 +6304,29 @@
                   "sync_transaction_version": "3",
                   "type": "url",
                   "url": "http://www.openmymind.net/index.aspx?documentId=3"
+               }, {
+                  "date_added": "13189231500661955",
+                  "id": "12046",
+                  "meta_info": {
+                     "last_visited": "13189231500668888"
+                  },
+                  "name": "KissPNG - largest archive of PNG images. free unlimited download!",
+                  "sync_transaction_version": "2233",
+                  "type": "url",
+                  "url": "https://www.kisspng.com/"
+               }, {
+                  "date_added": "13189231638796805",
+                  "id": "12047",
+                  "meta_info": {
+                     "last_visited": "13189231638801525"
+                  },
+                  "name": "Stunning Free Images · Pixabay",
+                  "sync_transaction_version": "2233",
+                  "type": "url",
+                  "url": "https://pixabay.com/"
                } ],
                "date_added": "13163364262698737",
-               "date_modified": "13170951422842338",
+               "date_modified": "13189231638796805",
                "id": "11021",
                "name": "Web and UI",
                "sync_transaction_version": "3",
@@ -6461,8 +6500,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13189311903747392"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2121",
+               "sync_transaction_version": "2236",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7936,7 +7978,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2232",
+      "sync_transaction_version": "2236",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
