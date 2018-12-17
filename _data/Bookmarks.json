@@ -1,5 +1,5 @@
 {
-   "checksum": "c0276296f6167ed5e4ab047561c26af1",
+   "checksum": "a7bed4905e061dd1a63717dfc769583c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -319,9 +319,19 @@
                         "sync_transaction_version": "2228",
                         "type": "url",
                         "url": "https://medium.com/@asad.safari/5-steps-to-avoid-imposter-syndrome-for-agile-coaches-b10327c62038"
+                     }, {
+                        "date_added": "13189444573299705",
+                        "id": "12051",
+                        "meta_info": {
+                           "last_visited": "13189459599454997"
+                        },
+                        "name": "Why Are We All So Stupid? Episode 3 - Business Insider",
+                        "sync_transaction_version": "2238",
+                        "type": "url",
+                        "url": "https://www.businessinsider.com/why-are-we-all-so-stupid-pricing-effect-2018-12"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13189174632245851",
+                     "date_modified": "13189444573299705",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -7978,7 +7988,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2237",
+      "sync_transaction_version": "2238",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
