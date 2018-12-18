@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13189225414862426"
+               "last_visited_desktop": "13189568158270234"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2232",
+            "sync_transaction_version": "2242",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -323,10 +323,10 @@
                         "date_added": "13189444573299705",
                         "id": "12051",
                         "meta_info": {
-                           "last_visited": "13189459599454997"
+                           "last_visited": "13189485461150191"
                         },
                         "name": "Why Are We All So Stupid? Episode 3 - Business Insider",
-                        "sync_transaction_version": "2238",
+                        "sync_transaction_version": "2239",
                         "type": "url",
                         "url": "https://www.businessinsider.com/why-are-we-all-so-stupid-pricing-effect-2018-12"
                      } ],
@@ -6511,10 +6511,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13189311903747392"
+                  "last_visited_desktop": "13189555988561119"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2236",
+               "sync_transaction_version": "2240",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7988,7 +7988,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2238",
+      "sync_transaction_version": "2242",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
