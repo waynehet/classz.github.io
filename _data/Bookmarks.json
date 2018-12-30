@@ -6,20 +6,20 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13190149219858894"
+               "last_visited_desktop": "13190614295566276"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2292",
+            "sync_transaction_version": "2298",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
             "meta_info": {
-               "last_visited_desktop": "13187565925302749"
+               "last_visited_desktop": "13190598184388881"
             },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "2103",
+            "sync_transaction_version": "2297",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -7999,7 +7999,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2296",
+      "sync_transaction_version": "2298",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
