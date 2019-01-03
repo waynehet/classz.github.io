@@ -1,5 +1,5 @@
 {
-   "checksum": "34e72216b2b4252670bc46ea850a29c6",
+   "checksum": "bd6d53fd3c03f397359b4ae541803237",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -57,10 +57,10 @@
             "date_added": "13177980343320056",
             "id": "11995",
             "meta_info": {
-               "last_visited_desktop": "13188861514613167"
+               "last_visited_desktop": "13190926163516576"
             },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "2209",
+            "sync_transaction_version": "2307",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
@@ -68,10 +68,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13187572783467838",
-               "last_visited_desktop": "13190497037724842"
+               "last_visited_desktop": "13190926311731689"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2296",
+            "sync_transaction_version": "2308",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -1885,9 +1885,19 @@
                         "sync_transaction_version": "2204",
                         "type": "url",
                         "url": "http://gojko.net/papers/effect_maps.pdf"
+                     }, {
+                        "date_added": "13190939108338384",
+                        "id": "12057",
+                        "meta_info": {
+                           "last_visited": "13190939108341561"
+                        },
+                        "name": "Three Reasons to Stop Talking About Time and Deadlines in Agile Environments - DZone Agile",
+                        "sync_transaction_version": "2309",
+                        "type": "url",
+                        "url": "https://dzone.com/articles/three-reasons-to-stop-talking-about-time-and-deadl"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13188840519850395",
+                     "date_modified": "13190939108338384",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -2442,9 +2452,19 @@
                         "sync_transaction_version": "2115",
                         "type": "url",
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
+                     }, {
+                        "date_added": "13190904367556840",
+                        "id": "12055",
+                        "meta_info": {
+                           "last_visited": "13190905441048080"
+                        },
+                        "name": "7 Wastes: The Seven Muda | ToughNickel",
+                        "sync_transaction_version": "2305",
+                        "type": "url",
+                        "url": "https://toughnickel.com/business/Muda"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13189270610454030",
+                     "date_modified": "13190904367556840",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -7999,7 +8019,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2304",
+      "sync_transaction_version": "2309",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
