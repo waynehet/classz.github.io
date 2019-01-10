@@ -59,10 +59,10 @@
             "id": "11873",
             "meta_info": {
                "last_visited": "13191302026397106",
-               "last_visited_desktop": "13191359225980828"
+               "last_visited_desktop": "13191528828020300"
             },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2317",
+            "sync_transaction_version": "2322",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -943,8 +943,11 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
+                        "meta_info": {
+                           "last_visited": "13191530561803794"
+                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2312",
+                        "sync_transaction_version": "2325",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      } ],
@@ -7870,7 +7873,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2321",
+      "sync_transaction_version": "2325",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7910,8 +7913,11 @@
          }, {
             "date_added": "13185145412184555",
             "id": "12021",
+            "meta_info": {
+               "last_visited_desktop": "13191517174618804"
+            },
             "name": "TV Series Movies - Page 2 | Watch Movies Online Free",
-            "sync_transaction_version": "2312",
+            "sync_transaction_version": "2324",
             "type": "url",
             "url": "http://solarmovie.net/tv-series/page-2.html"
          } ],
