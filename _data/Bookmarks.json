@@ -1801,8 +1801,11 @@
                      }, {
                         "date_added": "13177446509768082",
                         "id": "11990",
+                        "meta_info": {
+                           "last_visited": "13191715802255088"
+                        },
                         "name": "Uncertainty, Knowledge, and Scrum Sprints - DZone Agile",
-                        "sync_transaction_version": "2312",
+                        "sync_transaction_version": "2333",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      }, {
@@ -1821,7 +1824,7 @@
                         "url": "https://dzone.com/articles/three-reasons-to-stop-talking-about-time-and-deadl"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13191097274587618",
+                     "date_modified": "13191716925107808",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -7873,7 +7876,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2330",
+      "sync_transaction_version": "2333",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
