@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13191474339057331"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2321",
+            "sync_transaction_version": "2334",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -57,12 +54,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited": "13191302026397106",
-               "last_visited_desktop": "13191639356844585"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2330",
+            "sync_transaction_version": "2334",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -81,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13191302036841623",
+         "date_modified": "13191788671045667",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -943,11 +936,8 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
-                        "meta_info": {
-                           "last_visited": "13191544505487854"
-                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2326",
+                        "sync_transaction_version": "2334",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      } ],
@@ -1802,10 +1792,10 @@
                         "date_added": "13177446509768082",
                         "id": "11990",
                         "meta_info": {
-                           "last_visited": "13191715802255088"
+                           "last_visited": "13191782281962589"
                         },
                         "name": "Uncertainty, Knowledge, and Scrum Sprints - DZone Agile",
-                        "sync_transaction_version": "2333",
+                        "sync_transaction_version": "2334",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      }, {
@@ -1824,7 +1814,7 @@
                         "url": "https://dzone.com/articles/three-reasons-to-stop-talking-about-time-and-deadl"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13191716925107808",
+                     "date_modified": "13191788671046485",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -6230,27 +6220,20 @@
                }, {
                   "date_added": "13189231500661955",
                   "id": "12046",
-                  "meta_info": {
-                     "last_visited": "13191424737713023",
-                     "last_visited_desktop": "13191472531941060"
-                  },
                   "name": "KissPNG - largest archive of PNG images. free unlimited download!",
-                  "sync_transaction_version": "2320",
+                  "sync_transaction_version": "2334",
                   "type": "url",
                   "url": "https://www.kisspng.com/"
                }, {
                   "date_added": "13189231638796805",
                   "id": "12047",
-                  "meta_info": {
-                     "last_visited": "13191424683097975"
-                  },
                   "name": "Stunning Free Images · Pixabay",
-                  "sync_transaction_version": "2318",
+                  "sync_transaction_version": "2334",
                   "type": "url",
                   "url": "https://pixabay.com/"
                } ],
                "date_added": "13163364262698737",
-               "date_modified": "13191439136982491",
+               "date_modified": "13191788671044538",
                "id": "11021",
                "name": "Web and UI",
                "sync_transaction_version": "3",
@@ -6421,11 +6404,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13191357481378906"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2316",
+               "sync_transaction_version": "2334",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7716,7 +7696,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13191097274587610",
+            "date_modified": "13191788671046478",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7876,7 +7856,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2333",
+      "sync_transaction_version": "2334",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
@@ -7916,11 +7896,8 @@
          }, {
             "date_added": "13185145412184555",
             "id": "12021",
-            "meta_info": {
-               "last_visited_desktop": "13191611802860343"
-            },
             "name": "TV Series Movies - Page 2 | Watch Movies Online Free",
-            "sync_transaction_version": "2329",
+            "sync_transaction_version": "2334",
             "type": "url",
             "url": "http://solarmovie.net/tv-series/page-2.html"
          } ],
