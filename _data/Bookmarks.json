@@ -47,11 +47,8 @@
          }, {
             "date_added": "13177980343320056",
             "id": "11995",
-            "meta_info": {
-               "last_visited_desktop": "13191886720176292"
-            },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "2340",
+            "sync_transaction_version": "2350",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
@@ -71,16 +68,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13191952246912543"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2348",
+            "sync_transaction_version": "2350",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13191788671045667",
+         "date_modified": "13192059086755132",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -1797,11 +1791,8 @@
                      }, {
                         "date_added": "13177446509768082",
                         "id": "11990",
-                        "meta_info": {
-                           "last_visited": "13191883193891181"
-                        },
                         "name": "Uncertainty, Knowledge, and Scrum Sprints - DZone Agile",
-                        "sync_transaction_version": "2337",
+                        "sync_transaction_version": "2350",
                         "type": "url",
                         "url": "https://dzone.com/articles/uncertainty-knowledge-and-scrum-sprints"
                      }, {
@@ -1820,7 +1811,7 @@
                         "url": "https://dzone.com/articles/three-reasons-to-stop-talking-about-time-and-deadl"
                      } ],
                      "date_added": "13163364262809693",
-                     "date_modified": "13191883202996363",
+                     "date_modified": "13192059086756273",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "3",
@@ -4705,12 +4696,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited": "13191973291396412",
-                     "last_visited_desktop": "13191886743141316"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "2349",
+                  "sync_transaction_version": "2350",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                } ],
@@ -6293,8 +6280,11 @@
             }, {
                "date_added": "13169502287107543",
                "id": "11922",
+               "meta_info": {
+                  "last_visited": "13192027922595901"
+               },
                "name": "1&1 Control Panel",
-               "sync_transaction_version": "1968",
+               "sync_transaction_version": "2350",
                "type": "url",
                "url": "https://admin.1and1.ca/domains-dashboard"
             }, {
@@ -6306,7 +6296,7 @@
                "url": "https://dillinger.io/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13184991248503154",
+            "date_modified": "13192059086756263",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7721,8 +7711,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited": "13192060396952708"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2312",
+            "sync_transaction_version": "2352",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7805,11 +7798,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13191940168133593"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2347",
+            "sync_transaction_version": "2350",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7863,13 +7853,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13191948721103169",
+         "date_modified": "13192060416091463",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2349",
+      "sync_transaction_version": "2352",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
