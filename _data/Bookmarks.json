@@ -54,8 +54,11 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited_desktop": "13192133987512670"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2334",
+            "sync_transaction_version": "2354",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -6305,8 +6308,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited_desktop": "13192064185297908"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "1786",
+               "sync_transaction_version": "2353",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6325,7 +6331,7 @@
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13183346605747413",
+            "date_modified": "13192121275605042",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7712,10 +7718,11 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited": "13192060396952708"
+               "last_visited": "13192060396952708",
+               "last_visited_desktop": "13192063737667741"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2352",
+            "sync_transaction_version": "2353",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7853,13 +7860,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13192060416091463",
+         "date_modified": "13192121275605043",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2352",
+      "sync_transaction_version": "2354",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
