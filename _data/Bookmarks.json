@@ -2345,8 +2345,11 @@
                      }, {
                         "date_added": "13186513876864754",
                         "id": "12029",
+                        "meta_info": {
+                           "last_visited": "13192378559053288"
+                        },
                         "name": "Cumulative Flow Diagram",
-                        "sync_transaction_version": "2115",
+                        "sync_transaction_version": "2357",
                         "type": "url",
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      }, {
@@ -2358,7 +2361,7 @@
                         "url": "https://toughnickel.com/business/Muda"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13191097274587613",
+                     "date_modified": "13192380982614084",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -7869,7 +7872,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2356",
+      "sync_transaction_version": "2357",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
