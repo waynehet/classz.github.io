@@ -1,5 +1,5 @@
 {
-   "checksum": "aac35a21ef327c914b20cc5062858aff",
+   "checksum": "ae2fd6e62011218d51c62545685d2fdd",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -54,11 +54,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13192133987512670"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2354",
+            "sync_transaction_version": "2358",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -77,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13192059086755132",
+         "date_modified": "13192554673623944",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2345,11 +2342,8 @@
                      }, {
                         "date_added": "13186513876864754",
                         "id": "12029",
-                        "meta_info": {
-                           "last_visited": "13192378559053288"
-                        },
                         "name": "Cumulative Flow Diagram",
-                        "sync_transaction_version": "2357",
+                        "sync_transaction_version": "2358",
                         "type": "url",
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      }, {
@@ -2361,7 +2355,7 @@
                         "url": "https://toughnickel.com/business/Muda"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13192380982614084",
+                     "date_modified": "13192554673625670",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -2725,9 +2719,16 @@
                      "sync_transaction_version": "1940",
                      "type": "url",
                      "url": "https://hackernoon.com/why-isnt-agile-working-d7127af1c552?_branch_match_id=471721090043720542"
+                  }, {
+                     "date_added": "13192497225374492",
+                     "id": "12061",
+                     "name": "The U.S. Department of Defense on How To Detect 'Agile BS' - The New Stack",
+                     "sync_transaction_version": "2358",
+                     "type": "url",
+                     "url": "https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs/"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13184852509924619",
+                  "date_modified": "13192497225374492",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -6286,11 +6287,8 @@
             }, {
                "date_added": "13169502287107543",
                "id": "11922",
-               "meta_info": {
-                  "last_visited": "13192027922595901"
-               },
                "name": "1&1 Control Panel",
-               "sync_transaction_version": "2350",
+               "sync_transaction_version": "2358",
                "type": "url",
                "url": "https://admin.1and1.ca/domains-dashboard"
             }, {
@@ -6302,7 +6300,7 @@
                "url": "https://dillinger.io/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13192059086756263",
+            "date_modified": "13192554673625657",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -6311,11 +6309,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13192064185297908"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "2353",
+               "sync_transaction_version": "2358",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6334,7 +6329,7 @@
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13192121275605042",
+            "date_modified": "13192554673623941",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -6413,11 +6408,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13192214595848531"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2355",
+               "sync_transaction_version": "2358",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7708,7 +7700,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13191788671046478",
+            "date_modified": "13192554673625667",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7723,12 +7715,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited": "13192060396952708",
-               "last_visited_desktop": "13192337359405326"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2356",
+            "sync_transaction_version": "2358",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7866,13 +7854,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13192121275605043",
+         "date_modified": "13192554673623942",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2357",
+      "sync_transaction_version": "2358",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
