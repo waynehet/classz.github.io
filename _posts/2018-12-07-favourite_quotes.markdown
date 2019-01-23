@@ -19,12 +19,12 @@ published: true
 | | |
 | “Depend upon it, sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.” - Samuel Johnson | ![Samuel Johnson]({{site.baseurl}}/assets/samuel_johnson.jpg){:width="100px"} |
 | | |
-| "Winners are not those who never fail, but those who never quit." - Banksy | x |
-
-“Nothing in life is as important as you think it is while you are thinking about it.” - Daniel Kahneman
-
-“Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy
-
+| ![Banksy]({{site.baseurl}}/assets/banksy.jpg){:width="100px"} | "Winners are not those who never fail, but those who never quit." - Banksy |
+| | |
+|“Nothing in life is as important as you think it is while you are thinking about it.” - Daniel Kahneman | ![Daniel Kahneman]({{site.baseurl}}/assets/daniel_kahneman.jpg){:width="100px"} |
+| | |
+| ![Leo Tolstoy]({{site.baseurl}}/assets/leo_tolstoy.jpg){:width="100px"} | “Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy |
+| | |
 "What we see depends on what we thought before we looked" - Myron Tribus
 
 "Everything should be made as simple as possible, but ot simpler." - Albert Einstein
@@ -44,3 +44,7 @@ published: true
 "In theory there is no difference between theory and practice. But, in practice, there is." - Yogi Berra
 
 "The Cave You Fear to Enter Holds the Treasure You Seek" - Joseph Campbell
+
+"Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt
+
+
