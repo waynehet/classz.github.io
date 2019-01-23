@@ -21,7 +21,7 @@ published: true
 | | |
 | ![Banksy]({{site.baseurl}}/assets/banksy.jpg){:width="100px"} | "Winners are not those who never fail, but those who never quit." - Banksy |
 | | |
-|“Nothing in life is as important as you think it is while you are thinking about it.” - Daniel Kahneman | ![Daniel Kahneman]({{site.baseurl}}/assets/daniel_kahneman.jpg){:width="100px"} |
+| “Nothing in life is as important as you think it is while you are thinking about it.” - Daniel Kahneman | ![Daniel Kahneman]({{site.baseurl}}/assets/daniel_kahneman.jpg){:width="100px"} |
 | | |
 | ![Leo Tolstoy]({{site.baseurl}}/assets/leo_tolstoy.jpg){:width="100px"} | “Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy |
 | | |
