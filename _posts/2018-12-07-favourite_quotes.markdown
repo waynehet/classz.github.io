@@ -25,8 +25,8 @@ published: true
 | | |
 | ![Leo Tolstoy]({{site.baseurl}}/assets/leo_tolstoy.jpg){:width="100px"} | “Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy |
 | | |
-
-"What we see depends on what we thought before we looked" - Myron Tribus
+| "What we see depends on what we thought before we looked" - [Myron Tribus](https://en.wikipedia.org/wiki/Myron_Tribus) | ![Myron Tribus]({{site.baseurl}}/assets/myron_tribus.jpg){:width="100px"} |
+| | |
 
 "Everything should be made as simple as possible, but ot simpler." - Albert Einstein
 
