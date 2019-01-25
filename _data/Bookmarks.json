@@ -1,5 +1,5 @@
 {
-   "checksum": "ae2fd6e62011218d51c62545685d2fdd",
+   "checksum": "9aac188d9629846f5cb6bd7436e12e98",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -77,7 +77,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13192766320406693",
+         "date_modified": "13192857052088512",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -4710,9 +4710,19 @@
                   "sync_transaction_version": "2350",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
+               }, {
+                  "date_added": "13192857052088512",
+                  "id": "12063",
+                  "meta_info": {
+                     "last_visited_desktop": "13192857052088846"
+                  },
+                  "name": "What Is the “God Mode” Folder in Windows 10, and How Do I Enable It?",
+                  "sync_transaction_version": "2369",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/"
                } ],
                "date_added": "13163364262698694",
-               "date_modified": "13172375396519056",
+               "date_modified": "13192857069919529",
                "id": "11018",
                "name": "Programming",
                "sync_transaction_version": "3",
@@ -7718,8 +7728,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13192855896974586"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2358",
+            "sync_transaction_version": "2365",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7863,7 +7876,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2364",
+      "sync_transaction_version": "2369",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
