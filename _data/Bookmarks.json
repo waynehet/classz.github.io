@@ -2338,8 +2338,11 @@
                      }, {
                         "date_added": "13185632041758499",
                         "id": "12023",
+                        "meta_info": {
+                           "last_visited": "13193013251439138"
+                        },
                         "name": "Visualizing Work – Fernando Cuenca – Medium",
-                        "sync_transaction_version": "2312",
+                        "sync_transaction_version": "2373",
                         "type": "url",
                         "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                      }, {
@@ -2365,7 +2368,7 @@
                         "url": "https://toughnickel.com/business/Muda"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13192554673625670",
+                     "date_modified": "13193013265168874",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -6425,8 +6428,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13193011378221432"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2358",
+               "sync_transaction_version": "2372",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7725,8 +7731,11 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
+            "meta_info": {
+               "last_visited": "13192925179787980"
+            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "1708",
+            "sync_transaction_version": "2371",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
@@ -7871,13 +7880,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13192903103469264",
+         "date_modified": "13192987341649348",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2370",
+      "sync_transaction_version": "2373",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
