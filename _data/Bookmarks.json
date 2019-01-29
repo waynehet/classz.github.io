@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13193097200332978"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2374",
+            "sync_transaction_version": "2375",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -77,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13192903103468062",
+         "date_modified": "13193155912414827",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -593,11 +590,8 @@
                      }, {
                         "date_added": "13192892351034299",
                         "id": "12065",
-                        "meta_info": {
-                           "last_visited": "13192892351037404"
-                        },
                         "name": "Appreciative Retrospective | Pearls of Wisdom",
-                        "sync_transaction_version": "2370",
+                        "sync_transaction_version": "2375",
                         "type": "url",
                         "url": "https://agilepearls.wordpress.com/tag/appreciative-retrospective/"
                      } ],
@@ -2341,11 +2335,8 @@
                      }, {
                         "date_added": "13185632041758499",
                         "id": "12023",
-                        "meta_info": {
-                           "last_visited": "13193013251439138"
-                        },
                         "name": "Visualizing Work – Fernando Cuenca – Medium",
-                        "sync_transaction_version": "2373",
+                        "sync_transaction_version": "2375",
                         "type": "url",
                         "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                      }, {
@@ -2371,7 +2362,7 @@
                         "url": "https://toughnickel.com/business/Muda"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13193013265168874",
+                     "date_modified": "13193155912415782",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -6431,11 +6422,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13193011378221432"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2372",
+               "sync_transaction_version": "2377",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7726,7 +7714,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13192554673625667",
+            "date_modified": "13193201558708411",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7734,11 +7722,8 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
-            "meta_info": {
-               "last_visited": "13192925179787980"
-            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "2371",
+            "sync_transaction_version": "2375",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
@@ -7829,7 +7814,7 @@
             "date_added": "13120327254997275",
             "id": "10805",
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2350",
+            "sync_transaction_version": "2377",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7883,13 +7868,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13192987341649348",
+         "date_modified": "13193201558708413",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2374",
+      "sync_transaction_version": "2377",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
