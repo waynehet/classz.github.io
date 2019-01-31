@@ -7816,8 +7816,11 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
+            "meta_info": {
+               "last_visited": "13193321375636397"
+            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2377",
+            "sync_transaction_version": "2380",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7871,13 +7874,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13193201558708413",
+         "date_modified": "13193343816229097",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2379",
+      "sync_transaction_version": "2380",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
