@@ -1,12 +1,15 @@
 {
-   "checksum": "5f4f7bd4dc1fcbe0b015e9834b6f9285",
+   "checksum": "23edd26d75c8ee1ab8dbea7cd9987027",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13193501099188928"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2375",
+            "sync_transaction_version": "2384",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -590,13 +593,56 @@
                      }, {
                         "date_added": "13192892351034299",
                         "id": "12065",
+                        "meta_info": {
+                           "last_visited": "13193496030204697"
+                        },
                         "name": "Appreciative Retrospective | Pearls of Wisdom",
-                        "sync_transaction_version": "2375",
+                        "sync_transaction_version": "2383",
                         "type": "url",
                         "url": "https://agilepearls.wordpress.com/tag/appreciative-retrospective/"
+                     }, {
+                        "date_added": "13193495933322905",
+                        "id": "12068",
+                        "meta_info": {
+                           "last_visited": "13193495933325573"
+                        },
+                        "name": "An Appreciative Retrospective | AYE Conference",
+                        "sync_transaction_version": "2383",
+                        "type": "url",
+                        "url": "http://www.ayeconference.com/appreciativeretrospective/"
+                     }, {
+                        "date_added": "13193495993753880",
+                        "id": "12069",
+                        "meta_info": {
+                           "last_visited": "13193495993756901"
+                        },
+                        "name": "How You Can Keep Scrum Positive - DZone Agile",
+                        "sync_transaction_version": "2383",
+                        "type": "url",
+                        "url": "https://dzone.com/articles/how-you-can-keep-scrum-positive"
+                     }, {
+                        "date_added": "13193496018619283",
+                        "id": "12070",
+                        "meta_info": {
+                           "last_visited": "13193496018622170"
+                        },
+                        "name": "Liberating Structures - 6. TRIZ",
+                        "sync_transaction_version": "2383",
+                        "type": "url",
+                        "url": "http://www.liberatingstructures.com/6-making-space-with-triz/"
+                     }, {
+                        "date_added": "13193496276673049",
+                        "id": "12071",
+                        "meta_info": {
+                           "last_visited": "13193496276677904"
+                        },
+                        "name": "Retrospective and Clean Feedback",
+                        "sync_transaction_version": "2383",
+                        "type": "url",
+                        "url": "http://finding-marbles.com/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13192892351034299",
+                     "date_modified": "13193496276673049",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -684,8 +730,11 @@
                      "children": [ {
                         "date_added": "13120327257301614",
                         "id": "11790",
+                        "meta_info": {
+                           "last_visited": "13193526066057729"
+                        },
                         "name": "How to kick off your new Scrum team | Marc Löffler",
-                        "sync_transaction_version": "1505",
+                        "sync_transaction_version": "2387",
                         "type": "url",
                         "url": "http://marcloeffler.eu/2010/04/13/how-to-kick-off-your-new-scrum-team/"
                      }, {
@@ -698,15 +747,21 @@
                      }, {
                         "date_added": "13120327257305185",
                         "id": "11792",
+                        "meta_info": {
+                           "last_visited": "13193525673427003"
+                        },
                         "name": "esther derby associates, inc. » Building Effective Teams: Miss the Start, Miss the End",
-                        "sync_transaction_version": "1505",
+                        "sync_transaction_version": "2387",
                         "type": "url",
                         "url": "http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html"
                      }, {
                         "date_added": "13144354610364217",
                         "id": "11820",
+                        "meta_info": {
+                           "last_visited": "13193525895302569"
+                        },
                         "name": "Chartering, Lift-off, Setting the Stage, From the Beginning… — RGalen Consulting",
-                        "sync_transaction_version": "947",
+                        "sync_transaction_version": "2387",
                         "type": "url",
                         "url": "http://rgalen.com/agile-training-news/2016/11/9/chartering-lift-off-setting-the-stage-from-the-beginning?utm_content=buffer5a0aa&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer"
                      }, {
@@ -768,8 +823,11 @@
                      }, {
                         "date_added": "13120327257326545",
                         "id": "11802",
+                        "meta_info": {
+                           "last_visited": "13193525841382746"
+                        },
                         "name": "Agile adaptation of Tuckman’s stages of group development | Brett Maytom | LinkedIn",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "2387",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20140827113926-135669454-agile-adaptation-of-tuckman-s-stages-of-group-development"
                      }, {
@@ -943,13 +1001,26 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
+                        "meta_info": {
+                           "last_visited": "13193524293233455"
+                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2334",
+                        "sync_transaction_version": "2387",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
+                     }, {
+                        "date_added": "13193496206706553",
+                        "id": "12072",
+                        "meta_info": {
+                           "last_visited": "13193496206713653"
+                        },
+                        "name": "Liberating Structures - 20. Drawing Together",
+                        "sync_transaction_version": "2383",
+                        "type": "url",
+                        "url": "http://www.liberatingstructures.com/20-drawing-together"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13191097274587671",
+                     "date_modified": "13193527477972552",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2253,9 +2324,39 @@
                      "sync_transaction_version": "3",
                      "type": "url",
                      "url": "http://www.converge-group.net/283/"
+                  }, {
+                     "date_added": "13193496120513822",
+                     "id": "12067",
+                     "meta_info": {
+                        "last_visited": "13193496120517419"
+                     },
+                     "name": "The Seven Wastes of Software Development - DZone Agile",
+                     "sync_transaction_version": "2383",
+                     "type": "url",
+                     "url": "https://dzone.com/articles/seven-wastes-software"
+                  }, {
+                     "date_added": "13186513876864754",
+                     "id": "12029",
+                     "meta_info": {
+                        "last_visited": "13193496137537893"
+                     },
+                     "name": "Cumulative Flow Diagram",
+                     "sync_transaction_version": "2383",
+                     "type": "url",
+                     "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
+                  }, {
+                     "date_added": "13185632041758499",
+                     "id": "12023",
+                     "meta_info": {
+                        "last_visited": "13193496136642901"
+                     },
+                     "name": "Visualizing Work – Fernando Cuenca – Medium",
+                     "sync_transaction_version": "2383",
+                     "type": "url",
+                     "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                   } ],
                   "date_added": "13163364262792556",
-                  "date_modified": "13163364262792556",
+                  "date_modified": "13193501095379190",
                   "id": "11542",
                   "name": "Kanban",
                   "sync_transaction_version": "3",
@@ -2333,13 +2434,6 @@
                         "type": "url",
                         "url": "http://devopsdigest.com/why-agile-operations-is-essential-for-devops"
                      }, {
-                        "date_added": "13185632041758499",
-                        "id": "12023",
-                        "name": "Visualizing Work – Fernando Cuenca – Medium",
-                        "sync_transaction_version": "2375",
-                        "type": "url",
-                        "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
-                     }, {
                         "date_added": "13186444880295150",
                         "id": "12027",
                         "name": "The Seven Wastes of Software Development",
@@ -2347,22 +2441,29 @@
                         "type": "url",
                         "url": "https://codepunk.io/the-seven-wastes-of-software-development/"
                      }, {
-                        "date_added": "13186513876864754",
-                        "id": "12029",
-                        "meta_info": {
-                           "last_visited": "13193442677067140"
-                        },
-                        "name": "Cumulative Flow Diagram",
-                        "sync_transaction_version": "2382",
-                        "type": "url",
-                        "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
-                     }, {
                         "date_added": "13190904367556840",
                         "id": "12055",
                         "name": "7 Wastes: The Seven Muda | ToughNickel",
                         "sync_transaction_version": "2312",
                         "type": "url",
                         "url": "https://toughnickel.com/business/Muda"
+                     }, {
+                        "date_added": "13185632041758499",
+                        "id": "12074",
+                        "name": "Visualizing Work – Fernando Cuenca – Medium",
+                        "sync_transaction_version": "2388",
+                        "type": "url",
+                        "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
+                     }, {
+                        "date_added": "13186513876864754",
+                        "id": "12075",
+                        "meta_info": {
+                           "last_visited": "13193442677067140"
+                        },
+                        "name": "Cumulative Flow Diagram",
+                        "sync_transaction_version": "2388",
+                        "type": "url",
+                        "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      } ],
                      "date_added": "13168272482024130",
                      "date_modified": "13193461070340442",
@@ -7820,10 +7921,11 @@
             "date_added": "13120327254997275",
             "id": "10805",
             "meta_info": {
-               "last_visited": "13193321375636397"
+               "last_visited": "13193321375636397",
+               "last_visited_desktop": "13193501118304602"
             },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2380",
+            "sync_transaction_version": "2386",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7883,7 +7985,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2382",
+      "sync_transaction_version": "2388",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
