@@ -71,8 +71,11 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
+            "meta_info": {
+               "last_visited_desktop": "13193713052696886"
+            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2350",
+            "sync_transaction_version": "2396",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
@@ -6441,8 +6444,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13193716219674456"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2312",
+               "sync_transaction_version": "2397",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7836,15 +7842,21 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13193693524769614"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2370",
+            "sync_transaction_version": "2390",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
             "date_added": "13120327254963097",
             "id": "10793",
+            "meta_info": {
+               "last_visited": "13193627986497109"
+            },
             "name": "Sign in to Scotiabank Digital Banking Services",
-            "sync_transaction_version": "2312",
+            "sync_transaction_version": "2389",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
          }, {
@@ -7979,13 +7991,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13193343816229097",
+         "date_modified": "13193674220598638",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2388",
+      "sync_transaction_version": "2397",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
