@@ -31,6 +31,7 @@ published: true
 * [Focusing Illusion](https://en.wikipedia.org/wiki/Anchoring#Focusing_effect): Nothing is as important in life as you think it is while you are thinking about it
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
+* [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
 * [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
 * [Larman's Laws of Organizational Behavior](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Orgs are optimized for status quo
