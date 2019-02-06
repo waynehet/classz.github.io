@@ -45,6 +45,7 @@ published: true
 * [Orienting Response](https://en.wikipedia.org/wiki/Orienting_response): Changes in environment can interrupt attention and focus (lesser form of [Startle Response](https://en.wikipedia.org/wiki/Startle_response) )
 * [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle): 80/20 rule
 * [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law): Work expands to fill the time available
+* [Peter Principle](https://en.wikipedia.org/wiki/Peter_principle): People in a hierarchy tend to rise to their "level of incompetence"
 * [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): Causation fallacy
 * [Ringelmann Effect](https://en.wikipedia.org/wiki/Ringelmann_effect): Social loafing and Bystander effect, the tendancy to do less individually when part of a team
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
