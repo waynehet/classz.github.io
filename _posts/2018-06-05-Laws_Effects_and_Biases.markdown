@@ -31,6 +31,7 @@ published: true
 * [Focusing Illusion](https://en.wikipedia.org/wiki/Anchoring#Focusing_effect): Nothing is as important in life as you think it is while you are thinking about it
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
+* [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
 * [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
 * [Larman's Laws of Organizational Behavior](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Orgs are optimized for status quo
@@ -44,6 +45,7 @@ published: true
 * [Orienting Response](https://en.wikipedia.org/wiki/Orienting_response): Changes in environment can interrupt attention and focus (lesser form of [Startle Response](https://en.wikipedia.org/wiki/Startle_response) )
 * [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle): 80/20 rule
 * [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law): Work expands to fill the time available
+* [Peter Principle](https://en.wikipedia.org/wiki/Peter_principle): People in a hierarchy tend to rise to their "level of incompetence"
 * [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): Causation fallacy
 * [Ringelmann Effect](https://en.wikipedia.org/wiki/Ringelmann_effect): Social loafing and Bystander effect, the tendancy to do less individually when part of a team
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
