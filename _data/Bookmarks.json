@@ -57,8 +57,11 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited_desktop": "13193850215959224"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2362",
+            "sync_transaction_version": "2398",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -7997,7 +8000,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2397",
+      "sync_transaction_version": "2398",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
