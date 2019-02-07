@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13193501099188928"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2384",
+            "sync_transaction_version": "2399",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -57,11 +54,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13193850215959224"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2398",
+            "sync_transaction_version": "2399",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -74,16 +68,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13193713052696886"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2396",
+            "sync_transaction_version": "2399",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13193155912414827",
+         "date_modified": "13193931089427747",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -599,56 +590,41 @@
                      }, {
                         "date_added": "13192892351034299",
                         "id": "12065",
-                        "meta_info": {
-                           "last_visited": "13193496030204697"
-                        },
                         "name": "Appreciative Retrospective | Pearls of Wisdom",
-                        "sync_transaction_version": "2383",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "https://agilepearls.wordpress.com/tag/appreciative-retrospective/"
                      }, {
                         "date_added": "13193495933322905",
                         "id": "12068",
-                        "meta_info": {
-                           "last_visited": "13193495933325573"
-                        },
                         "name": "An Appreciative Retrospective | AYE Conference",
-                        "sync_transaction_version": "2383",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://www.ayeconference.com/appreciativeretrospective/"
                      }, {
                         "date_added": "13193495993753880",
                         "id": "12069",
-                        "meta_info": {
-                           "last_visited": "13193495993756901"
-                        },
                         "name": "How You Can Keep Scrum Positive - DZone Agile",
-                        "sync_transaction_version": "2383",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "https://dzone.com/articles/how-you-can-keep-scrum-positive"
                      }, {
                         "date_added": "13193496018619283",
                         "id": "12070",
-                        "meta_info": {
-                           "last_visited": "13193496018622170"
-                        },
                         "name": "Liberating Structures - 6. TRIZ",
-                        "sync_transaction_version": "2383",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://www.liberatingstructures.com/6-making-space-with-triz/"
                      }, {
                         "date_added": "13193496276673049",
                         "id": "12071",
-                        "meta_info": {
-                           "last_visited": "13193496276677904"
-                        },
                         "name": "Retrospective and Clean Feedback",
-                        "sync_transaction_version": "2383",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://finding-marbles.com/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13193496276673049",
+                     "date_modified": "13193931089426196",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -736,11 +712,8 @@
                      "children": [ {
                         "date_added": "13120327257301614",
                         "id": "11790",
-                        "meta_info": {
-                           "last_visited": "13193526066057729"
-                        },
                         "name": "How to kick off your new Scrum team | Marc Löffler",
-                        "sync_transaction_version": "2387",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://marcloeffler.eu/2010/04/13/how-to-kick-off-your-new-scrum-team/"
                      }, {
@@ -753,21 +726,15 @@
                      }, {
                         "date_added": "13120327257305185",
                         "id": "11792",
-                        "meta_info": {
-                           "last_visited": "13193525673427003"
-                        },
                         "name": "esther derby associates, inc. » Building Effective Teams: Miss the Start, Miss the End",
-                        "sync_transaction_version": "2387",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html"
                      }, {
                         "date_added": "13144354610364217",
                         "id": "11820",
-                        "meta_info": {
-                           "last_visited": "13193525895302569"
-                        },
                         "name": "Chartering, Lift-off, Setting the Stage, From the Beginning… — RGalen Consulting",
-                        "sync_transaction_version": "2387",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://rgalen.com/agile-training-news/2016/11/9/chartering-lift-off-setting-the-stage-from-the-beginning?utm_content=buffer5a0aa&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer"
                      }, {
@@ -829,11 +796,8 @@
                      }, {
                         "date_added": "13120327257326545",
                         "id": "11802",
-                        "meta_info": {
-                           "last_visited": "13193525841382746"
-                        },
                         "name": "Agile adaptation of Tuckman’s stages of group development | Brett Maytom | LinkedIn",
-                        "sync_transaction_version": "2387",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20140827113926-135669454-agile-adaptation-of-tuckman-s-stages-of-group-development"
                      }, {
@@ -1007,26 +971,20 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
-                        "meta_info": {
-                           "last_visited": "13193524293233455"
-                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2387",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      }, {
                         "date_added": "13193496206706553",
                         "id": "12072",
-                        "meta_info": {
-                           "last_visited": "13193496206713653"
-                        },
                         "name": "Liberating Structures - 20. Drawing Together",
-                        "sync_transaction_version": "2383",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://www.liberatingstructures.com/20-drawing-together"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13193527477972552",
+                     "date_modified": "13193931089428799",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2333,36 +2291,27 @@
                   }, {
                      "date_added": "13193496120513822",
                      "id": "12067",
-                     "meta_info": {
-                        "last_visited": "13193496120517419"
-                     },
                      "name": "The Seven Wastes of Software Development - DZone Agile",
-                     "sync_transaction_version": "2383",
+                     "sync_transaction_version": "2399",
                      "type": "url",
                      "url": "https://dzone.com/articles/seven-wastes-software"
                   }, {
                      "date_added": "13186513876864754",
                      "id": "12029",
-                     "meta_info": {
-                        "last_visited": "13193496137537893"
-                     },
                      "name": "Cumulative Flow Diagram",
-                     "sync_transaction_version": "2383",
+                     "sync_transaction_version": "2399",
                      "type": "url",
                      "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                   }, {
                      "date_added": "13185632041758499",
                      "id": "12023",
-                     "meta_info": {
-                        "last_visited": "13193496136642901"
-                     },
                      "name": "Visualizing Work – Fernando Cuenca – Medium",
-                     "sync_transaction_version": "2383",
+                     "sync_transaction_version": "2399",
                      "type": "url",
                      "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
                   } ],
                   "date_added": "13163364262792556",
-                  "date_modified": "13193501095379190",
+                  "date_modified": "13193931089428798",
                   "id": "11542",
                   "name": "Kanban",
                   "sync_transaction_version": "3",
@@ -2463,11 +2412,8 @@
                      }, {
                         "date_added": "13186513876864754",
                         "id": "12075",
-                        "meta_info": {
-                           "last_visited": "13193442677067140"
-                        },
                         "name": "Cumulative Flow Diagram",
-                        "sync_transaction_version": "2388",
+                        "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
                      } ],
@@ -6447,11 +6393,8 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13193716219674456"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2397",
+               "sync_transaction_version": "2399",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -6535,11 +6478,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13193244748093365"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2379",
+               "sync_transaction_version": "2399",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7830,7 +7770,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13193201558708411",
+            "date_modified": "13193931089428786",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7845,21 +7785,15 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13193693524769614"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2390",
+            "sync_transaction_version": "2399",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
             "date_added": "13120327254963097",
             "id": "10793",
-            "meta_info": {
-               "last_visited": "13193627986497109"
-            },
             "name": "Sign in to Scotiabank Digital Banking Services",
-            "sync_transaction_version": "2389",
+            "sync_transaction_version": "2399",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
          }, {
@@ -7935,12 +7869,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13193321375636397",
-               "last_visited_desktop": "13193501118304602"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2386",
+            "sync_transaction_version": "2399",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7994,13 +7924,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13193674220598638",
+         "date_modified": "13193931089428802",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2398",
+      "sync_transaction_version": "2399",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
