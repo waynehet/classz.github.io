@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13194065337540096"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2399",
+            "sync_transaction_version": "2404",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -796,8 +799,11 @@
                      }, {
                         "date_added": "13120327257326545",
                         "id": "11802",
+                        "meta_info": {
+                           "last_visited": "13194045300875222"
+                        },
                         "name": "Agile adaptation of Tuckman’s stages of group development | Brett Maytom | LinkedIn",
-                        "sync_transaction_version": "2399",
+                        "sync_transaction_version": "2400",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20140827113926-135669454-agile-adaptation-of-tuckman-s-stages-of-group-development"
                      }, {
@@ -984,7 +990,7 @@
                         "url": "http://www.liberatingstructures.com/20-drawing-together"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13193931089428799",
+                     "date_modified": "13194045318978964",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -7870,7 +7876,7 @@
             "date_added": "13120327254997275",
             "id": "10805",
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2399",
+            "sync_transaction_version": "2402",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7930,7 +7936,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2399",
+      "sync_transaction_version": "2404",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
