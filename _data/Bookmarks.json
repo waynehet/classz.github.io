@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13194065337540096"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2404",
+            "sync_transaction_version": "2405",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -57,8 +54,11 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
+            "meta_info": {
+               "last_visited": "13194139908282120"
+            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2399",
+            "sync_transaction_version": "2409",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -77,7 +77,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13193931089427747",
+         "date_modified": "13194150407262238",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -799,11 +799,8 @@
                      }, {
                         "date_added": "13120327257326545",
                         "id": "11802",
-                        "meta_info": {
-                           "last_visited": "13194045300875222"
-                        },
                         "name": "Agile adaptation of Tuckman’s stages of group development | Brett Maytom | LinkedIn",
-                        "sync_transaction_version": "2400",
+                        "sync_transaction_version": "2405",
                         "type": "url",
                         "url": "https://www.linkedin.com/pulse/20140827113926-135669454-agile-adaptation-of-tuckman-s-stages-of-group-development"
                      }, {
@@ -990,7 +987,7 @@
                         "url": "http://www.liberatingstructures.com/20-drawing-together"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13194045318978964",
+                     "date_modified": "13194106799529691",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -6485,7 +6482,7 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "name": "Pinterest Home",
-               "sync_transaction_version": "2399",
+               "sync_transaction_version": "2408",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7776,7 +7773,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13193931089428786",
+            "date_modified": "13194130121148380",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7936,7 +7933,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2404",
+      "sync_transaction_version": "2409",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
