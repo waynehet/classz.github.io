@@ -1,12 +1,15 @@
 {
-   "checksum": "23edd26d75c8ee1ab8dbea7cd9987027",
+   "checksum": "c2946d20612e6e8e50e70580b5ed5495",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13194210258552329"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2405",
+            "sync_transaction_version": "2411",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -77,7 +80,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13194150407262238",
+         "date_modified": "13194234465099265",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -307,9 +310,19 @@
                         "sync_transaction_version": "2312",
                         "type": "url",
                         "url": "https://www.businessinsider.com/why-are-we-all-so-stupid-pricing-effect-2018-12"
+                     }, {
+                        "date_added": "13194234465099265",
+                        "id": "12077",
+                        "meta_info": {
+                           "last_visited_desktop": "13194234465099593"
+                        },
+                        "name": "Giving and Receiving feedback and advise- Damon Poole - YouTube",
+                        "sync_transaction_version": "2417",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=CrpnyIjQb5I&feature=youtu.be"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13191097274582702",
+                     "date_modified": "13194234835164609",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -1733,9 +1746,19 @@
                      "sync_transaction_version": "2312",
                      "type": "url",
                      "url": "https://agilevelocity.com/product-owner/mvp-mmf-psi-wtf-part-one-understanding-the-mvp/"
+                  }, {
+                     "date_added": "13194237027602647",
+                     "id": "12081",
+                     "meta_info": {
+                        "last_visited": "13194237027605267"
+                     },
+                     "name": "Agile Marketing User Stories - Adapting an Agile Tool",
+                     "sync_transaction_version": "2422",
+                     "type": "url",
+                     "url": "https://www.agilesherpas.com/story-agile-marketing-user-stories/"
                   } ],
                   "date_added": "13163364262792485",
-                  "date_modified": "13191097274587669",
+                  "date_modified": "13194237027602647",
                   "id": "11540",
                   "name": "User Stories and Product Definition",
                   "sync_transaction_version": "2158",
@@ -2312,9 +2335,19 @@
                      "sync_transaction_version": "2399",
                      "type": "url",
                      "url": "https://medium.com/@fernando.a.cuenca/visualizing-work-324fbb203d38"
+                  }, {
+                     "date_added": "13194234835164609",
+                     "id": "12079",
+                     "meta_info": {
+                        "last_visited_desktop": "13194234835164854"
+                     },
+                     "name": "Lean Agile Lunch with Jeff Anderson - YouTube",
+                     "sync_transaction_version": "2421",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=kHcFtv3pP0k&feature=youtu.be"
                   } ],
                   "date_added": "13163364262792556",
-                  "date_modified": "13193931089428798",
+                  "date_modified": "13194234841859482",
                   "id": "11542",
                   "name": "Kanban",
                   "sync_transaction_version": "3",
@@ -6396,8 +6429,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13194232574501172"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2399",
+               "sync_transaction_version": "2413",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -6481,8 +6517,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13194237931842548"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2408",
+               "sync_transaction_version": "2424",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7788,8 +7827,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13194228696644522"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2399",
+            "sync_transaction_version": "2412",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7933,7 +7975,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2409",
+      "sync_transaction_version": "2424",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
