@@ -1,5 +1,5 @@
 {
-   "checksum": "c2946d20612e6e8e50e70580b5ed5495",
+   "checksum": "7b7c30de8856d76a7518bb03c1a5f8f5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2693,8 +2693,11 @@
                   }, {
                      "date_added": "13188839974273841",
                      "id": "12040",
+                     "meta_info": {
+                        "last_visited": "13194548240975472"
+                     },
                      "name": "theballpointgame.pdf",
-                     "sync_transaction_version": "2312",
+                     "sync_transaction_version": "2431",
                      "type": "url",
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
@@ -6499,8 +6502,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13194545694192632"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2425",
+               "sync_transaction_version": "2430",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -6545,13 +6551,6 @@
                "sync_transaction_version": "461",
                "type": "url",
                "url": "http://www.kirbycarespodi.com/2013/02/hello-kirb-appeal-fans-danni-here-f-rom.html"
-            }, {
-               "date_added": "13019147935102275",
-               "id": "10832",
-               "name": "My Little Things! - Kathy Duell",
-               "sync_transaction_version": "462",
-               "type": "url",
-               "url": "http://www.catherineduell.blogspot.com/?zx=16cc2f20bd33d955"
             }, {
                "date_added": "13040523559439570",
                "id": "10833",
@@ -7652,8 +7651,11 @@
                "children": [ {
                   "date_added": "13016206814093568",
                   "id": "10861",
+                  "meta_info": {
+                     "last_visited": "13194537682184601"
+                  },
                   "name": "Victoria Lynn LeFevre's Photos - Graphic 45",
-                  "sync_transaction_version": "2131",
+                  "sync_transaction_version": "2426",
                   "type": "url",
                   "url": "http://graphic45.ning.com/photo/photo/listForContributor?screenName=2ljjnosftc6z5"
                }, {
@@ -7700,7 +7702,7 @@
                   "url": "http://www.clips-n-cuts.com/2013/10/art-journal-take-life/"
                } ],
                "date_added": "13163364262670314",
-               "date_modified": "13163364262670314",
+               "date_modified": "13194544881078058",
                "id": "10845",
                "name": "mixed media art",
                "sync_transaction_version": "3",
@@ -7806,8 +7808,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13194544883989136"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2425",
+            "sync_transaction_version": "2428",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7890,8 +7895,11 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
+            "meta_info": {
+               "last_visited_desktop": "13194555372133157"
+            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2425",
+            "sync_transaction_version": "2433",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7951,7 +7959,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2425",
+      "sync_transaction_version": "2433",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
