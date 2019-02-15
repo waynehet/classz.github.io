@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13194669926097512"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2425",
+            "sync_transaction_version": "2436",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -6503,10 +6506,10 @@
                "date_added": "13019147935095275",
                "id": "10824",
                "meta_info": {
-                  "last_visited_desktop": "13194545694192632"
+                  "last_visited_desktop": "13194638087628274"
                },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2430",
+               "sync_transaction_version": "2435",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7959,7 +7962,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2433",
+      "sync_transaction_version": "2436",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
