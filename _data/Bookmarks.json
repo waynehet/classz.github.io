@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13194834579983943"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2448",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -50,21 +47,15 @@
          }, {
             "date_added": "13177980343320056",
             "id": "11995",
-            "meta_info": {
-               "last_visited_desktop": "13194836834661013"
-            },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "2452",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13194806246532765"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2447",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -77,16 +68,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13194802367383543"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2444",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13194497585133432",
+         "date_modified": "13195017131306087",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2705,11 +2693,8 @@
                   }, {
                      "date_added": "13188839974273841",
                      "id": "12040",
-                     "meta_info": {
-                        "last_visited": "13194548240975472"
-                     },
                      "name": "theballpointgame.pdf",
-                     "sync_transaction_version": "2431",
+                     "sync_transaction_version": "2474",
                      "type": "url",
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
@@ -4802,11 +4787,8 @@
                }, {
                   "date_added": "13172375377992781",
                   "id": "11944",
-                  "meta_info": {
-                     "last_visited_desktop": "13194836845210516"
-                  },
                   "name": "(Latest) - Visual Studio Team Services",
-                  "sync_transaction_version": "2459",
+                  "sync_transaction_version": "2474",
                   "type": "url",
                   "url": "https://waynehetherington.visualstudio.com/Sample/_versionControl"
                }, {
@@ -4818,7 +4800,7 @@
                   "url": "https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/"
                } ],
                "date_added": "13163364262698694",
-               "date_modified": "13192857069919529",
+               "date_modified": "13195017131307065",
                "id": "11018",
                "name": "Programming",
                "sync_transaction_version": "3",
@@ -6433,7 +6415,7 @@
                "date_added": "13039909004176784",
                "id": "11014",
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2425",
+               "sync_transaction_version": "2474",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -6517,11 +6499,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13194638087628274"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2435",
+               "sync_transaction_version": "2474",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7666,11 +7645,8 @@
                "children": [ {
                   "date_added": "13016206814093568",
                   "id": "10861",
-                  "meta_info": {
-                     "last_visited": "13194537682184601"
-                  },
                   "name": "Victoria Lynn LeFevre's Photos - Graphic 45",
-                  "sync_transaction_version": "2426",
+                  "sync_transaction_version": "2474",
                   "type": "url",
                   "url": "http://graphic45.ning.com/photo/photo/listForContributor?screenName=2ljjnosftc6z5"
                }, {
@@ -7717,7 +7693,7 @@
                   "url": "http://www.clips-n-cuts.com/2013/10/art-journal-take-life/"
                } ],
                "date_added": "13163364262670314",
-               "date_modified": "13194544881078058",
+               "date_modified": "13195017131305061",
                "id": "10845",
                "name": "mixed media art",
                "sync_transaction_version": "3",
@@ -7795,11 +7771,8 @@
             }, {
                "date_added": "13183737974087021",
                "id": "12013",
-               "meta_info": {
-                  "last_visited_desktop": "13194802296825652"
-               },
                "name": "The Doctor Blake Mysteries: Family Portrait",
-               "sync_transaction_version": "2440",
+               "sync_transaction_version": "2474",
                "type": "url",
                "url": "https://putlockerhd9.com/watch-the-doctor-blake-mysteries-family-portrait-film10910.html"
             }, {
@@ -7811,7 +7784,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13194497585135057",
+            "date_modified": "13195017131307068",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7826,11 +7799,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13194837987319360"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2460",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7865,7 +7835,7 @@
             "date_added": "13120327254972422",
             "id": "10798",
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "1505",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -7913,11 +7883,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited_desktop": "13194555372133157"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2433",
+            "sync_transaction_version": "2474",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7971,13 +7938,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13194497585135072",
+         "date_modified": "13195017131307063",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2460",
+      "sync_transaction_version": "2474",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
