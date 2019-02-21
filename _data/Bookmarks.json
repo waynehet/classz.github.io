@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13195167845582280"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2474",
+            "sync_transaction_version": "2475",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -74,7 +77,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13195017131306087",
+         "date_modified": "13195167856540630",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7944,7 +7947,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2474",
+      "sync_transaction_version": "2475",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
