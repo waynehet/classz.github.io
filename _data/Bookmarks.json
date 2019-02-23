@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13195167845582280"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2475",
+            "sync_transaction_version": "2487",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -57,11 +54,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13195231963905229"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2481",
+            "sync_transaction_version": "2487",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -74,16 +68,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13195247034962010"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2483",
+            "sync_transaction_version": "2487",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13195167856540630",
+         "date_modified": "13195330298080746",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -988,10 +979,10 @@
                         "date_added": "13188575262037720",
                         "id": "12035",
                         "meta_info": {
-                           "last_visited": "13195244614934939"
+                           "last_visited": "13195345220107474"
                         },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2482",
+                        "sync_transaction_version": "2488",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      }, {
@@ -1003,7 +994,7 @@
                         "url": "http://www.liberatingstructures.com/20-drawing-together"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13195247027166607",
+                     "date_modified": "13195348422443220",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -6426,11 +6417,8 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13195271939705304"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2484",
+               "sync_transaction_version": "2487",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7786,11 +7774,8 @@
             }, {
                "date_added": "13183737974087021",
                "id": "12013",
-               "meta_info": {
-                  "last_visited_desktop": "13195231938179938"
-               },
                "name": "The Doctor Blake Mysteries: Family Portrait",
-               "sync_transaction_version": "2480",
+               "sync_transaction_version": "2487",
                "type": "url",
                "url": "https://putlockerhd9.com/watch-the-doctor-blake-mysteries-family-portrait-film10910.html"
             }, {
@@ -7802,7 +7787,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13195017131307068",
+            "date_modified": "13195330298081706",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7817,11 +7802,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13195276181818045"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2485",
+            "sync_transaction_version": "2487",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7904,11 +7886,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13195220187849573"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2476",
+            "sync_transaction_version": "2487",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -7962,13 +7941,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13195220197643494",
+         "date_modified": "13195330298081701",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2485",
+      "sync_transaction_version": "2488",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
