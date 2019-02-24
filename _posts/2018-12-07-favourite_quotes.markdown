@@ -27,10 +27,9 @@ published: true
 | | |
 | "What we see depends on what we thought before we looked" - [Myron Tribus](https://en.wikipedia.org/wiki/Myron_Tribus) | ![Myron Tribus]({{site.baseurl}}/assets/myron_tribus.jpg){:width="100px"} |
 | | |
-
-"Everything should be made as simple as possible, but ot simpler." - Albert Einstein
-
-“The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.” - Mark Twain
+| ![Albert Einstein]({{site.baseurl}}/assets/einstein.jpg){:width="100px"} | "Everything should be made as simple as possible, but ot simpler." - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) |
+| | |
+| “The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) | ![Mark Twain]({{site.baseurl}}/assets/Mark_Twain.jpg){:width="100px"} |
 
 "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - Charles Darwin
 
@@ -39,10 +38,9 @@ published: true
 "The single biggest problem in communication is the illusion that it has taken place." - George Bernard Shaw
 
 "You've got to be very careful if you don't know where you are going, because you might not get there." - Yogi Berra
+"In theory there is no difference between theory and practice. But, in practice, there is." - Yogi Berra
 
 "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over." - Edwards Deming
-
-"In theory there is no difference between theory and practice. But, in practice, there is." - Yogi Berra
 
 "The Cave You Fear to Enter Holds the Treasure You Seek" - Joseph Campbell
 
