@@ -1,5 +1,5 @@
 {
-   "checksum": "e843c995fd8c26407db7fab6bd2f1dc4",
+   "checksum": "deac1d1906889cdd03378cfd42b79a1c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -367,8 +367,11 @@
                      }, {
                         "date_added": "13143319319903781",
                         "id": "10812",
+                        "meta_info": {
+                           "last_visited": "13195932111567860"
+                        },
                         "name": "Improv brings improvements to agile team standup meetings - SD Times",
-                        "sync_transaction_version": "1786",
+                        "sync_transaction_version": "2497",
                         "type": "url",
                         "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      }, {
@@ -380,7 +383,7 @@
                         "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13183346605746225",
+                     "date_modified": "13195932124068620",
                      "id": "11768",
                      "name": "Daily Scrum",
                      "sync_transaction_version": "929",
@@ -2625,8 +2628,11 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
+                     "meta_info": {
+                        "last_visited": "13195946371759081"
+                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "2312",
+                     "sync_transaction_version": "2498",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2715,7 +2721,7 @@
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13191097274587607",
+                  "date_modified": "13195946378736563",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -2826,9 +2832,19 @@
                      "sync_transaction_version": "2358",
                      "type": "url",
                      "url": "https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs/"
+                  }, {
+                     "date_added": "13195929108559233",
+                     "id": "12085",
+                     "meta_info": {
+                        "last_visited": "13195929108563075"
+                     },
+                     "name": "Technical Debt Scrum: Who Is Responsible? — Age-of-Product.comAge of ProductAge of Product",
+                     "sync_transaction_version": "2496",
+                     "type": "url",
+                     "url": "https://age-of-product.com/technical-debt-scrum/?cn-reloaded=1"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13192497225374492",
+                  "date_modified": "13195929108559233",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -7963,7 +7979,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2495",
+      "sync_transaction_version": "2498",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
