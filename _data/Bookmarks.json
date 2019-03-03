@@ -16,7 +16,7 @@
             "date_added": "13125791734385629",
             "id": "9631",
             "name": "Scrum Alliance",
-            "sync_transaction_version": "2312",
+            "sync_transaction_version": "2500",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -1334,8 +1334,11 @@
                      }, {
                         "date_added": "13120327257380777",
                         "id": "11736",
+                        "meta_info": {
+                           "last_visited": "13196011262225428"
+                        },
                         "name": "What is Definition of Done (DoD)? - Scrum Alliance",
-                        "sync_transaction_version": "2312",
+                        "sync_transaction_version": "2499",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
                      }, {
@@ -1382,7 +1385,7 @@
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      } ],
                      "date_added": "13163364262819487",
-                     "date_modified": "13191097274586378",
+                     "date_modified": "13196013313196813",
                      "id": "11684",
                      "name": "Definition of Done",
                      "sync_transaction_version": "3",
@@ -7979,7 +7982,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2498",
+      "sync_transaction_version": "2500",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
