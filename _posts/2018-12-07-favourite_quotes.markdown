@@ -31,11 +31,12 @@ published: true
 | | |
 | “The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) | ![Mark Twain]({{site.baseurl}}/assets/Mark_Twain.jpg){:width="100px"} |
 | | |
-| ![Charles Darwin]({{site.baseurl}}/assets/charles_darwin.jpg){:width="100px"} | "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - [Charles Darwin](https://quoteinvestigator.com/2014/05/04/adapt/)
-| "Prediction is very difficult, especially if it's about the future." - [Niels Bohr (https://www.brainyquote.com/quotes/niels_bohr_130288) | ![Niels Bohr]({{site.baseurl}}/assets/niels_bohr.jpg){:width="100px"} |
+| ![Charles Darwin]({{site.baseurl}}/assets/charles_darwin.jpg){:width="100px"} | "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - [Charles Darwin](https://quoteinvestigator.com/2014/05/04/adapt/) |
 | | |
-
-"The single biggest problem in communication is the illusion that it has taken place." - George Bernard Shaw
+| "Prediction is very difficult, especially if it's about the future." - [Niels Bohr] (https://www.brainyquote.com/quotes/niels_bohr_130288) | ![Niels Bohr]({{site.baseurl}}/assets/niels_bohr.jpg){:width="100px"} |
+| | |
+| ![George Bernard Shaw]({{site.baseurl}}/assets/george_bernard_shaw.jpg){:width="100px"} | "The single biggest problem in communication is the illusion that it has taken place." - [George Bernard Shaw] |
+| | |
 
 "You've got to be very careful if you don't know where you are going, because you might not get there." - Yogi Berra
 "In theory there is no difference between theory and practice. But, in practice, there is." - Yogi Berra
