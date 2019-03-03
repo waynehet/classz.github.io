@@ -37,8 +37,8 @@ published: true
 | | |
 | ![George Bernard Shaw]({{site.baseurl}}/assets/george_bernard_shaw.jpg){:width="100px"} | "The single biggest problem in communication is the illusion that it has taken place." - [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) |
 | | |
-| "You've got to be very careful if you don't know where you are going, because you might not get there." 
-"In theory there is no difference between theory and practice. But, in practice, there is."
+| "You've got to be very careful if you don't know where you are going, because you might not get there."<br>
+"In theory there is no difference between theory and practice. But, in practice, there is."<br>
 - [Yogi Berra] | ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} |
 | | |
 
