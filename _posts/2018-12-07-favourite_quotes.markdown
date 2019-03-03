@@ -30,10 +30,10 @@ published: true
 | ![Albert Einstein]({{site.baseurl}}/assets/einstein.jpg){:width="100px"} | "Everything should be made as simple as possible, but ot simpler." - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) |
 | | |
 | “The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) | ![Mark Twain]({{site.baseurl}}/assets/Mark_Twain.jpg){:width="100px"} |
-
-"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - Charles Darwin
-
-"Prediction is very difficult, especially if it's about the future." - Niels Bohr
+| | |
+| ![Charles Darwin]({{site.baseurl}}/assets/charles_darwin.jpg){:width="100px"} | "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - [Charles Darwin](https://quoteinvestigator.com/2014/05/04/adapt/)
+| "Prediction is very difficult, especially if it's about the future." - [Niels Bohr (https://www.brainyquote.com/quotes/niels_bohr_130288) | ![Niels Bohr]({{site.baseurl}}/assets/niels_bohr.jpg){:width="100px"} |
+| | |
 
 "The single biggest problem in communication is the illusion that it has taken place." - George Bernard Shaw
 
