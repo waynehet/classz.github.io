@@ -1,15 +1,15 @@
 {
-   "checksum": "deac1d1906889cdd03378cfd42b79a1c",
+   "checksum": "f03eb02c9742eb2106a2a02cce3e0c91",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13195875279715694"
+               "last_visited_desktop": "13196128211925192"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2495",
+            "sync_transaction_version": "2502",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2459,9 +2459,19 @@
                         "sync_transaction_version": "2399",
                         "type": "url",
                         "url": "http://brodzinski.com/2013/07/cumulative-flow-diagram.html"
+                     }, {
+                        "date_added": "13196094797032888",
+                        "id": "12087",
+                        "meta_info": {
+                           "last_visited": "13196094797035684"
+                        },
+                        "name": "Learn these two simple techniques that will dramatically improve your whiteboard skills",
+                        "sync_transaction_version": "2501",
+                        "type": "url",
+                        "url": "https://medium.com/graphicfacilitation/two-simple-techniques-to-dramatically-improve-your-whiteboard-skills-a391534a8140"
                      } ],
                      "date_added": "13168272482024130",
-                     "date_modified": "13193461070340442",
+                     "date_modified": "13196094797032888",
                      "id": "11908",
                      "name": "Practices",
                      "sync_transaction_version": "838",
@@ -7982,7 +7992,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2500",
+      "sync_transaction_version": "2502",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
