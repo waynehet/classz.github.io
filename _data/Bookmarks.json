@@ -5,18 +5,18 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13196128211925192"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2502",
+            "sync_transaction_version": "2509",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
+            "meta_info": {
+               "last_visited_desktop": "13196365678657877"
+            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "2500",
+            "sync_transaction_version": "2509",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -57,11 +57,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13196203826043002"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2503",
+            "sync_transaction_version": "2509",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -74,16 +71,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13196213992824856"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2505",
+            "sync_transaction_version": "2509",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13195330298080746",
+         "date_modified": "13196389859553912",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -373,11 +367,8 @@
                      }, {
                         "date_added": "13143319319903781",
                         "id": "10812",
-                        "meta_info": {
-                           "last_visited": "13195932111567860"
-                        },
                         "name": "Improv brings improvements to agile team standup meetings - SD Times",
-                        "sync_transaction_version": "2497",
+                        "sync_transaction_version": "2509",
                         "type": "url",
                         "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
                      }, {
@@ -389,7 +380,7 @@
                         "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
                      } ],
                      "date_added": "13163364262836144",
-                     "date_modified": "13195932124068620",
+                     "date_modified": "13196389859553908",
                      "id": "11768",
                      "name": "Daily Scrum",
                      "sync_transaction_version": "929",
@@ -990,11 +981,8 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
-                        "meta_info": {
-                           "last_visited": "13195345220107474"
-                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2488",
+                        "sync_transaction_version": "2509",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      }, {
@@ -1007,16 +995,13 @@
                      }, {
                         "date_added": "13196259732145930",
                         "id": "12089",
-                        "meta_info": {
-                           "last_visited": "13196303801127724"
-                        },
                         "name": "The First Question To Ask When Building Teams - Is This Really A Team? - The Agile Coach's Guide To The Galaxy",
-                        "sync_transaction_version": "2507",
+                        "sync_transaction_version": "2509",
                         "type": "url",
                         "url": "https://www.viktorcessan.com/the-first-question-to-ask-when-building-teams-is-this-really-a-team/"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13196259732145930",
+                     "date_modified": "13196389859554927",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1351,10 +1336,10 @@
                         "date_added": "13120327257380777",
                         "id": "11736",
                         "meta_info": {
-                           "last_visited": "13196011262225428"
+                           "last_visited": "13196383617535615"
                         },
                         "name": "What is Definition of Done (DoD)? - Scrum Alliance",
-                        "sync_transaction_version": "2499",
+                        "sync_transaction_version": "2509",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
                      }, {
@@ -1401,7 +1386,7 @@
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      } ],
                      "date_added": "13163364262819487",
-                     "date_modified": "13196013313196813",
+                     "date_modified": "13196389859553898",
                      "id": "11684",
                      "name": "Definition of Done",
                      "sync_transaction_version": "3",
@@ -1896,11 +1881,8 @@
                      }, {
                         "date_added": "13195681467410912",
                         "id": "12083",
-                        "meta_info": {
-                           "last_visited": "13195681562240530"
-                        },
                         "name": "Product Vision – Joel on Software",
-                        "sync_transaction_version": "2494",
+                        "sync_transaction_version": "2509",
                         "type": "url",
                         "url": "https://www.joelonsoftware.com/2002/05/09/product-vision/"
                      } ],
@@ -2478,11 +2460,8 @@
                      }, {
                         "date_added": "13196094797032888",
                         "id": "12087",
-                        "meta_info": {
-                           "last_visited": "13196094797035684"
-                        },
                         "name": "Learn these two simple techniques that will dramatically improve your whiteboard skills",
-                        "sync_transaction_version": "2501",
+                        "sync_transaction_version": "2509",
                         "type": "url",
                         "url": "https://medium.com/graphicfacilitation/two-simple-techniques-to-dramatically-improve-your-whiteboard-skills-a391534a8140"
                      } ],
@@ -2657,11 +2636,8 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
-                     "meta_info": {
-                        "last_visited": "13195946371759081"
-                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "2498",
+                     "sync_transaction_version": "2509",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2750,7 +2726,7 @@
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13195946378736563",
+                  "date_modified": "13196389859552919",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -2864,11 +2840,8 @@
                   }, {
                      "date_added": "13195929108559233",
                      "id": "12085",
-                     "meta_info": {
-                        "last_visited": "13195929108563075"
-                     },
                      "name": "Technical Debt Scrum: Who Is Responsible? — Age-of-Product.comAge of ProductAge of Product",
-                     "sync_transaction_version": "2496",
+                     "sync_transaction_version": "2509",
                      "type": "url",
                      "url": "https://age-of-product.com/technical-debt-scrum/?cn-reloaded=1"
                   } ],
@@ -7944,11 +7917,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13195569262734638"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2491",
+            "sync_transaction_version": "2509",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -8002,13 +7972,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13195576484699431",
+         "date_modified": "13196389859554916",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2507",
+      "sync_transaction_version": "2509",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
