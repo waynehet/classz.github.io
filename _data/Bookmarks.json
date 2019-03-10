@@ -1,5 +1,5 @@
 {
-   "checksum": "22c2a0bab1a6d12769ed38c1192a00b4",
+   "checksum": "70795727e0a6b0967cfeddcf20be50e3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -999,10 +999,10 @@
                         "date_added": "13196259732145930",
                         "id": "12089",
                         "meta_info": {
-                           "last_visited": "13196562789835145"
+                           "last_visited": "13196571661764191"
                         },
                         "name": "The First Question To Ask When Building Teams - Is This Really A Team? - The Agile Coach's Guide To The Galaxy",
-                        "sync_transaction_version": "2515",
+                        "sync_transaction_version": "2516",
                         "type": "url",
                         "url": "https://www.viktorcessan.com/the-first-question-to-ask-when-building-teams-is-this-really-a-team/"
                      } ],
@@ -2103,9 +2103,29 @@
                         "sync_transaction_version": "2200",
                         "type": "url",
                         "url": "http://agilebench.com/blog/the-product-backlog-for-agile-teams"
+                     }, {
+                        "date_added": "13196571607865376",
+                        "id": "12091",
+                        "meta_info": {
+                           "last_visited": "13196571607869343"
+                        },
+                        "name": "Strategy Canvas | Blue Ocean Tools and Frameworks",
+                        "sync_transaction_version": "2516",
+                        "type": "url",
+                        "url": "https://www.blueoceanstrategy.com/tools/strategy-canvas/"
+                     }, {
+                        "date_added": "13196571719087857",
+                        "id": "12092",
+                        "meta_info": {
+                           "last_visited": "13196571719090759"
+                        },
+                        "name": "Build a Minimum Viable Product With These 3 Core UX Design Principles - DZone Agile",
+                        "sync_transaction_version": "2516",
+                        "type": "url",
+                        "url": "https://dzone.com/articles/build-a-minimum-viable-product-with-these-3-core-u"
                      } ],
                      "date_added": "13188840135203644",
-                     "date_modified": "13191097274585723",
+                     "date_modified": "13196571719087857",
                      "id": "12042",
                      "name": "Backlog and Prioritization",
                      "sync_transaction_version": "2201",
@@ -7984,7 +8004,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2515",
+      "sync_transaction_version": "2516",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
