@@ -1,5 +1,5 @@
 {
-   "checksum": "70795727e0a6b0967cfeddcf20be50e3",
+   "checksum": "20488b97074c99273307c1b7e909c3f9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -12,11 +12,8 @@
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
-            "meta_info": {
-               "last_visited_desktop": "13196365678657877"
-            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "2509",
+            "sync_transaction_version": "2518",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -71,16 +68,13 @@
          }, {
             "date_added": "13180316491230234",
             "id": "12003",
-            "meta_info": {
-               "last_visited_desktop": "13196451359441820"
-            },
             "name": "Anyplace TV",
-            "sync_transaction_version": "2512",
+            "sync_transaction_version": "2518",
             "type": "url",
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13196389859553912",
+         "date_modified": "13196873348782334",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -999,15 +993,29 @@
                         "date_added": "13196259732145930",
                         "id": "12089",
                         "meta_info": {
-                           "last_visited": "13196571661764191"
+                           "last_visited": "13196886986170386"
                         },
                         "name": "The First Question To Ask When Building Teams - Is This Really A Team? - The Agile Coach's Guide To The Galaxy",
-                        "sync_transaction_version": "2516",
+                        "sync_transaction_version": "2520",
                         "type": "url",
                         "url": "https://www.viktorcessan.com/the-first-question-to-ask-when-building-teams-is-this-really-a-team/"
+                     }, {
+                        "date_added": "13196862477447442",
+                        "id": "12095",
+                        "name": "Stop Wasting Money on Team Building",
+                        "sync_transaction_version": "2518",
+                        "type": "url",
+                        "url": "https://hbr.org/2018/09/stop-wasting-money-on-team-building"
+                     }, {
+                        "date_added": "13196863082048760",
+                        "id": "12094",
+                        "name": "Five Dysfunctions Products | The Table Group",
+                        "sync_transaction_version": "2518",
+                        "type": "url",
+                        "url": "https://www.tablegroup.com/books/dysfunctions"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13196389859554927",
+                     "date_modified": "13196886993228685",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1341,11 +1349,8 @@
                      }, {
                         "date_added": "13120327257380777",
                         "id": "11736",
-                        "meta_info": {
-                           "last_visited": "13196431839111163"
-                        },
                         "name": "What is Definition of Done (DoD)? - Scrum Alliance",
-                        "sync_transaction_version": "2510",
+                        "sync_transaction_version": "2518",
                         "type": "url",
                         "url": "http://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)"
                      }, {
@@ -1392,7 +1397,7 @@
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
                      } ],
                      "date_added": "13163364262819487",
-                     "date_modified": "13196439075892695",
+                     "date_modified": "13196873348783630",
                      "id": "11684",
                      "name": "Definition of Done",
                      "sync_transaction_version": "3",
@@ -2106,26 +2111,23 @@
                      }, {
                         "date_added": "13196571607865376",
                         "id": "12091",
-                        "meta_info": {
-                           "last_visited": "13196571607869343"
-                        },
                         "name": "Strategy Canvas | Blue Ocean Tools and Frameworks",
-                        "sync_transaction_version": "2516",
+                        "sync_transaction_version": "2518",
                         "type": "url",
                         "url": "https://www.blueoceanstrategy.com/tools/strategy-canvas/"
                      }, {
                         "date_added": "13196571719087857",
                         "id": "12092",
                         "meta_info": {
-                           "last_visited": "13196646407733202"
+                           "last_visited": "13196886982214402"
                         },
                         "name": "Build a Minimum Viable Product With These 3 Core UX Design Principles - DZone Agile",
-                        "sync_transaction_version": "2517",
+                        "sync_transaction_version": "2520",
                         "type": "url",
                         "url": "https://dzone.com/articles/build-a-minimum-viable-product-with-these-3-core-u"
                      } ],
                      "date_added": "13188840135203644",
-                     "date_modified": "13196571719087857",
+                     "date_modified": "13196873348782328",
                      "id": "12042",
                      "name": "Backlog and Prioritization",
                      "sync_transaction_version": "2201",
@@ -2640,8 +2642,11 @@
                   }, {
                      "date_added": "13184209071081925",
                      "id": "12017",
+                     "meta_info": {
+                        "last_visited": "13196884385182776"
+                     },
                      "name": "A Comprehensive Comparison of Renowned Agile Scaling Models - Simplifying agile scaling for distributed teams and programs (Agile Scaling Platform for SAFe/LeSS/Spotify/PI Planning)",
-                     "sync_transaction_version": "2080",
+                     "sync_transaction_version": "2519",
                      "type": "url",
                      "url": "https://kendis.io/scaling-agile/comparison-agile-scaling-models/"
                   }, {
@@ -2653,7 +2658,7 @@
                      "url": "https://qoomon.github.io/time-timer-webapp/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13189890801509990",
+                  "date_modified": "13196884400609918",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -8004,7 +8009,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2517",
+      "sync_transaction_version": "2520",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
