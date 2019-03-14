@@ -26,8 +26,11 @@
          }, {
             "date_added": "13120327255091846",
             "id": "9637",
+            "meta_info": {
+               "last_visited": "13196954954737085"
+            },
             "name": "Trello",
-            "sync_transaction_version": "1333",
+            "sync_transaction_version": "2521",
             "type": "url",
             "url": "https://trello.com/"
          }, {
@@ -74,7 +77,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13196873348782334",
+         "date_modified": "13196960138799113",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -817,8 +820,11 @@
                      }, {
                         "date_added": "13120327257330298",
                         "id": "11804",
+                        "meta_info": {
+                           "last_visited": "13196986372295148"
+                        },
                         "name": "Total Squadification – Large Scale Self-Selection – Nomad8",
-                        "sync_transaction_version": "3",
+                        "sync_transaction_version": "2522",
                         "type": "url",
                         "url": "http://nomad8.com/total-squadification-large-scale-self-organisation/"
                      }, {
@@ -1015,7 +1021,7 @@
                         "url": "https://www.tablegroup.com/books/dysfunctions"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13196886993228685",
+                     "date_modified": "13196986384755761",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2119,10 +2125,10 @@
                         "date_added": "13196571719087857",
                         "id": "12092",
                         "meta_info": {
-                           "last_visited": "13196886982214402"
+                           "last_visited": "13196947840131201"
                         },
                         "name": "Build a Minimum Viable Product With These 3 Core UX Design Principles - DZone Agile",
-                        "sync_transaction_version": "2520",
+                        "sync_transaction_version": "2521",
                         "type": "url",
                         "url": "https://dzone.com/articles/build-a-minimum-viable-product-with-these-3-core-u"
                      } ],
@@ -8009,7 +8015,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2520",
+      "sync_transaction_version": "2522",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
