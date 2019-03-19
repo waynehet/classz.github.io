@@ -6467,10 +6467,10 @@
                "date_added": "13197119954464639",
                "id": "12097",
                "meta_info": {
-                  "last_visited": "13197339891536675"
+                  "last_visited": "13197415882347071"
                },
                "name": "BBC - Future - Are we on the road to civilisation collapse?",
-               "sync_transaction_version": "2529",
+               "sync_transaction_version": "2533",
                "type": "url",
                "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse"
             } ],
@@ -6583,8 +6583,11 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
+               "meta_info": {
+                  "last_visited_desktop": "13197394823695796"
+               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2474",
+               "sync_transaction_version": "2532",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -8028,7 +8031,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2529",
+      "sync_transaction_version": "2533",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
