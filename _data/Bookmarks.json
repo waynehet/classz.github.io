@@ -26,11 +26,8 @@
          }, {
             "date_added": "13120327255091846",
             "id": "9637",
-            "meta_info": {
-               "last_visited": "13196954954737085"
-            },
             "name": "Trello",
-            "sync_transaction_version": "2521",
+            "sync_transaction_version": "2539",
             "type": "url",
             "url": "https://trello.com/"
          }, {
@@ -77,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13196960138799113",
+         "date_modified": "13197477653034610",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -820,11 +817,8 @@
                      }, {
                         "date_added": "13120327257330298",
                         "id": "11804",
-                        "meta_info": {
-                           "last_visited": "13196986372295148"
-                        },
                         "name": "Total Squadification – Large Scale Self-Selection – Nomad8",
-                        "sync_transaction_version": "2522",
+                        "sync_transaction_version": "2539",
                         "type": "url",
                         "url": "http://nomad8.com/total-squadification-large-scale-self-organisation/"
                      }, {
@@ -998,11 +992,8 @@
                      }, {
                         "date_added": "13196259732145930",
                         "id": "12089",
-                        "meta_info": {
-                           "last_visited": "13196886986170386"
-                        },
                         "name": "The First Question To Ask When Building Teams - Is This Really A Team? - The Agile Coach's Guide To The Galaxy",
-                        "sync_transaction_version": "2520",
+                        "sync_transaction_version": "2539",
                         "type": "url",
                         "url": "https://www.viktorcessan.com/the-first-question-to-ask-when-building-teams-is-this-really-a-team/"
                      }, {
@@ -1021,7 +1012,7 @@
                         "url": "https://www.tablegroup.com/books/dysfunctions"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13196986384755761",
+                     "date_modified": "13197477653035606",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2124,11 +2115,8 @@
                      }, {
                         "date_added": "13196571719087857",
                         "id": "12092",
-                        "meta_info": {
-                           "last_visited": "13196947840131201"
-                        },
                         "name": "Build a Minimum Viable Product With These 3 Core UX Design Principles - DZone Agile",
-                        "sync_transaction_version": "2521",
+                        "sync_transaction_version": "2539",
                         "type": "url",
                         "url": "https://dzone.com/articles/build-a-minimum-viable-product-with-these-3-core-u"
                      } ],
@@ -2648,11 +2636,8 @@
                   }, {
                      "date_added": "13184209071081925",
                      "id": "12017",
-                     "meta_info": {
-                        "last_visited": "13196884385182776"
-                     },
                      "name": "A Comprehensive Comparison of Renowned Agile Scaling Models - Simplifying agile scaling for distributed teams and programs (Agile Scaling Platform for SAFe/LeSS/Spotify/PI Planning)",
-                     "sync_transaction_version": "2519",
+                     "sync_transaction_version": "2539",
                      "type": "url",
                      "url": "https://kendis.io/scaling-agile/comparison-agile-scaling-models/"
                   }, {
@@ -2664,7 +2649,7 @@
                      "url": "https://qoomon.github.io/time-timer-webapp/"
                   } ],
                   "date_added": "13163364262792574",
-                  "date_modified": "13196884400609918",
+                  "date_modified": "13197477653035604",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "3",
@@ -6407,11 +6392,8 @@
             }, {
                "date_added": "13128116689906580",
                "id": "11022",
-               "meta_info": {
-                  "last_visited": "13196993207114913"
-               },
                "name": "JW Mail Sign In",
-               "sync_transaction_version": "2523",
+               "sync_transaction_version": "2539",
                "type": "url",
                "url": "https://login.jw.org/adfs/ls/?login_hint=WayneH25%40field.jw.org&client-request-id=a03bad06-9bdb-4c78-811d-a0c85a36e9bc&username=WayneH25%40field.jw.org&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQIIAeNisNLJKCkpKLbS1y_ILypJzNHLzUwuyi_OTyvJz8vJzEvVS87P1csvSs9MAbGKhLgE2NZaL7g9u8KnUXbBiSizl3tWMSoTNkL_AiPjC0bGSUyi4YmVeakeRqYOaZmpOSl6WeUg028xCfoXpXumhBe7paakFiWWZObnPWLiDS1OLfLPy6kMyc9OzdvFrGKUamKSbJKWomuUamiha5KYmKxraWxkqGtpkppqam6UlmxsmPiIGbsVF1gEXrHwGDBbcXBwCTBIMCgw_GBhXMQK9NDj6V_vb3N-67y1aY7ntUfO7adY9ZNMnM1SHM1NDQIqndwKwr3Nspz19bVDXJ28TctT0rJziiNL89JcCspDypNtzawMJ7AJTWBjOsDJCAA1"
             }, {
@@ -6467,15 +6449,15 @@
                "date_added": "13197119954464639",
                "id": "12097",
                "meta_info": {
-                  "last_visited": "13197415882347071"
+                  "last_visited": "13197520384080039"
                },
                "name": "BBC - Future - Are we on the road to civilisation collapse?",
-               "sync_transaction_version": "2533",
+               "sync_transaction_version": "2545",
                "type": "url",
                "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13197119954464639",
+            "date_modified": "13197477653035593",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -6583,11 +6565,8 @@
             }, {
                "date_added": "13019147935095275",
                "id": "10824",
-               "meta_info": {
-                  "last_visited_desktop": "13197394823695796"
-               },
                "name": "Pinterest Home",
-               "sync_transaction_version": "2532",
+               "sync_transaction_version": "2539",
                "type": "url",
                "url": "http://pinterest.com/"
             }, {
@@ -7871,7 +7850,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13195330298081706",
+            "date_modified": "13197477653035600",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -8031,7 +8010,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2533",
+      "sync_transaction_version": "2545",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
