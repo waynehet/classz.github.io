@@ -1,5 +1,5 @@
 {
-   "checksum": "d02d4fc38cdc47fe8dc342e3b650c068",
+   "checksum": "9d611ce6a91bf2274e165c318e553820",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1118,8 +1118,11 @@
                   }, {
                      "date_added": "13120327256247675",
                      "id": "11788",
+                     "meta_info": {
+                        "last_visited_desktop": "13198015240589974"
+                     },
                      "name": "Hitler at a sprint review - YouTube",
-                     "sync_transaction_version": "1968",
+                     "sync_transaction_version": "2556",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=Q6jMgmPIxmk&feature=youtu.be"
                   }, {
@@ -2013,9 +2016,19 @@
                         "sync_transaction_version": "2312",
                         "type": "url",
                         "url": "https://www.tableau.com/learn/articles/vanity-metrics"
+                     }, {
+                        "date_added": "13197929980831142",
+                        "id": "12101",
+                        "meta_info": {
+                           "last_visited": "13198021384701019"
+                        },
+                        "name": "[Experience Report] Service Delivery Agility Dashboard",
+                        "sync_transaction_version": "2559",
+                        "type": "url",
+                        "url": "https://medium.com/@shumanip/experience-report-service-delivery-agility-dashboard-388aa08c45e3"
                      } ],
                      "date_added": "13163364262809704",
-                     "date_modified": "13188839444004223",
+                     "date_modified": "13197929980831142",
                      "id": "11630",
                      "name": "Metrics",
                      "sync_transaction_version": "3",
@@ -2650,11 +2663,8 @@
                   }, {
                      "date_added": "13197578572974060",
                      "id": "12099",
-                     "meta_info": {
-                        "last_visited": "13197763976003096"
-                     },
                      "name": "Creativity, Play and Spirit | Coaching Toys",
-                     "sync_transaction_version": "2550",
+                     "sync_transaction_version": "2552",
                      "type": "url",
                      "url": "http://coachingtoys.com/"
                   } ],
@@ -6458,11 +6468,8 @@
             }, {
                "date_added": "13197119954464639",
                "id": "12097",
-               "meta_info": {
-                  "last_visited": "13197764642289377"
-               },
                "name": "BBC - Future - Are we on the road to civilisation collapse?",
-               "sync_transaction_version": "2551",
+               "sync_transaction_version": "2552",
                "type": "url",
                "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse"
             } ],
@@ -8020,7 +8027,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2551",
+      "sync_transaction_version": "2559",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
