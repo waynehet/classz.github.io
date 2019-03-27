@@ -618,8 +618,11 @@
                      }, {
                         "date_added": "13193496018619283",
                         "id": "12070",
+                        "meta_info": {
+                           "last_visited": "13198105530937328"
+                        },
                         "name": "Liberating Structures - 6. TRIZ",
-                        "sync_transaction_version": "2399",
+                        "sync_transaction_version": "2561",
                         "type": "url",
                         "url": "http://www.liberatingstructures.com/6-making-space-with-triz/"
                      }, {
@@ -631,7 +634,7 @@
                         "url": "http://finding-marbles.com/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13193931089426196",
+                     "date_modified": "13198108883891341",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -2020,10 +2023,10 @@
                         "date_added": "13197929980831142",
                         "id": "12101",
                         "meta_info": {
-                           "last_visited": "13198021384701019"
+                           "last_visited": "13198030675079619"
                         },
                         "name": "[Experience Report] Service Delivery Agility Dashboard",
-                        "sync_transaction_version": "2559",
+                        "sync_transaction_version": "2560",
                         "type": "url",
                         "url": "https://medium.com/@shumanip/experience-report-service-delivery-agility-dashboard-388aa08c45e3"
                      } ],
@@ -6468,8 +6471,11 @@
             }, {
                "date_added": "13197119954464639",
                "id": "12097",
+               "meta_info": {
+                  "last_visited": "13198069675054539"
+               },
                "name": "BBC - Future - Are we on the road to civilisation collapse?",
-               "sync_transaction_version": "2552",
+               "sync_transaction_version": "2560",
                "type": "url",
                "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse"
             } ],
@@ -8027,7 +8033,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2559",
+      "sync_transaction_version": "2561",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
