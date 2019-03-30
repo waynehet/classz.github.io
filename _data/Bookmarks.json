@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13198249859024172"
+               "last_visited_desktop": "13198383486323141"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2563",
+            "sync_transaction_version": "2567",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -77,7 +77,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13198258344176866",
+         "date_modified": "13198353070821439",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -621,11 +621,8 @@
                      }, {
                         "date_added": "13193496018619283",
                         "id": "12070",
-                        "meta_info": {
-                           "last_visited": "13198105530937328"
-                        },
                         "name": "Liberating Structures - 6. TRIZ",
-                        "sync_transaction_version": "2561",
+                        "sync_transaction_version": "2565",
                         "type": "url",
                         "url": "http://www.liberatingstructures.com/6-making-space-with-triz/"
                      }, {
@@ -637,7 +634,7 @@
                         "url": "http://finding-marbles.com/"
                      } ],
                      "date_added": "13163364262836211",
-                     "date_modified": "13198108883891341",
+                     "date_modified": "13198353070822608",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "3",
@@ -984,8 +981,11 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
+                        "meta_info": {
+                           "last_visited": "13198354392872934"
+                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2509",
+                        "sync_transaction_version": "2566",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      }, {
@@ -1018,7 +1018,7 @@
                         "url": "https://www.tablegroup.com/books/dysfunctions"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13197477653035606",
+                     "date_modified": "13198354403210117",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -1124,11 +1124,8 @@
                   }, {
                      "date_added": "13120327256247675",
                      "id": "11788",
-                     "meta_info": {
-                        "last_visited_desktop": "13198015240589974"
-                     },
                      "name": "Hitler at a sprint review - YouTube",
-                     "sync_transaction_version": "2556",
+                     "sync_transaction_version": "2565",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=Q6jMgmPIxmk&feature=youtu.be"
                   }, {
@@ -1168,7 +1165,7 @@
                      "url": "https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation"
                   } ],
                   "date_added": "13163364262792464",
-                  "date_modified": "13191097274587664",
+                  "date_modified": "13198353070822611",
                   "id": "11539",
                   "name": "Scrum Master",
                   "sync_transaction_version": "3",
@@ -2025,11 +2022,8 @@
                      }, {
                         "date_added": "13197929980831142",
                         "id": "12101",
-                        "meta_info": {
-                           "last_visited": "13198030675079619"
-                        },
                         "name": "[Experience Report] Service Delivery Agility Dashboard",
-                        "sync_transaction_version": "2560",
+                        "sync_transaction_version": "2565",
                         "type": "url",
                         "url": "https://medium.com/@shumanip/experience-report-service-delivery-agility-dashboard-388aa08c45e3"
                      } ],
@@ -6474,11 +6468,8 @@
             }, {
                "date_added": "13197119954464639",
                "id": "12097",
-               "meta_info": {
-                  "last_visited": "13198194467360818"
-               },
                "name": "BBC - Future - Are we on the road to civilisation collapse?",
-               "sync_transaction_version": "2562",
+               "sync_transaction_version": "2565",
                "type": "url",
                "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse"
             } ],
@@ -7891,11 +7882,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13198278890027128"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2564",
+            "sync_transaction_version": "2565",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -8033,13 +8021,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13198278892434222",
+         "date_modified": "13198353070822596",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2564",
+      "sync_transaction_version": "2567",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
