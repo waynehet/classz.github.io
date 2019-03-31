@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13198383486323141"
+               "last_visited_desktop": "13198449969317175"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2567",
+            "sync_transaction_version": "2569",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -22,8 +22,11 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
+            "meta_info": {
+               "last_visited_desktop": "13198462504520734"
+            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "2312",
+            "sync_transaction_version": "2583",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -3271,8 +3274,11 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
+                     "meta_info": {
+                        "last_visited_desktop": "13198462504520734"
+                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "2312",
+                     "sync_transaction_version": "2584",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -6483,8 +6489,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited_desktop": "13198457805494158"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "2358",
+               "sync_transaction_version": "2578",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6497,8 +6506,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13198450195154737"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2487",
+               "sync_transaction_version": "2570",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7882,8 +7894,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13198463629611797"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2565",
+            "sync_transaction_version": "2586",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7966,8 +7981,11 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
+            "meta_info": {
+               "last_visited": "13198449183252388"
+            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2509",
+            "sync_transaction_version": "2568",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -8021,13 +8039,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13198353070822596",
+         "date_modified": "13198449188546180",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2567",
+      "sync_transaction_version": "2586",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
