@@ -6,10 +6,10 @@
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13198449969317175"
+               "last_visited_desktop": "13198510166702449"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2569",
+            "sync_transaction_version": "2587",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -8045,7 +8045,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2586",
+      "sync_transaction_version": "2587",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
