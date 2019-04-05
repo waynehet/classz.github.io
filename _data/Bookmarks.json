@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13198510166702449"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2587",
+            "sync_transaction_version": "2590",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -22,11 +19,8 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
-            "meta_info": {
-               "last_visited_desktop": "13198462504520734"
-            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "2583",
+            "sync_transaction_version": "2590",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -80,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13198353070821439",
+         "date_modified": "13198888478100515",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -984,11 +978,8 @@
                      }, {
                         "date_added": "13188575262037720",
                         "id": "12035",
-                        "meta_info": {
-                           "last_visited": "13198354392872934"
-                        },
                         "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
-                        "sync_transaction_version": "2566",
+                        "sync_transaction_version": "2590",
                         "type": "url",
                         "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
                      }, {
@@ -1021,7 +1012,7 @@
                         "url": "https://www.tablegroup.com/books/dysfunctions"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13198354403210117",
+                     "date_modified": "13198888478101963",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -3274,11 +3265,8 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
-                     "meta_info": {
-                        "last_visited_desktop": "13198462504520734"
-                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "2584",
+                     "sync_transaction_version": "2590",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -3325,7 +3313,7 @@
                      "url": "http://queue.acm.org/index.cfm"
                   } ],
                   "date_added": "13163364262741030",
-                  "date_modified": "13191097274583985",
+                  "date_modified": "13198888478100513",
                   "id": "11249",
                   "name": "ACM",
                   "sync_transaction_version": "3",
@@ -6489,11 +6477,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13198457805494158"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "2578",
+               "sync_transaction_version": "2590",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6506,16 +6491,13 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13198450195154737"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2570",
+               "sync_transaction_version": "2590",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13192554673623941",
+            "date_modified": "13198888478100502",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7887,21 +7869,15 @@
          }, {
             "date_added": "13120327254955414",
             "id": "10790",
-            "meta_info": {
-               "last_visited": "13198800840741404"
-            },
             "name": "Worldwide Association of Jehovah’s Witnesses",
-            "sync_transaction_version": "2589",
+            "sync_transaction_version": "2590",
             "type": "url",
             "url": "http://www.jw.org/en/"
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13198635973475061"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2588",
+            "sync_transaction_version": "2590",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7984,11 +7960,8 @@
          }, {
             "date_added": "13120327254997275",
             "id": "10805",
-            "meta_info": {
-               "last_visited": "13198449183252388"
-            },
             "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "2568",
+            "sync_transaction_version": "2590",
             "type": "url",
             "url": "http://www.simcoecountyschoolbus.ca/"
          }, {
@@ -8042,13 +8015,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13198800847914833",
+         "date_modified": "13198888478101960",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2589",
+      "sync_transaction_version": "2590",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
