@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13199330430422467"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2590",
+            "sync_transaction_version": "2597",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -7917,8 +7920,11 @@
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
+            "meta_info": {
+               "last_visited_desktop": "13199329655940949"
+            },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "2474",
+            "sync_transaction_version": "2596",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -8027,7 +8033,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2594",
+      "sync_transaction_version": "2597",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
