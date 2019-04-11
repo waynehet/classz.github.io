@@ -5,21 +5,15 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13199330430422467"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2597",
+            "sync_transaction_version": "2601",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
             "date_added": "13125791734385629",
             "id": "9631",
-            "meta_info": {
-               "last_visited_desktop": "13199241601730743"
-            },
             "name": "Scrum Alliance",
-            "sync_transaction_version": "2593",
+            "sync_transaction_version": "2601",
             "type": "url",
             "url": "https://www.scrumalliance.org/"
          }, {
@@ -67,8 +61,11 @@
          }, {
             "date_added": "13171303135781284",
             "id": "11940",
+            "meta_info": {
+               "last_visited_desktop": "13199412688281418"
+            },
             "name": "Meeting Audio",
-            "sync_transaction_version": "2015",
+            "sync_transaction_version": "2606",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          }, {
@@ -80,7 +77,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13198888478100515",
+         "date_modified": "13199378399790714",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7855,7 +7852,7 @@
                "date_added": "13183737974087021",
                "id": "12013",
                "name": "The Doctor Blake Mysteries: Family Portrait",
-               "sync_transaction_version": "2487",
+               "sync_transaction_version": "2601",
                "type": "url",
                "url": "https://putlockerhd9.com/watch-the-doctor-blake-mysteries-family-portrait-film10910.html"
             }, {
@@ -7867,7 +7864,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13163364262662879",
-            "date_modified": "13197477653035600",
+            "date_modified": "13199378399791299",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "3",
@@ -7882,11 +7879,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13199243993746873"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2594",
+            "sync_transaction_version": "2601",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7920,11 +7914,8 @@
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
-            "meta_info": {
-               "last_visited_desktop": "13199329655940949"
-            },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "2596",
+            "sync_transaction_version": "2601",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -8027,13 +8018,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13198888478101960",
+         "date_modified": "13199378399791298",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2597",
+      "sync_transaction_version": "2606",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
