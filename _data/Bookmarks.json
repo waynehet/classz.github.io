@@ -61,11 +61,8 @@
          }, {
             "date_added": "13171303135781284",
             "id": "11940",
-            "meta_info": {
-               "last_visited_desktop": "13199412688281418"
-            },
             "name": "Meeting Audio",
-            "sync_transaction_version": "2606",
+            "sync_transaction_version": "2608",
             "type": "url",
             "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          }, {
@@ -77,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13199378399790714",
+         "date_modified": "13199459615729388",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -7915,7 +7912,7 @@
             "date_added": "13120327254972422",
             "id": "10798",
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "2601",
+            "sync_transaction_version": "2608",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -8018,13 +8015,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13199378399791298",
+         "date_modified": "13199459615729390",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2606",
+      "sync_transaction_version": "2608",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
