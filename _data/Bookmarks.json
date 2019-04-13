@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13199558171669594"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2601",
+            "sync_transaction_version": "2609",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -7876,8 +7879,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13199579426699200"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2601",
+            "sync_transaction_version": "2611",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -8021,7 +8027,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2608",
+      "sync_transaction_version": "2611",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
