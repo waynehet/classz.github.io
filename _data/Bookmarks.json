@@ -1,12 +1,15 @@
 {
-   "checksum": "9d611ce6a91bf2274e165c318e553820",
+   "checksum": "814378dfc07e3eed7b3ad2bd326ed061",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13199938916997303"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2613",
+            "sync_transaction_version": "2616",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2022,7 +2025,7 @@
                         "url": "https://medium.com/@shumanip/experience-report-service-delivery-agility-dashboard-388aa08c45e3"
                      } ],
                      "date_added": "13163364262809704",
-                     "date_modified": "13197929980831142",
+                     "date_modified": "13199924255899628",
                      "id": "11630",
                      "name": "Metrics",
                      "sync_transaction_version": "3",
@@ -6466,9 +6469,19 @@
                "sync_transaction_version": "2565",
                "type": "url",
                "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse"
+            }, {
+               "date_added": "13199924255899628",
+               "id": "12103",
+               "meta_info": {
+                  "last_visited": "13199924255904852"
+               },
+               "name": "Cognitive Biases: The Ultimate List of Human Irrational Decisions",
+               "sync_transaction_version": "2615",
+               "type": "url",
+               "url": "https://humanhow.com/en/list-of-cognitive-biases-with-examples/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13197578572974060",
+            "date_modified": "13199924303064913",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -8021,7 +8034,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2613",
+      "sync_transaction_version": "2616",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
