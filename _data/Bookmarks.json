@@ -1,5 +1,5 @@
 {
-   "checksum": "814378dfc07e3eed7b3ad2bd326ed061",
+   "checksum": "a02384e8857094123ec2f1cc2ec28a8b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6479,9 +6479,29 @@
                "sync_transaction_version": "2615",
                "type": "url",
                "url": "https://humanhow.com/en/list-of-cognitive-biases-with-examples/"
+            }, {
+               "date_added": "13200285757966847",
+               "id": "12105",
+               "meta_info": {
+                  "last_visited": "13200285757969459"
+               },
+               "name": "ClassZ Agile",
+               "sync_transaction_version": "2617",
+               "type": "url",
+               "url": "https://classz.ca/"
+            }, {
+               "date_added": "13200285769060957",
+               "id": "12106",
+               "meta_info": {
+                  "last_visited": "13200286866041434"
+               },
+               "name": "Agile2019: Schedule",
+               "sync_transaction_version": "2617",
+               "type": "url",
+               "url": "https://agile2019.sched.com/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13199924303064913",
+            "date_modified": "13200285769060957",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -8034,7 +8054,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2616",
+      "sync_transaction_version": "2617",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
