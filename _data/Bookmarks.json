@@ -2675,8 +2675,11 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
+                     "meta_info": {
+                        "last_visited": "13200427928813203"
+                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "2509",
+                     "sync_transaction_version": "2618",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2765,7 +2768,7 @@
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13196389859552919",
+                  "date_modified": "13200539472670570",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -6483,10 +6486,10 @@
                "date_added": "13200285757966847",
                "id": "12105",
                "meta_info": {
-                  "last_visited": "13200285757969459"
+                  "last_visited": "13200505780603087"
                },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2617",
+               "sync_transaction_version": "2618",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
@@ -6501,7 +6504,7 @@
                "url": "https://agile2019.sched.com/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13200285769060957",
+            "date_modified": "13200539472670572",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -8054,7 +8057,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2617",
+      "sync_transaction_version": "2618",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
