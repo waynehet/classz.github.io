@@ -6489,10 +6489,10 @@
                "date_added": "13200285757966847",
                "id": "12105",
                "meta_info": {
-                  "last_visited": "13200505780603087"
+                  "last_visited": "13200690942441538"
                },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2618",
+               "sync_transaction_version": "2620",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
@@ -6507,7 +6507,7 @@
                "url": "https://agile2019.sched.com/"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13200539472670572",
+            "date_modified": "13200708781420880",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -6530,8 +6530,11 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
+               "meta_info": {
+                  "last_visited_desktop": "13200708787455281"
+               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2590",
+               "sync_transaction_version": "2621",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
@@ -7915,8 +7918,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13200710722326097"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2613",
+            "sync_transaction_version": "2624",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7950,8 +7956,11 @@
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
+            "meta_info": {
+               "last_visited_desktop": "13200710610670656"
+            },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "2608",
+            "sync_transaction_version": "2623",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
@@ -8060,7 +8069,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2619",
+      "sync_transaction_version": "2624",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
