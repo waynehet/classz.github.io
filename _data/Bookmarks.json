@@ -1,15 +1,15 @@
 {
-   "checksum": "a02384e8857094123ec2f1cc2ec28a8b",
+   "checksum": "431dc32eef6c091a72384935029e3386",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13199938916997303"
+               "last_visited_desktop": "13201143043318480"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2616",
+            "sync_transaction_version": "2627",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -137,14 +137,14 @@
                      "date_added": "13120327255243828",
                      "id": "11862",
                      "name": "Scrum Alliance - Transforming the World of Work",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "2640",
                      "type": "url",
                      "url": "http://www.scrumalliance.org/"
                   }, {
                      "date_added": "13120327255245383",
                      "id": "11863",
                      "name": "Scrum.org | Training, Assessments, Certifications - Scrum.org",
-                     "sync_transaction_version": "1333",
+                     "sync_transaction_version": "2641",
                      "type": "url",
                      "url": "http://www.scrum.org/"
                   }, {
@@ -1586,7 +1586,7 @@
                      "date_added": "13120327256258059",
                      "id": "11688",
                      "name": "Scrum Alliance - New to User Stories?Written for the Scrum Alliance. A CSP’s perspective on user stories, requirements, and use cases",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "2642",
                      "type": "url",
                      "url": "http://www.scrumalliance.org/articles/169-new-to-user-stories"
                   }, {
@@ -1691,7 +1691,7 @@
                      "date_added": "13120327256282746",
                      "id": "11703",
                      "name": "Agile User Stories - Scrum Alliance",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "2643",
                      "type": "url",
                      "url": "https://www.scrumalliance.org/community/articles/2013/september/agile-user-stories"
                   }, {
@@ -3033,8 +3033,11 @@
                }, {
                   "date_added": "13120327255252935",
                   "id": "11548",
+                  "meta_info": {
+                     "last_visited_desktop": "13201144226489963"
+                  },
                   "name": "Scrum Pattern Community",
-                  "sync_transaction_version": "3",
+                  "sync_transaction_version": "2639",
                   "type": "url",
                   "url": "http://www.scrumplop.org/"
                }, {
@@ -6505,9 +6508,19 @@
                "sync_transaction_version": "2617",
                "type": "url",
                "url": "https://agile2019.sched.com/"
+            }, {
+               "date_added": "13201144189542093",
+               "id": "12108",
+               "meta_info": {
+                  "last_visited_desktop": "13201144189542592"
+               },
+               "name": "Release Plan - Published Patterns",
+               "sync_transaction_version": "2636",
+               "type": "url",
+               "url": "https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13200708781420880",
+            "date_modified": "13201144189542093",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -8069,7 +8082,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2624",
+      "sync_transaction_version": "2643",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
