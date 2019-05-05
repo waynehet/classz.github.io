@@ -57,3 +57,5 @@ published: true
 "We don’t see things as they are; we see them as we are." - Anaïs Nin
 
 “We are defined by what we tolerate" - Marilyn Carlson Nelson
+
+"People don't resist change, they resist being changed" - Peter Scholtes
