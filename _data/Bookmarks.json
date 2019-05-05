@@ -6498,10 +6498,11 @@
                "date_added": "13200285757966847",
                "id": "12105",
                "meta_info": {
-                  "last_visited": "13200690942441538"
+                  "last_visited": "13200690942441538",
+                  "last_visited_desktop": "13201318948207275"
                },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2620",
+               "sync_transaction_version": "2650",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
@@ -6535,8 +6536,11 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
+               "meta_info": {
+                  "last_visited_desktop": "13201484466499161"
+               },
                "name": "CRA login services",
-               "sync_transaction_version": "2590",
+               "sync_transaction_version": "2658",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -7938,10 +7942,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13200710722326097"
+               "last_visited_desktop": "13201484462320521"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2624",
+            "sync_transaction_version": "2656",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7985,8 +7989,11 @@
          }, {
             "date_added": "13120327254975269",
             "id": "10799",
+            "meta_info": {
+               "last_visited_desktop": "13201319100025197"
+            },
             "name": "PowerStream Residential Home Page",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "2652",
             "type": "url",
             "url": "https://www.powerstream.ca/app/pages/RESWELCOME.jsp"
          }, {
@@ -8088,7 +8095,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2646",
+      "sync_transaction_version": "2658",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
