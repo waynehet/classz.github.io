@@ -5,11 +5,8 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
-            "meta_info": {
-               "last_visited_desktop": "13201143043318480"
-            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2627",
+            "sync_transaction_version": "2659",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -22,11 +19,8 @@
          }, {
             "date_added": "13120327255016345",
             "id": "9632",
-            "meta_info": {
-               "last_visited_desktop": "13201219091731913"
-            },
             "name": "Association for Computing Machinery",
-            "sync_transaction_version": "2644",
+            "sync_transaction_version": "2659",
             "type": "url",
             "url": "http://www.acm.org/"
          }, {
@@ -60,11 +54,8 @@
          }, {
             "date_added": "13165343496460990",
             "id": "11873",
-            "meta_info": {
-               "last_visited_desktop": "13200595056229840"
-            },
             "name": "SolarMovie - Watch FREE Movies Online & TV Series & Anime Online",
-            "sync_transaction_version": "2619",
+            "sync_transaction_version": "2659",
             "type": "url",
             "url": "http://solarmovie.net/"
          }, {
@@ -83,7 +74,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13199809738755198",
+         "date_modified": "13201705404565076",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -2681,11 +2672,8 @@
                   "children": [ {
                      "date_added": "13120327256395079",
                      "id": "11594",
-                     "meta_info": {
-                        "last_visited": "13200427928813203"
-                     },
                      "name": "TastyCupcakes.org",
-                     "sync_transaction_version": "2618",
+                     "sync_transaction_version": "2659",
                      "type": "url",
                      "url": "http://tastycupcakes.org/"
                   }, {
@@ -2774,7 +2762,7 @@
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13200539472670570",
+                  "date_modified": "13201705404563566",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -3036,11 +3024,8 @@
                }, {
                   "date_added": "13120327255252935",
                   "id": "11548",
-                  "meta_info": {
-                     "last_visited_desktop": "13201144226489963"
-                  },
                   "name": "Scrum Pattern Community",
-                  "sync_transaction_version": "2639",
+                  "sync_transaction_version": "2659",
                   "type": "url",
                   "url": "http://www.scrumplop.org/"
                }, {
@@ -3129,7 +3114,7 @@
                   "url": "https://www.ribbonfarm.com/2017/02/21/prescientific-organizational-theory/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13175201662985703",
+               "date_modified": "13201705404566694",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -3280,11 +3265,8 @@
                   "children": [ {
                      "date_added": "13120327256474148",
                      "id": "11467",
-                     "meta_info": {
-                        "last_visited_desktop": "13201219091731913"
-                     },
                      "name": "Association for Computing Machinery",
-                     "sync_transaction_version": "2646",
+                     "sync_transaction_version": "2659",
                      "type": "url",
                      "url": "http://www.acm.org/"
                   }, {
@@ -3331,7 +3313,7 @@
                      "url": "http://queue.acm.org/index.cfm"
                   } ],
                   "date_added": "13163364262741030",
-                  "date_modified": "13198888478100513",
+                  "date_modified": "13201705404563564",
                   "id": "11249",
                   "name": "ACM",
                   "sync_transaction_version": "3",
@@ -6487,47 +6469,37 @@
             }, {
                "date_added": "13199924255899628",
                "id": "12103",
-               "meta_info": {
-                  "last_visited": "13199924255904852"
-               },
                "name": "Cognitive Biases: The Ultimate List of Human Irrational Decisions",
-               "sync_transaction_version": "2615",
+               "sync_transaction_version": "2659",
                "type": "url",
                "url": "https://humanhow.com/en/list-of-cognitive-biases-with-examples/"
             }, {
                "date_added": "13200285757966847",
                "id": "12105",
                "meta_info": {
-                  "last_visited": "13200690942441538",
-                  "last_visited_desktop": "13201318948207275"
+                  "last_visited": "13201806469740513"
                },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2650",
+               "sync_transaction_version": "2660",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
                "date_added": "13200285769060957",
                "id": "12106",
-               "meta_info": {
-                  "last_visited": "13200286866041434"
-               },
                "name": "Agile2019: Schedule",
-               "sync_transaction_version": "2617",
+               "sync_transaction_version": "2659",
                "type": "url",
                "url": "https://agile2019.sched.com/"
             }, {
                "date_added": "13201144189542093",
                "id": "12108",
-               "meta_info": {
-                  "last_visited_desktop": "13201144189542592"
-               },
                "name": "Release Plan - Published Patterns",
-               "sync_transaction_version": "2636",
+               "sync_transaction_version": "2659",
                "type": "url",
                "url": "https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13201144189542093",
+            "date_modified": "13201840656695120",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -6536,11 +6508,8 @@
             "children": [ {
                "date_added": "13019147935143000",
                "id": "11011",
-               "meta_info": {
-                  "last_visited_desktop": "13201484466499161"
-               },
                "name": "CRA login services",
-               "sync_transaction_version": "2658",
+               "sync_transaction_version": "2659",
                "type": "url",
                "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-eng.html"
             }, {
@@ -6553,16 +6522,13 @@
             }, {
                "date_added": "13039909004176784",
                "id": "11014",
-               "meta_info": {
-                  "last_visited_desktop": "13200708787455281"
-               },
                "name": "G&G Partnership, LLP",
-               "sync_transaction_version": "2621",
+               "sync_transaction_version": "2659",
                "type": "url",
                "url": "https://cchportal.ca/portalthin/"
             } ],
             "date_added": "13163364262662865",
-            "date_modified": "13198888478100502",
+            "date_modified": "13201705404563554",
             "id": "10788",
             "name": "85377504 Canada Inc",
             "sync_transaction_version": "3",
@@ -7941,11 +7907,8 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
-            "meta_info": {
-               "last_visited_desktop": "13201484462320521"
-            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2656",
+            "sync_transaction_version": "2659",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -7979,21 +7942,15 @@
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
-            "meta_info": {
-               "last_visited_desktop": "13200710610670656"
-            },
             "name": "Enbridge Gas Distribution",
-            "sync_transaction_version": "2623",
+            "sync_transaction_version": "2659",
             "type": "url",
             "url": "https://www.enbridgegas.com/myEnbridge/login.aspx"
          }, {
             "date_added": "13120327254975269",
             "id": "10799",
-            "meta_info": {
-               "last_visited_desktop": "13201319100025197"
-            },
             "name": "PowerStream Residential Home Page",
-            "sync_transaction_version": "2652",
+            "sync_transaction_version": "2659",
             "type": "url",
             "url": "https://www.powerstream.ca/app/pages/RESWELCOME.jsp"
          }, {
@@ -8089,13 +8046,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13199809738756338",
+         "date_modified": "13201705404566691",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2658",
+      "sync_transaction_version": "2660",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
