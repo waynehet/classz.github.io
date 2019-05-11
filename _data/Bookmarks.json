@@ -3135,10 +3135,10 @@
                   "date_added": "13201909239993518",
                   "id": "12111",
                   "meta_info": {
-                     "last_visited": "13201909302741561"
+                     "last_visited": "13202002320394393"
                   },
                   "name": "Digital Future of Banking Requires New Leadership Model",
-                  "sync_transaction_version": "2661",
+                  "sync_transaction_version": "2664",
                   "type": "url",
                   "url": "https://thefinancialbrand.com/81901/future-digital-banking-leadership-model/"
                } ],
@@ -8087,7 +8087,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2661",
+      "sync_transaction_version": "2664",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
