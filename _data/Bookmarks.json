@@ -223,11 +223,8 @@
                      }, {
                         "date_added": "13170691517063337",
                         "id": "11938",
-                        "meta_info": {
-                           "last_visited": "13201896513589319"
-                        },
                         "name": "How to Hire an Agile Coach - Jason Little",
-                        "sync_transaction_version": "2661",
+                        "sync_transaction_version": "2665",
                         "type": "url",
                         "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
                      }, {
@@ -240,11 +237,8 @@
                      }, {
                         "date_added": "13173359966002569",
                         "id": "11959",
-                        "meta_info": {
-                           "last_visited": "13201896421830758"
-                        },
                         "name": "Agile Leaders as Coaches - The Key to Successful Agile Transformations - CC Pace",
-                        "sync_transaction_version": "2661",
+                        "sync_transaction_version": "2665",
                         "type": "url",
                         "url": "http://www.ccpace.com/agile-leaders-as-coaches-the-key-to-successful-agile-transformations/"
                      }, {
@@ -278,11 +272,8 @@
                      }, {
                         "date_added": "13176160687205934",
                         "id": "11981",
-                        "meta_info": {
-                           "last_visited": "13201896407961578"
-                        },
                         "name": "7 Habits of Highly Empathetic Coaches - DZone Agile",
-                        "sync_transaction_version": "2661",
+                        "sync_transaction_version": "2665",
                         "type": "url",
                         "url": "https://dzone.com/articles/agile-transformation-for-non-it-teams"
                      }, {
@@ -322,7 +313,7 @@
                         "url": "https://www.youtube.com/watch?v=CrpnyIjQb5I&feature=youtu.be"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13201919775588702",
+                     "date_modified": "13202143431423590",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -3124,26 +3115,23 @@
                }, {
                   "date_added": "13201886040355364",
                   "id": "12110",
-                  "meta_info": {
-                     "last_visited": "13201886040358783"
-                  },
                   "name": "7 Gestalt Principles of Visual Perception | UserTesting Blog",
-                  "sync_transaction_version": "2661",
+                  "sync_transaction_version": "2665",
                   "type": "url",
                   "url": "https://www.usertesting.com/blog/gestalt-principles/"
                }, {
                   "date_added": "13201909239993518",
                   "id": "12111",
                   "meta_info": {
-                     "last_visited": "13202002320394393"
+                     "last_visited": "13202168383521416"
                   },
                   "name": "Digital Future of Banking Requires New Leadership Model",
-                  "sync_transaction_version": "2664",
+                  "sync_transaction_version": "2668",
                   "type": "url",
                   "url": "https://thefinancialbrand.com/81901/future-digital-banking-leadership-model/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13201909239993518",
+               "date_modified": "13202143431423434",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -6505,11 +6493,8 @@
             }, {
                "date_added": "13200285757966847",
                "id": "12105",
-               "meta_info": {
-                  "last_visited": "13201886861148592"
-               },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2661",
+               "sync_transaction_version": "2665",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
@@ -6528,7 +6513,7 @@
                "url": "https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13201919775588703",
+            "date_modified": "13202143431423591",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7957,21 +7942,15 @@
          }, {
             "date_added": "13120327254966096",
             "id": "10795",
-            "meta_info": {
-               "last_visited": "13201890372996149"
-            },
             "name": "Capital One Mastercard",
-            "sync_transaction_version": "2661",
+            "sync_transaction_version": "2665",
             "type": "url",
             "url": "https://servicing.capitalone.com/c1/login.aspx?CountryCode=CA"
          }, {
             "date_added": "13120327254967695",
             "id": "10796",
-            "meta_info": {
-               "last_visited": "13201890386491159"
-            },
             "name": "MBNA Mastercard",
-            "sync_transaction_version": "2661",
+            "sync_transaction_version": "2665",
             "type": "url",
             "url": "http://www.mbna.ca/index.html"
          }, {
@@ -8081,13 +8060,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13201919775588700",
+         "date_modified": "13202143431423589",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2664",
+      "sync_transaction_version": "2668",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
