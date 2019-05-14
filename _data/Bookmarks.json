@@ -1,5 +1,5 @@
 {
-   "checksum": "c2fe0599d0b546917492b80215dd2522",
+   "checksum": "1346bfbbf69ce11986330db297b580f5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -311,9 +311,19 @@
                         "sync_transaction_version": "2425",
                         "type": "url",
                         "url": "https://www.youtube.com/watch?v=CrpnyIjQb5I&feature=youtu.be"
+                     }, {
+                        "date_added": "13202228345214095",
+                        "id": "12113",
+                        "meta_info": {
+                           "last_visited": "13202253310947610"
+                        },
+                        "name": "Using Brainwriting For Rapid Idea Generation — Smashing Magazine",
+                        "sync_transaction_version": "2676",
+                        "type": "url",
+                        "url": "https://www.smashingmagazine.com/2013/12/using-brainwriting-for-rapid-idea-generation/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13202143431423590",
+                     "date_modified": "13202228423301950",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "833",
@@ -3123,15 +3133,15 @@
                   "date_added": "13201909239993518",
                   "id": "12111",
                   "meta_info": {
-                     "last_visited": "13202168383521416"
+                     "last_visited": "13202229348118394"
                   },
                   "name": "Digital Future of Banking Requires New Leadership Model",
-                  "sync_transaction_version": "2668",
+                  "sync_transaction_version": "2673",
                   "type": "url",
                   "url": "https://thefinancialbrand.com/81901/future-digital-banking-leadership-model/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13202143431423434",
+               "date_modified": "13202228345214095",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -6493,8 +6503,11 @@
             }, {
                "date_added": "13200285757966847",
                "id": "12105",
+               "meta_info": {
+                  "last_visited": "13202234964738544"
+               },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2665",
+               "sync_transaction_version": "2675",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
@@ -6513,7 +6526,7 @@
                "url": "https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13202143431423591",
+            "date_modified": "13202234968321107",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -8066,7 +8079,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2668",
+      "sync_transaction_version": "2676",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
