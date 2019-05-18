@@ -1,5 +1,5 @@
 {
-   "checksum": "1346bfbbf69ce11986330db297b580f5",
+   "checksum": "e4cf243f0dd24d34a499f0a58206864e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1020,9 +1020,19 @@
                         "sync_transaction_version": "2518",
                         "type": "url",
                         "url": "https://www.tablegroup.com/books/dysfunctions"
+                     }, {
+                        "date_added": "13202354554215832",
+                        "id": "12116",
+                        "meta_info": {
+                           "last_visited": "13202357575079102"
+                        },
+                        "name": "Six Ways a Scrum Master or Agile Coach Can Help the Team",
+                        "sync_transaction_version": "2677",
+                        "type": "url",
+                        "url": "https://www.mountaingoatsoftware.com/blog/six-things-your-team-wants-from-you-as-their-scrum-master"
                      } ],
                      "date_added": "13163364262836260",
-                     "date_modified": "13199239801244762",
+                     "date_modified": "13202354554215832",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "3",
@@ -2770,9 +2780,19 @@
                      "sync_transaction_version": "2474",
                      "type": "url",
                      "url": "https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf"
+                  }, {
+                     "date_added": "13202586076903532",
+                     "id": "12115",
+                     "meta_info": {
+                        "last_visited": "13202586076906427"
+                     },
+                     "name": "User story mapping games – Kateřina Mňuková – Medium",
+                     "sync_transaction_version": "2677",
+                     "type": "url",
+                     "url": "https://medium.com/@katerina_mnuk/user-story-mapping-games-ab885871c535"
                   } ],
                   "date_added": "13163364262792593",
-                  "date_modified": "13201705404563566",
+                  "date_modified": "13202586076903532",
                   "id": "11544",
                   "name": "Agile Games",
                   "sync_transaction_version": "3",
@@ -3125,8 +3145,11 @@
                }, {
                   "date_added": "13201886040355364",
                   "id": "12110",
+                  "meta_info": {
+                     "last_visited": "13202610919901306"
+                  },
                   "name": "7 Gestalt Principles of Visual Perception | UserTesting Blog",
-                  "sync_transaction_version": "2665",
+                  "sync_transaction_version": "2678",
                   "type": "url",
                   "url": "https://www.usertesting.com/blog/gestalt-principles/"
                }, {
@@ -3141,7 +3164,7 @@
                   "url": "https://thefinancialbrand.com/81901/future-digital-banking-leadership-model/"
                } ],
                "date_added": "13163364262698646",
-               "date_modified": "13202228345214095",
+               "date_modified": "13202612630003768",
                "id": "11015",
                "name": "Agile",
                "sync_transaction_version": "3",
@@ -7934,8 +7957,11 @@
          }, {
             "date_added": "13120327254960790",
             "id": "10792",
+            "meta_info": {
+               "last_visited_desktop": "13202424987273993"
+            },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2659",
+            "sync_transaction_version": "2677",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -8073,13 +8099,13 @@
             "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13202143431423589",
+         "date_modified": "13202604654955073",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2676",
+      "sync_transaction_version": "2678",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
