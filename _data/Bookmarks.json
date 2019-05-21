@@ -5,8 +5,11 @@
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
+            "meta_info": {
+               "last_visited_desktop": "13202868254353958"
+            },
             "name": "LinkedIn",
-            "sync_transaction_version": "2659",
+            "sync_transaction_version": "2686",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2808,8 +2811,11 @@
                   }, {
                      "date_added": "13137773048687039",
                      "id": "11580",
+                     "meta_info": {
+                        "last_visited_desktop": "13202860191932440"
+                     },
                      "name": "The Rise Of Zombie Scrum",
-                     "sync_transaction_version": "3",
+                     "sync_transaction_version": "2683",
                      "type": "url",
                      "url": "http://blog.agilistic.nl/the-rise-of-zombie-scrum/"
                   }, {
@@ -7958,10 +7964,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13202424987273993"
+               "last_visited_desktop": "13202832114827685"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2677",
+            "sync_transaction_version": "2679",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -8105,7 +8111,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2678",
+      "sync_transaction_version": "2686",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
