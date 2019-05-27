@@ -1,15 +1,15 @@
 {
-   "checksum": "e4cf243f0dd24d34a499f0a58206864e",
+   "checksum": "13e1a6c74d453bea7af9fdf155e264ca",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
-               "last_visited_desktop": "13202868254353958"
+               "last_visited_desktop": "13203359125526857"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "2686",
+            "sync_transaction_version": "2692",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2916,9 +2916,19 @@
                      "sync_transaction_version": "2509",
                      "type": "url",
                      "url": "https://age-of-product.com/technical-debt-scrum/?cn-reloaded=1"
+                  }, {
+                     "date_added": "13203355553725818",
+                     "id": "12118",
+                     "meta_info": {
+                        "last_visited": "13203355553729138"
+                     },
+                     "name": "Understanding Fake Agile",
+                     "sync_transaction_version": "2688",
+                     "type": "url",
+                     "url": "https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/"
                   } ],
                   "date_added": "13163364262792614",
-                  "date_modified": "13195929108559233",
+                  "date_modified": "13203355553725818",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "3",
@@ -6533,10 +6543,11 @@
                "date_added": "13200285757966847",
                "id": "12105",
                "meta_info": {
-                  "last_visited": "13202234964738544"
+                  "last_visited": "13202234964738544",
+                  "last_visited_desktop": "13203354849169841"
                },
                "name": "ClassZ Agile",
-               "sync_transaction_version": "2675",
+               "sync_transaction_version": "2688",
                "type": "url",
                "url": "https://classz.ca/"
             }, {
@@ -6555,7 +6566,7 @@
                "url": "https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan"
             } ],
             "date_added": "13163364262662530",
-            "date_modified": "13202234968321107",
+            "date_modified": "13203357185334729",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "3",
@@ -7964,10 +7975,10 @@
             "date_added": "13120327254960790",
             "id": "10792",
             "meta_info": {
-               "last_visited_desktop": "13202832114827685"
+               "last_visited_desktop": "13203350714677543"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "2679",
+            "sync_transaction_version": "2687",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
          }, {
@@ -8111,7 +8122,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2686",
+      "sync_transaction_version": "2692",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
