@@ -2920,10 +2920,10 @@
                      "date_added": "13203355553725818",
                      "id": "12118",
                      "meta_info": {
-                        "last_visited": "13203481221387401"
+                        "last_visited": "13203547908769980"
                      },
                      "name": "Understanding Fake Agile",
-                     "sync_transaction_version": "2693",
+                     "sync_transaction_version": "2695",
                      "type": "url",
                      "url": "https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/"
                   } ],
@@ -8122,7 +8122,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2693",
+      "sync_transaction_version": "2695",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
