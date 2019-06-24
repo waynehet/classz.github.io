@@ -8016,7 +8016,7 @@
             "date_added": "13120327254963097",
             "id": "10793",
             "name": "Sign in to Scotiabank Digital Banking Services",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "3",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
          }, {
@@ -8156,7 +8156,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2",
+      "sync_transaction_version": "3",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
