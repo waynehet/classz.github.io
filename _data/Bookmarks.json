@@ -1,5 +1,5 @@
 {
-   "checksum": "bc5c07e864241702ea892b2bb68adf45",
+   "checksum": "0966fcfc4acc8e1b1477310771dffe42",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1940,7 +1940,7 @@
                         "url": "https://medium.com/serious-scrum/user-story-mapping-and-probabilistic-forecasting-4100832c09a"
                      } ],
                      "date_added": "13120327256298101",
-                     "date_modified": "13206382555507108",
+                     "date_modified": "13206586589748579",
                      "id": "11629",
                      "name": "Planning",
                      "sync_transaction_version": "1",
@@ -8016,9 +8016,16 @@
                "last_visited_desktop": "13204654546354888"
             },
             "name": "CIBC Online Banking",
-            "sync_transaction_version": "4",
+            "sync_transaction_version": "19",
             "type": "url",
             "url": "https://www.cibconline.cibc.com/olbtxn/authentication/PreSignOn.cibc?locale=en_CA"
+         }, {
+            "date_added": "13206586589748579",
+            "id": "12124",
+            "name": "RBC Royal Bank - Sign In to Online Banking",
+            "sync_transaction_version": "24",
+            "type": "url",
+            "url": "https://www1.royalbank.com/cgi-bin/rbaccess/rbcgi3m01?F6=1&F7=IB&F21=IB&F22=IB&REQUEST=ClientSignin&LANGUAGE=ENGLISH&_ga=2.181791207.1742166534.1562112969-1485882331.1556588001"
          }, {
             "date_added": "13120327254963097",
             "id": "10793",
@@ -8026,27 +8033,6 @@
             "sync_transaction_version": "3",
             "type": "url",
             "url": "https://www1.scotiaonline.scotiabank.com/online/authentication/authentication.bns"
-         }, {
-            "date_added": "13120327254964558",
-            "id": "10794",
-            "name": "President's Choice Financial",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "https://www.txn.banking.pcfinancial.ca/ams/PreSignon.ams?tpcfa=set"
-         }, {
-            "date_added": "13120327254966096",
-            "id": "10795",
-            "name": "Capital One Mastercard",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "https://servicing.capitalone.com/c1/login.aspx?CountryCode=CA"
-         }, {
-            "date_added": "13120327254967695",
-            "id": "10796",
-            "name": "MBNA Mastercard",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://www.mbna.ca/index.html"
          }, {
             "date_added": "13120327254972422",
             "id": "10798",
@@ -8086,84 +8072,21 @@
             "type": "url",
             "url": "https://www.amazon.ca/gp/digital/fiona/manage/177-9577700-7860725?ie=UTF8&*Version*=1&*entries*=0&signInRedirect=1&#All"
          }, {
-            "date_added": "13120327254988918",
-            "id": "10803",
-            "name": "Midland, Ontario - 7 Day Forecast - Environment Canada",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://www.weatheroffice.gc.ca/city/pages/on-169_metric_e.html"
-         }, {
-            "date_added": "13120327254992148",
-            "id": "10804",
-            "name": "King City, Ontario - Radar Imagery - Environment Canada",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://www.weatheroffice.gc.ca/radar/index_e.html?id=wkr"
-         }, {
-            "date_added": "13120327254997275",
-            "id": "10805",
-            "name": "Simcoe County School Bus Info",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://www.simcoecountyschoolbus.ca/"
-         }, {
-            "date_added": "13120327254998995",
-            "id": "10806",
-            "name": "SchoolCashOnline.com: Welcome",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "https://www.schoolcashonline.com/"
-         }, {
-            "date_added": "13120327255000624",
-            "id": "10807",
-            "name": "Lolcats ‘n’ Funny Pictures of Cats - I Can Has Cheezburger",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://icanhascheezburger.com/"
-         }, {
-            "date_added": "13120327255002659",
-            "id": "10808",
-            "name": "Outlook.com - prairiegone@hotmail.ca",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "https://snt149.mail.live.com/"
-         }, {
             "date_added": "13120327255005450",
             "id": "10810",
             "name": "For Meetings - PDH Artistic Designs",
             "sync_transaction_version": "1",
             "type": "url",
             "url": "http://pdh.ca/meetings.html"
-         }, {
-            "date_added": "13136905534831629",
-            "id": "10811",
-            "name": "Firmware for MXIII2G8G AP6234 WIFI CHIP PLS.! - FreakTab.com",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s812-aa/beelink-aa/539471-firmware-for-mxiii2g8g-ap6234-wifi-chip-pls"
-         }, {
-            "date_added": "13177980203362629",
-            "id": "11994",
-            "name": "Projects - Visual Studio Team Services",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "https://waynehetherington.visualstudio.com/_projects"
-         }, {
-            "date_added": "13180622967191955",
-            "id": "12007",
-            "name": "Welcome to our new website",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://jke.scdsb.on.ca/about-us/news/school-news/2"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13206143539344177",
+         "date_modified": "13206586610228442",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "6",
+      "sync_transaction_version": "24",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
