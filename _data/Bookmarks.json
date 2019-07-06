@@ -1,5 +1,5 @@
 {
-   "checksum": "0966fcfc4acc8e1b1477310771dffe42",
+   "checksum": "2bf287eb336e8214e0b219467c279288",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1045,9 +1045,16 @@
                         "sync_transaction_version": "1",
                         "type": "url",
                         "url": "https://www.mountaingoatsoftware.com/blog/six-things-your-team-wants-from-you-as-their-scrum-master"
+                     }, {
+                        "date_added": "13206807694416062",
+                        "id": "12126",
+                        "name": "Is my Scrum team really self-organizing? - Serious Scrum - Medium",
+                        "sync_transaction_version": "26",
+                        "type": "url",
+                        "url": "https://medium.com/serious-scrum/is-my-scrum-team-really-self-organizing-a76d5c177f46"
                      } ],
                      "date_added": "13120327256213235",
-                     "date_modified": "13206743873164656",
+                     "date_modified": "13206807694416062",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "1",
@@ -8086,7 +8093,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "25",
+      "sync_transaction_version": "26",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
