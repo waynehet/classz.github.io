@@ -1,5 +1,5 @@
 {
-   "checksum": "a9cd3eb67ba3ecb1e979c2faaea3e500",
+   "checksum": "282ed55e71178c1e2d533b265660f70f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2244,13 +2244,6 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "http://java.dzone.com/articles/fallacy-rejected-backlog-item?goback=%2Egde_2908737_member_269445685#%21"
-                  }, {
-                     "date_added": "13120327256327654",
-                     "id": "11643",
-                     "name": "10 Persona Tips for Agile Product Management | Roman Pichler",
-                     "sync_transaction_version": "1",
-                     "type": "url",
-                     "url": "http://www.romanpichler.com/blog/agile-product-innovation/10-persona-tips-agile-product-management/"
                   }, {
                      "date_added": "13186416775643907",
                      "id": "12025",
@@ -8075,7 +8068,7 @@
             "date_added": "13120327254985067",
             "id": "10801",
             "name": "Amazon",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "30",
             "type": "url",
             "url": "http://www.amazon.ca/exec/obidos/tg/browse/-/915398/702-7410743-9681635"
          }, {
@@ -8100,7 +8093,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "28",
+      "sync_transaction_version": "30",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
