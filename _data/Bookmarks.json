@@ -1,5 +1,5 @@
 {
-   "checksum": "440eceab371e5576507b6b914d9ae82e",
+   "checksum": "acca699299fb3407e2bd3eb77f8cbd75",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2968,9 +2968,16 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/"
+                  }, {
+                     "date_added": "13208351893703507",
+                     "id": "12132",
+                     "name": "Agile-DevSecOps Academy: 40 Ways Agile Transformations Fail - DZone Agile",
+                     "sync_transaction_version": "35",
+                     "type": "url",
+                     "url": "https://dzone.com/articles/agile-devsecops-academy-40-ways-agile-transformati"
                   } ],
                   "date_added": "13137797527123930",
-                  "date_modified": "13203355553725818",
+                  "date_modified": "13208351893703507",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "1",
@@ -8100,7 +8107,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "34",
+      "sync_transaction_version": "35",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
