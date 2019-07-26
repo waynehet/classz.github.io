@@ -1,5 +1,5 @@
 {
-   "checksum": "acca699299fb3407e2bd3eb77f8cbd75",
+   "checksum": "8ceeaf85aba69bd35db235789f6853a1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2975,9 +2975,16 @@
                      "sync_transaction_version": "35",
                      "type": "url",
                      "url": "https://dzone.com/articles/agile-devsecops-academy-40-ways-agile-transformati"
+                  }, {
+                     "date_added": "13208527866952510",
+                     "id": "12134",
+                     "name": "5 cognitive bias examples and how to avoid them in decision-making - Work Life by Atlassian",
+                     "sync_transaction_version": "36",
+                     "type": "url",
+                     "url": "https://www-atlassian-com.cdn.ampproject.org/v/s/www.atlassian.com/blog/productivity/cognitive-bias-examples/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.atlassian.com%2Fblog%2Fproductivity%2Fcognitive-bias-examples"
                   } ],
                   "date_added": "13137797527123930",
-                  "date_modified": "13208351893703507",
+                  "date_modified": "13208527866952510",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "1",
@@ -7936,7 +7943,7 @@
                "date_added": "13019147935119275",
                "id": "10846",
                "name": "Kijiji Barrie Classifieds Free Local Classified Ads for Barrie, Ontari (...)",
-               "sync_transaction_version": "1",
+               "sync_transaction_version": "36",
                "type": "url",
                "url": "http://barrie.kijiji.ca/"
             }, {
@@ -8018,7 +8025,7 @@
                "url": "https://123moviez.me/watch-online/cesur-ve-guzel-season-1/pqPi"
             } ],
             "date_added": "13019147934950275",
-            "date_modified": "13199378399791299",
+            "date_modified": "13208543436233908",
             "id": "10789",
             "name": "Lisa's Stuff",
             "sync_transaction_version": "1",
@@ -8107,7 +8114,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "35",
+      "sync_transaction_version": "36",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
