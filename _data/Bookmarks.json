@@ -1,5 +1,5 @@
 {
-   "checksum": "8ceeaf85aba69bd35db235789f6853a1",
+   "checksum": "ce04b32d9e86d343773e7a96f9291822",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -8106,15 +8106,22 @@
             "sync_transaction_version": "1",
             "type": "url",
             "url": "http://pdh.ca/meetings.html"
+         }, {
+            "date_added": "13208710086162460",
+            "id": "12136",
+            "name": "50 Things to Do in Washington, DC (For Tourists and Visitors) | DC by Foot",
+            "sync_transaction_version": "37",
+            "type": "url",
+            "url": "https://freetoursbyfoot.com/things-to-do-in-dc/"
          } ],
          "date_added": "13072067208261706",
-         "date_modified": "13206586610228442",
+         "date_modified": "13208710086162460",
          "id": "2",
          "name": "Other bookmarks",
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "36",
+      "sync_transaction_version": "37",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
