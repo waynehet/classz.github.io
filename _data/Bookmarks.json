@@ -130,11 +130,6 @@
                      "date_added": "13165782523183989",
                      "date_modified": "13170951422840413",
                      "id": "11879",
-                     "meta_info": {
-                        "stars.description": "",
-                        "stars.id": "",
-                        "stars.version": "crx.2.2016.128.11729"
-                     },
                      "name": "Atlassian",
                      "sync_transaction_version": "1",
                      "type": "folder"
@@ -276,15 +271,6 @@
                      }, {
                         "date_added": "13174753647503873",
                         "id": "11978",
-                        "meta_info": {
-                           "stars.flags": "0",
-                           "stars.id": "c_a8vsjj0189ke",
-                           "stars.imageData": "EnAKaGh0dHBzOi8vcXouY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzAzL2dpdmUtZmVlZGJhY2stZWZmZWN0aXZlbHktanBlZy5qcGc/cXVhbGl0eT03NSZzdHJpcD1hbGwmdz0xNDAwEPgKGJQGGgA=",
-                           "stars.note": "",
-                           "stars.pageData": "ElBDcml0aXF1aW5nIGEgY29sbGVhZ3VlIGlzIG5ldmVyIGVhc3ksIGJ1dCBhbnlvbmUgY2FuIG1hc3RlciB0aGUgYXJ0IG9mIGZlZWRiYWNrLg==",
-                           "stars.type": "2",
-                           "stars.version": "crx.2.2016.128.11729"
-                        },
                         "name": "How to give feedback effectively: A guide for managers — Quartz at Work",
                         "sync_transaction_version": "1",
                         "type": "url",
@@ -345,11 +331,6 @@
                      "date_added": "13168272321335924",
                      "date_modified": "13202228423301950",
                      "id": "11907",
-                     "meta_info": {
-                        "stars.description": "",
-                        "stars.id": "",
-                        "stars.version": "crx.2.2016.128.11729"
-                     },
                      "name": "Coaching",
                      "sync_transaction_version": "1",
                      "type": "folder"
@@ -3005,11 +2986,6 @@
                   "date_added": "13137797527123930",
                   "date_modified": "13208527866952510",
                   "id": "11545",
-                  "meta_info": {
-                     "stars.description": "",
-                     "stars.id": "",
-                     "stars.version": "crx.2.2016.128.11729"
-                  },
                   "name": "Agile Problems",
                   "sync_transaction_version": "1",
                   "type": "folder"
@@ -6637,7 +6613,7 @@
                "date_added": "13200285769060957",
                "id": "12106",
                "name": "Agile2019: Schedule",
-               "sync_transaction_version": "1",
+               "sync_transaction_version": "2",
                "type": "url",
                "url": "https://agile2019.sched.com/"
             }, {
@@ -6656,7 +6632,7 @@
                "url": "https://us04web.zoom.us/postattendee?id=1"
             } ],
             "date_added": "13120327254951460",
-            "date_modified": "13207856245000863",
+            "date_modified": "13209246423220493",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "1",
@@ -7032,11 +7008,6 @@
                "date_added": "13019147935103275",
                "date_modified": "13187794651458162",
                "id": "10834",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_b1241ce25044ac66",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Online Stores",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7066,11 +7037,6 @@
                "date_added": "13019147935104275",
                "date_modified": "13163364262670205",
                "id": "10835",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_53927f9338f7974d",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Graphic 45 Designers",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7275,11 +7241,6 @@
                "date_added": "13019147935105275",
                "date_modified": "13163364262670217",
                "id": "10836",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_ac959be8aa84ced2",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Scrapbooking blogs",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7372,11 +7333,6 @@
                "date_added": "13019147935109275",
                "date_modified": "13163364262670227",
                "id": "10837",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_58babfd3877ea77e",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Crocheting",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7581,11 +7537,6 @@
                "date_added": "13019147935110275",
                "date_modified": "13184101298125046",
                "id": "10838",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_4566e1b34ec41fec",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Cards",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7685,11 +7636,6 @@
                "date_added": "13019147935111275",
                "date_modified": "13163364262670248",
                "id": "10839",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_8f5d00685143adc3",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "sketches",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7719,11 +7665,6 @@
                "date_added": "13031328417677901",
                "date_modified": "13163364262670259",
                "id": "10840",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_db3e6eb8309e56ab",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Quotes and Titles",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7837,11 +7778,6 @@
                "date_added": "13019147935111275",
                "date_modified": "13163364262670270",
                "id": "10841",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_5025e2669921b02b",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Diet and Recipes",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7857,11 +7793,6 @@
                "date_added": "13031328417688901",
                "date_modified": "13163364262670281",
                "id": "10842",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_413b91f5762f01aa",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Photography",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7926,11 +7857,6 @@
                "date_added": "13019147935116275",
                "date_modified": "13163364262670293",
                "id": "10843",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_bf99ee35ce3775c1",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Images",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -7953,11 +7879,6 @@
                "date_added": "13019147935115275",
                "date_modified": "13163364262670304",
                "id": "10844",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_8b6d10bf6186031c",
-                  "stars.version": "chrome.41.0.2272.94"
-               },
                "name": "Technique",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -8015,11 +7936,6 @@
                "date_added": "13019147935114275",
                "date_modified": "13195017131305061",
                "id": "10845",
-               "meta_info": {
-                  "stars.id": "",
-                  "stars.oldId": "ssf_6fa1fb17a5a9edaa",
-                  "stars.version": "chrome.41.0.2272.96"
-               },
                "name": "mixed media art",
                "sync_transaction_version": "1",
                "type": "folder"
@@ -8205,7 +8121,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1",
+      "sync_transaction_version": "2",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
