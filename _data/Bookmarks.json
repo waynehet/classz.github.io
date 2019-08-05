@@ -1,5 +1,5 @@
 {
-   "checksum": "ce04b32d9e86d343773e7a96f9291822",
+   "checksum": "bded181ca0c830dec64ac25492bf54e8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1052,9 +1052,16 @@
                         "sync_transaction_version": "1",
                         "type": "url",
                         "url": "https://medium.com/serious-scrum/is-my-scrum-team-really-self-organizing-a76d5c177f46"
+                     }, {
+                        "date_added": "13209415665313167",
+                        "id": "12138",
+                        "name": "Every team needs a Working Agreement",
+                        "sync_transaction_version": "4",
+                        "type": "url",
+                        "url": "https://www-agileplayconsulting-com.cdn.ampproject.org/c/s/www.agileplayconsulting.com/amp/every-team-needs-a-working-agreement"
                      } ],
                      "date_added": "13120327256213235",
-                     "date_modified": "13206807694416062",
+                     "date_modified": "13209415686283165",
                      "id": "11773",
                      "name": "Team Building",
                      "sync_transaction_version": "1",
@@ -2984,7 +2991,7 @@
                      "url": "https://www-atlassian-com.cdn.ampproject.org/v/s/www.atlassian.com/blog/productivity/cognitive-bias-examples/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.atlassian.com%2Fblog%2Fproductivity%2Fcognitive-bias-examples"
                   } ],
                   "date_added": "13137797527123930",
-                  "date_modified": "13208527866952510",
+                  "date_modified": "13209415665313167",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "1",
@@ -6613,7 +6620,7 @@
                "date_added": "13200285769060957",
                "id": "12106",
                "name": "Agile2019: Schedule",
-               "sync_transaction_version": "2",
+               "sync_transaction_version": "5",
                "type": "url",
                "url": "https://agile2019.sched.com/"
             }, {
@@ -6632,7 +6639,7 @@
                "url": "https://us04web.zoom.us/postattendee?id=1"
             } ],
             "date_added": "13120327254951460",
-            "date_modified": "13209246423220493",
+            "date_modified": "13209419244541981",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "1",
@@ -8121,7 +8128,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "2",
+      "sync_transaction_version": "5",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
