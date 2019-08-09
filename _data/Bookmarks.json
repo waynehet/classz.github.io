@@ -9,7 +9,7 @@
                "last_visited_desktop": "13205168838704961"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "8",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -80,7 +80,7 @@
             "url": "https://www.rogersanyplacetv.com/live/500010"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13203778175605025",
+         "date_modified": "13209775739173499",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -8128,7 +8128,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "6",
+      "sync_transaction_version": "8",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
