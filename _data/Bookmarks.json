@@ -1,5 +1,5 @@
 {
-   "checksum": "bded181ca0c830dec64ac25492bf54e8",
+   "checksum": "2fcee21152959ac9818ee58044430006",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -327,9 +327,16 @@
                         "sync_transaction_version": "1",
                         "type": "url",
                         "url": "https://www.smashingmagazine.com/2013/12/using-brainwriting-for-rapid-idea-generation/"
+                     }, {
+                        "date_added": "13210087078163813",
+                        "id": "12141",
+                        "name": "Guidelines to hiring a professional Coach |",
+                        "sync_transaction_version": "9",
+                        "type": "url",
+                        "url": "http://www.keystepstosuccess.com/2019/07/guidelines-to-hiring-a-professional-coach/"
                      } ],
                      "date_added": "13168272321335924",
-                     "date_modified": "13202228423301950",
+                     "date_modified": "13210087078163813",
                      "id": "11907",
                      "name": "Coaching",
                      "sync_transaction_version": "1",
@@ -645,9 +652,16 @@
                         "sync_transaction_version": "1",
                         "type": "url",
                         "url": "http://finding-marbles.com/"
+                     }, {
+                        "date_added": "13210080221079848",
+                        "id": "12140",
+                        "name": "Agile2019 Retrospective with a twist (or Liberating Structures for the win!)",
+                        "sync_transaction_version": "9",
+                        "type": "url",
+                        "url": "https://www-agileplayconsulting-com.cdn.ampproject.org/c/s/www.agileplayconsulting.com/amp/agile2019-retrospective-with-a-twist-or-liberating-structures-for-the-win"
                      } ],
                      "date_added": "13120327256208968",
-                     "date_modified": "13198353070822608",
+                     "date_modified": "13210080221079848",
                      "id": "11770",
                      "name": "Retropsective",
                      "sync_transaction_version": "1",
@@ -8128,7 +8142,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "8",
+      "sync_transaction_version": "9",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
