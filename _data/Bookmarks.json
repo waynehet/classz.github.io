@@ -1,5 +1,5 @@
 {
-   "checksum": "2fcee21152959ac9818ee58044430006",
+   "checksum": "0d1372e1028f88b421096cabad6df1d4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5014,9 +5014,16 @@
                   "sync_transaction_version": "1",
                   "type": "url",
                   "url": "https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/"
+               }, {
+                  "date_added": "13210348532601128",
+                  "id": "12143",
+                  "name": "Please, everyone, put your entire development environment in Github",
+                  "sync_transaction_version": "12",
+                  "type": "url",
+                  "url": "https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/put-your-dev-env-in-github/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fput-your-dev-env-in-github%2F"
                } ],
                "date_added": "13120327255069678",
-               "date_modified": "13195017131307065",
+               "date_modified": "13210348532601128",
                "id": "11018",
                "name": "Programming",
                "sync_transaction_version": "1",
@@ -8142,7 +8149,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "11",
+      "sync_transaction_version": "12",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
