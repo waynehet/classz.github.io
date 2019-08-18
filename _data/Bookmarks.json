@@ -9,7 +9,7 @@
                "last_visited_desktop": "13205168838704961"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "11",
+            "sync_transaction_version": "16",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -5018,7 +5018,7 @@
                   "date_added": "13210348532601128",
                   "id": "12143",
                   "name": "Please, everyone, put your entire development environment in Github",
-                  "sync_transaction_version": "12",
+                  "sync_transaction_version": "14",
                   "type": "url",
                   "url": "https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/put-your-dev-env-in-github/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fput-your-dev-env-in-github%2F"
                } ],
@@ -6641,7 +6641,7 @@
                "date_added": "13200285769060957",
                "id": "12106",
                "name": "Agile2019: Schedule",
-               "sync_transaction_version": "10",
+               "sync_transaction_version": "17",
                "type": "url",
                "url": "https://agile2019.sched.com/"
             }, {
@@ -8149,7 +8149,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "13",
+      "sync_transaction_version": "17",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
