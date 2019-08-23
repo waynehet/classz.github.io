@@ -1,5 +1,5 @@
 {
-   "checksum": "0d1372e1028f88b421096cabad6df1d4",
+   "checksum": "7337e55a9d858c4321304801ae3711e8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -158,7 +158,7 @@
                      "date_added": "13120327255286560",
                      "id": "11865",
                      "name": "Communication Coaching & Training that Promotes Shared Understanding",
-                     "sync_transaction_version": "1",
+                     "sync_transaction_version": "18",
                      "type": "url",
                      "url": "http://itsunderstood.com/"
                   }, {
@@ -198,7 +198,7 @@
                      "url": "https://play4agilenorthamerica.wordpress.com/"
                   } ],
                   "date_added": "13138835721870049",
-                  "date_modified": "13171834660157027",
+                  "date_modified": "13210962759423577",
                   "id": "11538",
                   "name": "Blogs and Sites",
                   "sync_transaction_version": "1",
@@ -1455,9 +1455,16 @@
                         "sync_transaction_version": "1",
                         "type": "url",
                         "url": "http://cmforagile.blogspot.ca/2011/11/agile-definition-of-done-starter-kit.html"
+                     }, {
+                        "date_added": "13210820836997489",
+                        "id": "12147",
+                        "name": "Why Scrum requires completely “Done” software every Sprint",
+                        "sync_transaction_version": "18",
+                        "type": "url",
+                        "url": "https://medium.com/the-liberators/why-scrum-requires-completely-done-software-every-sprint-f7fa3ca33286"
                      } ],
                      "date_added": "13120327256252267",
-                     "date_modified": "13196873348783630",
+                     "date_modified": "13210820836997489",
                      "id": "11684",
                      "name": "Definition of Done",
                      "sync_transaction_version": "1",
@@ -3003,9 +3010,30 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "https://www-atlassian-com.cdn.ampproject.org/v/s/www.atlassian.com/blog/productivity/cognitive-bias-examples/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.atlassian.com%2Fblog%2Fproductivity%2Fcognitive-bias-examples"
+                  }, {
+                     "date_added": "13210862502517469",
+                     "id": "12146",
+                     "name": "Where I Think \"Agile\" is Headed, Part 1: Do You Need an Agile Approach? - Johanna Rothman, Management Consultant",
+                     "sync_transaction_version": "18",
+                     "type": "url",
+                     "url": "https://www.jrothman.com/mpd/agile/2019/08/where-i-think-agile-is-headed-part-1-do-you-need-an-agile-approach/"
+                  }, {
+                     "date_added": "13210978578891490",
+                     "id": "12149",
+                     "name": "Where I Think “Agile” is Headed, Part 3: What Is The Recipe, The Right Answer? - DZone Agile",
+                     "sync_transaction_version": "19",
+                     "type": "url",
+                     "url": "https://dzone.com/articles/where-i-think-agile-is-headed-part-3-what-is-the-r"
+                  }, {
+                     "date_added": "13210862469171221",
+                     "id": "12145",
+                     "name": "Where I Think “Agile” is Headed, Part 2: Where Does Management Fit? - DZone Agile",
+                     "sync_transaction_version": "19",
+                     "type": "url",
+                     "url": "https://dzone.com/articles/where-i-think-agile-is-headed-part-2-where-does-ma"
                   } ],
                   "date_added": "13137797527123930",
-                  "date_modified": "13209415665313167",
+                  "date_modified": "13210979230232143",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "1",
@@ -8149,7 +8177,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "17",
+      "sync_transaction_version": "19",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
