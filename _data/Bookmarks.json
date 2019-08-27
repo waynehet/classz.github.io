@@ -1,5 +1,5 @@
 {
-   "checksum": "c3852eefe63c40f9dd62f8f3bee264e2",
+   "checksum": "65982c3d2e4715a5b99d6bb406393f99",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2110,9 +2110,16 @@
                         "sync_transaction_version": "1",
                         "type": "url",
                         "url": "https://felipecastro.com/en/okr/what-is-okr/"
+                     }, {
+                        "date_added": "13211327008091577",
+                        "id": "12153",
+                        "name": "Leading and Lagging Indicators - LeadingAgile",
+                        "sync_transaction_version": "25",
+                        "type": "url",
+                        "url": "https://www.leadingagile.com/2018/02/leading-lagging-indicators/"
                      } ],
                      "date_added": "13120327256299596",
-                     "date_modified": "13204307094659144",
+                     "date_modified": "13211327008091577",
                      "id": "11630",
                      "name": "Metrics",
                      "sync_transaction_version": "1",
@@ -8177,7 +8184,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "24",
+      "sync_transaction_version": "25",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
