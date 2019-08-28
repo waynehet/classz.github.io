@@ -1,8 +1,15 @@
 {
-   "checksum": "65982c3d2e4715a5b99d6bb406393f99",
+   "checksum": "6f482780e30a84c19152213146be179e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
+            "date_added": "13211429514596106",
+            "id": "12156",
+            "name": "Fibe TV",
+            "sync_transaction_version": "31",
+            "type": "url",
+            "url": "https://tv.bell.ca/home"
+         }, {
             "date_added": "13120327255021917",
             "id": "9630",
             "meta_info": {
@@ -34,13 +41,6 @@
             "type": "url",
             "url": "https://trello.com/"
          }, {
-            "date_added": "13120327255011893",
-            "id": "9633",
-            "name": "The Code Project",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://www.codeproject.com/"
-         }, {
             "date_added": "13120327255007648",
             "id": "9634",
             "name": "MSDN Canada",
@@ -64,16 +64,9 @@
             "sync_transaction_version": "1",
             "type": "url",
             "url": "http://solarmovie.net/"
-         }, {
-            "date_added": "13171303135781284",
-            "id": "11940",
-            "name": "Meeting Audio",
-            "sync_transaction_version": "1",
-            "type": "url",
-            "url": "http://metroconf.com/listen.cgi?PIN=48608&NAME=Wayne%20Hetherington&PHONE=705-229-9109&FRIENDS=1&.submit=Submit"
          } ],
          "date_added": "13072067208261696",
-         "date_modified": "13209775739173499",
+         "date_modified": "13211429532478803",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -3038,9 +3031,16 @@
                      "sync_transaction_version": "19",
                      "type": "url",
                      "url": "https://dzone.com/articles/where-i-think-agile-is-headed-part-2-where-does-ma"
+                  }, {
+                     "date_added": "13211422606668277",
+                     "id": "12155",
+                     "name": "Where I Think “Agile” is Headed, Part 4: What Does “Agile” Mean? | Java Code Geeks - 2019",
+                     "sync_transaction_version": "26",
+                     "type": "url",
+                     "url": "https://www.javacodegeeks.com/2019/08/think-agile-headedwhat-does-agile-mean.html"
                   } ],
                   "date_added": "13137797527123930",
-                  "date_modified": "13210979230232143",
+                  "date_modified": "13211429514596106",
                   "id": "11545",
                   "name": "Agile Problems",
                   "sync_transaction_version": "1",
@@ -8184,7 +8184,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "25",
+      "sync_transaction_version": "33",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
