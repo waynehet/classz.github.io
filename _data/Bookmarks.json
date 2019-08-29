@@ -16,7 +16,7 @@
                "last_visited_desktop": "13205168838704961"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "16",
+            "sync_transaction_version": "36",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -2107,7 +2107,7 @@
                         "date_added": "13211327008091577",
                         "id": "12153",
                         "name": "Leading and Lagging Indicators - LeadingAgile",
-                        "sync_transaction_version": "25",
+                        "sync_transaction_version": "34",
                         "type": "url",
                         "url": "https://www.leadingagile.com/2018/02/leading-lagging-indicators/"
                      } ],
@@ -8184,7 +8184,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "33",
+      "sync_transaction_version": "36",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
