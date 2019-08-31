@@ -1,5 +1,5 @@
 {
-   "checksum": "b6fa6cbd2940cc4b44d25eb2dfe942e6",
+   "checksum": "553004475ae02c17aa6f0335d5c254fc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2469,9 +2469,16 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=kHcFtv3pP0k&feature=youtu.be"
+                  }, {
+                     "date_added": "13211672509305157",
+                     "id": "12160",
+                     "name": "The Seven Kanban Cadences | Kanbanery",
+                     "sync_transaction_version": "45",
+                     "type": "url",
+                     "url": "http://blog.kanbanery.com/the-seven-kanban-cadences/"
                   } ],
                   "date_added": "13120327255237470",
-                  "date_modified": "13194234841859482",
+                  "date_modified": "13211672509305157",
                   "id": "11542",
                   "name": "Kanban",
                   "sync_transaction_version": "1",
@@ -6676,7 +6683,7 @@
                "date_added": "13200285769060957",
                "id": "12106",
                "name": "Agile2019: Schedule",
-               "sync_transaction_version": "17",
+               "sync_transaction_version": "44",
                "type": "url",
                "url": "https://agile2019.sched.com/"
             }, {
@@ -6695,7 +6702,7 @@
                "url": "https://us04web.zoom.us/postattendee?id=1"
             } ],
             "date_added": "13120327254951460",
-            "date_modified": "13210298220559696",
+            "date_modified": "13211654563259847",
             "id": "10787",
             "name": "Wayne's Stuff",
             "sync_transaction_version": "23",
@@ -8191,7 +8198,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "43",
+      "sync_transaction_version": "45",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
