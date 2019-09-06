@@ -62,3 +62,5 @@ published: true
 
 "There is nothing so practical as a good theory."
 "If you want truly to understand something, try to change it." - Kurt Lewin
+
+"Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful" - Herman Cain
