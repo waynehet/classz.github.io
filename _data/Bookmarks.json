@@ -1,5 +1,5 @@
 {
-   "checksum": "80752b1f55f87e405bfcf026c44f5f8f",
+   "checksum": "3617dee43ddce42e7ec4589e37fca218",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1838,9 +1838,16 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "https://www.agilesherpas.com/story-agile-marketing-user-stories/"
+                  }, {
+                     "date_added": "13212338313933799",
+                     "id": "12169",
+                     "name": "Accounting for UX Work with User Stories in Agile Projects",
+                     "sync_transaction_version": "90",
+                     "type": "url",
+                     "url": "https://www.nngroup.com/articles/ux-user-stories/"
                   } ],
                   "date_added": "13163364262792485",
-                  "date_modified": "13194237027602647",
+                  "date_modified": "13212338329160868",
                   "id": "11540",
                   "name": "User Stories and Product Definition",
                   "sync_transaction_version": "1",
@@ -2760,7 +2767,7 @@
                      "url": "http://coachingtoys.com/"
                   } ],
                   "date_added": "13120327255239134",
-                  "date_modified": "13212083954358679",
+                  "date_modified": "13212338313933799",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "1",
@@ -8205,7 +8212,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "86",
+      "sync_transaction_version": "90",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
