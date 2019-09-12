@@ -1,5 +1,5 @@
 {
-   "checksum": "3617dee43ddce42e7ec4589e37fca218",
+   "checksum": "fba5206c329fb038b089f3e57cc20fc6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2370,9 +2370,16 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "https://www.linkedin.com/pulse/business-case-agility-al-shalloway/"
+                  }, {
+                     "date_added": "13212679007258653",
+                     "id": "12171",
+                     "name": "Agile Light and Dark, and Becoming Value-Driven - Columbus’ Egg - Medium",
+                     "sync_transaction_version": "93",
+                     "type": "url",
+                     "url": "https://medium.com/columbus-egg/agile-light-and-dark-and-becoming-value-driven-61d5edc3ca4e"
                   } ],
                   "date_added": "13163364262792529",
-                  "date_modified": "13191097274587622",
+                  "date_modified": "13212679007258653",
                   "id": "11541",
                   "name": "PO and Backlog",
                   "sync_transaction_version": "1",
@@ -8212,7 +8219,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "92",
+      "sync_transaction_version": "93",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
