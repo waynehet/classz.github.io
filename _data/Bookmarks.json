@@ -1,5 +1,5 @@
 {
-   "checksum": "fba5206c329fb038b089f3e57cc20fc6",
+   "checksum": "14415dc19884bd95b69e1eadd030ceff",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2772,9 +2772,16 @@
                      "sync_transaction_version": "1",
                      "type": "url",
                      "url": "http://coachingtoys.com/"
+                  }, {
+                     "date_added": "13212765248735575",
+                     "id": "12173",
+                     "name": "5 open source alternatives to Trello | Opensource.com",
+                     "sync_transaction_version": "94",
+                     "type": "url",
+                     "url": "https://opensource.com/alternatives/trello"
                   } ],
                   "date_added": "13120327255239134",
-                  "date_modified": "13212338313933799",
+                  "date_modified": "13212765248735575",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "1",
@@ -8219,7 +8226,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "93",
+      "sync_transaction_version": "94",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
