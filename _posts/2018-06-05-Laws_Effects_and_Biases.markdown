@@ -16,6 +16,8 @@ published: true
 
 * [Thou Shalt Not Commit Logical Fallacies](https://yourlogicalfallacyis.com/)
 * [Your Bias](https://yourbias.is)
+
+* [Cognitive Bias Codex graphic](https://www.dailyinfographic.com/wp-content/uploads/2018/01/cognitive-bias-codex.jpg)
  
 ### Special Laws and Effects
 
@@ -34,6 +36,7 @@ published: true
 * [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
 * [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
+* [Better than Average Heuristic](https://en.wikipedia.org/wiki/Illusory_superiority#Better-than-average_heuristic): Tendancy to over-estimate our own skill compared to others.  Part of [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority) and similar to [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 * [Larman's Laws of Organizational Behavior](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Orgs are optimized for status quo
 * [Law of Requisite Variety](https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_Requisite_Variety) To achieve stability in a complex system the number of control states must be greater than the number of system states
 * [Little's Law](https://en.wikipedia.org/wiki/Little%27s_law): Lead Time = WIP / Throughput
