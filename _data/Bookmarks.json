@@ -1,5 +1,5 @@
 {
-   "checksum": "14415dc19884bd95b69e1eadd030ceff",
+   "checksum": "a18343b95c83772f9b61915788e6a8a7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2779,9 +2779,37 @@
                      "sync_transaction_version": "94",
                      "type": "url",
                      "url": "https://opensource.com/alternatives/trello"
+                  }, {
+                     "date_added": "13187071317048734",
+                     "id": "12179",
+                     "name": "Features",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://realtimeboard.com/features/"
+                  }, {
+                     "date_added": "13120327256374450",
+                     "id": "12177",
+                     "name": "Tyranny of the Tools",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.whattofix.com/blog/archives/2011/12/tyranny-of-the-1.php"
+                  }, {
+                     "date_added": "13120327256365099",
+                     "id": "12178",
+                     "name": "Agile Project Management Tool - Product Overview - VersionOne",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.versionone.com/Product/"
+                  }, {
+                     "date_added": "13120327256372876",
+                     "id": "12176",
+                     "name": "CollabNet - The Leader in Agile Application Lifecycle Management",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.open.collab.net/products/scrumworks/capabilities.html"
                   } ],
                   "date_added": "13120327255239134",
-                  "date_modified": "13212765248735575",
+                  "date_modified": "13213670329793732",
                   "id": "11543",
                   "name": "Tools",
                   "sync_transaction_version": "1",
@@ -3325,6 +3353,1044 @@
                   "sync_transaction_version": "1",
                   "type": "url",
                   "url": "https://thefinancialbrand.com/81901/future-digital-banking-leadership-model/"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13140811709376047",
+                        "id": "12320",
+                        "name": "Agile - best practices and tutorials The Agile Coach",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.atlassian.com/agile"
+                     }, {
+                        "date_added": "13167603802557462",
+                        "id": "12317",
+                        "name": "Wheel of Life | Free Online Assessment",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://wheeloflife.noomii.com/"
+                     }, {
+                        "date_added": "13168273215578422",
+                        "id": "12321",
+                        "name": "My Coaching Toolkit – 100+ Exercises, Assessments and Resources – Toby Sinclair",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://tobysinclairblog.wordpress.com/coaching-toolkit-100-techniques-approaches-and-materials/"
+                     }, {
+                        "date_added": "13170691517063337",
+                        "id": "12313",
+                        "name": "How to Hire an Agile Coach - Jason Little",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.agilecoach.ca/2012/03/27/how-to-hire-an-agile-coach/"
+                     }, {
+                        "date_added": "13172181426681628",
+                        "id": "12322",
+                        "name": "Boss vs Leader: 10 Crucial Differences | Alvernia University",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://online.alvernia.edu/boss-vs-leader/"
+                     }, {
+                        "date_added": "13173359966002569",
+                        "id": "12312",
+                        "name": "Agile Leaders as Coaches - The Key to Successful Agile Transformations - CC Pace",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.ccpace.com/agile-leaders-as-coaches-the-key-to-successful-agile-transformations/"
+                     }, {
+                        "date_added": "13173408739330708",
+                        "id": "12314",
+                        "name": "Authentic Happiness | Authentic Happiness",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.authentichappiness.sas.upenn.edu/"
+                     }, {
+                        "date_added": "13173999766045469",
+                        "id": "12308",
+                        "name": "Misinformation and biases infect social media, both intentionally and accidentally",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://theconversation.com/misinformation-and-biases-infect-social-media-both-intentionally-and-accidentally-97148"
+                     }, {
+                        "date_added": "13174245540992269",
+                        "id": "12316",
+                        "name": "8 Ways to Measure Your Impact as an Agile Coach · Illustrated Agile",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://illustratedagile.com/2016/04/25/8-ways-measure-impact-agile-coach/"
+                     }, {
+                        "date_added": "13174753647503873",
+                        "id": "12309",
+                        "name": "How to give feedback effectively: A guide for managers — Quartz at Work",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://work.qz.com/1238966/how-to-give-feedback-more-effectively/"
+                     }, {
+                        "date_added": "13176160687205934",
+                        "id": "12311",
+                        "name": "7 Habits of Highly Empathetic Coaches - DZone Agile",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://dzone.com/articles/agile-transformation-for-non-it-teams"
+                     }, {
+                        "date_added": "13177804153039402",
+                        "id": "12306",
+                        "name": "How to Develop Empathy for Someone Who Annoys You",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://hbr.org/2018/04/how-to-develop-empathy-for-someone-who-annoys-you"
+                     }, {
+                        "date_added": "13179839993132669",
+                        "id": "12315",
+                        "name": "Why Business Leaders Hire Coaches | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/why-business-leaders-hire-coaches-conor-neill/"
+                     }, {
+                        "date_added": "13189174632245851",
+                        "id": "12318",
+                        "name": "5 Steps to avoid Imposter syndrome for Agile Coaches",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://medium.com/@asad.safari/5-steps-to-avoid-imposter-syndrome-for-agile-coaches-b10327c62038"
+                     }, {
+                        "date_added": "13189444573299705",
+                        "id": "12319",
+                        "name": "Why Are We All So Stupid? Episode 3 - Business Insider",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.businessinsider.com/why-are-we-all-so-stupid-pricing-effect-2018-12"
+                     }, {
+                        "date_added": "13194234465099265",
+                        "id": "12323",
+                        "name": "Giving and Receiving feedback and advise- Damon Poole - YouTube",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=CrpnyIjQb5I&feature=youtu.be"
+                     }, {
+                        "date_added": "13202228345214095",
+                        "id": "12307",
+                        "meta_info": {
+                           "last_visited": "13202253310947610"
+                        },
+                        "name": "Using Brainwriting For Rapid Idea Generation — Smashing Magazine",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.smashingmagazine.com/2013/12/using-brainwriting-for-rapid-idea-generation/"
+                     }, {
+                        "date_added": "13210087078163813",
+                        "id": "12310",
+                        "name": "Guidelines to hiring a professional Coach |",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.keystepstosuccess.com/2019/07/guidelines-to-hiring-a-professional-coach/"
+                     } ],
+                     "date_added": "13213670329779482",
+                     "date_modified": "13213670329793693",
+                     "id": "12201",
+                     "name": "Coaching",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327257233880",
+                        "id": "12237",
+                        "name": "It's Not Just Standing Up: Patterns for Daily Standup Meetings",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://martinfowler.com/articles/itsNotJustStandingUp.html"
+                     }, {
+                        "date_added": "13120327256219508",
+                        "id": "12232",
+                        "name": "Is this your burn down chart? :: ScrumDesk – scrum project management tool",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumdesk.com/is-it-your-burn-down-chart/"
+                     }, {
+                        "date_added": "13120327256220984",
+                        "id": "12238",
+                        "name": "Story Based Burn Down",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.slideshare.net/ethanhuang/story-based-burn-down"
+                     }, {
+                        "date_added": "13144347250238194",
+                        "id": "12235",
+                        "name": "How To Do A Damn Good Daily Standup Meeting | Agile, Data, APIs, startups and more",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://gpsistakis.wordpress.com/2015/02/21/daily-standup-meetings/"
+                     }, {
+                        "date_added": "13144347421083834",
+                        "id": "12231",
+                        "name": "The Daily Scrum is a Planning Meeting...Not a Status MeetingJeremy Jarrell",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.jeremyjarrell.com/the-daily-scrum-is-a-planning-meeting-not-a-status-meeting/"
+                     }, {
+                        "date_added": "13168398461067412",
+                        "id": "12236",
+                        "name": "Missing the point: 3 features of the unproductive Daily Meetings",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/missing-point-daily-meeting-c%C3%A9sar-bruschi/"
+                     }, {
+                        "date_added": "13143319319903781",
+                        "id": "12233",
+                        "name": "Improv brings improvements to agile team standup meetings - SD Times",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://sdtimes.com/improv-can-bring-improvements-team-standup-meetings/"
+                     }, {
+                        "date_added": "13180712355531522",
+                        "id": "12234",
+                        "name": "The 3-5-3 Structure of Scrum",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.scruminc.com/the-3-5-3-of-scrum/"
+                     } ],
+                     "date_added": "13213670329778159",
+                     "date_modified": "13213670329793648",
+                     "id": "12188",
+                     "name": "Daily Scrum",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327257235331",
+                        "id": "12249",
+                        "name": "Blog: It’s a Sprint Review Not a Sprint Demo! - Innolution",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.innolution.com/blog/its-a-sprint-review-not-a-sprint-demo"
+                     }, {
+                        "date_added": "13120327257236822",
+                        "id": "12240",
+                        "name": "Should Scrum Teams Go for Multiple Demos within a Sprint",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.agilebuddha.com/agile/should-teams-go-for-multiple-demos-within-a-sprint/"
+                     }, {
+                        "date_added": "13120327257238323",
+                        "id": "12241",
+                        "name": "Team Demo « Scaled Agile Framework",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scaledagileframework.com/team-demo/"
+                     }, {
+                        "date_added": "13120327257240032",
+                        "id": "12248",
+                        "name": "ScrumCrazy - Executive Summary - The Sprint Review",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumcrazy.com/Executive+Summary+-+The+Sprint+Review"
+                     }, {
+                        "date_added": "13120327257241509",
+                        "id": "12246",
+                        "name": "ScrumCrazy - Worst Practice - The Sprint Review as a Signoff Meeting",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumcrazy.com/Worst+Practice+-+The+Sprint+Review+as+a+Signoff+Meeting"
+                     }, {
+                        "date_added": "13120327257243025",
+                        "id": "12250",
+                        "name": "ScrumCrazy - Tips for a Good Sprint Review",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumcrazy.com/Tips+for+a+Good+Sprint+Review"
+                     }, {
+                        "date_added": "13120327257244628",
+                        "id": "12245",
+                        "name": "Successful Sprint Reviews - Scrum Alliance",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumalliance.org/community/articles/2007/may/successful-sprint-reviews"
+                     }, {
+                        "date_added": "13120327257246079",
+                        "id": "12244",
+                        "name": "The Sprint Review: Mastering the Art of Feedback - Scrum Alliance",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumalliance.org/community/articles/2009/april/the-sprint-review-mastering-the-art-of-feedback"
+                     }, {
+                        "date_added": "13120327257247712",
+                        "id": "12243",
+                        "name": "Dancing to the tune of the Scrum Demo | Transient Technology",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://martinaharris.com/2010/01/dancing-to-the-tune-of-the-scrum-demo/"
+                     }, {
+                        "date_added": "13120327257249176",
+                        "id": "12247",
+                        "name": "How to run a Sprint Review",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agileforeveryone.com/2013/03/20/17/#!"
+                     }, {
+                        "date_added": "13120327257250795",
+                        "id": "12242",
+                        "name": "Scrum - Sprint Review Demo Meeting and Retrospective - Mitch Lacey & Associates - Scrum and Agile Training",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.mitchlacey.com/intro-to-agile/scrum/sprint-review"
+                     }, {
+                        "date_added": "13120327257252488",
+                        "id": "12239",
+                        "name": "Sprint Reviews in Practice | Agile Zone",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agile.dzone.com/articles/sprint-reviews-practice"
+                     } ],
+                     "date_added": "13213670329778851",
+                     "date_modified": "13213670329793668",
+                     "id": "12193",
+                     "name": "Sprint Review",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327257256958",
+                        "id": "12208",
+                        "name": "Retrospectives | Scrumology",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumology.net/tag/retrospectives/"
+                     }, {
+                        "date_added": "13120327257258404",
+                        "id": "12209",
+                        "name": "Main Page - Agile Retrospective Resource Wiki",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agileretrospectivewiki.org/index.php?title=Main_Page"
+                     }, {
+                        "date_added": "13120327257259800",
+                        "id": "12212",
+                        "name": "Retr-O-Mat - Inspiration & plans for (agile) retrospectives",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://plans-for-retrospectives.com/?id=52-75-69-13-40&lang=en"
+                     }, {
+                        "date_added": "13120327257261486",
+                        "id": "12210",
+                        "name": "Sprint Retrospective Techniques | The Upward Spiral",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://waynedgrant.wordpress.com/2012/04/01/sprint-retrospective-techniques/"
+                     }, {
+                        "date_added": "13120327257262983",
+                        "id": "12213",
+                        "name": "Sprint Retrospective Techniques 2 | The Upward Spiral",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://waynedgrant.wordpress.com/2013/04/21/sprint-retrospective-techniques-2/"
+                     }, {
+                        "date_added": "13120327257264449",
+                        "id": "12211",
+                        "name": "Sprint Retrospective Techniques 3 | The Upward Spiral",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://waynedgrant.wordpress.com/2014/02/09/sprint-retrospective-techniques-3/"
+                     }, {
+                        "date_added": "13120327257265933",
+                        "id": "12214",
+                        "name": "Retrospective Prime Directive",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.retrospectives.com/pages/retroPrimeDirective.html"
+                     }, {
+                        "date_added": "13120327257267740",
+                        "id": "12207",
+                        "name": "RetrospectiveKeyQuestions.html",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.retrospectives.com/pages/RetrospectiveKeyQuestions.html"
+                     }, {
+                        "date_added": "13120327257269458",
+                        "id": "12219",
+                        "name": "PrimingPrimeDirective",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://martinfowler.com/bliki/PrimingPrimeDirective.html"
+                     }, {
+                        "date_added": "13120327257271245",
+                        "id": "12215",
+                        "name": "Retrospective Handbook by Patrick Kua [Leanpub PDF/iPad/Kindle]",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://leanpub.com/the-retrospective-handbook"
+                     }, {
+                        "date_added": "13120327257272962",
+                        "id": "12226",
+                        "name": "“The 4 Questions” of a Retrospective and Why They Work | Agile Zone",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agile.dzone.com/articles/%E2%80%9C-4-questions%E2%80%9D-retrospective"
+                     }, {
+                        "date_added": "13120327257276076",
+                        "id": "12228",
+                        "name": "Fun… by Taina Caetano et al. [Leanpub PDF/iPad/Kindle]",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://leanpub.com/funretrospectives"
+                     }, {
+                        "date_added": "13120327257274519",
+                        "id": "12222",
+                        "name": "Effective Sprint Retrospectives",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://msdn.microsoft.com/en-us/library/jj620912.aspx"
+                     }, {
+                        "date_added": "13167585272033948",
+                        "id": "12224",
+                        "name": "Retrospective Smells: Passiveness - Ben Linders",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.benlinders.com/2018/retrospective-smell-passiveness/"
+                     }, {
+                        "date_added": "13169521267409120",
+                        "id": "12223",
+                        "name": "goReflect | Free Online Retrospectives",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.goreflect.com/"
+                     }, {
+                        "date_added": "13169523590336164",
+                        "id": "12216",
+                        "name": "21 Sprint Retrospective Anti-Patterns Impeding Scrum Teams | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/21-sprint-retrospective-anti-patterns-impeding-scrum-teams-wolpers/"
+                     }, {
+                        "date_added": "13174244998889125",
+                        "id": "12230",
+                        "name": "Main reason your agile retrospectives don't work",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.extremeuncertainty.com/main-reason-agile-retrospectives-dont-work/"
+                     }, {
+                        "date_added": "13192892351034299",
+                        "id": "12227",
+                        "name": "Appreciative Retrospective | Pearls of Wisdom",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://agilepearls.wordpress.com/tag/appreciative-retrospective/"
+                     }, {
+                        "date_added": "13193495933322905",
+                        "id": "12229",
+                        "name": "An Appreciative Retrospective | AYE Conference",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.ayeconference.com/appreciativeretrospective/"
+                     }, {
+                        "date_added": "13193495993753880",
+                        "id": "12218",
+                        "name": "How You Can Keep Scrum Positive - DZone Agile",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://dzone.com/articles/how-you-can-keep-scrum-positive"
+                     }, {
+                        "date_added": "13193496018619283",
+                        "id": "12225",
+                        "name": "Liberating Structures - 6. TRIZ",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.liberatingstructures.com/6-making-space-with-triz/"
+                     }, {
+                        "date_added": "13193496276673049",
+                        "id": "12220",
+                        "name": "Retrospective and Clean Feedback",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://finding-marbles.com/"
+                     }, {
+                        "date_added": "13210080221079848",
+                        "id": "12217",
+                        "name": "Agile2019 Retrospective with a twist (or Liberating Structures for the win!)",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www-agileplayconsulting-com.cdn.ampproject.org/c/s/www.agileplayconsulting.com/amp/agile2019-retrospective-with-a-twist-or-liberating-structures-for-the-win"
+                     }, {
+                        "date_added": "13211066171761864",
+                        "id": "12221",
+                        "name": "The Agile Project Manager—The Secret Sauce: Team Appreciation — RGalen Consulting",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://rgalen.com/agile-training-news/2012/4/28/the-agile-project-managerthe-secret-sauce-team-appreciation.html"
+                     } ],
+                     "date_added": "13213670329777824",
+                     "date_modified": "13213670329793716",
+                     "id": "12185",
+                     "name": "Retropsective",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327257277668",
+                        "id": "12304",
+                        "name": "Scrum Master Community of Practice | Agile Demystified",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agiledemystified.com/2012/06/10/scrum-master-community-of-practice/"
+                     }, {
+                        "date_added": "13120327257279245",
+                        "id": "12299",
+                        "name": "Agile Sustainability using Communities of Practice - Illustrated Agile",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://illustratedagile.com/2012/04/20/agile-sustainability-community-of-practice/"
+                     }, {
+                        "date_added": "13120327257281136",
+                        "id": "12303",
+                        "name": "Cultivate Communities of Practice",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+                     }, {
+                        "date_added": "13120327257283103",
+                        "id": "12302",
+                        "name": "The ScrumMaster's Performance and Development - Scrum Alliance",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumalliance.org/community/articles/2013/july/scrum-master-s-performance-and-development"
+                     }, {
+                        "date_added": "13120327257284706",
+                        "id": "12298",
+                        "name": "A ScrumMasters' CoP Start-Up - Scrum Alliance",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumalliance.org/community/articles/2014/april/a-scrummasters-cop-start-up"
+                     }, {
+                        "date_added": "13120327257286302",
+                        "id": "12297",
+                        "name": "» Hansei – 反省 Kirainet.com – A geek in Japan",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.kirainet.com/english/hansei-%E5%8F%8D%E7%9C%81/"
+                     }, {
+                        "date_added": "13120327257294469",
+                        "id": "12300",
+                        "name": "How Do You End a Meeting? Netflix’s HR Rebel Asks Two Simple Questions | Bob Sutton | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/how-do-you-end-meeting-netflixs-hr-rebel-asks-two-simple-bob-sutton"
+                     }, {
+                        "date_added": "13120327257296725",
+                        "id": "12301",
+                        "name": "Book and Coffee Break Study Group - Communities of Practice",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://lmsgoncalves.com/2013/12/22/study-groups-communities-of-practices/?goback=%2Egde_731527_member_5820669079253454849#%21"
+                     } ],
+                     "date_added": "13213670329778890",
+                     "date_modified": "13213670329793645",
+                     "id": "12195",
+                     "name": "CoP",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327257299749",
+                        "id": "12305",
+                        "name": "Advice on Conducting the Scrum of Scrums Meeting - Scrum Alliance",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.scrumalliance.org/community/articles/2007/may/advice-on-conducting-the-scrum-of-scrums-meeting"
+                     } ],
+                     "date_added": "13213670329779471",
+                     "date_modified": "13213670329779471",
+                     "id": "12200",
+                     "name": "Scrum of Scrums",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13120327257301614",
+                        "id": "12295",
+                        "name": "How to kick off your new Scrum team | Marc Löffler",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://marcloeffler.eu/2010/04/13/how-to-kick-off-your-new-scrum-team/"
+                     }, {
+                        "date_added": "13120327257303563",
+                        "id": "12257",
+                        "name": "weisbart.com/wp-content/uploads/2013/10/ScrumKickoff-1_0.pdf",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://weisbart.com/wp-content/uploads/2013/10/ScrumKickoff-1_0.pdf"
+                     }, {
+                        "date_added": "13120327257305185",
+                        "id": "12260",
+                        "name": "esther derby associates, inc. » Building Effective Teams: Miss the Start, Miss the End",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html"
+                     }, {
+                        "date_added": "13144354610364217",
+                        "id": "12265",
+                        "name": "Chartering, Lift-off, Setting the Stage, From the Beginning… — RGalen Consulting",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://rgalen.com/agile-training-news/2016/11/9/chartering-lift-off-setting-the-stage-from-the-beginning?utm_content=buffer5a0aa&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer"
+                     }, {
+                        "date_added": "13120327257306799",
+                        "id": "12278",
+                        "name": "Top 10 reasons why Darth Vader was an amazing project manager - GeekWire",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.geekwire.com/2011/top-10-reasons-darth-vader-amazing-project-manager"
+                     }, {
+                        "date_added": "13120327257308358",
+                        "id": "12284",
+                        "name": "Roles on Agile Teams: From Small to Large Teams",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.ambysoft.com/essays/agileRoles.html"
+                     }, {
+                        "date_added": "13120327257310094",
+                        "id": "12283",
+                        "name": "How to Get Smart People With Big Egos to Work TogetherChristopher Avery's The Leadership Gift™ Blog",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.christopheravery.com/blog/how-to-get-smart-people-with-big-egos-to-work-together/"
+                     }, {
+                        "date_added": "13120327257312826",
+                        "id": "12258",
+                        "name": "Fun at Work | Edge of Chaos | Agile Development Blog",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.targetprocess.com/blog/2013/12/fun-at-work.html?goback=%2Egde_2908737_member_5816514529848225794"
+                     }, {
+                        "date_added": "13125765675551904",
+                        "id": "12282",
+                        "name": "Agile Self-assessments - Ben Linders",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.benlinders.com/tools/agile-self-assessments/"
+                     }, {
+                        "date_added": "13120327257315538",
+                        "id": "12253",
+                        "name": "The Enemy of Trust and 6 Ways to Defeat It",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://leadingwithtrust.com/2014/02/02/the-enemy-of-trust-and-6-ways-to-defeat-it/"
+                     }, {
+                        "date_added": "13120327257320332",
+                        "id": "12280",
+                        "name": "Forget Myers-Briggs: To Build a Great Team, Focus on 'Factor C' | Cass Sunstein | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/forget-myers-briggs-build-great-team-focus-factor-c-cass-sunstein"
+                     }, {
+                        "date_added": "13120327255314957",
+                        "id": "12262",
+                        "name": "The quest for high performance",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.coachingagileteams.com/coachingstories/2010/09/23/highperformancetree/the-quest-for-high-performance/"
+                     }, {
+                        "date_added": "13120327257326545",
+                        "id": "12259",
+                        "name": "Agile adaptation of Tuckman’s stages of group development | Brett Maytom | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/20140827113926-135669454-agile-adaptation-of-tuckman-s-stages-of-group-development"
+                     }, {
+                        "date_added": "13120327257328410",
+                        "id": "12272",
+                        "name": "How to Build a Kick-ass Agile Team | The Agile Coach",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.atlassian.com/agile/teams"
+                     }, {
+                        "date_added": "13120327257330298",
+                        "id": "12288",
+                        "name": "Total Squadification – Large Scale Self-Selection – Nomad8",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://nomad8.com/total-squadification-large-scale-self-organisation/"
+                     }, {
+                        "date_added": "13122065121487386",
+                        "id": "12268",
+                        "name": "3 Metrics for Reporting an Agile Pilot to Top Management » Agile Trail",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agiletrail.com/2011/09/19/3-metrics-for-reporting-an-agile-pilot-to-top-management/"
+                     }, {
+                        "date_added": "13122156536722751",
+                        "id": "12261",
+                        "name": "Agile Metrics – Velocity is not the Goal | Nicholas Muldoon",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.nicholasmuldoon.com/2013/08/agile-metrics-velocity-is-not-the-goal/"
+                     }, {
+                        "date_added": "13122156617724967",
+                        "id": "12287",
+                        "name": "INCURABLE DATA GEEK • How we put a number on employee happiness and did...",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.samiinkinen.com/post/8849816634/employee-happiness"
+                     }, {
+                        "date_added": "13122156570013695",
+                        "id": "12270",
+                        "name": "http://teammetrics.apphb.com/",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://teammetrics.apphb.com/"
+                     }, {
+                        "date_added": "13122156649779868",
+                        "id": "12273",
+                        "name": "How companies measure happiness in a creative way | Hppy",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.gethppy.com/employee-engagement/how-companies-measure-happiness-in-a-creative-way"
+                     }, {
+                        "date_added": "13122156659500758",
+                        "id": "12255",
+                        "meta_info": {
+                           "last_visited": "13203708612851708"
+                        },
+                        "name": "A Better Way To Measure Employee Happiness | Neale Lewis | Pulse | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/20141018181701-13167405-a-better-way-to-measure-employee-happines"
+                     }, {
+                        "date_added": "13120327257322819",
+                        "id": "12291",
+                        "meta_info": {
+                           "last_visited": "13204156405424337"
+                        },
+                        "name": "Squad Health Check model – visualizing what to improve | Spotify Labs",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://labs.spotify.com/2014/09/16/squad-health-check-model/"
+                     }, {
+                        "date_added": "13122156683155431",
+                        "id": "12292",
+                        "name": "Employee engagement - Bain & Company: Net Promoter System",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.netpromotersystem.com/about/employee-engagement.aspx"
+                     }, {
+                        "date_added": "13120327255298754",
+                        "id": "12254",
+                        "name": "Online « The McCarthy Show",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.mccarthyshow.com/online/"
+                     }, {
+                        "date_added": "13120327257324873",
+                        "id": "12267",
+                        "name": "How to Track the Team’s Mood with a Niko-niko Calendar » Agile Trail",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar/"
+                     }, {
+                        "date_added": "13138722745406964",
+                        "id": "12276",
+                        "name": "63% Of Employees Don't Trust Their Leader -- Here's What You Can Do To Change That",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.forbes.com/sites/christinecomaford/2017/01/28/63-of-employees-dont-trust-their-leader-heres-what-you-can-do-to-change-that/#290818ec7de4"
+                     }, {
+                        "date_added": "13139678755883478",
+                        "id": "12281",
+                        "name": "Agile Metrics Madness | Teri Christian | Pulse | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/agile-metrics-madness-teri-christian?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhpSY4EDXLJ2L8fy35KySpg%3D%3D"
+                     }, {
+                        "date_added": "13140189875732104",
+                        "id": "12294",
+                        "name": "Confreaks TV | A Clear-Eyed Look at Distributed Teams - RailsConf 2017",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://confreaks.tv/videos/railsconf2017-a-clear-eyed-look-at-distributed-teams"
+                     }, {
+                        "date_added": "13143059719248675",
+                        "id": "12266",
+                        "name": "Free personality test, type descriptions, relationship and career advice | 16Personalities",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.16personalities.com/"
+                     }, {
+                        "date_added": "13144275087645674",
+                        "id": "12269",
+                        "name": "How Do I Convince My Boss to Do Anything I Want? – Agility Scales – Medium",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://medium.com/agility-scales/how-do-i-convince-my-boss-to-do-anything-i-want-1422f7f79f6d"
+                     }, {
+                        "date_added": "13167585205568559",
+                        "id": "12275",
+                        "name": "Building Alignment: Team working agreements | Mastering the Obvious",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://masteringtheobvious.wordpress.com/2018/04/04/building-alignment-team-working-agreements/"
+                     }, {
+                        "date_added": "13168655289331557",
+                        "id": "12251",
+                        "name": "Applying Brooks' Law to Lines of Communication and Team SizeLeadingAgile",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.leadingagile.com/2018/02/applying-brooks-law/"
+                     }, {
+                        "date_added": "13169521677921683",
+                        "id": "12277",
+                        "meta_info": {
+                           "last_visited": "13203708654516558"
+                        },
+                        "name": "Track and Facilitate Your Engineers’ Flow States In This Simple Way | First Round Review",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-this-simple-way/"
+                     }, {
+                        "date_added": "13172505229208266",
+                        "id": "12293",
+                        "name": "Measuring and evaluating Scrum in complex environments – Innova1st",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://en.innova1st.com/2017/05/05/midiendo-y-evaluando-scrum-en-entornos-complejos-incluye-archivos-de-ejemplo-y-para-que-utilices/"
+                     }, {
+                        "date_added": "13172638991092893",
+                        "id": "12271",
+                        "name": "Larman's Laws of Organizational Behavior - Craig Larman",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior"
+                     }, {
+                        "date_added": "13173323170301598",
+                        "id": "12289",
+                        "name": "Don't call me a resource | LinkedIn",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.linkedin.com/pulse/dont-call-me-resource-jimmy-skowronski/"
+                     }, {
+                        "date_added": "13183997438539869",
+                        "id": "12264",
+                        "name": "The Quest for High Performance: A team start up exercise | Beliminal",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.beliminal.com/quest-high-performance-team-start-exercise/"
+                     }, {
+                        "date_added": "13188575262037720",
+                        "id": "12252",
+                        "name": "Crisp's Blog » Bootstrapping a Working Agreement for the Agile Team",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team"
+                     }, {
+                        "date_added": "13193496206706553",
+                        "id": "12286",
+                        "name": "Liberating Structures - 20. Drawing Together",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "http://www.liberatingstructures.com/20-drawing-together"
+                     }, {
+                        "date_added": "13196259732145930",
+                        "id": "12279",
+                        "name": "The First Question To Ask When Building Teams - Is This Really A Team? - The Agile Coach's Guide To The Galaxy",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.viktorcessan.com/the-first-question-to-ask-when-building-teams-is-this-really-a-team/"
+                     }, {
+                        "date_added": "13196862477447442",
+                        "id": "12263",
+                        "name": "Stop Wasting Money on Team Building",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://hbr.org/2018/09/stop-wasting-money-on-team-building"
+                     }, {
+                        "date_added": "13196863082048760",
+                        "id": "12290",
+                        "name": "Five Dysfunctions Products | The Table Group",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.tablegroup.com/books/dysfunctions"
+                     }, {
+                        "date_added": "13202354554215832",
+                        "id": "12274",
+                        "meta_info": {
+                           "last_visited": "13202357575079102"
+                        },
+                        "name": "Six Ways a Scrum Master or Agile Coach Can Help the Team",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www.mountaingoatsoftware.com/blog/six-things-your-team-wants-from-you-as-their-scrum-master"
+                     }, {
+                        "date_added": "13206807694416062",
+                        "id": "12256",
+                        "name": "Is my Scrum team really self-organizing? - Serious Scrum - Medium",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://medium.com/serious-scrum/is-my-scrum-team-really-self-organizing-a76d5c177f46"
+                     }, {
+                        "date_added": "13209415665313167",
+                        "id": "12285",
+                        "name": "Every team needs a Working Agreement",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "https://www-agileplayconsulting-com.cdn.ampproject.org/c/s/www.agileplayconsulting.com/amp/every-team-needs-a-working-agreement"
+                     }, {
+                        "date_added": "13213634110197093",
+                        "id": "12296",
+                        "name": "New Tab",
+                        "sync_transaction_version": "97",
+                        "type": "url",
+                        "url": "chrome://newtab/"
+                     } ],
+                     "date_added": "13213670329778871",
+                     "date_modified": "13213670329793746",
+                     "id": "12194",
+                     "name": "Team Building",
+                     "sync_transaction_version": "97",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13120327256217953",
+                     "id": "12206",
+                     "name": "Agile Leadership Network - Accelerate Agility: Connect and Engage to Transform Your Enterprise",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://agileleadershipnetwork.org/"
+                  }, {
+                     "date_added": "13120327256222520",
+                     "id": "12198",
+                     "name": "Five Tips for Impediment Resolution with Scrum - Scrum Alliance",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.scrumalliance.org/community/articles/2011/september/five-tips-for-impediment-resolution-with-scrum"
+                  }, {
+                     "date_added": "13120327256224119",
+                     "id": "12204",
+                     "name": "Fidelity – The Lost Dimension of the Iron TriangleAvailAgility | AvailAgility",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://availagility.co.uk/2009/12/22/fidelity-the-lost-dimension-of-the-iron-triangle/"
+                  }, {
+                     "date_added": "13120327256225602",
+                     "id": "12203",
+                     "name": "Agile Atlas |",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://agileatlas.org/articles/item/large-scale-scrum-less-is-more"
+                  }, {
+                     "date_added": "13120327256228549",
+                     "id": "12196",
+                     "name": "ATDD From the Trenches",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.infoq.com/articles/atdd-from-the-trenches"
+                  }, {
+                     "date_added": "13120327256230165",
+                     "id": "12189",
+                     "name": "Alistair.Cockburn.us | Shu Ha Ri",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://alistair.cockburn.us/Shu+Ha+Ri"
+                  }, {
+                     "date_added": "13120327256231731",
+                     "id": "12192",
+                     "name": "Agile Commentary: What is Shu Ha Ri?",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://agile-commentary.blogspot.ca/2008/10/what-is-shu-ha-ri.html"
+                  }, {
+                     "date_added": "13120327256233478",
+                     "id": "12202",
+                     "name": "James Shore: The Decline and Fall of Agile",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.jamesshore.com/Blog/The-Decline-and-Fall-of-Agile.html"
+                  }, {
+                     "date_added": "13120327256235034",
+                     "id": "12186",
+                     "name": "Technical Articles for Visual Studio Application Lifecycle Management",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://msdn.microsoft.com/en-us/library/ee889983.aspx"
+                  }, {
+                     "date_added": "13120327256238032",
+                     "id": "12183",
+                     "name": "Disciplined Agile Consortium - Posters",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://disciplinedagileconsortium.org/posters"
+                  }, {
+                     "date_added": "13120327256239679",
+                     "id": "12191",
+                     "name": "Manage the Growing Pains of Scaling an Agile Team | 352 Blog",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://www.352inc.com/blog/manage-the-growing-pains-of-scaling-an-agile-team/"
+                  }, {
+                     "date_added": "13120327256242794",
+                     "id": "12199",
+                     "name": "Process Goals | Disciplined Agile Delivery",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://disciplinedagiledelivery.wordpress.com/process-goals/"
+                  }, {
+                     "date_added": "13120327256244318",
+                     "id": "12181",
+                     "name": "32 Scrum master interview questions!",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://lmsgoncalves.com/2014/09/08/40-scrum-master-interview-questions/"
+                  }, {
+                     "date_added": "13120327256245846",
+                     "id": "12190",
+                     "name": "Agile and Scrum Master Interview Questions | Agile Questions Asked in 2015",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://intellipaat.com/interview-question/agile-scrum-master-interview-questions/?utm_source=link%2FscrumIQ_NK&utm_medium=posting&utm_campaign=link%2FscrumIQ_NK%20posting"
+                  }, {
+                     "date_added": "13120327256247675",
+                     "id": "12184",
+                     "name": "Hitler at a sprint review - YouTube",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Q6jMgmPIxmk&feature=youtu.be"
+                  }, {
+                     "date_added": "13143066372857308",
+                     "id": "12182",
+                     "name": "ScrumMaster Checklist",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "http://scrummasterchecklist.org/"
+                  }, {
+                     "date_added": "13168215087013004",
+                     "id": "12180",
+                     "name": "Checklist - Agile Partnership",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://agilepartnership.com/en/resources/checklist/"
+                  }, {
+                     "date_added": "13168398729829351",
+                     "id": "12205",
+                     "name": "Sprint Events Are Not a Waste (Unless Done Wrong!)",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://www.business2community.com/marketing/sprint-events-not-waste-unless-done-wrong-01892940#4IAZ0MSiaVF0xPwI.97"
+                  }, {
+                     "date_added": "13176184174144257",
+                     "id": "12197",
+                     "name": "The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88"
+                  }, {
+                     "date_added": "13179183348490549",
+                     "id": "12187",
+                     "name": "Scrum Master: The Master of the Art of Facilitation | Scrum.org",
+                     "sync_transaction_version": "97",
+                     "type": "url",
+                     "url": "https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation"
+                  } ],
+                  "date_added": "13213670329776399",
+                  "date_modified": "13213670329793730",
+                  "id": "12175",
+                  "name": "Scrum Master",
+                  "sync_transaction_version": "97",
+                  "type": "folder"
                } ],
                "date_added": "13120327255053311",
                "date_modified": "13202612630003768",
@@ -8226,7 +9292,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "96",
+      "sync_transaction_version": "97",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
