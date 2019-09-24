@@ -16,7 +16,7 @@
                "last_visited_desktop": "13205168838704961"
             },
             "name": "LinkedIn",
-            "sync_transaction_version": "96",
+            "sync_transaction_version": "99",
             "type": "url",
             "url": "http://www.linkedin.com/"
          }, {
@@ -54,7 +54,7 @@
                "last_visited_desktop": "13204402910645953"
             },
             "name": "Visual Studio Team Services",
-            "sync_transaction_version": "38",
+            "sync_transaction_version": "103",
             "type": "url",
             "url": "https://waynehetherington.visualstudio.com/"
          }, {
@@ -492,7 +492,7 @@
                            "last_visited": "13204156405424337"
                         },
                         "name": "Squad Health Check model – visualizing what to improve | Spotify Labs",
-                        "sync_transaction_version": "1",
+                        "sync_transaction_version": "100",
                         "type": "url",
                         "url": "https://labs.spotify.com/2014/09/16/squad-health-check-model/"
                      }, {
@@ -4060,7 +4060,7 @@
                            "last_visited": "13204156405424337"
                         },
                         "name": "Squad Health Check model – visualizing what to improve | Spotify Labs",
-                        "sync_transaction_version": "97",
+                        "sync_transaction_version": "101",
                         "type": "url",
                         "url": "https://labs.spotify.com/2014/09/16/squad-health-check-model/"
                      }, {
@@ -9292,7 +9292,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "97",
+      "sync_transaction_version": "103",
       "synced": {
          "children": [ {
             "date_added": "13125020456084979",
