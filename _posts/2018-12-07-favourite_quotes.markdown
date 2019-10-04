@@ -49,8 +49,8 @@ published: true
 | | |
 |   | "Great civilisations are not murdered. Instead, they take their own lives."<br>[Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee) |
 | | |
-
-"Results without process can't be replicated and process without results is worthless." - Steve Ewing
+| "Results without process can't be replicated and process without results is worthless."<br>[Steve Ewing](https://www.depauw.edu/news-media/latest-news/details/18916/) |
+| | |
 
 "We don’t see things as they are; we see them as we are." - Anaïs Nin
 
