@@ -39,11 +39,11 @@ published: true
 | | |
 | "You've got to be very careful if you don't know where you are going, because you might not get there."<br><br>"In theory there is no difference between theory and practice. But, in practice, there is."<br>[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra) | ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} |
 | | |
-| "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br>
+| pic | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br>
 "In God we trust; all others bring data."<br>
-"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming)
+"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) |
 | | |
-| "The cave you fear to enter holds the treasure you seek" - Joseph Campbell
+| "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic |
 | | |
 
 "Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt
