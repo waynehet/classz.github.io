@@ -61,8 +61,8 @@ published: true
 | | |
 | | "Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful"<br>[Herman Cain](https://en.wikipedia.org/wiki/Herman_Cain) |
 | | |
-
-“Not everything that is faced can be changed, but nothing can be changed until it is faced.” - James Baldwin
+| “Not everything that is faced can be changed, but nothing can be changed until it is faced.”<br>[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) | |
+| | |
 
 "Man prefers to believe what he prefers to be true." - Sir Francis Bacon
 
