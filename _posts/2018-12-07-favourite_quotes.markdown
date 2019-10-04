@@ -41,12 +41,12 @@ published: true
 | | |
 | photo | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br>"In God we trust; all others bring data."<br>"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) |
 | | |
-| "The cave you fear to enter holds the treasure you seek"<br>[Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) | photo |
+| "The cave you fear to enter holds the treasure you seek"<br>[Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) |  |
 | | |
-| photo | "Nobody cares how much you know, until they know how much you care."<br>[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
+|  | "Nobody cares how much you know, until they know how much you care."<br>[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
 | | |
-
-"When will all the rhetorical questions end?" - George Carlin
+| "When will all the rhetorical questions end?"<br>[George Carlin](https://en.wikipedia.org/wiki/George_Carlin) |   |
+| | |
 
 "Great civilisations are not murdered. Instead, they take their own lives." - Arnold Toynbee
 
