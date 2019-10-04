@@ -33,19 +33,18 @@ published: true
 | | |
 | ![Charles Darwin]({{site.baseurl}}/assets/charles_darwin.jpg){:width="100px"} | "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."<br>[Charles Darwin](https://quoteinvestigator.com/2014/05/04/adapt/) |
 | | |
-| "Prediction is very difficult, especially if it's about the future."<br>[Niels Bohr](https://www.brainyquote.com/quotes/niels_bohr_130288) | ![Niels Bohr]({{site.baseurl}}/assets/niels_bohr.jpg){:width="100px"} |
+| "Prediction is very difficult, especially if it's about the future."<br>[Niels Bohr](https://www.brainyquote.com/quotes/niels_bohr_130288) | ![Niels Bohr]({{site.baseurl}}/assets/niels_bohr.jpg){:width="100px"} |up
 | | |
 | ![George Bernard Shaw]({{site.baseurl}}/assets/george_bernard_shaw.jpg){:width="100px"} | "The single biggest problem in communication is the illusion that it has taken place."<br>[George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) |
 | | |
-| "You've got to be very careful if you don't know where you are going, because you might not get there."<br><br>"In theory there is no difference between theory and practice. But, in practice, there is."<br>[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra) | ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} |
+| "You've got to be very careful if you don't know where you are going, because you might not get there."<br><br>"In theory there is no difference between theory and practice. But, in practice, there is."<br>[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra) | ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} | 
 | | |
 | pic | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br>
 "In God we trust; all others bring data."<br>
-"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) |
+"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) | 
 | | |
-| "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic |
+| "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic | 
 | | |
-
 "Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt
 
 "When will all the rhetorical questions end?" - George Carlin
