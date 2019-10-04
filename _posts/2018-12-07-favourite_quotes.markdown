@@ -59,8 +59,8 @@ published: true
 | | |
 | "There is nothing so practical as a good theory."<br><br>"If you want truly to understand something, try to change it."<br>[Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin) |
 | | |
-
-"Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful" - Herman Cain
+| | "Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful"<br>[Herman Cain](https://en.wikipedia.org/wiki/Herman_Cain) |
+| | |
 
 “Not everything that is faced can be changed, but nothing can be changed until it is faced.” - James Baldwin
 
