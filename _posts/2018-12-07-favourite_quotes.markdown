@@ -13,7 +13,7 @@ published: true
 | | |
 | ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"} | "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction."<br>[E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher)  |
 | | |
-| "They may forget what you said, but they will never forget how you made them feel."<br>[Carl W. Buehner](https://en.wikipedia.org/wiki/Carl_W._Buehner) | ![Carl W. Buehner]({{site.baseurl}}/assets/buehner.jpg){:width="100px"}  |
+| "They may forget what you said, but they will never forget how you made them feel."<br>[Carl W. Buehner](https://en.wikipedia.org/wiki/Carl_W._Buehner) | ![Carl W. Buehner]({{site.baseurl}}/assets/buehner.jpg){:width="100px"} |
 | | |
 | ![Blaise Pascal]({{site.baseurl}}/assets/blaise_pascal.jpg){:width="100px"} | "If I Had More Time, I Would Have Written a Shorter Letter"<br>[Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) |
 | | |
@@ -39,14 +39,12 @@ published: true
 | | |
 | "You've got to be very careful if you don't know where you are going, because you might not get there."<br><br>"In theory there is no difference between theory and practice. But, in practice, there is."<br>[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra) | ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} |
 | | |
-
-"Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."
-"In God we trust; all others bring data."
-"Without data, you're just another person with an opinion." - Edwards Deming
-
-"The Cave You Fear to Enter Holds the Treasure You Seek" - Joseph Campbell
-
-"Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt
+| pic | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br>
+"In God we trust; all others bring data."<br>"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) |
+| | |
+| "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic |
+| | |
+"Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt a
 
 "When will all the rhetorical questions end?" - George Carlin
 
