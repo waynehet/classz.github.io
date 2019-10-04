@@ -9,9 +9,9 @@ published: true
 
 |   |   |
 | -------------: | :------------- |
-| "Those who fail to learn from history are doomed to repeat it."<br>[George Santayana](https://en.wikipedia.org/wiki/George_Santayana)  | ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"} |
+| "Those who fail to learn from history are doomed to repeat it."<br>[George Santayana](https://en.wikipedia.org/wiki/George_Santayana) | ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"} |
 | | |
-| ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"} | "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction."<br>[E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher)  |
+| ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"} | "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction."<br>[E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher) |
 | | |
 | "They may forget what you said, but they will never forget how you made them feel."<br>[Carl W. Buehner](https://en.wikipedia.org/wiki/Carl_W._Buehner) | ![Carl W. Buehner]({{site.baseurl}}/assets/buehner.jpg){:width="100px"} |
 | | |
@@ -44,6 +44,7 @@ published: true
 | | |
 | "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic |
 | | |
+
 "Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt a
 
 "When will all the rhetorical questions end?" - George Carlin
