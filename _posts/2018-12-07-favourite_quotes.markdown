@@ -53,10 +53,10 @@ published: true
 | | |
 | | "We don’t see things as they are; we see them as we are."<br>[Anaïs Nin](https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin) |
 | | |
-
-“We are defined by what we tolerate." - Marilyn Carlson Nelson
-
-"People don't resist change, they resist being changed." - Peter Scholtes
+| “We are defined by what we tolerate."<br>[Marilyn Carlson Nelson](https://en.wikipedia.org/wiki/Marilyn_Carlson_Nelson) | |
+| | |
+| | "People don't resist change, they resist being changed."<br>[Peter Scholtes](https://en.wikipedia.org/wiki/Peter_Scholtes) |
+| | |
 
 "There is nothing so practical as a good theory."
 "If you want truly to understand something, try to change it." - Kurt Lewin
