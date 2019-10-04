@@ -44,7 +44,7 @@ published: true
 | | |
 | "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic |
 | | |
-"Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt
+"Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt a
 
 "When will all the rhetorical questions end?" - George Carlin
 
