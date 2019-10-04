@@ -51,8 +51,8 @@ published: true
 | | |
 | "Results without process can't be replicated and process without results is worthless."<br>[Steve Ewing](https://www.depauw.edu/news-media/latest-news/details/18916/) |
 | | |
-
-"We don’t see things as they are; we see them as we are." - Anaïs Nin
+| | "We don’t see things as they are; we see them as we are."<br>[Anaïs Nin](https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin) |
+| | |
 
 “We are defined by what we tolerate." - Marilyn Carlson Nelson
 
