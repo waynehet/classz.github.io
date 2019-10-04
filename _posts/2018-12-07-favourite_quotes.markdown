@@ -42,9 +42,9 @@ published: true
 
 "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."
 "In God we trust; all others bring data."
-"Without data, you're just another person with an opinion." - Edwards Deming
+"Without data, you're just another person with an opinion." - [Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming)
 
-"The Cave You Fear to Enter Holds the Treasure You Seek" - Joseph Campbell
+"The cave you fear to enter holds the treasure you seek" - Joseph Campbell
 
 "Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt
 
