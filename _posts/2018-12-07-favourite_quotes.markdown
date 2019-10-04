@@ -65,5 +65,4 @@ published: true
 | | |
 | | "Man prefers to believe what he prefers to be true."<br>[Sir Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) |
 | | |
-
-"Feelings are something you have; not something you are." - Shannon L. Alder
+| "Feelings are something you have; not something you are."<br>[Shannon L. Alder](https://www.goodreads.com/quotes/906515-feelings-are-something-you-have-not-something-you-are) | |
