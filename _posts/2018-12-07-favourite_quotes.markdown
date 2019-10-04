@@ -57,9 +57,8 @@ published: true
 | | |
 | | "People don't resist change, they resist being changed."<br>[Peter Scholtes](https://en.wikipedia.org/wiki/Peter_Scholtes) |
 | | |
-
-"There is nothing so practical as a good theory."
-"If you want truly to understand something, try to change it." - Kurt Lewin
+| "There is nothing so practical as a good theory."<br><br>"If you want truly to understand something, try to change it."<br>[Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin) |
+| | |
 
 "Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful" - Herman Cain
 
