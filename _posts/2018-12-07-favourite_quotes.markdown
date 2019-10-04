@@ -63,7 +63,7 @@ published: true
 | | |
 | “Not everything that is faced can be changed, but nothing can be changed until it is faced.”<br>[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) | |
 | | |
-
-"Man prefers to believe what he prefers to be true." - Sir Francis Bacon
+| | "Man prefers to believe what he prefers to be true."<br>[Sir Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) |
+| | |
 
 "Feelings are something you have; not something you are." - Shannon L. Alder
