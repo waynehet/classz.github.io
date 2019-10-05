@@ -9,9 +9,9 @@ published: true
 
 |   |   |
 | -------------: | :------------- |
-| "Those who fail to learn from history are doomed to repeat it."<br>[George Santayana](https://en.wikipedia.org/wiki/George_Santayana)  | ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"} |
+| "Those who fail to learn from history are doomed to repeat it."<br>[George Santayana](https://en.wikipedia.org/wiki/George_Santayana) | ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"} |
 | | |
-| ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"} | "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction."<br>[E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher)  |
+| ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"} | "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction."<br>[E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher) |
 | | |
 | "They may forget what you said, but they will never forget how you made them feel."<br>[Carl W. Buehner](https://en.wikipedia.org/wiki/Carl_W._Buehner) | ![Carl W. Buehner]({{site.baseurl}}/assets/buehner.jpg){:width="100px"} |
 | | |
@@ -39,32 +39,30 @@ published: true
 | | |
 | "You've got to be very careful if you don't know where you are going, because you might not get there."<br><br>"In theory there is no difference between theory and practice. But, in practice, there is."<br>[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra) | ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} |
 | | |
-| pic | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br>
-"In God we trust; all others bring data."<br>"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) |
+|  | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br><br>"In God we trust; all others bring data."<br><br>"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming) |
 | | |
-| "The cave you fear to enter holds the treasure you seek" - Joseph Campbell | pic |
+| "The cave you fear to enter holds the treasure you seek"<br>[Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) |  |
 | | |
-"Nobody cares how much you know, until they know how much you care." - Theodore Roosevelt a
-
-"When will all the rhetorical questions end?" - George Carlin
-
-"Great civilisations are not murdered. Instead, they take their own lives." - Arnold Toynbee
-
-"Results without process can't be replicated and process without results is worthless." - Steve Ewing
-
-"We don’t see things as they are; we see them as we are." - Anaïs Nin
-
-“We are defined by what we tolerate." - Marilyn Carlson Nelson
-
-"People don't resist change, they resist being changed." - Peter Scholtes
-
-"There is nothing so practical as a good theory."
-"If you want truly to understand something, try to change it." - Kurt Lewin
-
-"Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful" - Herman Cain
-
-“Not everything that is faced can be changed, but nothing can be changed until it is faced.” - James Baldwin
-
-"Man prefers to believe what he prefers to be true." - Sir Francis Bacon
-
-"Feelings are something you have; not something you are." - Shannon L. Alder
+|  | "Nobody cares how much you know, until they know how much you care."<br>[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
+| | |
+| "When will all the rhetorical questions end?"<br>[George Carlin](https://en.wikipedia.org/wiki/George_Carlin) |   |
+| | |
+|   | "Great civilisations are not murdered. Instead, they take their own lives."<br>[Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee) |
+| | |
+| "Results without process can't be replicated and process without results is worthless."<br>[Steve Ewing](https://www.depauw.edu/news-media/latest-news/details/18916/) |
+| | |
+| | "We don’t see things as they are; we see them as we are."<br>[Anaïs Nin](https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin) |
+| | |
+| “We are defined by what we tolerate."<br>[Marilyn Carlson Nelson](https://en.wikipedia.org/wiki/Marilyn_Carlson_Nelson) | |
+| | |
+| | "People don't resist change, they resist being changed."<br>[Peter Scholtes](https://en.wikipedia.org/wiki/Peter_Scholtes) |
+| | |
+| "There is nothing so practical as a good theory."<br><br>"If you want truly to understand something, try to change it."<br>[Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin) |
+| | |
+| | "Success is not the key to happiness.  Happiness is the key to success.  If you love what you are doing, you will be successful"<br>[Herman Cain](https://en.wikipedia.org/wiki/Herman_Cain) |
+| | |
+| “Not everything that is faced can be changed, but nothing can be changed until it is faced.”<br>[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) | |
+| | |
+| | "Man prefers to believe what he prefers to be true."<br>[Sir Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) |
+| | |
+| "Feelings are something you have; not something you are."<br>[Shannon L. Alder](https://www.goodreads.com/quotes/906515-feelings-are-something-you-have-not-something-you-are) | |
