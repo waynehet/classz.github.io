@@ -67,5 +67,4 @@ published: true
 | | |
 | "Feelings are something you have; not something you are."<br>[Shannon L. Alder](https://www.goodreads.com/quotes/906515-feelings-are-something-you-have-not-something-you-are) | |
 | | |
-| | "All progress begins with telling the truth."<br>[Dan Sullivan]
-(https://www.strategiccoach.com/our-team/#/people/dan-sullivan/) |
+| | "All progress begins with telling the truth."<br>[Dan Sullivan](https://www.strategiccoach.com/our-team/#/people/dan-sullivan/) |
