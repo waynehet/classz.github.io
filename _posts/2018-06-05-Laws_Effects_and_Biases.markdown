@@ -25,7 +25,7 @@ published: true
 
 * [90-90 Rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule): 90% of the work will take 90% of the time.  The remaining 10% of the work will take 90% of the time
 * [Akrasia Effect](https://jamesclear.com/akrasia): Procrastination and Time Inconsistency
-* [Apophenia](https://en.wikipedia.org/wiki/Apophenia): Seeing patterns in random data - can be a generalization of Confirmation Bias [Pareidolia](https://en.m.wikipedia.org/wiki/Pareidoli) is the tendancy to see objects like faces in unusual places [examples](https://www.google.com/amp/s/www.livescience.com/amp/25448-pareidolia.html)
+* [Apophenia](https://en.wikipedia.org/wiki/Apophenia): Seeing patterns in random data - can be a generalization of Confirmation Bias [Pareidolia](https://en.m.wikipedia.org/wiki/Pareidolia) is the tendancy to see objects like faces in unusual places [examples](https://www.google.com/amp/s/www.livescience.com/amp/25448-pareidolia.html)
 * [Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum): If many believe it so, it is so
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law): Adding people to a software project makes it later (and [exceptions](http://scottberkun.com/2006/exceptions-to-brooks-law/))
 * [Cobb's Paradox](https://mosaicprojects.wordpress.com/2011/11/26/cobbs-paradox-is-alive-and-well/): We know why projects fail, we know how to prevent that, so why do they still fail?
