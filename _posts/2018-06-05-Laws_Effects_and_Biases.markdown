@@ -18,6 +18,8 @@ published: true
 * [Your Bias](https://yourbias.is)
 
 * [Cognitive Bias Codex graphic](https://www.dailyinfographic.com/wp-content/uploads/2018/01/cognitive-bias-codex.jpg)
+* [50 Cognitive Biases Infographic](https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/)
+
  
 ### Special Laws and Effects
 
