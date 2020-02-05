@@ -73,4 +73,4 @@ published: true
 | | |
 | | "Outside of a Dog, a Book is Man’s Best Friend. Inside of a Dog, It’s Too Dark to Read."<br><br>"Time flies like an arrow.  Fruit flies like a banana."<br>[Grouch Marx](https://en.wikipedia.org/wiki/Groucho_Marx) |
 | | |
-| "What is important is seldom urgent, and what is urgent is seldom important."<br>Dwight D. Eisenhower| |
+| "What is important is seldom urgent, and what is urgent is seldom important."<br>[Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)| |
