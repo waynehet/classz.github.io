@@ -69,7 +69,9 @@ published: true
 | | |
 | | "All progress begins with telling the truth."<br>[Dan Sullivan](https://www.strategiccoach.com/our-team/#/people/dan-sullivan/) |
 | | |
-| "If you optimize for efficiency, you get gridlock.  If you optimize for flow, you get efficiency."<br>John Terry | |
+| "If you optimize for efficiency, you get gridlock.  If you optimize for flow, you get efficiency."<br>John Terry| |
 | | |
 | | "Outside of a Dog, a Book is Man’s Best Friend. Inside of a Dog, It’s Too Dark to Read." <br>
 "Time flies like an arrow.  Fruit flies like a banana."<br>Grouch Marx |
+| | |
+| "What is important is seldom urgent, and what is urgent is seldom important."<br>Dwight D. Eisenhower| |
