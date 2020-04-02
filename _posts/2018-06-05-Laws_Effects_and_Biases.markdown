@@ -33,6 +33,7 @@ published: true
 * [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): Systems produced are copies of communication structures
 * [Enkrateia Effect](https://en.wikipedia.org/wiki/Enkrateia): Opposite of Akrasia, or self control
 * [Focusing Illusion](https://en.wikipedia.org/wiki/Anchoring#Focusing_effect): Nothing is as important in life as you think it is while you are thinking about it
+* [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): Tendancy to under-emphasize situation and over-emphasize personality in observed behaviour
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
 * [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
@@ -54,6 +55,7 @@ published: true
 * [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): Causation fallacy
 * [Pratfall Effect](https://en.m.wikipedia.org/wiki/Pratfall_effect): Making a mistake can increase personal appeal
 * [Price's Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price): 50% of the work is done by the square root of the total number of people who participate in the work
+* [Reciprocity](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)): Responding with like behaviour, can be both positive and negative
 * [Ringelmann Effect](https://en.wikipedia.org/wiki/Ringelmann_effect): Social loafing and Bystander effect, the tendancy to do less individually when part of a team
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
 * [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect): People remember uncompleted tasks better than completed ones
