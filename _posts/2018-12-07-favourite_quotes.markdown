@@ -76,3 +76,5 @@ published: true
 | "What is important is seldom urgent, and what is urgent is seldom important."<br>[Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)| |
 | | |
 | | "The only thing we learn from history is that we learn nothing from history."<br>[Georg Wilhelm Friedrich Hegel](https://en.m.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)|
+| | |
+|"The eye sees only what the mind is prepared to comprehend."<br>[Henri-Louis Bergson](https://en.m.wikipedia.org/wiki/Henri_Bergson)| |
