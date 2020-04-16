@@ -78,3 +78,5 @@ published: true
 | | "The only thing we learn from history is that we learn nothing from history."<br>[Georg Wilhelm Friedrich Hegel](https://en.m.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)|
 | | |
 |"The eye sees only what the mind is prepared to comprehend."<br>[Henri-Louis Bergson](https://en.m.wikipedia.org/wiki/Henri_Bergson)| |
+| | |
+| |"There's an epidemic of interruption out there.  No wonder people have to put in 60+ hours a week just to get 40 hours worth of work done."<br>[Jason Fried](https://www.ted.com/speakers/jason_fried)| |
