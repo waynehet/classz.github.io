@@ -41,7 +41,7 @@ published: true
 | | |
 | ![Edwards Deming]({{site.baseurl}}/assets/edwards_deming.png){:width="100px"} | "Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over."<br><br>"In God we trust; all others bring data."<br><br>"Without data, you're just another person with an opinion."<br>[Edwards Deming](https://en.m.wikipedia.org/wiki/W._Edwards_Deming)
 | | |
-| "The cave you fear to enter holds the treasure you seek"<br>[Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) |  |
+| "The cave you fear to enter holds the treasure you seek"<br>[Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) | ![Joseph Campbell]({{site.baseurl}}/assets/joseph_campbell.jpg){:width="100px"} |
 | | |
 |  | "Nobody cares how much you know, until they know how much you care."<br>[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
 | | |
