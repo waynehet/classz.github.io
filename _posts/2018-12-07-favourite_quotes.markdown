@@ -71,7 +71,7 @@ published: true
 | | |
 | "Optimize for efficiency and you get gridlock.  Optimize for speed of flow and you get efficiency."<br>[John Terry](https://twitter.com/leankitjon)| |
 | | |
-| | "Outside of a Dog, a Book is Man’s Best Friend. Inside of a Dog, It’s Too Dark to Read."<br><br>"Time flies like an arrow.  Fruit flies like a banana."<br>[Grouch Marx](https://en.wikipedia.org/wiki/Groucho_Marx) |
+| | "Outside of a Dog, a Book is Man’s Best Friend. Inside of a Dog, It’s Too Dark to Read."<br><br>"Time flies like an arrow.  Fruit flies like a banana."<br>[Groucho Marx](https://en.wikipedia.org/wiki/Groucho_Marx) |
 | | |
 | "What is important is seldom urgent, and what is urgent is seldom important."<br>[Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)| |
 | | |
