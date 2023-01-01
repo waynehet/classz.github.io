@@ -14,9 +14,6 @@ Instructions
 3. This is instruction number 3
 
 <br>
-[//]: # (
-  {% pdf "{{site.baseurl}}/assets/locating_yourself.pdf" %}
-  )
 
 <embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width=100%>
 
