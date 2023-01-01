@@ -22,11 +22,11 @@ figure {
 }
 
 /**
-  * Basic styling
-  */
+ * Basic styling
+ */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #a0a0a0;
+  color: #252525;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -37,8 +37,8 @@ body {
 }
 
 /**
-  * Set `margin-bottom` to maintain vertical rhythm
-  */
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
 h1,
 h2,
 h3,
@@ -57,16 +57,16 @@ figure,
 }
 
 /**
-  * Images
-  */
+ * Images
+ */
 img {
   max-width: 100%;
   vertical-align: middle;
 }
 
 /**
-  * Figures
-  */
+ * Figures
+ */
 figure>img {
   display: block;
 }
@@ -76,8 +76,8 @@ figcaption {
 }
 
 /**
-  * Lists
-  */
+ * Lists
+ */
 ul,
 ol {
   margin-left: 30px;
@@ -89,8 +89,8 @@ li>ol {
 }
 
 /**
-  * Headings
-  */
+ * Headings
+ */
 h1,
 h2,
 h3,
@@ -101,8 +101,8 @@ h6 {
 }
 
 /**
-  * Links
-  */
+ * Links
+ */
 a {
   color: #2a7ae2;
   text-decoration: none;
@@ -118,8 +118,8 @@ a:hover {
 }
 
 /**
-  * Blockquotes
-  */
+ * Blockquotes
+ */
 blockquote {
   color: #828282;
   background-color: #A6FFB9;
@@ -135,8 +135,8 @@ blockquote> :last-child {
 }
 
 /**
-  * Code formatting
-  */
+ * Code formatting
+ */
 pre,
 code {
   font-size: 15px;
@@ -161,8 +161,8 @@ pre>code {
 }
 
 /**
-  * Wrapper
-  */
+ * Wrapper
+ */
 .wrapper {
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
@@ -182,8 +182,8 @@ pre>code {
 }
 
 /**
-  * Clearfix
-  */
+ * Clearfix
+ */
 .wrapper:after,
 .footer-col-wrapper:after {
   content: "";
@@ -192,8 +192,8 @@ pre>code {
 }
 
 /**
-  * Icons
-  */
+ * Icons
+ */
 .icon>svg {
   display: inline-block;
   width: 16px;
@@ -206,8 +206,8 @@ pre>code {
 }
 
 /**
-  * Site header
-  */
+ * Site header
+ */
 .site-header {
   background-color: #e8e8e8;
   background: url("/assets/neuron_pattern.png");
@@ -301,8 +301,8 @@ pre>code {
 }
 
 /**
-  * Site footer
-  */
+ * Site footer
+ */
 .site-footer {
   border-top: 1px solid #424242;
   background-color: #e8e8e8;
@@ -370,8 +370,8 @@ pre>code {
 }
 
 /**
-  * Page content
-  */
+ * Page content
+ */
 .page-content {
   padding: 30px 0;
 }
@@ -400,8 +400,8 @@ pre>code {
 }
 
 /**
-  * Posts
-  */
+ * Posts
+ */
 .post-header {
   margin-bottom: 30px;
 }
@@ -463,8 +463,8 @@ pre>code {
 }
 
 /**
-  * Syntax highlighting styles
-  */
+ * Syntax highlighting styles
+ */
 .highlight {
   background: #fff;
 }
