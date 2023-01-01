@@ -5,7 +5,6 @@ date: '2023-01-001 8:00:00 -0000'
 categories: agile
 published: true
 ---
-
 ## Above/Below the Line Exercise
 How do you know if you're above or below the line?
 

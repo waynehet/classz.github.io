@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favourite Quotes
+title: My Favourite Quotes
 date: '2022-12-01 8:00:00 -0500'
 categories: agile scrum
 published: true
