@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We Spend Too Much Time in Meetings!"
-date:   2018-04-19 8:00:00 -0500
+date:   2020-12-01 8:00:00 -0500
 categories: agile scrum
 ---
 
