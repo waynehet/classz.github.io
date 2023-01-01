@@ -15,7 +15,7 @@ Instructions
 
 <br>
 
-<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width=100%>
+<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%">
 
 [Download the worksheet](http://u.pc.cd/udhrtalK)
 <br>
