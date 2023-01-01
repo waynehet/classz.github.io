@@ -15,8 +15,8 @@ Instructions
 
 <br>
 
-<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%">
+<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%" height="100%">
 
 [Download the worksheet](http://u.pc.cd/udhrtalK)
-<br>
+<br><br>
 Exercise courtesy of [The Concious Leadership Group](https://conscious.is)
