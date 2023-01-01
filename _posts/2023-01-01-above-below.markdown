@@ -7,9 +7,13 @@ published: true
 ---
 ## How do you know if you're above or below the line?
 
-|Instructions| |
-|:---------|----------|
-|1. This is instruction number 1 <br> 2. This is instruction number 2 <br> 3. This is instruction number 3 |<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf"/>|
+Instructions
 
+1. This is instruction number 1
+2. This is instruction number 2
+3. This is instruction number 3
+
+<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf"/>
+[Download the worksheet](http://u.pc.cd/udhrtalK)
 <br>
-Exercise courtesy of [The Concious Leadership Group](https://conscious.is/resources)
+Exercise courtesy of [The Concious Leadership Group](https://conscious.is)

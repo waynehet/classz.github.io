@@ -6,14 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ClassZ Agile
-email: wayne.hetherington@classz.ca
+title: Wayne Hetherington - Agile Coach
+email: waynehet@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Want to add some class to your Agile efforts?
-  Wayne can help you with all your Agile needs:
-   - Team Building
-   - Scrum, Kanban, Scaling
-   - Coaching
+  Contact Wayne for all your agile needs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://classz.ca" # the base hostname & protocol for your site
 twitter_username: 
