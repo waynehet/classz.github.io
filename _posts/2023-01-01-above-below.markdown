@@ -13,7 +13,11 @@ Instructions
 2. This is instruction number 2
 3. This is instruction number 3
 
-<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf"/>
+<br>
+{% pdf "{{site.baseurl}}/assets/locating_yourself.pdf" %}
+
+[//]: # (<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf"/>)
+
 [Download the worksheet](http://u.pc.cd/udhrtalK)
 <br>
 Exercise courtesy of [The Concious Leadership Group](https://conscious.is)
