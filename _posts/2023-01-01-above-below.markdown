@@ -20,7 +20,10 @@ Take the next 5 minutes to share your self observations with your group
 <br>
 ({{ site.url }}{{ site.baseurl }}/assets/locating_yourself.png)
 <!-- <embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%"> -->
-
-<br><br>
-Exercise courtesy of [The Concious Leadership Group](https://conscious.is)<br>
-[Watch the video](https://youtu.be/fLqzYDZAqCI)
+<br>
+<br>
+Exercise courtesy of [The Concious Leadership Group](https://conscious.is)
+<br>
+<br>
+Watch the video
+<iframe width="640" height="360" src="https://youtu.be/fLqzYDZAqCI" frameborder="0" allowfullscreen></iframe>
