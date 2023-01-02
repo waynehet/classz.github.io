@@ -18,8 +18,8 @@ Take the next 5 minutes to share your self observations with your group
 2. How was your experience similar to that of others?  How was it different?
 
 <br>
-
-<embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%">
+{% raw %}{{ site.url }}{{ site.baseurl }}/assets/locating_yourself.png{% endraw %}
+<!-- <embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%"> -->
 
 <br><br>
 Exercise courtesy of [The Concious Leadership Group](https://conscious.is)<br>
