@@ -10,7 +10,7 @@ tags:
 <!-- ![E. F. Schumacher]({{site.baseurl}}/assets/schumacher.jpg){:width="100px"} -->
 >Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction. <br>
 [E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher)
-"} -->
+
 > Everything should be made as simple as possible, but ot simpler.<br>
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
