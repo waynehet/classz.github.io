@@ -18,7 +18,7 @@ Take the next 5 minutes to share your self observations with your group
 2. How was your experience similar to that of others?  How was it different?
 
 <br>
-{% raw %}{{ site.url }}{{ site.baseurl }}/assets/locating_yourself.png{% endraw %}
+{{site.baseurl}}/assets/locating_yourself.png
 <!-- <embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%"> -->
 
 <br><br>
