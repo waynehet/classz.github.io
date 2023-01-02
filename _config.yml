@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:waynehet@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wayne-hetherington/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
