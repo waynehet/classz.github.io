@@ -20,7 +20,7 @@ Take the next 5 minutes to share your self observations with your group
 <br>
 <!-- ![Worksheet]({{ site.url }}{{ site.baseurl }}/assets/locating_yourself.png) -->
 <!-- <embed src="{{site.baseurl}}/assets/locating_yourself.pdf" type="application/pdf" width="100%"> -->
-{% pdf "/assets/locating_yourself.pdf" no_linka}
+{% pdf "/assets/locating_yourself.pdf" no_link %}
 <br>
 <br>
 Exercise courtesy of [The Concious Leadership Group](https://conscious.is)
