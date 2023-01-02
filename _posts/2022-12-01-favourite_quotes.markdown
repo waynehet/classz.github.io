@@ -1,9 +1,7 @@
 ---
-layout: post
-title: My Favourite Quotes
-date: '2022-12-01 8:00:00 -0500'
-categories: agile scrum
-published: true
+title: "My Favourite Quotes"
+categories:
+  - Post Agile
 ---
 ## Some Really Great Quotes
 
