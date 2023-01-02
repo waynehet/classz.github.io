@@ -7,11 +7,9 @@
   <summary> {{item.name}} </summary> <!-- user folder icon -->
 
   <!-- Call function again with folder content -->
-  {% if item.size > 0 %}
   <ul>
-    {% include /link_tree.html bookmark_folder = item %}
+    {% include /link-tree.html bookmark_folder=item %}
   </ul>
-  {% endif %}
 </details>
 
 <!-- If the item is an URL matching the current page, output the list of folders above it (passed in as include.folders) -->
@@ -22,5 +20,3 @@
 {% endif %}
 
 {% endfor %}
-Footer
-© 2023 GitHub, Inc.

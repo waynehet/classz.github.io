@@ -14,14 +14,17 @@ This is a list of my favorite links
 	{% endif %}
 {% endfor %}
 
-
+<!-- For each item in the "Wayne's Stuff" folder, call the include that will:
+	create a link if the time is not a folder, or
+  create another folder if the item is a folder, and then
+		cycle through all the items in the subfolder -->
 <p>
 {% for item in waynes_bookmarks.children %}
 	{% if item.type == "folder" %}
 		<details>
 			<summary> {{item.name}} </summary>
 			<ul>
-				<!-- { include /link_tree.html bookmark_folder = item } -->
+				{% include /link-tree.html bookmark_folder=item %}
 			</ul>
 		</details>
 	{% endif %}
