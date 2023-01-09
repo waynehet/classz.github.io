@@ -5,7 +5,7 @@ categories:
 ---
 
 ## How do you know if you're above or below the line?
-How we approach people, teams, and organizations makes a lot of difference.  Being open, curious and committed to learning (above the line) will make us effective leaders.  If we are closed, defensive, and committed to being right (below the line) then we will be less effective.  Am I above or below the line?
+How we approach people, teams, and organizations makes a lot of difference.  Being open, curious and **"committed to learning"** (above the line) will make us effective leaders.  If we are closed, defensive, and **"committed to being right"** (below the line) then we will be less effective.  Am I above or below the line?
 ## Instructions
 
 Take the first 2 minutes for silent self reflection
