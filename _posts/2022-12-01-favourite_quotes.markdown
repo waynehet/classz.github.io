@@ -132,3 +132,6 @@ Time flies like an arrow.  Fruit flies like a banana.<br>
 
 > There's an epidemic of interruption out there.  No wonder people have to put in 60+ hours a week just to get 40 hours worth of work done.<br>
 [Jason Fried](https://www.ted.com/speakers/jason_fried)
+
+> The door of the human heart can only be opened from the inside.<br>
+[William Holman Hunt](https://en.wikipedia.org/wiki/William_Holman_Hunt)

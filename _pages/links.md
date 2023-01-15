@@ -6,9 +6,10 @@ author_profile: false
 ---
 
 This is a list of my favorite links
-
 <!--- "Find the right folder in the bookmarks file" -->
-{% for item in site.data.Bookmarks.roots.other.children %}
+<!--- Note: Vivaldi bookmarks files store the normal list
+of bookmarks in the second unnamed child of the bookmark_bar node in the JSON file --->
+{% for item in site.data.Bookmarks.roots.bookmark_bar.children[1].children %}
 	{% if item.name == "Wayne's Stuff" %}
 		{% assign waynes_bookmarks = item %}
 	{% endif %}
