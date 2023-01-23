@@ -15,7 +15,8 @@ tags:
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 <!-- ![Carl W. Buehner]({{site.baseurl}}/assets/buehner.jpg){:width="100px"} -->
-> They may forget what you said, but they will never forget how you made them feel.<br>[Carl W. Buehner](https://en.wikipedia.org/wiki/Carl_W._Buehner)
+> They may forget what you said, but they will never forget how you made them feel.<br>
+[Carl W. Buehner](https://en.wikipedia.org/wiki/Carl_W._Buehner)
 
 <!-- ![Blaise Pascal]({{site.baseurl}}/assets/blaise_pascal.jpg){:width="100px"} -->
 > If I Had More Time, I Would Have Written a Shorter Letter<br>
@@ -30,7 +31,8 @@ tags:
 [Banksy](https://en.wikipedia.org/wiki/Banksy)
 
 <!-- ![Daniel Kahneman]({{site.baseurl}}/assets/daniel_kahneman.jpg){:width="100px"} -->
-> Nothing in life is as important as you think it is while you are thinking about it.<br>[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)
+> Nothing in life is as important as you think it is while you are thinking about it.<br>
+[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)
 
 <!-- ![Leo Tolstoy]({{site.baseurl}}/assets/leo_tolstoy.jpg){:width="100px"} -->
 > Wrong does not cease to be wrong because the majority share in it.<br>
@@ -41,7 +43,8 @@ tags:
 [Myron Tribus](https://en.wikipedia.org/wiki/Myron_Tribus)
 
 <!-- ![Mark Twain]({{site.baseurl}}/assets/Mark_Twain.jpg){:width="100px"} -->
-> The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.<br>
+> The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.<br><br>
+It usually takes more than three weeks to prepare a good impromptu speech.<br>
 [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 
 <!-- ![Charles Darwin]({{site.baseurl}}/assets/charles_darwin.jpg){:width="100px"} -->
@@ -53,11 +56,13 @@ tags:
 [Niels Bohr](https://www.brainyquote.com/quotes/niels_bohr_130288)
 
 <!-- ![George Bernard Shaw]({{site.baseurl}}/assets/george_bernard_shaw.jpg){:width="100px"} -->
-> The single biggest problem in communication is the illusion that it has taken place.<br>[George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
+> The single biggest problem in communication is the illusion that it has taken place.<br>
+[George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
 
 <!-- ![Yogi Berra]({{site.baseurl}}/assets/yogi_berra.png){:width="100px"} -->
 > You've got to be very careful if you don't know where you are going, because you might not get there.<br><br>
-In theory there is no difference between theory and practice. But, in practice, there is.<br>[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra)
+In theory there is no difference between theory and practice. But, in practice, there is.<br>
+[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra)
 
 <!-- ![Edwards Deming]({{site.baseurl}}/assets/edwards_deming.png){:width="100px"} -->
 > Funny how we don't have time to make improvements, but we have plenty of time to perform work inefficiently and keep resolving the same problems over and over.<br><br>
@@ -135,3 +140,6 @@ Time flies like an arrow.  Fruit flies like a banana.<br>
 
 > The door of the human heart can only be opened from the inside.<br>
 [William Holman Hunt](https://en.wikipedia.org/wiki/William_Holman_Hunt)
+
+> You don't play whatever you feel.  The only freedom is in structure.<br>
+[Brandford Marsalis](https://en.wikipedia.org/wiki/Branford_Marsalis)
