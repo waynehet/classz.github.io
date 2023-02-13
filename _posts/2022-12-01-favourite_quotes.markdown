@@ -84,7 +84,8 @@ Without data, you're just another person with an opinion.<br>
 [Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee)
 
 <!-- ![George Santayana]({{site.baseurl}}/assets/george_santayana.jpg){:width="100px"} -->
-> Those who fail to learn from history are doomed to repeat it.<br>
+> Those who fail to learn from history are doomed to repeat it.<br><br>
+> Fanaticism consists of redoubling your effort when you have forgotten your aim.<br>
 [George Santayana](https://en.wikipedia.org/wiki/George_Santayana)
 
 > The only thing we learn from history is that we learn nothing from history.<br>
