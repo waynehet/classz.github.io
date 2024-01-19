@@ -28,12 +28,14 @@ published: true
 * [Apophenia](https://en.wikipedia.org/wiki/Apophenia): Seeing patterns in random data - can be a generalization of Confirmation Bias [Pareidolia](https://en.m.wikipedia.org/wiki/Pareidolia) is the tendancy to see objects like faces in unusual places [examples](https://www.google.com/amp/s/www.livescience.com/amp/25448-pareidolia.html)
 * [Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum): If many believe it so, it is so
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law): Adding people to a software project makes it later (and [exceptions](http://scottberkun.com/2006/exceptions-to-brooks-law/))
+* [Cunningham's Law](https://meta.wikimedia.org/wiki/Cunningham%27s_Law): The best way to get the right answer on the internet is not to ask a question, it’s to post the wrong answer
 * [Cobb's Paradox](https://mosaicprojects.wordpress.com/2011/11/26/cobbs-paradox-is-alive-and-well/): We know why projects fail, we know how to prevent that, so why do they still fail?
 * [Classical Conditioning](https://en.wikipedia.org/wiki/Classical_conditioning): People (and dogs) can be trained to respond to a stimulus (see Orienting Response)
 * [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): Systems produced are copies of communication structures
 * [Enkrateia Effect](https://en.wikipedia.org/wiki/Enkrateia): Opposite of Akrasia, or self control
 * [Focusing Illusion](https://en.wikipedia.org/wiki/Anchoring#Focusing_effect): Nothing is as important in life as you think it is while you are thinking about it
 * [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): Tendancy to under-emphasize situation and over-emphasize personality in observed behaviour
+* [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law): As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
 * [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
