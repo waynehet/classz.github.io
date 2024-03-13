@@ -32,6 +32,7 @@ published: true
 * [Cobb's Paradox](https://mosaicprojects.wordpress.com/2011/11/26/cobbs-paradox-is-alive-and-well/): We know why projects fail, we know how to prevent that, so why do they still fail?
 * [Classical Conditioning](https://en.wikipedia.org/wiki/Classical_conditioning): People (and dogs) can be trained to respond to a stimulus (see Orienting Response)
 * [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): Systems produced are copies of communication structures
+* [Einstellung Effect](https://en.wikipedia.org/wiki/Einstellung_effect): The tendancy to solve problems in the same way they've been solved in the past despite there being better ways.
 * [Enkrateia Effect](https://en.wikipedia.org/wiki/Enkrateia): Opposite of Akrasia, or self control
 * [Focusing Illusion](https://en.wikipedia.org/wiki/Anchoring#Focusing_effect): Nothing is as important in life as you think it is while you are thinking about it
 * [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): Tendancy to under-emphasize situation and over-emphasize personality in observed behaviour
