@@ -24,6 +24,7 @@ published: true
 ### Special Laws and Effects
 
 * [90-90 Rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule): 90% of the work will take 90% of the time.  The remaining 10% of the work will take 90% of the time
+* [Abilene Paradox](https://www.betterup.com/blog/abilene-paradox): The tendancy of a group to agree despite individuals holding differenct opinions
 * [Akrasia Effect](https://jamesclear.com/akrasia): Procrastination and Time Inconsistency
 * [Apophenia](https://en.wikipedia.org/wiki/Apophenia): Seeing patterns in random data - can be a generalization of Confirmation Bias [Pareidolia](https://en.m.wikipedia.org/wiki/Pareidolia) is the tendancy to see objects like faces in unusual places [examples](https://www.google.com/amp/s/www.livescience.com/amp/25448-pareidolia.html)
 * [Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum): If many believe it so, it is so
@@ -42,7 +43,7 @@ published: true
 * [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
 * [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
-* [Better than Average Heuristic](https://en.wikipedia.org/wiki/Illusory_superiority#Better-than-average_heuristic): Tendancy to over-estimate our own skill compared to others.  Part of [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority) and similar to [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+* [Better than Average Heuristic](https://en.wikipedia.org/wiki/Illusory_superiority#Better-than-average_heuristic): Tendancy to over-estimate our own skill compared to others.  Part of [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority) and similar to [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) or not [Debunking Dunning Kruger](https://phys.org/news/2023-05-debunking-dunningkruger-effect.html)
 * [Larman's Laws of Organizational Behavior](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Orgs are optimized for status quo
 * [Law of Requisite Variety](https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_Requisite_Variety) To achieve stability in a complex system the number of control states must be greater than the number of system states
 * [Little's Law](https://en.wikipedia.org/wiki/Little%27s_law): Lead Time = WIP / Throughput
