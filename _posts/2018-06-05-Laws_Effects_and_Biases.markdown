@@ -62,5 +62,6 @@ published: true
 * [Reciprocity](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)): Responding with like behaviour, can be both positive and negative
 * [Ringelmann Effect](https://en.wikipedia.org/wiki/Ringelmann_effect): Social loafing and Bystander effect, the tendancy to do less individually when part of a team
 * [Rosenthal Effect](https://en.wikipedia.org/wiki/Pygmalion_effect): Higher expectations lead to increased performance
+* [Sutton's Law](https://en.wikipedia.org/wiki/Sutton%27s_law): Why do you rob banks?  Because that's where the money is
 * [Tog's Paradox](https://www.votito.com/methods/togs-paradox/): Attempts to reduce complexity in tasks or products lead to more complex and challenging items.
 * [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect): People remember uncompleted tasks better than completed ones
