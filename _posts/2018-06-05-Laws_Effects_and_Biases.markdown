@@ -40,7 +40,7 @@ published: true
 * [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law): As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When a measure becomes a target it ceases to be a good measure
 * [Granger Causality](https://en.wikipedia.org/wiki/Granger_causality): Time delayed correlations
-* [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity
+* [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): Never attribute to malice that which is adequately explained by stupidity [Hubbard's Revision](https://www.atlassian.com/blog/teamwork/hanlons-razor): Never attribute to malice or stupidity that which can be explained by moderately rational individuals following incentives in a complex system of interactions.
 * [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect): Behavior changes when being observed
 * [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): It always takes longer than you expect, even when you take into account Hofstadter's Law
 * [Better than Average Heuristic](https://en.wikipedia.org/wiki/Illusory_superiority#Better-than-average_heuristic): Tendancy to over-estimate our own skill compared to others.  Part of [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority) and similar to [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) or not [Debunking Dunning Kruger](https://phys.org/news/2023-05-debunking-dunningkruger-effect.html)
