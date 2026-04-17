@@ -21,6 +21,7 @@ published: true
 * [50 Cognitive Biases Infographic](https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/)
 
  
+ 
 ### Special Laws and Effects
 
 * [90-90 Rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule): 90% of the work will take 90% of the time.  The remaining 10% of the work will take 90% of the time
