@@ -144,3 +144,6 @@ Time flies like an arrow.  Fruit flies like a banana.<br>
 
 > You don't play whatever you feel.  The only freedom is in structure.<br>
 [Brandford Marsalis](https://en.wikipedia.org/wiki/Branford_Marsalis)
+
+> Be wary of technology; it is often merely an improved means to an unimproved end.<br>
+[Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)
